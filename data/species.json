@@ -1,0 +1,2519 @@
+[
+  {
+    "id": "cow-parsley",
+    "common_names": [
+      "Cow Parsley",
+      "Wild Chervil"
+    ],
+    "latin_name": "Anthriscus sylvestris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Easily confused with Hemlock (Conium maculatum), which is extremely toxic. Always check for plain green stems and no smell.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "peak_months": [
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "meadow",
+      "roadside"
+    ],
+    "summary": "Tall, lacy white-flowered plant that foams along hedgerows and roadsides in spring. One of the most abundant wildflowers of the English countryside — and easily confused with the deadly Hemlock.",
+    "full_description": "Cow Parsley (Anthriscus sylvestris) creates frothy white drifts along hedgerows, field margins, and woodland edges from April to June. Reaching 40–100cm tall, it has hollow green stems (never purple-blotched), finely divided feathery leaves in a triangular outline, and flat-topped white flower heads (umbels) — each a compound of smaller umbrellas branching from the central stem. The plant has no distinctive smell when leaves are crushed, which is an important contrast with the similar-looking but extremely toxic Hemlock. Cow Parsley belongs to the carrot family (Apiaceae), named for the characteristic umbrella-shaped flower heads. It is a biennial or short-lived perennial, dying back in winter and re-emerging vigorously in spring from a taproot.",
+    "danger_level": "low",
+    "danger_note": "The plant itself is harmless, but it closely resembles Hemlock (Conium maculatum), which is extremely toxic. Cow Parsley has plain green stems and no smell. Hemlock has purple-blotched hollow stems and a musty unpleasant smell. Never eat any white-flowered umbellifer without expert verification.",
+    "danger_type": "identification-risk",
+    "native_info": "Native throughout the UK and common in most habitats, particularly in fertile soils along roadsides, hedgerows, and woodland edges.",
+    "wildlife_value": "An important early food source for many insects. The open flower structure makes nectar easily accessible to hoverflies, beetles, and small bees. Several moth species use Cow Parsley as a larval food plant, and hollow dead stems provide nesting sites for solitary bees over winter.",
+    "pollinators_supported": [
+      "hoverfly",
+      "honey-bee",
+      "solitary-bee",
+      "beetle"
+    ],
+    "food_source_for": [
+      "marbled-white-moth",
+      "angle-shades-moth",
+      "solitary-bee"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Early Growth",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "In early spring, Cow Parsley emerges with fresh bright green feathery leaves. Already recognisable by its distinctive finely divided, triangular leaf shape at 10–30cm tall. The stems are distinctly hollow and plain green — look closely and you can see they are not solid. No flowers yet, but the plant is growing rapidly in the warming hedgerow.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "The iconic white flower heads appear in spring, creating lacy clouds along hedgerows. Each flower cluster is a flat-topped umbrella shape (umbel) typical of the carrot family. Multiple smaller umbels branch from the central stem to form a compound umbel. The plant is now 60–100cm tall. Hoverflies, bees, and beetles visit constantly on sunny days. If you crush a leaf it should smell faintly green but pleasant — never musty or unpleasant.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anthriscus_sylvestris_-_Mets-harakputk.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Cow Parsley in full flower showing characteristic white umbels"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fluitenkruid_%28Anthriscus_sylvestris%29.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Full plant in flower showing height and structure"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fluitenkruid_%28Anthriscus_sylvestris%29_26-04-2020._%28actm.%29_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Close-up of the compound umbel flower head, April"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fluitenkruid_%28Anthriscus_sylvestris%29_26-04-2020._%28actm.%29_02.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Cow Parsley flower detail, April"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fluitenkruid_%28Anthriscus_sylvestris%29_in_bloemenweide._Locatie%2C_Natuurterrein_De_Famberhorst_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Cow Parsley growing in flower meadow alongside other spring wildflowers"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "After flowering, the plant develops characteristic paired seeds — two elongated, ribbed seeds joined together, hanging in clusters where the flowers were. The seeds turn brown and disperse by wind or catching on passing animals. The brown seed heads are less showy than the flowers but still recognisable. The plant dies back from the lower stems upwards through July.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fluitenkruid_%28Anthriscus_sylvestris%29_in_bloemenweide._Locatie%2C_Natuurterrein_De_Famberhorst_02.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Seeding",
+            "month_taken": 6,
+            "caption": "Cow Parsley going to seed in summer meadow"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "hemlock",
+        "similarity_note": "Both are tall white-flowered umbellifers growing in similar hedgerow and roadside habitats",
+        "key_difference": "Hemlock has distinctive purple or reddish blotches on its hollow stems and an unpleasant musty smell when leaves are crushed. Cow Parsley has plain green stems and no unpleasant smell.",
+        "time_of_year_note": "Confusion most likely May–June when both are in flower",
+        "danger_level": "dangerous"
+      },
+      {
+        "species_slug": "rough-chervil",
+        "similarity_note": "Very similar appearance — another white-flowered umbellifer of hedgerows",
+        "key_difference": "Rough Chervil has hairy, solid stems with reddish spots or blotching, and slightly smaller flower heads",
+        "time_of_year_note": "Rough Chervil flowers later, May–July",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "wild-carrot",
+        "similarity_note": "Both are white-flowered umbellifers appearing from late spring. Wild Carrot is particularly easy to confuse with Cow Parsley in early season before it develops its key features.",
+        "key_difference": "Wild Carrot has a single red/purple flower in the centre of the umbel and leaves that smell distinctly of carrot when crushed. The seed head curls inward forming a characteristic 'bird's nest' shape.",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Anthriscus_sylvestris_-_Mets-harakputk.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cow Parsley in full flower"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fluitenkruid_%28Anthriscus_sylvestris%29.JPG",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cow Parsley full plant"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fluitenkruid_%28Anthriscus_sylvestris%29_26-04-2020._%28actm.%29_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 4,
+        "caption": "Flower umbel close-up"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fluitenkruid_%28Anthriscus_sylvestris%29_26-04-2020._%28actm.%29_02.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 4,
+        "caption": "Cow Parsley flowers, April"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fluitenkruid_%28Anthriscus_sylvestris%29_in_bloemenweide._Locatie%2C_Natuurterrein_De_Famberhorst_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cow Parsley in meadow habitat"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fluitenkruid_%28Anthriscus_sylvestris%29_in_bloemenweide._Locatie%2C_Natuurterrein_De_Famberhorst_02.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Seeding",
+        "month_taken": 6,
+        "caption": "Cow Parsley going to seed"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "cowslip",
+    "common_names": [
+      "Cowslip",
+      "Paigle"
+    ],
+    "latin_name": "Primula veris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The drooping yellow flower clusters with orange/red spots inside are distinctive. Could be confused with Primrose, but Primrose flowers face upwards and are paler yellow.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "peak_months": [
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "field-edge",
+      "limestone-grassland"
+    ],
+    "summary": "Golden yellow drooping flower clusters on chalk grassland — an indicator of ancient, undisturbed meadows. The orange spots inside each flower are diagnostic.",
+    "full_description": "Cowslips (Primula veris) are charming low-growing plants of chalk and limestone grasslands, old meadows, and field edges. Reaching only 10–25cm tall, they emerge in early spring as a rosette of wrinkled, oblong leaves before sending up flowering stems in April. The golden yellow flowers droop in characteristic one-sided clusters of 5–30 blooms — each bell-shaped with five notched petals. Crucially, if you look inside each flower, you will see orange or red spots at the petal base — these spots are the best diagnostic feature, distinguishing Cowslips from the similar Primrose. The sweet, light fragrance is noticeable on warm spring days. Cowslips are an indicator species of ancient, undisturbed chalk grassland and have declined significantly due to agricultural improvement. They are culturally important in England, traditionally used in folk medicine and as a symbol of spring.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales, preferring chalky or limestone soils. Scarce in Scotland and north England. Common at Old Down and similar chalk grassland sites.",
+    "wildlife_value": "A critical early nectar source for insects emerging from winter dormancy. Visited heavily by early bumblebees, honeybees, Orange-tip butterflies, and hoverflies. Some bee species (including Bombus hortorum) have tongues long enough to reach the nectar in the narrow flower tube.",
+    "pollinators_supported": [
+      "bumblebee",
+      "honey-bee",
+      "orange-tip-butterfly",
+      "hoverfly"
+    ],
+    "food_source_for": [
+      "orange-tip-butterfly",
+      "duke-of-burgundy-butterfly"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          2,
+          3
+        ],
+        "description": "Cowslips emerge from winter dormancy as clusters of wrinkled, oval leaves lying flat against the ground in a rosette. Even at this stage, the distinctive leaf texture — wrinkled like crumpled paper, with a slightly rough surface — helps identify them from other early-spring plants. The leaves are 5–10cm long with a slightly irregular, wavy margin.",
+        "photos": []
+      },
+      {
+        "stage_name": "Budding",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "Flower stems begin to rise from the centre of the leaf rosette. The stems are slightly hairy and pale green. You can see the developing round buds forming in a cluster at the top of each stem. The buds are slightly darker yellow-green before they open.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "Cowslips produce their iconic drooping clusters of golden yellow flowers. Look inside each flower — the orange or red spots at the petal base are diagnostic of this species. The nodding flower heads give the plant a distinctive bowing character quite unlike the upward-facing Primrose. At this peak stage, a single patch can contain dozens of flowering plants, creating a haze of golden yellow across the grassland. Each plant can have 2–5 flower stems.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Primula_veris20170518_7660.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Cowslip in flower showing the characteristic drooping yellow flower clusters"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Primula_veris_-_geograph.org.uk_-_2349841.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Cowslip in chalk grassland habitat"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Primula_veris_flowers.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Cowslip flowers close-up — note the drooping, bell-shaped blooms"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Primula_veris_kz20.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Cowslip — golden yellow flowers on tall stems"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Primula_veris_kz21.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Cowslip plant in flower showing rosette of wrinkled leaves at base"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "After flowering, the petals fall and seed pods form at the top of the stalks. The pods are oval capsules that split open when ripe to release small, round seeds. The plant then begins to die back as summer arrives, with the leaves yellowing and shrinking before disappearing until the following spring.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Primula_veris_%28unripe_fruits%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Seeding",
+            "month_taken": 5,
+            "caption": "Cowslip with developing seed pods after flowering"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Primula_veris_with_unripe_fruits.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Seeding",
+            "month_taken": 6,
+            "caption": "Cowslip seed pods ripening in early summer"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "primrose",
+        "similarity_note": "Both are yellow-flowered Primula species of British grasslands and woodlands",
+        "key_difference": "Primrose flowers face upward and are paler, creamy yellow. Cowslip flowers droop and are deeper golden yellow with orange spots inside. Primrose prefers shadier, damper habitats such as woods and banks.",
+        "time_of_year_note": "Primrose flowers earlier (February–April), Cowslip later (April–May)",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "false-oxlip",
+        "similarity_note": "A natural hybrid between Cowslip and Primrose, showing intermediate features",
+        "key_difference": "False Oxlip has upward-facing flowers like Primrose but on tall stems like Cowslip. Less common than either parent.",
+        "time_of_year_note": "Flowers April–May, overlapping with Cowslip",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Primula_veris20170518_7660.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cowslip in flower"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Primula_veris_-_geograph.org.uk_-_2349841.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 4,
+        "caption": "Cowslip in chalk grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Primula_veris_flowers.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 4,
+        "caption": "Cowslip flowers close-up"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Primula_veris_kz20.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cowslip golden flowers"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Primula_veris_kz21.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cowslip with basal rosette"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Primula_veris_kz22.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Cowslip — multiple flower stems"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Primula_veris_%28unripe_fruits%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Seeding",
+        "month_taken": 5,
+        "caption": "Cowslip seed pods forming"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "small-blue",
+    "common_names": [
+      "Small Blue",
+      "Little Blue"
+    ],
+    "latin_name": "Cupido minimus",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Very small and fast-flying, easy to miss. Size (14–18mm wingspan) is the best first clue — smaller than any other blue butterfly you are likely to encounter.",
+    "months_visible": [
+      5,
+      6,
+      7
+    ],
+    "peak_months": [
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "limestone-grassland",
+      "sunny-slopes"
+    ],
+    "summary": "Britain's smallest butterfly — barely larger than a thumbnail. Males are bright silvery-blue; females brownish. Found only where Bird's-foot Trefoil grows on chalk or limestone grassland.",
+    "full_description": "The Small Blue (Cupido minimus) is Britain's smallest butterfly, with a wingspan of just 14–18mm — about the size of a large fingernail. Despite its name, males are silvery-blue rather than vivid blue, and females are predominantly brown with just a dusting of blue at the wing base. Both sexes have pale grey-white undersides with small but neat black spots. They fly in a single generation each year (May–July), with a brief peak in June. Small Blues fly low and fast over short chalk grassland, making them easy to overlook unless you specifically search the knee-high vegetation. The species has an absolute dependence on its sole larval food plant, Bird's-foot Trefoil (Lotus corniculatus), and will only breed where this plant is present in sufficient quantity on well-drained, short-sward grassland. This makes the Small Blue an excellent indicator of chalk grassland health — its presence confirms a botanically rich, traditionally managed site.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the UK. Found mainly in southern England and Wales on chalk and limestone grasslands. Colonies are typically small and localised. Old Down is excellent habitat.",
+    "wildlife_value": "Adults feed on the nectar of Bird's-foot Trefoil, clovers, and vetches. Caterpillars have a fascinating relationship with ants (myrmecophily) — they secrete a sweet honeydew from a special gland, which ants feed on, in return protecting the caterpillar from predators. Their presence is a reliable indicator of high-quality chalk grassland.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "spider",
+      "insectivorous-bird"
+    ],
+    "depends_on": [
+      "birds-foot-trefoil"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "grey",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "Female Small Blues lay tiny white eggs singly on the flower buds of Bird's-foot Trefoil (Lotus corniculatus). The eggs are so small they are almost impossible to spot without a magnifying glass. Each female may lay 30–60 eggs across her short adult life. Eggs hatch within about a week.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "Caterpillars are tiny, green, and slug-like — quite different from the butterfly they will become. They feed on the flowers and developing seed pods of Bird's-foot Trefoil. From early in their development, caterpillars attract ants by secreting a sweet liquid from a special gland on their back. The ants tend them carefully, protecting them from parasitic wasps and other predators in exchange for this sugary reward.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cupido_minimus_caterpillar.jpg",
+            "caption": "Small Blue caterpillar",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Chrysalis",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "The caterpillar pupates on or near the Bird's-foot Trefoil plant, forming a small brown chrysalis that is exquisitely camouflaged against dead vegetation. This is the overwintering stage — the chrysalis remains dormant through autumn, winter, and into the following spring before the adult emerges in May or June of the following year.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Adults emerge in late May to early June and can be seen fluttering low over chalk grassland. Males are the first to emerge and can be seen patrolling their small territories. Females are slightly smaller and browner, spending more time at ground level searching for egg-laying sites on Bird's-foot Trefoil. Adults are short-lived — typically 2–3 weeks — but during warm weather can be seen in good numbers. At rest on a grass stem, the silvery underside with neat black spots is most visible.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cupido_minimus_underside_2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Small Blue at rest showing pale grey underside with black spots"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cupido_minimus_%28_male%29_-_Flickr_-_gailhampshire.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Male Small Blue showing silvery-blue upperside"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Small_Blue_Butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_4017998.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Small Blue on chalk grassland vegetation, UK"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Small_Blue_Butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_1367738.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Small Blue butterfly at rest, UK chalk grassland"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Small_blue_butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_835053.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Small Blue on grassland vegetation"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-blue",
+        "similarity_note": "Both are blue butterflies of grassland habitats",
+        "key_difference": "Common Blue is almost twice the size (26–34mm wingspan). Males are vivid violet-blue, not silvery. Females are brown with orange spots near wing edges. The size difference alone is usually enough to tell them apart.",
+        "time_of_year_note": "Common Blue has two broods (May–June and August–September); Small Blue is single-brooded (May–July)",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "chalkhill-blue",
+        "similarity_note": "Both associated with chalk grassland",
+        "key_difference": "Chalkhill Blue is larger (33–40mm) and males are a distinctive pale chalky-blue. Found in late summer (July–August), not early summer.",
+        "time_of_year_note": "Chalkhill Blue flies later — July to September",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cupido_minimus_underside_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Blue underside"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cupido_minimus_%28_male%29_-_Flickr_-_gailhampshire.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Male Small Blue"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Small_Blue_Butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_4017998.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Blue on chalk grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Small_Blue_Butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_1367738.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Blue at rest"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Small_blue_butterfly_%28Cupido_minimus%29_-_geograph.org.uk_-_835053.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Blue on grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Small_blue_%28Cupido_minimus%29_underside_Macedonia.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Blue underside detail showing spot pattern"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cupido_minimus_caterpillar.jpg",
+        "caption": "Small Blue caterpillar on kidney vetch",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cupido_minimus_eggs.jpg",
+        "caption": "Small Blue eggs on kidney vetch",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "stinging-nettle",
+    "common_names": [
+      "Stinging Nettle",
+      "Common Nettle",
+      "Nettle"
+    ],
+    "latin_name": "Urtica dioica",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable. The stinging hairs on square stems and heart-shaped leaves are unique. You will know if you have misidentified it.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "field-margin",
+      "disturbed-ground",
+      "riverbank"
+    ],
+    "summary": "The humble nettle is arguably the most ecologically important 'weed' in Britain. Caterpillar food plant for over 40 butterfly and moth species including Red Admiral, Peacock, and Small Tortoiseshell.",
+    "full_description": "The Stinging Nettle (Urtica dioica) is the plant most people have an instinctive relationship with — usually an uncomfortable one. Growing 30–120cm tall with distinctive square stems, it forms dense clonal patches via underground rhizomes in hedgerows, field margins, woodland edges, and disturbed ground. The heart-shaped, deeply serrated leaves grow in opposite pairs. The entire plant — stems, leaves, and even the veins — is covered in hollow stinging hairs (trichomes) that inject a mixture of formic acid, histamine, and serotonin when touched, causing burning irritation that typically lasts 5–30 minutes. Dock leaves (Rumex obtusifolius), which commonly grow nearby, provide alkaline relief. Nettles are dioecious — male and female flowers grow on separate plants. Male flowers hang in long, drooping catkin-like clusters; female flowers are shorter and more upright. Its ecological importance is extraordinary: over 40 species of butterfly and moth caterpillar depend on it, including some of our most beloved garden butterflies.",
+    "danger_level": "low",
+    "danger_note": "Stinging hairs cause temporary skin irritation lasting 5–30 minutes. Applying dock leaves (Rumex obtusifolius), which often grow nearby, provides relief. Not toxic — irritation only.",
+    "danger_type": "sting",
+    "native_info": "Native throughout the UK. One of the most common plants in Britain, found wherever there is nutrient-rich disturbed soil. An indicator of high-nitrogen soils.",
+    "wildlife_value": "One of the most important plants in Britain for invertebrates. Over 40 butterfly and moth species use it as their caterpillar food plant, including Red Admiral, Peacock, Small Tortoiseshell, and Comma. Dense nettle patches provide shelter for beneficial insects, spiders, and small mammals. Finches eat the seeds in late summer. The plant's ecological value far outweighs the inconvenience of the sting. The seeds are nutritionally dense and considered adaptogenic — traditionally used as a tonic food, rich in fatty acids, protein, and minerals.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "red-admiral",
+      "peacock-butterfly",
+      "small-tortoiseshell",
+      "comma-butterfly",
+      "nettle-tap-moth"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Spring Growth",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "In spring, Nettles emerge with fresh bright green shoots. Young plants have the same heart-shaped, serrated leaves as the adult but smaller and more tender. At this stage they are 10–30cm tall. Spring nettle tips were traditionally harvested for nettle soup — they are edible after thorough cooking destroys the sting. Still prickly though.",
+        "photos": []
+      },
+      {
+        "stage_name": "Young Plant",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "By late spring, nettle plants are 30–60cm tall with dense, lush foliage. Each square stem is clothed in opposite pairs of large, serrated leaves. At this stage the stinging hairs are fully developed — the lesson of not touching nettles becomes clear to young naturalists quickly.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Urtica_dioica_Plant.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Young Plant",
+            "month_taken": 5,
+            "caption": "Stinging Nettle plant showing typical growth form and square stems"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Urtica_dioica_leaf.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Young Plant",
+            "month_taken": 5,
+            "caption": "Stinging Nettle leaf detail showing serrated edges and stinging hairs"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Nettles flower in summer and are wind-pollinated — they produce no nectar or showy petals. Male plants have long drooping clusters of small greenish flowers (catkins). Female plants have shorter, upright, more tightly clustered flowers. After pollination, female plants produce tiny seeds. During the flowering period, the plant is at its tallest, sometimes reaching 1.2m.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stinging_Nettle_%28Urtica_dioica%29_%2848490298857%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Stinging Nettle in full growth showing dense foliage"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stinging_Nettle_%28Urtica_dioica%29_-_geograph.org.uk_-_215854.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Stinging Nettle patch in typical hedgerow habitat, UK"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Peacock_%28Aglais_io%29_caterpillars_on_stinging_nettle_%28Urtica_dioica%29_Ruggeller_Riet.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Peacock butterfly caterpillars feeding on Stinging Nettle — a perfect illustration of the nettle's ecological importance"
+          }
+        ]
+      },
+      {
+        "stage_name": "Late Season",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "By late summer, nettle plants produce and disperse their tiny seeds. The leaves become tougher and darker green, and the plants begin to die back as temperatures drop. Dense stands turn yellow-brown in autumn. The dead stems remain standing through winter and provide hollow stem habitat for overwintering insects.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "white-dead-nettle",
+        "similarity_note": "Has similar leaf shape and growth habit — the name 'dead nettle' comes from its nettle-like appearance",
+        "key_difference": "White Dead-nettle (Lamium album) does NOT sting at all. It has white tubular flowers and a different stem structure. Touching it is the easiest test — no sting means it is not a Stinging Nettle.",
+        "time_of_year_note": "Dead-nettle flowers throughout spring and summer",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Urtica_dioica_Plant.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Young Plant",
+        "month_taken": 5,
+        "caption": "Stinging Nettle plant"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Urtica_dioica_leaf.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Young Plant",
+        "month_taken": 5,
+        "caption": "Stinging Nettle leaf showing serrated edges"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stinging_Nettle_%28Urtica_dioica%29_%2848490298857%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Stinging Nettle in summer"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stinging_Nettle_%28Urtica_dioica%29_-_geograph.org.uk_-_215854.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Nettle patch in hedgerow"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Peacock_%28Aglais_io%29_caterpillars_on_stinging_nettle_%28Urtica_dioica%29_Ruggeller_Riet.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Peacock caterpillars on nettle"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Urtica_dioica_fruit.jpg",
+        "caption": "Nettle fruits (seeds)",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "hawthorn",
+    "common_names": [
+      "Hawthorn",
+      "May",
+      "Whitethorn",
+      "Quickthorn"
+    ],
+    "latin_name": "Crataegus monogyna",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Sharp thorns, deeply lobed leaves, and either white flower clusters or red berries make this unmistakable in most seasons.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "chalk-grassland"
+    ],
+    "summary": "The backbone of the British hedgerow. White blossom in May, red haws in autumn. Supports over 300 invertebrate species and feeds dozens of bird species — one of the most ecologically vital trees in Britain.",
+    "full_description": "Hawthorn (Crataegus monogyna) is possibly the most ecologically important tree or shrub in the British landscape. A thorny deciduous shrub or small tree reaching 6–15m, it dominates most traditional British hedgerows. The deeply lobed leaves (3–5 lobes, resembling small oak leaves) emerge early in spring, giving the plant its country name 'May' from its spectacular white flowering in April–May. The sweetly fragrant flowers attract enormous numbers of pollinators — bees, hoverflies, beetles, and butterflies. By September, the hedgerow blazes red with ripe haws: small apple-like berries packed with energy for migrating and resident birds. The sharp thorns (5–15mm, modified shoot tips) create impenetrable cover for nesting birds and sheltering small mammals. Hawthorn supports over 300 species of invertebrate and provides food for dozens of bird species including Fieldfare, Redwing, and Waxwing. Its role in the British countryside — ecologically, historically, and culturally — is irreplaceable.",
+    "danger_level": "low",
+    "danger_note": "Sharp thorns can cause skin punctures. Take care when working near hawthorn hedges.",
+    "danger_type": "thorns",
+    "native_info": "Native throughout the UK. The dominant hedgerow shrub in Britain and one of the most abundant native trees. An indicator of ancient hedgerows when found in combination with other shrub species.",
+    "wildlife_value": "One of the most important plants in Britain for wildlife. Supports over 300 invertebrate species as caterpillar food plant or shelter. The dense thorny growth is the most sought-after nesting and roosting site for many hedgerow birds. Berries (haws) provide critical autumn and winter food for Fieldfare, Redwing, Waxwing, Robin, Blackbird, and many other birds. Flowering provides essential early-season pollen and nectar.",
+    "pollinators_supported": [
+      "honey-bee",
+      "bumblebee",
+      "hoverfly",
+      "hawthorn-fly",
+      "beetle"
+    ],
+    "food_source_for": [
+      "fieldfare",
+      "redwing",
+      "waxwing",
+      "robin",
+      "blackbird",
+      "hawthorn-moth",
+      "may-moth"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Dormant",
+        "months_typical": [
+          12,
+          1,
+          2
+        ],
+        "description": "In winter, Hawthorn stands as a thorny tangle of dark grey-brown branches. The sharp thorns are fully visible and act as an important reminder of the plant's identity even when leafless. Small growth buds at the twig tips are already formed, swelling slowly. The dense growth provides critical roosting shelter for birds in cold weather.",
+        "photos": []
+      },
+      {
+        "stage_name": "Leaf Emergence",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "Hawthorn is one of the first hedgerow shrubs to come into leaf in spring — often showing green by late February in mild years. The fresh, pale green leaves have a distinctive deeply lobed shape (3–5 lobes) that gives the plant a lacy appearance. The thorns become more obscured as foliage thickens. This bursting of green is what gave Hawthorn its country name 'May', celebrated in Mayday traditions.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%28MHNT%29_Crataegus_monogyna_-_Leaves_and_stipules.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Leaf Emergence",
+            "month_taken": 4,
+            "caption": "Hawthorn leaves showing the distinctive deeply lobed shape"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "Hawthorn flowers create white clouds along hedgerows in late April and May. The clusters of small five-petalled white flowers are sweetly fragrant and provide essential nectar and pollen for an enormous range of insects. Flowers are sometimes faintly pink-tinged. The hawthorn's flowering is one of the great spectacles of the British spring.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%28MHNT%29_Crataegus_monogyna_-_flowers_and_buds.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Hawthorn flower clusters and buds"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bloemen_van_een_meidoorn_%28Crataegus%29_08-05-2022._%28d.j.b%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Hawthorn flowers in full bloom, May"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Blooming_hawthorn_%28Crataegus_monogyna%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Hawthorn in full bloom — the 'May blossom'"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wei%C3%9Fdornbl%C3%BCte_Crataegus_monogyna_-20220509-RM-104145.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Hawthorn blossom close-up showing individual flowers"
+          }
+        ]
+      },
+      {
+        "stage_name": "Fruit Development",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "After flowering, the petals fall and tiny green berries (haws) begin to form. They remain hard and green through the summer months, gradually swelling. At this stage they are very astringent and inedible. The deep green foliage provides dense shade and nesting cover during the breeding season.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crataegus_monogyna_2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Fruit Development",
+            "month_taken": 7,
+            "caption": "Hawthorn showing leafy growth and developing fruit"
+          }
+        ]
+      },
+      {
+        "stage_name": "Ripening",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "The haws ripen through August and September, turning from green to orange to deep red. They soften and develop a slightly sweet, mealy flesh around a hard stone. Birds begin visiting in earnest as soon as the berries ripen. A well-berried hawthorn in September is one of the most productive wildlife habitats in the British countryside.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Haws_-_geograph.org.uk_-_281815.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Ripening",
+            "month_taken": 9,
+            "caption": "Hawthorn berries (haws) ripening to red"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Haws_in_the_hedge_-_geograph.org.uk_-_234795.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Ripening",
+            "month_taken": 9,
+            "caption": "Ripe haws in hedgerow, UK"
+          }
+        ]
+      },
+      {
+        "stage_name": "Mature Fruit",
+        "months_typical": [
+          9,
+          10,
+          11
+        ],
+        "description": "Deep red, fully ripe haws are soft and sweet. Thrushes (Fieldfare, Redwing, Blackbird, Mistle Thrush), Robins, Waxwings, and many other birds strip the berries enthusiastically. A large hawthorn may carry thousands of berries, providing critical fuel for migrating birds arriving from Scandinavia in October and November.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%28MHNT%29_Crataegus_monogyna_-_Fruits.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Mature Fruit",
+            "month_taken": 10,
+            "caption": "Hawthorn berries (haws) — fully ripe and red"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Haws_on_a_hawthorn_hedge%2C_near_Princes_Risborough_-_geograph.org.uk_-_228248.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Mature Fruit",
+            "month_taken": 10,
+            "caption": "Haws on a hawthorn hedge near Princes Risborough, UK"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "blackthorn",
+        "similarity_note": "Both are thorny hedgerow shrubs with white flowers",
+        "key_difference": "Blackthorn flowers much earlier (March) and always before its leaves emerge, producing white blossom on bare dark twigs. Hawthorn flowers when leaves are fully out. Blackthorn's fruits are purple-black sloes (not red haws).",
+        "time_of_year_note": "Blackthorn flowers March before leaves; Hawthorn flowers April–May with leaves",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "midland-hawthorn",
+        "similarity_note": "The closely related Midland Hawthorn has very similar leaves and berries",
+        "key_difference": "Midland Hawthorn flowers earlier (April) and usually has deep pink or pale pink flowers; Common Hawthorn is usually white. Midland Hawthorn has less deeply lobed leaves and two seeds in each berry versus one in Common Hawthorn.",
+        "time_of_year_note": "Midland Hawthorn flowers slightly earlier, April rather than May",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Haws_-_geograph.org.uk_-_281815.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Ripening",
+        "month_taken": 9,
+        "caption": "Ripe red haws"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/%28MHNT%29_Crataegus_monogyna_-_flowers_and_buds.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Hawthorn flowers and buds"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bloemen_van_een_meidoorn_%28Crataegus%29_08-05-2022._%28d.j.b%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Hawthorn in full bloom"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Blooming_hawthorn_%28Crataegus_monogyna%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Hawthorn blossom"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%28MHNT%29_Crataegus_monogyna_-_Leaves_and_stipules.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Leaf Emergence",
+        "month_taken": 4,
+        "caption": "Hawthorn leaves — deeply lobed"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%28MHNT%29_Crataegus_monogyna_-_Fruits.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Mature Fruit",
+        "month_taken": 10,
+        "caption": "Hawthorn berries (haws)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Haws_in_the_hedge_-_geograph.org.uk_-_234795.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Ripening",
+        "month_taken": 9,
+        "caption": "Haws in the hedge"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Haws_on_a_hawthorn_hedge%2C_near_Princes_Risborough_-_geograph.org.uk_-_228248.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Mature Fruit",
+        "month_taken": 10,
+        "caption": "Haws on hawthorn hedge, Princes Risborough"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "red-kite",
+    "common_names": [
+      "Red Kite"
+    ],
+    "latin_name": "Milvus milvus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The deeply forked chestnut-red tail is unique among British raptors. Once seen, a Red Kite is unmistakable.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "open-countryside",
+      "farmland",
+      "woodland-edge",
+      "chalk-grassland"
+    ],
+    "summary": "One of Britain's greatest conservation success stories — nearly extinct by the 1980s, now soaring over southern England. The deeply forked chestnut tail is unmistakable.",
+    "full_description": "The Red Kite (Milvus milvus) is one of Britain's most dramatic conservation successes. Nearly hunted to extinction by the early 20th century, with only a tiny relict population surviving in Wales, it was reintroduced to the Chilterns in 1989 and has since spread across much of England, Scotland, and Wales. A large, graceful raptor with a wingspan of 175–195cm, the Red Kite is unmistakable: warm russet-red plumage contrasts with a paler whitish-grey head, dark wingtips, pale patches on the underwings, and — most distinctively — a deeply forked, chestnut-red tail that is constantly twisted and angled in flight for manoeuvrability. It soars on thermals with effortless elegance, quite unlike the heavier-flapping Common Buzzard. Red Kites are opportunistic feeders, taking live prey including rabbits, hares, small mammals, and birds, but also readily eating carrion such as roadkill — a role that earns them the status of nature's waste disposal service. Their haunting mewing call can often be heard before the bird is seen.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the UK. Reintroduction programme began in the Chilterns in 1989 and Scotland/Wales in the early 1990s. Now a resident breeding bird across much of southern and central England, spreading northward naturally.",
+    "wildlife_value": "As a top predator and scavenger, Red Kites play an important role in the ecosystem by removing carrion and controlling populations of rabbits, voles, and other small animals. Their recovery is an indicator of improving raptor conservation and reduced persecution. Their presence is culturally significant — a powerful symbol of wildlife recovery.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "brown",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Perched Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "When perched, Red Kites show their full plumage clearly: russet-red body, streaked paler breast, whitish-grey head with dark streaks, and yellow bill and legs. The eyes are pale yellow. Their large size is apparent when perched on a fence post or telegraph pole. At rest, the forked tail is less obvious but the warm reddish-brown plumage is distinctive.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Milvus_milvus_%28portrait%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Perched Adult",
+            "month_taken": 4,
+            "caption": "Red Kite portrait showing the pale head and russet plumage"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Obernberg_am_Inn_Adlerwarte_Rotmilan-0136.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Perched Adult",
+            "month_taken": 4,
+            "caption": "Red Kite perched, showing full plumage detail"
+          }
+        ]
+      },
+      {
+        "stage_name": "In Flight",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "In flight, the deeply forked chestnut-red tail is the most obvious identification feature — no other common British raptor has a forked tail. Red Kites are elegant soarers, using thermals to gain height while scanning below for food. The long, angled wings show pale patches on the undersides near the wingtips. The tail is constantly twisted and flexed to adjust direction, giving the bird a strikingly fluid quality in the air.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Red_kite_%28Milvus_milvus%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "In Flight",
+            "month_taken": 5,
+            "caption": "Red Kite in flight clearly showing the deeply forked tail"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Red_Kite_%28Milvus_milvus%29_-_geograph.org.uk_-_300964.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "In Flight",
+            "month_taken": 5,
+            "caption": "Red Kite soaring, UK — note the forked tail"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Milvus_milvus_%282011-04-17_Switzerland_Kanton_Schaffhausen_Gennersbrunn_2%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "In Flight",
+            "month_taken": 4,
+            "caption": "Red Kite banking in flight showing the underwing pattern"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rotmilan_%28Milvus_milvus%29_im_Flug-20250628-RM-155041.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "In Flight",
+            "month_taken": 6,
+            "caption": "Red Kite in soaring flight"
+          }
+        ]
+      },
+      {
+        "stage_name": "Nesting",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "description": "Red Kites build large stick nests (eyries) in the forks of tall trees, adding new material each year until the nest becomes massive. They often incorporate odd human-made materials — plastic bags, scraps of clothing — into the nest lining, a quirk noted since medieval times. The female incubates 1–3 eggs for about 31–32 days. Adults can be seen making regular long-range hunting flights from the nest throughout the breeding season.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-buzzard",
+        "similarity_note": "Both are large soaring raptors over open countryside",
+        "key_difference": "Common Buzzard has a short, broad, squared-off tail (not forked). It is stockier with shorter, broader wings. Usually darker brown plumage with a pale breast band. Flaps more frequently than Red Kite and lacks the russet-red colouring.",
+        "time_of_year_note": "Both year-round residents; confusion most likely when distant or in poor light",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Milvus_milvus_%28portrait%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Perched Adult",
+        "month_taken": 4,
+        "caption": "Red Kite portrait"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Obernberg_am_Inn_Adlerwarte_Rotmilan-0136.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Perched Adult",
+        "month_taken": 4,
+        "caption": "Red Kite perched"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Red_kite_%28Milvus_milvus%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "In Flight",
+        "month_taken": 5,
+        "caption": "Red Kite in flight — forked tail visible"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Red_Kite_%28Milvus_milvus%29_-_geograph.org.uk_-_300964.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "In Flight",
+        "month_taken": 5,
+        "caption": "Red Kite soaring, UK"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Milvus_milvus_%282011-04-17_Switzerland_Kanton_Schaffhausen_Gennersbrunn_2%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "In Flight",
+        "month_taken": 4,
+        "caption": "Red Kite banking"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rotmilan_%28Milvus_milvus%29_im_Flug-20250628-RM-155041.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "In Flight",
+        "month_taken": 6,
+        "caption": "Red Kite soaring"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Rotmilan_IMG_7373.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Perched Adult",
+        "month_taken": 5,
+        "caption": "Red Kite close-up"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "bramble",
+    "common_names": [
+      "Bramble",
+      "Blackberry"
+    ],
+    "latin_name": "Rubus fruticosus agg.",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable — hooked thorns, compound leaves, and either white-pink flowers or red/black berries at different times of year.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Climate change is causing earlier fruiting by 2–3 weeks compared to historical norms. In warm springs, you may find ripe black berries from late July rather than the traditional August. Berries tend to be sweeter in warm autumns.",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "meadow-edge"
+    ],
+    "summary": "Flowers in May–June, berries August–October. One of the most ecologically important plants in Britain — feeds over 100 insect species and dozens of bird and mammal species. Also yields the finest free food the British countryside has to offer.",
+    "full_description": "Bramble, or Blackberry (Rubus fruticosus agg.), is a collective name covering hundreds of closely related microspecies within a complex aggregate. A scrambling, arching shrub growing 1–2m tall, it sprawls through hedgerows and scrub on long canes covered in hooked, backward-curving thorns that catch clothing and skin. The compound leaves usually have 3 (sometimes 5) oval, toothed leaflets. Bramble is effectively evergreen in mild winters, retaining some leaves year-round. In May–June, clusters of five-petalled white or pale pink flowers appear, intensely visited by pollinators. The familiar blackberries follow: each is a compound fruit made up of many small drupelets. Starting green and hard in July, they turn red, then ripen to glossy black in August–October. Bramble is ecologically one of the most important plants in Britain: flowers feed over 100 insect species, berries sustain birds and mammals through autumn, dense thorny growth shelters nesting birds, and leaves feed dozens of moth caterpillar species.",
+    "danger_level": "low",
+    "danger_note": "Hooked thorns can cause scratches and snagging. Take care when picking berries in dense stands.",
+    "danger_type": "thorns",
+    "native_info": "Native throughout the UK. One of the most common plants in Britain, found in virtually every hedgerow, woodland edge, and scrubby area.",
+    "wildlife_value": "Flowers visited by over 100 insect species including bees, butterflies, hoverflies, and beetles. Berries eaten by Blackbird, Robin, Song Thrush, Waxwing, Wood Mouse, Fox, Badger, and Hedgehog. Dense thorny canes provide nesting sites for Whitethroat, Blackbird, and Wren. Many moth species use Bramble leaves as caterpillar food.",
+    "pollinators_supported": [
+      "honey-bee",
+      "bumblebee",
+      "hoverfly",
+      "red-admiral",
+      "peacock-butterfly",
+      "small-tortoiseshell",
+      "gatekeeper-butterfly"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "robin",
+      "waxwing",
+      "fox",
+      "badger",
+      "hedgehog",
+      "wood-mouse"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "green",
+      "red",
+      "black"
+    ],
+    "colour_bark_stem": [
+      "green",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Winter Canes",
+        "months_typical": [
+          12,
+          1,
+          2
+        ],
+        "description": "In winter, Bramble stands as a tangle of woody arching canes with hooked thorns visible along their length. Some leaves remain (Bramble is semi-evergreen), often tinged red or purple in cold weather. The bare canes show the plant's structure clearly — long, arching stems that root where their tips touch the ground, gradually spreading the clump outward.",
+        "photos": []
+      },
+      {
+        "stage_name": "Spring Growth",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "New bright green shoots emerge from the base of the plant and from existing canes. The fresh compound leaves are lighter green than the older leaves. Flower buds begin forming at the tips of the new growth. The plant expands rapidly in spring, new canes sometimes growing several centimetres per day in warm weather.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Bramble flowers from May to July (sometimes later), producing clusters of five-petalled flowers in white or pale pink. Each flower is 2–3cm across and sweetly scented. The extended flowering period — sometimes lasting 8–10 weeks — makes Bramble one of the most valuable nectar sources of the British summer. Bumblebees, honeybees, and many butterfly species visit constantly on warm days.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798992.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Bramble flowers — white five-petalled blossoms in clusters, UK"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798995.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Bramble flowers close-up showing the five petals and stamens"
+          }
+        ]
+      },
+      {
+        "stage_name": "Unripe Berries",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "As flowers fade, berries begin to form. Initially the small drupelets are green and hard, gradually swelling. They then turn red — at which point they are very sour and astringent. On the same cane you may find both open flowers and berries at different stages of development, as Bramble flowers over such a long period.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rubus_fruticosus_%28Blackberry%29_in_Sivas%2C_Turkey.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Unripe Berries",
+            "month_taken": 7,
+            "caption": "Bramble with developing berries — green turning red"
+          }
+        ]
+      },
+      {
+        "stage_name": "Ripening Berries",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "Through August, the berries ripen from red to deep glossy black. When fully black and slightly soft to the touch, they are sweet and ready to eat. A natural sugar spike makes ripe brambles excellent forage for wildlife — and people. The Bramble picking season typically runs from mid-August to late September, though this is shifting earlier due to climate change.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blackberry_%28Rubus_fruticosus%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Ripening Berries",
+            "month_taken": 8,
+            "caption": "Bramble berries ripening — mix of red and black on the same cane"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Ripening Berries",
+            "month_taken": 9,
+            "caption": "Ripe blackberries — glossy black and ready to pick"
+          }
+        ]
+      },
+      {
+        "stage_name": "Mature Berries",
+        "months_typical": [
+          9,
+          10
+        ],
+        "description": "By September the berries are at their peak — deep black, soft, and sweet, with the best flavour after a warm summer. This is prime season for picking. Wildlife competition is intense: Blackbirds, Robins, Fieldfares, Waxwings, Wood Mice, Foxes, Badgers, and Hedgehogs all feed heavily on ripe brambles. By late October the remaining berries over-ripen and shrivel.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rubus_fruticosus_%28Blackberries%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Mature Berries",
+            "month_taken": 9,
+            "caption": "Fully ripe blackberries — peak picking season"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "raspberry",
+        "similarity_note": "Both are thorny Rubus species with similar compound leaves",
+        "key_difference": "Wild Raspberry has much finer, less hooked thorns, thinner and more delicate stems, and produces red (not black) berries. The berries are also hollow when picked (they come off the central plug), unlike Bramble berries which are solid.",
+        "time_of_year_note": "Raspberry fruits earlier, mainly July–August",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Ripening Berries",
+        "month_taken": 9,
+        "caption": "Ripe blackberries"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798992.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Bramble flowers"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798995.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Bramble flower close-up"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rubus_fruticosus_%28Blackberry%29_in_Sivas%2C_Turkey.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Unripe Berries",
+        "month_taken": 7,
+        "caption": "Bramble unripe berries"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blackberry_%28Rubus_fruticosus%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Ripening Berries",
+        "month_taken": 8,
+        "caption": "Bramble ripening"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rubus_fruticosus_%28Blackberries%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Mature Berries",
+        "month_taken": 9,
+        "caption": "Mature blackberries"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "seven-spot-ladybird",
+    "common_names": [
+      "7-Spot Ladybird",
+      "Seven-spot Ladybird"
+    ],
+    "latin_name": "Coccinella septempunctata",
+    "type": "beetle",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Count the spots: exactly 7 black spots on scarlet-red wing cases is diagnostic. 3 on each side plus 1 shared spot at the midline.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "garden",
+      "hedgerow",
+      "meadow",
+      "woodland-edge"
+    ],
+    "summary": "Britain's most familiar beetle. Exactly 7 black spots on bright scarlet wing cases. A single adult eats 50–60 aphids per day — one of the most important natural pest controllers in Britain.",
+    "full_description": "The 7-Spot Ladybird (Coccinella septempunctata) is Britain's most familiar beetle and one of the most recognisable insects in the world. At 7–8mm long, it has hemispherical, bright scarlet-red wing cases (elytra) bearing exactly seven black spots: three on each wing case plus one shared spot at the midline between them. The pronotum (the plate behind the head) is black with two small white spots at the front corners. The bright warning colouration (aposematism) deters predators — when threatened, ladybirds can secrete a bitter, toxic yellow fluid from leg joints (reflex bleeding) that is highly effective at deterring birds. They are among the most important natural pest controllers in Britain: a single adult can eat 50–60 aphids per day, and the larvae — which look completely unlike the adult, being spiky and black with yellow or orange spots — are even more voracious, consuming 100–150 aphids over their development. One of the gardener's and farmer's greatest allies.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the UK and common throughout Britain. Populations can be temporarily displaced by the invasive Harlequin Ladybird in some areas, but the 7-Spot remains widespread.",
+    "wildlife_value": "An essential natural pest controller. Reduces aphid populations without chemical intervention. Presence in a garden or field indicates a healthy, pesticide-free environment. Adults and larvae are also food for insectivorous birds, spiders, and ground beetles, making them part of the wider food chain.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit",
+      "sparrow",
+      "spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "black",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Hibernating Adult",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "In autumn, 7-Spot Ladybirds seek sheltered sites for winter dormancy — under bark, in dense leaf litter, in hollow stems, or in crevices in walls. They often congregate in groups of dozens or more. They remain dormant through cold weather, relying on fat reserves built up during autumn feeding. On warm late-autumn or early-spring days they may briefly emerge before returning to shelter.",
+        "photos": []
+      },
+      {
+        "stage_name": "Active Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Active adults emerge from hibernation in March or April as temperatures rise. They feed on aphids, pollen, and nectar before mating in April–May. Adults are strong fliers and may travel considerable distances between aphid colonies. The distinctive scarlet and black pattern serves as a warning to predators that they are toxic and unpalatable. A freshly emerged adult after hibernation is as bright as ever — the colours do not fade with age.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coccinella_septempunctata_Luc_Viatour.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Active Adult",
+            "month_taken": 5,
+            "caption": "7-Spot Ladybird — the classic view showing all 7 black spots on scarlet wing cases"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Seven-spot_ladybird_1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Active Adult",
+            "month_taken": 5,
+            "caption": "7-Spot Ladybird on vegetation"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Coccinella_septempunctata_qtl1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Active Adult",
+            "month_taken": 6,
+            "caption": "7-Spot Ladybird — spot pattern clearly visible"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/20210409_Coccinella_septempunctata_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Active Adult",
+            "month_taken": 4,
+            "caption": "7-Spot Ladybird on plant, April"
+          }
+        ]
+      },
+      {
+        "stage_name": "Eggs",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "Females lay clusters of 10–50 upright, yellow, oval eggs on plants where aphids are abundant — the hatching larvae will immediately have a food source. A female can lay up to 400 eggs over her lifetime, though many are eaten by other insects before hatching. Eggs hatch within 5–8 days depending on temperature.",
+        "photos": []
+      },
+      {
+        "stage_name": "Larva",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "Ladybird larvae look completely different from the adults and are often not recognised for what they are. They are elongated, dark grey or black, with bright yellow or orange spots, and carry small spiky projections along their backs. They are extremely mobile, walking long distances across plants in search of aphids. A single larva can eat 100–150 aphids during its 3–4 week development, making them even more valuable pest controllers than the adults.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coccinella_septempunctata_larva_on_the_leaf_-_1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Larva",
+            "month_taken": 6,
+            "caption": "7-Spot Ladybird larva — black with yellow spots, very different from the adult"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Coccinella_septempunctata_%28larva%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Larva",
+            "month_taken": 6,
+            "caption": "Ladybird larva on leaf showing the spiky, spotted appearance"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Newly-hatched_small_larva_of_Coccinella_septempunctata.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Larva",
+            "month_taken": 6,
+            "caption": "Newly hatched 7-Spot Ladybird larva"
+          }
+        ]
+      },
+      {
+        "stage_name": "Pupa",
+        "months_typical": [
+          7
+        ],
+        "description": "The larva attaches itself to a leaf or stem and pupates, forming a yellow-orange pupal case. The pupa is stationary and non-feeding — inside, the larva undergoes complete metamorphosis (holometabolism) into the adult form. The pupal stage lasts about 1–2 weeks. The adult that emerges is initially pale yellow, hardening and developing its full red colour within a few hours.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/%28MHNT%29_Coccinella_septempunctata_%28pupa%29_on_Xanthium_orientale.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Pupa",
+            "month_taken": 7,
+            "caption": "7-Spot Ladybird pupa on a plant stem"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "2-spot-ladybird",
+        "similarity_note": "Both are native ladybird species on British plants",
+        "key_difference": "The 2-Spot Ladybird has only 2 black spots (one per wing case). It is also slightly smaller (4–6mm) and more variable in colour — some forms are black with red spots. Count the spots: 2 vs 7 makes identification straightforward.",
+        "time_of_year_note": "Both active March–October",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "harlequin-ladybird",
+        "similarity_note": "An invasive species now common in Britain",
+        "key_difference": "Harlequin Ladybird is larger (6–9mm), more domed, and extremely variable — it can have 0–22 spots in different colour combinations (red, orange, black). The most common form has many small spots. If a 'ladybird' looks unusually large or has an unusual spot pattern, it may be a Harlequin.",
+        "time_of_year_note": "Harlequin is active March–October, as is 7-Spot",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Seven-spot_ladybird_1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Active Adult",
+        "month_taken": 5,
+        "caption": "7-Spot Ladybird on vegetation"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coccinella_septempunctata_Luc_Viatour.JPG",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Active Adult",
+        "month_taken": 5,
+        "caption": "7-Spot Ladybird — classic portrait"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Coccinella_septempunctata_qtl1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Active Adult",
+        "month_taken": 6,
+        "caption": "7-Spot Ladybird"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/20210409_Coccinella_septempunctata_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Active Adult",
+        "month_taken": 4,
+        "caption": "7-Spot Ladybird, April"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coccinella_septempunctata_larva_on_the_leaf_-_1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Larva",
+        "month_taken": 6,
+        "caption": "Ladybird larva"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Coccinella_septempunctata_%28larva%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Larva",
+        "month_taken": 6,
+        "caption": "Larva on leaf"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/%28MHNT%29_Coccinella_septempunctata_%28pupa%29_on_Xanthium_orientale.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Pupa",
+        "month_taken": 7,
+        "caption": "Ladybird pupa"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "common-frog",
+    "common_names": [
+      "Common Frog",
+      "European Common Frog"
+    ],
+    "latin_name": "Rana temporaria",
+    "type": "amphibian",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Smooth moist skin, dark mask through the eye, long back legs for jumping. Distinguished from Common Toad by smooth skin (toad is warty) and jumping rather than walking.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "ditch",
+      "garden",
+      "meadow",
+      "woodland"
+    ],
+    "summary": "Britain's most familiar amphibian. The life cycle — from jelly spawn to tadpole to froglet to adult — is one of nature's most dramatic transformations and an iconic sign of spring.",
+    "full_description": "The Common Frog (Rana temporaria) is Britain's most widespread amphibian and one of the most beloved signs of spring. Adults are 5–9cm long with highly variable colouring — typically brown, olive, or grey with darker mottling, though reddish and yellowish forms also occur. The dark 'mask' running from the nostril through the eye to the shoulder, prominent golden-yellow eyes with horizontal slit pupils, and smooth but moist skin help distinguish frogs from the similar Common Toad. Frogs have powerful hind legs for jumping (50cm+ in a single leap) and are generally slimmer than toads. Their lifecycle is one of the most dramatic in nature: from jelly clumps of spawn in February–March, through free-swimming, algae-grazing tadpoles, to froglets emerging from the pond in June–July, to fully terrestrial adults that must nonetheless stay near water to keep their permeable skin moist. Adults return faithfully to their natal pond each spring, sometimes travelling hundreds of metres across roads and fields to breed.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK and Ireland. One of the most common and widespread amphibians in Britain. Numbers have declined locally due to pond loss, drought, and disease (Ranavirus), but the species remains common.",
+    "wildlife_value": "Tadpoles feed on algae (helping control algal blooms) and are food for newts, dragonfly larvae, diving beetles, and fish. Adults are important predators of slugs, snails, insects, and earthworms — of significant benefit in gardens and farms. Adults are themselves prey for herons, egrets, grass snakes, otters, and pike. A healthy frog population indicates a clean freshwater ecosystem.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "heron",
+      "grey-heron",
+      "grass-snake",
+      "otter",
+      "pike",
+      "badger"
+    ],
+    "depends_on": [
+      "pond",
+      "ditch"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "green",
+      "grey",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Spawn",
+        "months_typical": [
+          2,
+          3
+        ],
+        "description": "Frog spawn is laid in large gelatinous clumps in shallow, still water — ponds, ditches, or even large puddles and bird baths. Each clump can contain 1,000–3,000 black eggs, each surrounded by clear jelly that swells in water. The jelly protects the eggs and acts as a lens to warm them in weak spring sunlight. Multiple females often spawn in the same pond, creating vast aggregations. Spawn laid in too-shallow water or exposed to frost can be killed. The eggs hatch in 2–4 weeks, depending on temperature.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rana_temporaria_eggs_1.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Spawn",
+            "month_taken": 3,
+            "caption": "Common Frog spawn — black eggs in clear jelly clumps"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Frogspawn_%E2%80%93_Common_Frog_%28Rana_temporaria%29_%285554677812%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Spawn",
+            "month_taken": 3,
+            "caption": "Frogspawn in pond — a classic early spring sight"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Rana_temporaria_eggs_5.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Spawn",
+            "month_taken": 3,
+            "caption": "Frog spawn close-up showing individual eggs in jelly"
+          }
+        ]
+      },
+      {
+        "stage_name": "Tadpole",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Tadpoles hatch as tiny, dark grey or black creatures with a large rounded head and a long, flattened tail for swimming. They breathe through feathery external gills at first, then internal gills as they develop. Tadpoles are primarily herbivores, grazing on algae using a specialised rasping mouth. They grow over 8–12 weeks from tiny hatchlings to fully formed tadpoles up to 3–4cm long. They are highly vulnerable to predation — newts, dragonfly larvae, diving beetles, and fish take enormous numbers.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rana_temporaria_tadpoles_eating_6.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Tadpole",
+            "month_taken": 5,
+            "caption": "Common Frog tadpoles feeding — dark bodies with long tails"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rana_temporaria_tadpoles_eating_1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Tadpole",
+            "month_taken": 5,
+            "caption": "Tadpoles in pond, feeding on algae"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rana_temporaria_tadpoles_eating_4.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Tadpole",
+            "month_taken": 5,
+            "caption": "Frog tadpoles grazing"
+          }
+        ]
+      },
+      {
+        "stage_name": "Froglet",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "After 8–12 weeks, the tadpole begins metamorphosis. Hind legs appear first, then front legs. The tail is gradually reabsorbed as the animal's digestive system switches from algae-grazing to insect-hunting. For a brief period the froglet has both legs and a tail — an extraordinary intermediate stage. Tiny froglets (just 1–2cm long) emerge from the pond in large numbers in June–July, often during or after rain, spreading into surrounding grassland and hedgerows. They must keep their skin moist and find shelter quickly.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rana_Temporaria_-_Larva_Final_Stage.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Froglet",
+            "month_taken": 7,
+            "caption": "Froglet at the final larval stage — legs developed, tail being reabsorbed"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "description": "Adult frogs live primarily on land in damp habitats — meadows, gardens, woodland floors — but must stay near water to keep their permeable skin moist. They breathe through both lungs and their moist skin. Adults hunt by sight, catching slugs, snails, worms, flies, and other small invertebrates with a rapid tongue strike. In autumn they seek damp, sheltered spots to hibernate through winter — under log piles, in compost heaps, or in pond mud. They emerge again in late winter (sometimes February in mild years) and make their way back to the breeding pond to spawn.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/European_Common_Frog_Rana_temporaria.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Common Frog adult — showing the dark eye mask and moist skin"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Grasfrosch-Rana-temporaria-side.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Common Frog in profile showing typical brown colouring"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rana_temporaria.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 4,
+            "caption": "Adult Common Frog — the colour pattern is highly variable"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/European_Common_Frog_Rana_temporaria_3.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Adult Common Frog in grassland habitat"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-toad",
+        "similarity_note": "Both are widespread British amphibians often found in the same habitats",
+        "key_difference": "Common Toad has warty, dry-looking skin (not smooth and moist). It is stockier, walks rather than hops, and has copper-coloured eyes (not golden). Toads are also generally larger (7–15cm vs 5–9cm for frogs).",
+        "time_of_year_note": "Both spawn in spring, but Toads breed slightly later than Frogs (March–April vs February–March)",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "natterjack-toad",
+        "similarity_note": "A rarer British amphibian with similar colouring",
+        "key_difference": "Natterjack Toad has a distinctive yellow stripe running down the centre of its back — diagnostic and unmistakable. Also much rarer, mainly confined to sandy coasts and heathland. Extremely loud call.",
+        "time_of_year_note": "Natterjack breeds later in spring than Common Frog",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/European_Common_Frog_Rana_temporaria.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Adult Common Frog"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rana_temporaria_eggs_1.JPG",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Spawn",
+        "month_taken": 3,
+        "caption": "Frog spawn"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Rana_temporaria_tadpoles_eating_6.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Tadpole",
+        "month_taken": 5,
+        "caption": "Tadpoles feeding"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Frogspawn_%E2%80%93_Common_Frog_%28Rana_temporaria%29_%285554677812%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Spawn",
+        "month_taken": 3,
+        "caption": "Frogspawn in pond"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rana_temporaria_tadpoles_eating_1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Tadpole",
+        "month_taken": 5,
+        "caption": "Frog tadpoles"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rana_Temporaria_-_Larva_Final_Stage.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Froglet",
+        "month_taken": 7,
+        "caption": "Froglet — final larval stage"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Grasfrosch-Rana-temporaria-side.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Frog side profile"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rana_temporaria.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Adult frog"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/European_Common_Frog_Rana_temporaria_3.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Common Frog in grassland"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  },
+  {
+    "id": "skylark",
+    "common_names": [
+      "Skylark",
+      "Sky Lark"
+    ],
+    "latin_name": "Alauda arvensis",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "The song flight is unmistakable — a tiny bird hovering hundreds of feet up, singing continuously. On the ground it can look like a plain brown bird, but the small crest and streaky plumage are distinctive.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "open-countryside",
+      "arable",
+      "meadow"
+    ],
+    "summary": "Famous for its spectacular song flight — males rise vertically to 100m+ and sing continuously for minutes on end. A declining farmland bird, but still heard and seen on chalk grassland like Old Down.",
+    "full_description": "The Skylark (Alauda arvensis) is one of the most celebrated birds of the British countryside, famed above all else for the extraordinary song flight of the male. A medium-sized songbird (16–18cm), it has streaky brown and buff plumage on the upperparts — the typical camouflage of a ground-nesting bird — with paler, streaked underparts, a small but distinctive crest on the crown (raised when singing or alarmed), and white outer tail feathers visible in flight. The Skylark is most often identified by sound: from March to August, males rise from the ground, ascending vertically to 50–100m or more, and deliver a continuous, complex, liquid warbling song lasting minutes or even hours without pause. This song flight — one of the finest sounds in British nature — serves to defend territory and attract mates. Unfortunately, the Skylark is in serious decline in the UK, having lost over 50% of its population since the 1970s due to intensification of arable farming, loss of wildflower meadows, and removal of the weed-rich field margins that young birds depend on for insect food.",
+    "danger_level": "low",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. Partially migratory — some birds remain in the UK year-round; others migrate south to southern Europe and North Africa for winter. Populations at sites like Old Down are year-round residents on chalk grassland.",
+    "wildlife_value": "Adult Skylarks eat seeds (particularly weed seeds) and insects. Chicks are fed almost exclusively on insects, grasshoppers, beetles, and invertebrate larvae from dense herbage — making insect-rich grassland and field margins essential for breeding success. Skylarks are themselves food for Sparrowhawk, Hobby, Peregrine, and occasionally Merlin in winter. Their presence on chalk grassland indicates a healthy, botanically rich ecosystem.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "hobby",
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "buff",
+      "cream"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Winter",
+        "months_typical": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "In winter, Skylarks are quiet and inconspicuous. They gather in loose, shifting flocks of 10–50 birds on open farmland, grassland, or arable fields, foraging for seeds on the ground. In hard weather or cold spells, birds may move in larger flocks. The crest is often flattened at this time. Without the song to draw attention, winter Skylarks can easily be overlooked.",
+        "photos": []
+      },
+      {
+        "stage_name": "Spring Arrival",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "As days lengthen, male Skylarks establish territories on open grassland. The first tentative song flights begin in March — shorter and lower than the full summer performance, but unmistakably Skylark. Males begin competing for the best territories. Early spring is a good time to watch them at close range as they walk and run across the grassland with their characteristic upright posture.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Spring Arrival",
+            "month_taken": 4,
+            "caption": "Skylark on the ground in grassland, Lake District, UK — note the small crest"
+          }
+        ]
+      },
+      {
+        "stage_name": "Singing Male",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "From April to June, male Skylarks perform their most famous behaviour: spectacular song flights high above the grassland. Rising vertically while singing continuously, the male becomes a tiny speck against the sky at heights of 50–100m. The song is a rapid, bubbling, liquid warble — endlessly variable and extraordinarily sustained. A male may hold his position 100m up, singing, for 5–10 minutes or longer before parachuting back to earth. On still days at Old Down, a singing Skylark is one of the defining sounds of the site.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alauda_arvensis_-_Skylark_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Singing Male",
+            "month_taken": 5,
+            "caption": "Skylark — perched male showing streaky plumage and raised crest"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alauda_arvensis_-_Skylark_02.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Singing Male",
+            "month_taken": 5,
+            "caption": "Skylark male, showing the characteristic upright stance"
+          }
+        ]
+      },
+      {
+        "stage_name": "Nesting",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Skylark nests are simple cups of grass, woven into a hollow scraped in the ground — usually well concealed in a grass tussock or clump of vegetation. The female incubates 3–4 speckled eggs for 11 days. Nests are highly vulnerable to agricultural operations (mowing, rolling) and predation from foxes, crows, and stoats. Successful pairs may raise 2–3 broods in a season.",
+        "photos": []
+      },
+      {
+        "stage_name": "Young Fledging",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Young Skylarks fledge at just 9–10 days old — before they can fly well — and are then fed on the ground for a further 2–3 weeks by both parents. During this period, the chicks are entirely dependent on insects: grasshoppers, beetles, flies, and caterpillars from dense grassland vegetation. The availability of insect-rich grassland margins is absolutely critical for chick survival — their loss to intensive farming is the primary cause of the Skylark's decline.",
+        "photos": []
+      },
+      {
+        "stage_name": "Post-breeding",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "By August, the breeding season is over. Family groups and then larger flocks form, moving across farmland and grassland foraging for seeds. Some birds begin to drift southward, and Scandinavian birds arrive to winter in Britain. Song flights become rare, though you may still hear brief bursts on warm September days.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/A_skylark_%28Alauda_arvensis%29_-_geograph.org.uk_-_1303074.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Post-breeding",
+            "month_taken": 9,
+            "caption": "Skylark in late-season grassland, UK"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "woodlark",
+        "similarity_note": "Both are brown, crested ground-nesting birds of open habitats",
+        "key_difference": "Woodlark is smaller with a shorter tail and more rounded wings. It has a distinctive black-and-white stripe over the eye. Its song is also different — a beautiful liquid descending phrase, not the Skylark's sustained warble. Prefers woodland edges and heath rather than open grassland.",
+        "time_of_year_note": "Woodlark is resident year-round but much less common in the UK",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "meadow-pipit",
+        "similarity_note": "Another small, streaky brown bird of grassland habitats",
+        "key_difference": "Meadow Pipit is smaller and slimmer, with a much finer bill. It has no crest. Its song flight is shorter and the call is a thin 'seep seep seep'. It bobs its tail frequently when walking, unlike Skylark.",
+        "time_of_year_note": "Meadow Pipits are common year-round on chalk grassland alongside Skylarks",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Spring Arrival",
+        "month_taken": 4,
+        "caption": "Skylark on grassland, UK"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alauda_arvensis_-_Skylark_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Singing Male",
+        "month_taken": 5,
+        "caption": "Skylark showing crest"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alauda_arvensis_-_Skylark_02.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Singing Male",
+        "month_taken": 5,
+        "caption": "Skylark male"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alauda_arvensis_-_Skylark_-_Tarlaku%C5%9Fu_04.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Singing Male",
+        "month_taken": 5,
+        "caption": "Skylark in habitat"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Alauda_arvensis_-_Skylark_-_Tarlaku%C5%9Fu_02.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Spring Arrival",
+        "month_taken": 4,
+        "caption": "Skylark on ground"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/A_skylark_%28Alauda_arvensis%29_-_geograph.org.uk_-_1303074.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Post-breeding",
+        "month_taken": 9,
+        "caption": "Skylark, UK grassland"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-22"
+  }
+]

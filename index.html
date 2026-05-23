@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nature Spotter Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ============================================================
+       SCREEN: DISCLAIMER
+  ============================================================ -->
+  <div id="screen-disclaimer" class="screen active">
+    <div class="disclaimer-wrap">
+      <div class="disclaimer-inner">
+        <div class="disclaimer-header">
+          <div class="guide-emblem">&#9752;</div>
+          <h1>Nature Spotter Guide</h1>
+          <p class="tagline">A field guide for home education families</p>
+        </div>
+
+        <div class="disclaimer-box">
+          <h2>Before you begin</h2>
+          <p>This guide is for identification interest only. Do not pick, touch, or eat any plant, berry, fungus, or other organism based solely on this guide. Many safe-looking species have dangerous lookalikes. Always wash hands after being outdoors. Remember: every plant and animal is part of a food web — even if you are confident in an ID, please look rather than pick. We take no responsibility for any harm arising from use of this guide.</p>
+          <a href="#" class="danger-link" id="btn-key-dangers">&#9888; View Key Dangers</a>
+        </div>
+
+        <div id="key-dangers-panel" class="key-dangers hidden">
+          <h3>Key dangers include</h3>
+          <ul>
+            <li><strong>Giant Hogweed</strong> <span class="danger-tag">Dangerous</span> — Sap causes severe burns in sunlight (phototoxic). Do not touch.</li>
+            <li><strong>Hemlock (Conium maculatum)</strong> <span class="danger-tag">Dangerous</span> — Extremely toxic. Resembles Cow Parsley. Purple-blotched stems, musty smell.</li>
+            <li><strong>Arum Lily / Lords &amp; Ladies</strong> <span class="danger-tag">Dangerous</span> — Toxic berries and leaves cause burning, rash, and swelling.</li>
+            <li><strong>Deadly Nightshade (Atropa belladonna)</strong> <span class="danger-tag">Dangerous</span> — All parts highly toxic. Shiny black berries may attract children.</li>
+            <li><strong>Stinging Nettle</strong> <span class="caution-tag">Caution</span> — Stinging hairs cause temporary skin irritation. Dock leaves provide relief.</li>
+          </ul>
+          <button class="btn-ghost" id="btn-close-dangers">Close</button>
+        </div>
+
+        <div class="disclaimer-accept">
+          <label class="checkbox-label">
+            <span class="custom-checkbox" id="disclaimer-checkbox" role="checkbox" aria-checked="false" tabindex="0"></span>
+            <span>I understand and accept these terms</span>
+          </label>
+          <button id="btn-accept" class="btn-primary" disabled>Enter the Guide</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       SCREEN: BROWSE
+  ============================================================ -->
+  <div id="screen-browse" class="screen hidden">
+    <header class="browse-header">
+      <div class="header-inner">
+        <div class="header-title">
+          <span class="guide-emblem-small">&#9752;</span>
+          <h1>Nature Spotter</h1>
+        </div>
+        <div class="header-actions">
+          <button class="btn-icon" id="btn-open-locations" title="About our locations">&#128205; Locations</button>
+          <button class="btn-icon" id="btn-open-submit" title="Suggest an addition or correction">+ Suggest Addition</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="browse-layout">
+      <!-- FILTERS SIDEBAR / DRAWER -->
+      <aside class="filters-panel" id="filters-panel">
+        <div class="filters-header">
+          <h2>Filter Species</h2>
+          <button class="btn-icon filters-close" id="btn-close-filters">&#10005;</button>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-search">Search</label>
+          <input type="text" id="filter-search" class="filter-input" placeholder="Common name, Latin name…" autocomplete="off">
+          <div id="admin-hint" class="admin-hint hidden">Type "admin" for admin panel</div>
+        </div>
+
+        <div class="filter-group">
+          <div class="filter-label-row">
+            <label class="filter-label">Type</label>
+          </div>
+          <div class="checkbox-group" id="filter-type">
+            <label class="check-item"><input type="checkbox" value="wildflower"><span>Wildflower</span></label>
+            <label class="check-item"><input type="checkbox" value="tree-shrub"><span>Tree &amp; Shrub</span></label>
+            <label class="check-item"><input type="checkbox" value="butterfly"><span>Butterfly</span></label>
+            <label class="check-item"><input type="checkbox" value="beetle"><span>Beetle</span></label>
+            <label class="check-item"><input type="checkbox" value="bird"><span>Bird</span></label>
+            <label class="check-item"><input type="checkbox" value="amphibian"><span>Amphibian</span></label>
+            <label class="check-item"><input type="checkbox" value="moth"><span>Moth</span></label>
+            <label class="check-item"><input type="checkbox" value="mammal"><span>Mammal</span></label>
+            <label class="check-item"><input type="checkbox" value="other-invertebrate"><span>Other Invertebrate</span></label>
+            <label class="check-item"><input type="checkbox" value="tracks-signs"><span>Tracks &amp; Signs</span></label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <div class="filter-label-row">
+            <label class="filter-label" for="filter-month">Month visible</label>
+            <button class="btn-right-now" id="btn-right-now">Right Now</button>
+          </div>
+          <select id="filter-month" class="filter-select">
+            <option value="">Any month</option>
+            <option value="1">January</option>
+            <option value="2">February</option>
+            <option value="3">March</option>
+            <option value="4">April</option>
+            <option value="5">May</option>
+            <option value="6">June</option>
+            <option value="7">July</option>
+            <option value="8">August</option>
+            <option value="9">September</option>
+            <option value="10">October</option>
+            <option value="11">November</option>
+            <option value="12">December</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Location</label>
+          <div class="checkbox-group" id="filter-location">
+            <label class="check-item"><input type="checkbox" value="old-down"><span>Old Down</span></label>
+            <label class="check-item"><input type="checkbox" value="sholing-valley"><span>Sholing Valley</span></label>
+            <label class="check-item"><input type="checkbox" value="south-uk"><span>South UK general</span></label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Native status</label>
+          <div class="checkbox-group" id="filter-native">
+            <label class="check-item"><input type="checkbox" value="native"><span>Native</span></label>
+            <label class="check-item"><input type="checkbox" value="non-native"><span>Non-native</span></label>
+            <label class="check-item"><input type="checkbox" value="invasive"><span>Invasive</span></label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Colour</label>
+          <div class="checkbox-group checkbox-group--colours" id="filter-colour">
+            <label class="check-item"><input type="checkbox" value="white"><span>White</span></label>
+            <label class="check-item"><input type="checkbox" value="yellow"><span>Yellow</span></label>
+            <label class="check-item"><input type="checkbox" value="pink"><span>Pink</span></label>
+            <label class="check-item"><input type="checkbox" value="red"><span>Red</span></label>
+            <label class="check-item"><input type="checkbox" value="blue"><span>Blue</span></label>
+            <label class="check-item"><input type="checkbox" value="orange"><span>Orange</span></label>
+            <label class="check-item"><input type="checkbox" value="green"><span>Green</span></label>
+            <label class="check-item"><input type="checkbox" value="brown"><span>Brown</span></label>
+            <label class="check-item"><input type="checkbox" value="black"><span>Black</span></label>
+            <label class="check-item"><input type="checkbox" value="purple"><span>Purple</span></label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Confidence to ID</label>
+          <div class="checkbox-group" id="filter-confidence">
+            <label class="check-item"><input type="checkbox" value="easy"><span>Easy</span></label>
+            <label class="check-item"><input type="checkbox" value="moderate"><span>Moderate</span></label>
+            <label class="check-item"><input type="checkbox" value="tricky"><span>Tricky</span></label>
+          </div>
+        </div>
+
+        <div class="filter-actions">
+          <button class="btn-ghost" id="btn-reset-filters">Reset all filters</button>
+        </div>
+      </aside>
+
+      <!-- MAIN CONTENT -->
+      <main class="browse-main">
+        <div class="browse-toolbar">
+          <button class="btn-filter-toggle" id="btn-open-filters">
+            <span>&#9776; Filters</span>
+            <span class="filter-badge hidden" id="filter-badge">0</span>
+          </button>
+          <div class="results-count" id="results-count">Loading…</div>
+          <div class="active-filters" id="active-filters"></div>
+        </div>
+
+        <div id="empty-state" class="empty-state hidden">
+          <p>No species match these filters.</p>
+          <p class="empty-hint">Try adjusting the Type, Month, or Location filters.</p>
+          <button class="btn-ghost" id="btn-reset-empty">Reset filters</button>
+        </div>
+
+        <div class="species-grid" id="species-grid"></div>
+      </main>
+    </div>
+
+    <!-- Filters overlay for mobile -->
+    <div class="filters-overlay hidden" id="filters-overlay"></div>
+  </div>
+
+  <!-- ============================================================
+       SCREEN: SPECIES DETAIL
+  ============================================================ -->
+  <div id="screen-detail" class="screen hidden">
+    <div class="detail-header-bar">
+      <button class="btn-back" id="btn-back">&#8592; Back</button>
+      <button class="btn-icon detail-submit-btn" id="btn-detail-submit">+ Suggest Addition</button>
+    </div>
+    <div class="detail-content" id="detail-content">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ============================================================
+       SCREEN: SUBMISSION FORM
+  ============================================================ -->
+  <div id="screen-submit" class="screen hidden">
+    <div class="form-header-bar">
+      <button class="btn-back" id="btn-back-submit">&#8592; Back</button>
+      <h2>Suggest an Addition</h2>
+    </div>
+    <div class="form-content">
+      <p class="form-intro">Found a species we're missing? Spotted an error? Taken a great photo? We'd love to hear from you. All submissions are reviewed before inclusion.</p>
+
+      <form id="submit-form" class="field-form" novalidate>
+        <div class="field-group">
+          <label class="field-label" for="sub-type">Type of submission</label>
+          <select id="sub-type" class="field-input" required>
+            <option value="">Choose type…</option>
+            <option value="new-species">New species</option>
+            <option value="edit-existing">Edit existing species</option>
+            <option value="new-photo">New photo</option>
+            <option value="report-error">Report an error</option>
+          </select>
+        </div>
+
+        <div class="field-group" id="sub-species-group">
+          <label class="field-label" for="sub-species">Species name</label>
+          <input type="text" id="sub-species" class="field-input" placeholder="Common or Latin name">
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sub-suggestion">Your suggestion <span class="required">*</span></label>
+          <textarea id="sub-suggestion" class="field-textarea" rows="5" placeholder="Describe what you've found, noticed, or want to suggest…" required></textarea>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sub-photo-url">Photo URL (optional)</label>
+          <input type="url" id="sub-photo-url" class="field-input" placeholder="https://…">
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sub-photo-file">Upload a photo (optional)</label>
+          <input type="file" id="sub-photo-file" class="field-input-file" accept="image/*">
+          <p class="field-hint">Max 2MB. JPG, PNG, or WEBP.</p>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sub-location">Where did you spot it?</label>
+          <select id="sub-location" class="field-input">
+            <option value="">Choose location…</option>
+            <option value="old-down">Old Down</option>
+            <option value="sholing-valley">Sholing Valley</option>
+            <option value="south-uk">South UK general</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sub-email">Your email (optional)</label>
+          <input type="email" id="sub-email" class="field-input" placeholder="we'll only use this to follow up">
+        </div>
+
+        <div class="field-actions">
+          <button type="submit" class="btn-primary">Submit suggestion</button>
+        </div>
+      </form>
+
+      <div id="submit-thankyou" class="thankyou hidden">
+        <div class="thankyou-inner">
+          <div class="thankyou-icon">&#10003;</div>
+          <h3>Thank you</h3>
+          <p>Your suggestion is pending review. We'll consider it carefully before any changes are made to the guide.</p>
+          <button class="btn-primary" id="btn-back-after-submit">Back to the guide</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       SCREEN: ADMIN PANEL
+  ============================================================ -->
+  <div id="screen-admin" class="screen hidden">
+    <div class="admin-header-bar">
+      <button class="btn-back" id="btn-back-admin">&#8592; Back to guide</button>
+      <h2>&#128274; Admin Panel</h2>
+    </div>
+    <div class="admin-content">
+      <div class="admin-tabs">
+        <button class="admin-tab active" data-tab="pending">Pending <span id="pending-count" class="tab-badge">0</span></button>
+        <button class="admin-tab" data-tab="reviewed">Reviewed <span id="reviewed-count" class="tab-badge">0</span></button>
+        <button class="admin-tab" data-tab="spotted">Spotted</button>
+      </div>
+
+      <div id="tab-pending" class="admin-tab-content active">
+        <div id="pending-list" class="admin-submissions">
+          <p class="admin-empty">No pending submissions.</p>
+        </div>
+      </div>
+
+      <div id="tab-reviewed" class="admin-tab-content hidden">
+        <div id="reviewed-list" class="admin-submissions">
+          <p class="admin-empty">No reviewed submissions.</p>
+        </div>
+      </div>
+
+      <div id="tab-spotted" class="admin-tab-content hidden">
+        <h3>Spotted counts (this device)</h3>
+        <div id="spotted-list" class="spotted-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       PHOTO LIGHTBOX
+  ============================================================ -->
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+    <div class="lightbox-inner">
+      <img id="lightbox-img" src="" alt="">
+      <p id="lightbox-caption" class="lightbox-caption"></p>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       SCREEN: LOCATIONS
+  ============================================================ -->
+  <div id="screen-locations" class="screen hidden">
+    <div class="detail-header-bar">
+      <button class="btn-back" id="btn-back-locations">&#8592; Back</button>
+      <button class="btn-icon" id="btn-locations-submit">+ Suggest Addition</button>
+    </div>
+    <div class="locations-content">
+
+      <div class="locations-intro">
+        <div class="guide-emblem" style="font-size:2rem;margin-bottom:8px">&#128205;</div>
+        <h1>Our Locations</h1>
+        <p>This guide focuses on wildlife spotted at two special local sites, plus South UK generally. Each has its own character and seasonal highlights.</p>
+      </div>
+
+      <div class="location-card">
+        <div class="location-card-header old-down-header">
+          <h2>Old Down</h2>
+          <span class="loc-badge">Basingstoke</span>
+        </div>
+        <div class="location-card-body">
+          <div class="location-stats">
+            <div class="loc-stat"><span class="loc-stat-num">24</span><span class="loc-stat-label">acres</span></div>
+            <div class="loc-stat"><span class="loc-stat-num">12ha</span><span class="loc-stat-label">chalk grassland</span></div>
+            <div class="loc-stat"><span class="loc-stat-num">🦋</span><span class="loc-stat-label">priority site</span></div>
+          </div>
+          <p>Old Down is a remarkable 24-acre site of calcareous (chalk) grassland on the southern edge of Basingstoke. At its heart is a wildflower meadow rich with native grasses and wildflowers, surrounded by ancient hedgerows, copses, and tree verges that provide habitat corridors for wildlife.</p>
+          <p>The site is one of Hampshire's most important locations for the <strong>Small Blue butterfly</strong>, the county's smallest butterfly, recording some of the highest numbers in the county. Kidney Vetch, its sole food plant, grows here in abundance across the chalk slopes.</p>
+          <p>Spring brings carpets of Cowslips across the grassland, along with early-purple orchids and a succession of wildflowers through summer. Hedgerows of Hawthorn, Blackthorn, and Bramble provide nesting habitat for birds and food for autumn migrants.</p>
+
+          <div class="location-highlights">
+            <h4>Look out for</h4>
+            <div class="highlight-tags">
+              <span class="highlight-tag">Small Blue</span>
+              <span class="highlight-tag">Cowslip</span>
+              <span class="highlight-tag">Chalkhill Blue</span>
+              <span class="highlight-tag">Marbled White</span>
+              <span class="highlight-tag">Common Spotted Orchid</span>
+              <span class="highlight-tag">Kestrel</span>
+              <span class="highlight-tag">Skylark</span>
+            </div>
+          </div>
+
+          <div class="location-seasons">
+            <h4>Best times to visit</h4>
+            <div class="season-row"><span class="season-chip spring">Spring</span> Cowslips, early butterflies, nesting birds: April to May</div>
+            <div class="season-row"><span class="season-chip summer">Summer</span> Peak butterfly season, orchids, full meadow: June to August</div>
+            <div class="season-row"><span class="season-chip autumn">Autumn</span> Haws and sloes, migrant birds, fungi: September to October</div>
+          </div>
+
+          <div class="location-footer">
+            <p class="location-managed">Managed by volunteer work parties every Thursday (10am–12pm) and monthly weekends. All welcome.</p>
+            <a href="https://naturalbasingstoke.org.uk/conservation-groups-sites/old-down-beggarwood-wildlife-group/" class="location-link" target="_blank" rel="noopener">naturalbasingstoke.org.uk &#8599;</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="location-card">
+        <div class="location-card-header sholing-header">
+          <h2>Sholing Valley</h2>
+          <span class="loc-badge">Southampton</span>
+        </div>
+        <div class="location-card-body">
+          <div class="location-stats">
+            <div class="loc-stat"><span class="loc-stat-num">LNR</span><span class="loc-stat-label">nature reserve</span></div>
+            <div class="loc-stat"><span class="loc-stat-num">1000+</span><span class="loc-stat-label">species recorded</span></div>
+            <div class="loc-stat"><span class="loc-stat-num">🌿</span><span class="loc-stat-label">urban wildlife</span></div>
+          </div>
+          <p>Sholing Valley Local Nature Reserve is a hidden gem tucked within suburban Southampton, a mosaic of ancient woodland, acid grassland, wetland fen, and scrub that supports an astonishing diversity of wildlife for an urban site.</p>
+          <p>The valley's acidic soils support heathland plants and specialist invertebrates rarely found in the wider Southampton area. The stream corridor creates a wet habitat that attracts dragonflies, damselflies, and amphibians including the Common Frog.</p>
+          <p>Over 1,000 species have been recorded in the valley, including numerous invertebrate species not otherwise found in the city. The ancient woodland holds veteran trees supporting lichens, mosses, and hole-nesting birds.</p>
+
+          <div class="location-highlights">
+            <h4>Look out for</h4>
+            <div class="highlight-tags">
+              <span class="highlight-tag">Common Frog</span>
+              <span class="highlight-tag">Dragonflies</span>
+              <span class="highlight-tag">Red Kite</span>
+              <span class="highlight-tag">Peacock Butterfly</span>
+              <span class="highlight-tag">Stinging Nettle</span>
+              <span class="highlight-tag">Bramble</span>
+              <span class="highlight-tag">Cow Parsley</span>
+            </div>
+          </div>
+
+          <div class="location-seasons">
+            <h4>Best times to visit</h4>
+            <div class="season-row"><span class="season-chip spring">Spring</span> Frog spawn, Cow Parsley, first butterflies: March to May</div>
+            <div class="season-row"><span class="season-chip summer">Summer</span> Dragonflies, grassland flowers, invertebrates: June to August</div>
+            <div class="season-row"><span class="season-chip autumn">Autumn</span> Fungi, berry-laden scrub, fungi: September to November</div>
+          </div>
+
+          <div class="location-footer">
+            <p class="location-managed">Volunteer days are held twice a month (excluding August and December).</p>
+            <ul class="volunteer-sessions">
+              <li><strong>Last Sunday of each month,</strong> 10am–3pm. Lunch is provided.</li>
+              <li><strong>Last Friday of each month,</strong> 10am–3pm. Please bring your own lunch.</li>
+            </ul>
+            <a href="https://sholingvalleyslnr.wixsite.com/sholing/about-us" class="location-link" target="_blank" rel="noopener">sholingvalleyslnr.wixsite.com &#8599;</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="location-card">
+        <div class="location-card-header southuk-header">
+          <h2>South UK General</h2>
+          <span class="loc-badge">Hampshire &amp; surrounds</span>
+        </div>
+        <div class="location-card-body">
+          <p>Species marked as South UK General are widespread across Hampshire, Wiltshire, Dorset, and neighbouring counties. These are the common wildflowers, birds, and invertebrates you're likely to encounter on any walk in southern England, in hedgerows, gardens, woodland edges, and farmland.</p>
+          <p>If you spot something not recorded at Old Down or Sholing Valley, select South UK General when submitting a sighting suggestion.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
