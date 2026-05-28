@@ -219,7 +219,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "cowslip",
@@ -255,12 +256,12 @@
       "limestone-grassland"
     ],
     "summary": "Golden yellow drooping flower clusters on chalk grassland — an indicator of ancient, undisturbed meadows. The orange spots inside each flower are diagnostic.",
-    "full_description": "Cowslips (Primula veris) are charming low-growing plants of chalk and limestone grasslands, old meadows, and field edges. Reaching only 10–25cm tall, they emerge in early spring as a rosette of wrinkled, oblong leaves before sending up flowering stems in April. The golden yellow flowers droop in characteristic one-sided clusters of 5–30 blooms — each bell-shaped with five notched petals. Crucially, if you look inside each flower, you will see orange or red spots at the petal base — these spots are the best diagnostic feature, distinguishing Cowslips from the similar Primrose. The sweet, light fragrance is noticeable on warm spring days. Cowslips are an indicator species of ancient, undisturbed chalk grassland and have declined significantly due to agricultural improvement. They are culturally important in England, traditionally used in folk medicine and as a symbol of spring.",
+    "full_description": "Cowslips (Primula veris) are charming low-growing plants of chalk and limestone grasslands, old meadows, and field edges. Reaching only 10–25cm tall, they emerge in early spring as a rosette of wrinkled, oblong leaves before sending up flowering stems in April. The golden yellow flowers droop in characteristic one-sided clusters — each bell-shaped bloom has five notched petals and, crucially, orange or red spots at the petal base. Those spots are the best diagnostic feature, distinguishing Cowslips instantly from the similar Primrose. A sweet, light fragrance hangs over good patches on warm spring afternoons.\n\nCowslips are a reliable indicator of ancient, undisturbed chalk grassland. They cannot survive fields that have been ploughed or heavily fertilised, so large populations — like those at Old Down — tell you the grassland has been relatively undisturbed for many decades. At Old Down, Cowslips appear in April as one of the first great wildflower events of spring, sometimes carpeting entire slopes in golden yellow before most other flowers have opened.\n\nThe relationship between Cowslips and the Duke of Burgundy butterfly is one of nature's most specific partnerships: caterpillars feed almost exclusively on Cowslip and Primrose leaves, making good Cowslip populations essential for this nationally scarce butterfly, historically recorded at Old Down. The long-tongued Bombus hortorum (Garden Bumblebee) can reach nectar deep in the narrow flower tube that shorter-tongued insects cannot access, giving it a private food source in early spring.",
     "danger_level": "low",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native throughout England and Wales, preferring chalky or limestone soils. Scarce in Scotland and north England. Common at Old Down and similar chalk grassland sites.",
-    "wildlife_value": "A critical early nectar source for insects emerging from winter dormancy. Visited heavily by early bumblebees, honeybees, Orange-tip butterflies, and hoverflies. Some bee species (including Bombus hortorum) have tongues long enough to reach the nectar in the narrow flower tube.",
+    "wildlife_value": "A critical early nectar source for insects emerging from winter dormancy. Visited by early bumblebees, honeybees, Orange-tip butterflies, and hoverflies. The Garden Bumblebee (Bombus hortorum) has a tongue long enough to reach nectar deep in the flower tube. The leaves are the sole larval food plant for the Duke of Burgundy butterfly, a nationally scarce species historically recorded at Old Down.",
     "pollinators_supported": [
       "bumblebee",
       "honey-bee",
@@ -456,7 +457,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "small-blue",
@@ -689,7 +691,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": true
   },
   {
     "id": "stinging-nettle",
@@ -901,7 +904,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "hawthorn",
@@ -1217,7 +1221,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "red-kite",
@@ -1252,7 +1257,8 @@
     "weather_flag": false,
     "weather_note": "",
     "locations": [
-      "south-uk"
+      "south-uk",
+      "old-down"
     ],
     "habitat_tags": [
       "open-countryside",
@@ -1451,7 +1457,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "bramble",
@@ -1712,7 +1719,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "seven-spot-ladybird",
@@ -1976,7 +1984,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "common-frog",
@@ -2281,7 +2290,8 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": false
   },
   {
     "id": "skylark",
@@ -2514,6 +2524,2287 @@
       }
     ],
     "verified": true,
-    "date_added": "2026-05-22"
+    "date_added": "2026-05-22",
+    "featured": true
+  },
+  {
+    "id": "oxeye-daisy",
+    "common_names": [
+      "Oxeye Daisy",
+      "Dog Daisy",
+      "Moon Daisy"
+    ],
+    "latin_name": "Leucanthemum vulgare",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "roadside",
+      "field-edge"
+    ],
+    "summary": "Tall white daisies with golden yellow centres that stand above the summer grassland at Old Down in great drifts. One of Britain's most cheerful wildflowers — and a magnet for hoverflies, bees, and beetles.",
+    "full_description": "Oxeye Daisy (Leucanthemum vulgare) is one of the most recognisable wildflowers in Britain — the classic large daisy of summer meadows, with bright white ray petals surrounding a golden yellow disc. Plants grow 30–70cm tall, with slightly waxy toothed leaves that clasp the stem, and can form dense colonies in undisturbed grassland. Individual flowers are 3–5cm across, much larger than any other common white daisy, and held on long unbranched stems.\n\nAt Old Down, Oxeye Daisy produces spectacular displays across the chalk grassland from June through July. It thrives in the low-nutrient, well-drained chalk soil and is one of the easiest ways to spot ancient, unimproved meadow — it struggles where soil has been enriched with fertiliser. The flowers are open-structured and produce large amounts of pollen and nectar accessible to a wide range of insects, making patches of Oxeye Daisy some of the best places at Old Down to watch insects in summer.\n\nOxeye Daisy can be confused with similar-looking relatives like Scentless Mayweed, but is distinguished by its larger flowers, clasping stem-leaves, and taller growth. It is also noticeably scentless — crush the leaves and they have a faint, slightly aromatic smell, but nothing like the pineapple scent of Pineapple Mayweed.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK in meadows, grasslands, roadsides, and disturbed ground, especially on well-drained and chalk soils. One of the most common meadow wildflowers where grassland is unimproved.",
+    "wildlife_value": "One of the most visited flowers at Old Down in summer. The open disc provides abundant pollen and nectar accessible to hoverflies, solitary bees, bumblebees, beetles, and many butterfly species including Meadow Brown and Common Blue. Seed heads are eaten by finches in late summer.",
+    "pollinators_supported": [
+      "hoverfly",
+      "solitary-bee",
+      "bumblebee",
+      "beetle",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "meadow-brown",
+      "common-blue",
+      "hoverfly",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "In spring, Oxeye Daisy grows as a flat rosette of deeply toothed, slightly waxy dark green leaves close to the ground. The leaves are spoon-shaped with rounded teeth. At this stage it can be confused with other rosette plants, but the leaf shape is distinctive.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Stems rise to 30–70cm and produce the large white-and-gold daisy flowers. At peak flowering in June–July, Old Down grassland can be dotted with hundreds of flowers simultaneously. Each flower head is 3–5cm across with 15–30 white ray florets surrounding the golden disc. Flowers close slightly in dull weather and fully at night.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Oxeye Daisy close-up showing white ray petals and golden disc"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/20220522_Leucanthemum_vulgare_02.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Oxeye Daisy in grassland habitat"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "After flowering, the ray petals fall and the central disc forms a small seed head. Seeds are ribbed and cylindrical, dispersed by wind and animals. Plants die back in autumn but re-grow strongly the following spring.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "scentless-mayweed",
+        "similarity_note": "Both white-rayed daisies common in summer",
+        "key_difference": "Scentless Mayweed is smaller (1–2cm flowers), has very finely divided feathery leaves, and a hollow domed centre disc. Oxeye Daisy has larger flowers, solid stem, and clasping toothed leaves.",
+        "time_of_year_note": "Both flower June–September",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Oxeye Daisy — classic white and gold summer flower"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/20220522_Leucanthemum_vulgare_02.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Oxeye Daisy in chalk grassland"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "common-knapweed",
+    "common_names": [
+      "Common Knapweed",
+      "Black Knapweed",
+      "Hardheads"
+    ],
+    "latin_name": "Centaurea nigra",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "roadside",
+      "field-edge",
+      "hedgerow"
+    ],
+    "summary": "Deep purple thistle-like flowers that attract an extraordinary range of butterflies to Old Down in summer. Watch a patch of Knapweed on a warm July day and you might count six or seven butterfly species in an hour.",
+    "full_description": "Common Knapweed (Centaurea nigra) is one of the most ecologically valuable wildflowers of chalk grassland. Reaching 30–90cm tall, it has stiff branched stems, slightly rough oblong leaves, and produces tough, brush-like purple flower heads from July through September. The flower head has a distinctive blackish-brown papery base (the 'knap'), giving the plant its name. Flowers are deep reddish-purple, resembling a small thistle but with no spines on the leaves.\n\nAt Old Down, Common Knapweed is one of the signature plants of high summer. On warm days in July and August, single clumps can attract Marbled White, Meadow Brown, Common Blue, Small Skipper, and Gatekeeper butterflies simultaneously — along with dozens of bumblebees and hoverflies. The flowers produce abundant nectar accessible to many insects, and the ripe seed heads are important food for Goldfinches in late summer and autumn.\n\nCommon Knapweed is sometimes confused with Greater Knapweed (Centaurea scabiosa), which also grows at Old Down. Greater Knapweed has conspicuous outer florets that spread out in rays around the flower head — like a crown — and deeply divided, feathery leaves. Common Knapweed has a simpler, brush-like flower head with no ray florets, and less divided leaves.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout England and Wales in meadows, grasslands, and roadsides, especially on well-drained soils including chalk. One of the signature species of lowland meadow and chalk grassland habitats.",
+    "wildlife_value": "One of the most important nectar plants at Old Down. Visited by Marbled White, Meadow Brown, Common Blue, Gatekeeper, and Small Skipper butterflies, as well as multiple bumblebee species and hoverflies. Seed heads are eaten by Goldfinch and other finches. Caterpillars of several moth species feed on the leaves and stems.",
+    "pollinators_supported": [
+      "bumblebee",
+      "butterfly",
+      "hoverfly",
+      "solitary-bee"
+    ],
+    "food_source_for": [
+      "marbled-white",
+      "meadow-brown",
+      "common-blue",
+      "gatekeeper",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Vegetative",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Knapweed grows as clumps of rough, oblong leaves in spring. The leaves are slightly grey-green with a rough texture. Stems begin to elongate in May–June before flowering begins.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "The classic reddish-purple flower heads open from July, each on a tough stiff stem. The blackish-brown bracts at the base of each flower head are diagnostic — squeeze one gently and feel the stiff papery scales. At peak flowering a single established plant can carry 10–20 flower heads simultaneously.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Centaurea_nigra_2_RF.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Common Knapweed flowers in chalk grassland"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Centaurea_nigra_019.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 8,
+            "caption": "Common Knapweed close-up showing the distinctive blackish bracts"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          9,
+          10
+        ],
+        "description": "After flowering, the heads become papery seed heads that Goldfinches prize highly in autumn. Each seed has a small tuft of bristles and is spread by wind. The dried stems persist through winter, providing structure in the landscape.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "greater-knapweed",
+        "similarity_note": "Both Centaurea species growing in the same habitats at Old Down",
+        "key_difference": "Greater Knapweed (Centaurea scabiosa) has larger flowers with conspicuous spreading outer ray florets forming a fringe, and deeply divided, feathery leaves. Common Knapweed has a simpler brush-like flower head with no rays, and less divided leaves.",
+        "time_of_year_note": "Both flower July–September",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Centaurea_nigra_2_RF.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Common Knapweed — one of Old Down's best butterfly nectar plants"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Centaurea_nigra_019.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 8,
+        "caption": "Common Knapweed showing dark bracts at flower base"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "birds-foot-trefoil",
+    "common_names": [
+      "Bird's-foot Trefoil",
+      "Eggs and Bacon",
+      "Bacon and Eggs"
+    ],
+    "latin_name": "Lotus corniculatus",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "field-edge",
+      "path-side"
+    ],
+    "summary": "Small but enormously important — this is the only food plant for Small Blue caterpillars. The bright yellow flowers tipped with orange-red give it the nickname 'Eggs and Bacon'. Grow on the chalk slopes and search carefully for the tiny black eggs laid on the flower buds.",
+    "full_description": "Bird's-foot Trefoil (Lotus corniculatus) is a low-growing member of the pea family, rarely reaching more than 30cm tall. It has small trefoil (three-leaflet) leaves with two additional leaflets at the leaf base — technically making it five-leafed. The bright yellow flowers are held in clusters of 2–7 and are streaked or tipped with orange-red, giving the plant its vivid nickname. When the seed pods ripen they spread in a claw-like pattern, like a bird's foot — the origin of the other common name.\n\nAt Old Down, Bird's-foot Trefoil is one of the most ecologically critical plants on the site. It is the sole larval food plant for the Small Blue butterfly — the only plant the caterpillars will eat — and also used by Common Blue caterpillars. Without good populations of Bird's-foot Trefoil on the chalk slopes, neither butterfly could survive here. It grows in low, well-drained turf and thrives where rabbit grazing keeps the grass short — which is one reason rabbits are so important to the ecology of Old Down.\n\nThe flowers are excellent for watching insects: bumblebees, particularly the long-tongued Garden Bumblebee, feed on the nectar, and several moth species use it as a caterpillar food plant. On warm summer days, Small Blue adults can often be found nectaring on the very plants their caterpillars depended on the previous year.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK in short grassland, especially on well-drained and chalk soils. Common on roadsides, meadows, and coastal cliffs. Thrives in low-nutrient conditions.",
+    "wildlife_value": "The sole larval food plant for Small Blue butterfly caterpillars — one of the most specific ecological relationships at Old Down. Also used by Common Blue caterpillars and the Six-spot Burnet moth. Excellent nectar source for bumblebees, especially long-tongued species. Fixes atmospheric nitrogen, improving soil quality for surrounding plants.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "small-blue",
+      "common-blue",
+      "six-spot-burnet-moth"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "orange"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "brown",
+      "black"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Vegetative",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "Low spreading mats of trefoil leaves emerge in spring. The leaves are small, bright green, and slightly hairy. The plant grows close to the ground, spreading outward from a central taproot.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Clusters of 2–7 pea-like flowers appear from June through August. Each flower is yellow, often tipped or streaked with orange-red, held on a thin stem above the leaves. Look carefully at open flower buds — Small Blue butterflies lay their tiny eggs directly on the flower buds. The eggs are minute white spheres, visible with good eyes or a hand lens.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lotus_corniculatus_kz01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Bird's-foot Trefoil showing the classic yellow-and-orange flowers"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lotus_corniculatus_flowers.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Bird's-foot Trefoil flowers in chalk grassland"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "After flowering, the seed pods develop as slender dark brown pods that spread in a claw or bird's-foot pattern. The pods pop open when ripe and can be heard cracking on hot dry days.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "greater-birds-foot-trefoil",
+        "similarity_note": "A closely related species sometimes growing in the same area",
+        "key_difference": "Greater Bird's-foot Trefoil (Lotus pedunculatus) is taller, up to 60cm, with hollow stems and prefers damp grassland, marshes, and fens rather than dry chalk. Common Bird's-foot Trefoil has solid stems and grows in drier conditions.",
+        "time_of_year_note": "Both flower June–August",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lotus_corniculatus_kz01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Bird's-foot Trefoil — critical food plant for Small Blue caterpillars"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lotus_corniculatus_flowers.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Bird's-foot Trefoil flowers in close-up"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "ribwort-plantain",
+    "common_names": [
+      "Ribwort Plantain",
+      "Ribgrass",
+      "Lamb's Tongue"
+    ],
+    "latin_name": "Plantago lanceolata",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "field-edge",
+      "path-side",
+      "lawn"
+    ],
+    "summary": "The common grassland plant with dark, oval flower heads on tall wiry stems. It can survive heavy trampling because its tough, ribbed leaves grow flat to the ground. Look for the circle of creamy white stamens as the pollen is released.",
+    "full_description": "Ribwort Plantain (Plantago lanceolata) is one of the most abundant wildflowers in British grasslands — easy to overlook, but fascinating once you know it. The leaves form a flat rosette, each leaf narrow-oval with three to five prominent parallel ribs (veins) running along their length — the 'ribwort' of its name. The flower stems are long, slender, and deeply ridged, reaching 10–50cm, and are topped by a dark, oval-cylindrical spike.\n\nThe flowers themselves are tiny but beautiful at close range: as the spike matures, a ring of cream or pale yellow stamens emerges from the bottom of the spike and works its way upward, giving the head a halo-like appearance. The plant is wind-pollinated and releases clouds of pollen — important to know for hay fever sufferers. Seeds are enclosed in a papery capsule that splits to release two seeds.\n\nRibwort Plantain has been used in traditional medicine for centuries — the leaves were applied to wounds as a poultice and contain compounds that may have mild anti-inflammatory properties. The tough, flat rosette survives trampling better than most plants, which is why it appears along well-used paths and in lawns as well as in pristine meadows. At Old Down it grows throughout the chalk grassland and is an important caterpillar food plant for several moth species.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK in almost all grassland, path-side, and disturbed habitats. One of the most widespread plants in temperate climates globally.",
+    "wildlife_value": "Caterpillar food plant for the Heath Fritillary, Glanville Fritillary, and several moth species. Seeds are eaten by Goldfinch and other finches. Pollen is wind-dispersed and very abundant. The plant provides shelter and climbing structure for many small invertebrates in grassland.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "goldfinch",
+      "linnet",
+      "moth-caterpillars"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "brown",
+      "cream"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "The distinctive flat rosette of narrow-ribbed leaves lies close to the ground. Each leaf has 3–5 prominent parallel veins — run your finger along the leaf and you can feel the ribs clearly. The leaves are tough and slightly hairy, which is why they survive being trodden on.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Plantago_lanceolata_-_Kulna.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Rosette",
+            "month_taken": 4,
+            "caption": "Ribwort Plantain rosette of ribbed leaves"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Long ridged flower stems rise from the rosette, each topped with a dark oval spike 1–4cm long. As each flower matures, a circle of pale cream stamens appears and moves up the spike — this gives the head a halo effect and is the easiest way to see that the plant is in flower. On still days you can see pollen dusting from the anthers.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Plantago_lanceolata_ribwort_plantain_flower_spike_macro.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Ribwort Plantain flower spike showing the ring of cream stamens"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seeding",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "The spike dries and turns brown. Small papery seed capsules each hold two seeds. Goldfinches and linnets pick at the dried heads through late summer and autumn.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "greater-plantain",
+        "similarity_note": "Another common plantain often growing in the same locations",
+        "key_difference": "Greater Plantain (Plantago major) has broad oval leaves and a long narrow cylindrical spike on a stout, un-ridged stem. Ribwort Plantain has narrow lance-shaped leaves and an oval stubby spike on a furrowed stem.",
+        "time_of_year_note": "Both flower May–October",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Plantago_lanceolata_-_Kulna.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Rosette",
+        "month_taken": 4,
+        "caption": "Ribwort Plantain rosette showing ribbed leaves"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Plantago_lanceolata_ribwort_plantain_flower_spike_macro.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Ribwort Plantain flower spike with stamens"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "dandelion",
+    "common_names": [
+      "Dandelion"
+    ],
+    "latin_name": "Taraxacum officinale agg.",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "garden",
+      "roadside",
+      "path-side",
+      "lawn"
+    ],
+    "summary": "One of Britain's most important wildflowers — not a weed. Golden flowers in early spring are a lifeline for queen bumblebees just waking from winter. The round white clock seed heads are irresistible to blow and each one carries seeds that can travel kilometres on the wind.",
+    "full_description": "The Dandelion (Taraxacum officinale agg.) is one of the most ecologically valuable and overlooked wildflowers in Britain. What looks like a single golden flower is actually a composite head of 100–200 tiny individual flowers, each containing both pollen and nectar. The deeply toothed leaves — 'dent de lion' (lion's tooth in French) is the origin of the name — grow in a flat rosette, with the teeth pointing back towards the centre. All parts produce a milky white latex sap when broken. Plants can grow 5–40cm tall.\n\nIn early spring, Dandelions are one of the first flowers to open after winter, often by February in mild weather. At this time they provide an absolutely critical food source for queen bumblebees that have recently emerged from hibernation and need energy before they can establish their new colonies. Without early-flowering plants like Dandelions, queen bumblebees may fail. They are also one of the first nectar sources for Orange-tip and Small Tortoiseshell butterflies. Dandelions continue flowering sporadically through summer and autumn, with a second peak in late summer.\n\nThe seed clock — a perfect sphere of parachuted seeds — is an engineering masterpiece. Each seed has a parachute of fine bristles (a pappus) that generates a vortex ring in the air, allowing seeds to stay aloft far longer than their weight would suggest. A single plant can produce 200 seeds per head, with several heads per plant. Goldfinches and other finches eat the seeds before they fully disperse. Note: Dandelion is technically an aggregate species — there are actually hundreds of micro-species within the Taraxacum group, distinguishable only by specialists.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK in almost every habitat. Abundant in meadows, lawns, roadsides, and disturbed ground. One of the most widespread plants in the northern hemisphere.",
+    "wildlife_value": "Critical early nectar and pollen source for queen bumblebees emerging from hibernation in February–March. Visited by over 100 species of insect including many specialist mining bees. Seeds eaten by Goldfinch, Linnet, and Greenfinch. Leaves eaten by many moth caterpillars and by rabbits. One of the most important plants for urban and rural wildlife alike.",
+    "pollinators_supported": [
+      "bumblebee",
+      "honey-bee",
+      "solitary-bee",
+      "hoverfly",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "bumblebee-queen",
+      "goldfinch",
+      "linnet",
+      "orange-tip",
+      "small-tortoiseshell"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The deeply toothed, strap-shaped leaves form a flat rosette at ground level, present all year in mild conditions. The lobes of each leaf point backwards towards the base — run your finger from tip to base and feel them pointing back like the teeth of a lion (dent de lion). Snap a leaf and white milky latex sap oozes out.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Taraxacum_officinale_leaf2_%2816189358420%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Rosette",
+            "month_taken": 4,
+            "caption": "Dandelion leaves showing the deeply toothed 'lion's tooth' lobes"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "The hollow, leafless flower stems rise from the rosette, each topped with a single golden flower head made up of 100–200 individual ray florets. Flowers close at night and in dull weather. On sunny days they open fully and are covered in insects. The first flowers can appear as early as February in mild years.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Taraxacum_officinale_flower.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Dandelion flower in full bloom"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seed clock",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "After flowering, the golden head closes for a day or two before reopening as the perfect spherical seed clock — a globe of white parachuted seeds, each attached to a single seed by a stalk of fine bristles. The whole structure is 3–5cm across. On still days seeds drift slowly upward; on windy days they can travel hundreds of metres. Count the puffs it takes to blow all the seeds off — and check the time!",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dandelion_clock.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Seed clock",
+            "month_taken": 5,
+            "caption": "Dandelion clock — perfect sphere of parachuted seeds"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dandelion_seed_head.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Seed clock",
+            "month_taken": 5,
+            "caption": "Dandelion seed head close-up showing parachute bristles"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "cats-ear",
+        "similarity_note": "Both produce yellow dandelion-type flowers in grassland",
+        "key_difference": "Cat's-ear (Hypochaeris radicata) has branched flower stems (Dandelion stems are unbranched), solid stems (Dandelion stems are hollow), and smaller rougher leaves with rounder lobes. Cat's-ear also has small scale-like leaves on the stem.",
+        "time_of_year_note": "Both flower spring–autumn, Cat's-ear peaks June–September",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Taraxacum_officinale_flower.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 4,
+        "caption": "Dandelion — one of Britain's most important early wildflowers"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dandelion_clock.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Seed clock",
+        "month_taken": 5,
+        "caption": "Dandelion clock — perfect sphere ready for dispersal"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dandelion_seed_head.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Seed clock",
+        "month_taken": 5,
+        "caption": "Dandelion seed parachutes close-up"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Taraxacum_officinale_leaf2_%2816189358420%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Rosette",
+        "month_taken": 4,
+        "caption": "Dandelion leaves — deeply toothed like a lion's teeth"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "blackthorn",
+    "common_names": [
+      "Blackthorn",
+      "Sloe"
+    ],
+    "latin_name": "Prunus spinosa",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      9,
+      10
+    ],
+    "weather_flag": true,
+    "weather_note": "White blossom appears before the leaves and can open anywhere from late February in warm years to late April in cold springs. 'Blackthorn winter' is the cold spell that sometimes returns when Blackthorn is in bloom.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "scrub",
+      "woodland-edge",
+      "chalk-grassland-edge"
+    ],
+    "summary": "The shrub that turns pure white before it even has leaves in spring — the blossom appears on black, bare spiny branches, creating one of the most dramatic sights in the early hedgerow. Then in autumn the same branches are covered in dark blue-black sloe berries.",
+    "full_description": "Blackthorn (Prunus spinosa) is a dense, thorny shrub or small tree that is one of the most important components of chalk grassland hedgerows and scrub. It can grow to 5m tall and spreads by suckers, forming impenetrable thickets. The branches are very dark, almost black, with stiff sharp spines — the 'blackthorn' of its name, contrasting with the white-barked Hawthorn. The leaves are small, oval, and finely toothed, appearing after the blossom.\n\nThe timing of Blackthorn blossom is one of the most dramatic events in the spring hedgerow. Before a single leaf has opened, the bare black branches become smothered in pure white 5-petalled flowers in March or April, creating a cloud of white visible from a distance. This cold, bright-blossomed period is often called a 'Blackthorn winter' because a cold spell frequently accompanies or follows the blossom. The timing varies significantly year to year — by several weeks — depending on spring temperatures.\n\nIn autumn, the transformation is equally dramatic: the blossom positions are replaced by sloe berries — dark blue-black, heavily bloomed (with a waxy powder coating), and very astringent if eaten raw. After the first frosts, the sloes soften and become less sharp, and are the basis of sloe gin. Thrushes, Fieldfares, and Redwings eat sloes enthusiastically in autumn. The dense, thorny thickets provide nesting sites for Yellowhammer, Whitethroat, and Linnet at Old Down.",
+    "danger_level": "low",
+    "danger_note": "The thorns are sharp and can cause deep puncture wounds. Blackthorn thorns are known to cause infection if they break off under the skin. Handle with care when working near these shrubs.",
+    "danger_type": "physical-hazard",
+    "native_info": "Native throughout the UK in hedgerows, woodland edges, scrub, and chalk and limestone downland. One of the most important native shrubs for wildlife.",
+    "wildlife_value": "Provides critical early pollen and nectar for queen bumblebees, mining bees, and early butterflies when few other plants are in flower. Sloe berries are a major food source for thrushes (Fieldfare, Redwing, Blackbird) in autumn and winter. Dense thorny thickets provide safe nesting for Yellowhammer, Whitethroat, and Linnet. Caterpillars of Brown Hairstreak butterfly feed exclusively on young Blackthorn shoots.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "honey-bee",
+      "hoverfly"
+    ],
+    "food_source_for": [
+      "fieldfare",
+      "redwing",
+      "blackbird",
+      "yellowhammer",
+      "brown-hairstreak"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "black",
+      "blue",
+      "purple"
+    ],
+    "colour_bark_stem": [
+      "black",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Winter / Dormant",
+        "months_typical": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "In winter, Blackthorn is a stark dark shrub of nearly black bare spiny branches. The darkness of the stems is distinctive and gives the plant its name. The very dark stems contrast sharply with the grey-white bark of Hawthorn in the same hedgerow.",
+        "photos": []
+      },
+      {
+        "stage_name": "Blossom",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "One of the most spectacular events in the early hedgerow — pure white 5-petalled flowers covering the bare black branches before a single leaf has appeared. Each flower is 1–1.5cm across with prominent yellow stamens. The blossom can appear as early as late February in warm years. This is the most reliable time to identify the plant with certainty.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Prunus_spinosa_-_geograph.org.uk_-_1775498.jpg",
+            "credit": "Wikimedia Commons / Wikimedia Contributors",
+            "licence": "CC-BY-SA",
+            "life_stage": "Blossom",
+            "month_taken": 3,
+            "caption": "Blackthorn in full blossom on bare branches — one of spring's most dramatic hedgerow sights"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prunus_spinosa_-_geograph.org.uk_-_740445.jpg",
+            "credit": "Wikimedia Commons / Wikimedia Contributors",
+            "licence": "CC-BY-SA",
+            "life_stage": "Blossom",
+            "month_taken": 4,
+            "caption": "Blackthorn blossom close-up showing the characteristic pure white flowers"
+          }
+        ]
+      },
+      {
+        "stage_name": "Leafed",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "After blossom, small oval, finely toothed leaves appear. The shrub is now green, denser and less distinctive. Look for the sharp spines — these are true spines (modified branches) and are very stiff and sharp. In summer, developing sloe berries can be seen as small hard green spheres.",
+        "photos": []
+      },
+      {
+        "stage_name": "Sloe berries",
+        "months_typical": [
+          9,
+          10,
+          11
+        ],
+        "description": "The berries turn from green to dark blue-black and develop a waxy bloom (pale grey powder coating). Ripe sloes in October are beautiful — dark, round, and covered in this misty bloom. They are very astringent raw, but after the first frosts (or a night in the freezer) the flesh softens slightly. Thrushes, Fieldfares, and Redwings descend on ripe sloe bushes in October.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sloe_berries_%28Prunus_spinosa_%29_-_geograph.org.uk_-_1559371.jpg",
+            "credit": "Wikimedia Commons / Wikimedia Contributors",
+            "licence": "CC-BY-SA",
+            "life_stage": "Sloe berries",
+            "month_taken": 10,
+            "caption": "Ripe sloe berries with characteristic waxy bloom"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "hawthorn",
+        "similarity_note": "Both thorny shrubs growing in the same hedgerows at Old Down",
+        "key_difference": "Hawthorn flowers after its leaves appear (May), while Blackthorn flowers before any leaves (March–April). Hawthorn has grey-brown bark and red berries (haws). Blackthorn has very dark nearly black bark and blue-black berries (sloes).",
+        "time_of_year_note": "Blossom timing is the clearest separation: Blackthorn = March–April, bare branches; Hawthorn = May, with leaves",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Prunus_spinosa_-_geograph.org.uk_-_1775498.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Blossom",
+        "month_taken": 3,
+        "caption": "Blackthorn blossom on bare black branches — a sign of very early spring"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prunus_spinosa_-_geograph.org.uk_-_740445.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Blossom",
+        "month_taken": 4,
+        "caption": "Blackthorn blossom close-up"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sloe_berries_%28Prunus_spinosa_%29_-_geograph.org.uk_-_1559371.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Sloe berries",
+        "month_taken": 10,
+        "caption": "Ripe sloe berries with waxy blue-black bloom"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "kestrel",
+    "common_names": [
+      "Kestrel",
+      "Common Kestrel",
+      "Windhover"
+    ],
+    "latin_name": "Falco tinnunculus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "farmland",
+      "open-ground",
+      "roadside"
+    ],
+    "summary": "The hovering falcon — kestrels can hang motionless in the air while they use ultraviolet vision to track vole runs in the grass below. Old Down's open chalk grassland is perfect hunting ground. Watch the sky above the slope and you will nearly always spot one.",
+    "full_description": "The Kestrel (Falco tinnunculus) is Britain's most familiar bird of prey, and the one most likely to be seen hovering over roadside verges, motorway embankments, and open grasslands. Males have a striking blue-grey head and tail, chestnut-brown back with black spots, and a cream-buff breast with dark streaks. Females and juveniles are brown all over with barring on the back and tail. In flight, the long narrow pointed wings and long tail are distinctive; in a hover, the tail fans out and the wingtips vibrate rapidly while the head stays perfectly still — an extraordinary feat of aerodynamics.\n\nKestrels hunt primarily by hovering 10–30m above the ground, facing into the wind, with their eyesight focused on a remarkably small area of ground. They can detect ultraviolet light, which means they can see the urine trails left by voles — voles mark their runs with urine that reflects UV light strongly, effectively laying out a map of the best hunting spots. When prey is located, the kestrel drops in stages — hover, drop, hover again — before stooping rapidly to catch the prey in its talons.\n\nAt Old Down, Kestrels hunt the open chalk grassland and field margins throughout the year. Their main prey here is Field Voles, with occasional Shrews, large insects (especially in summer), and small birds. Breeding pairs nest in tree holes, cliff ledges, or old crow nests in trees around the site perimeter, with young fledging in June–July. Kestrel populations have declined significantly in lowland England since the 1970s, largely due to agricultural intensification reducing vole habitat — making chalk grassland sites like Old Down increasingly important.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident and widespread throughout the UK. Most common in open habitats including grassland, heathland, farmland, and motorway verges. Has declined by about 50% in lowland England since the 1970s.",
+    "wildlife_value": "Controls Field Vole and Wood Mouse populations. Indicator species for open grassland habitat quality — a Kestrel hunting overhead means there is a healthy grassland invertebrate and small mammal community below. Also preys on large insects, helping regulate invertebrate populations.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "field-vole",
+      "grassland-habitat"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "chestnut-brown",
+      "blue-grey",
+      "cream",
+      "black-spots"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Blue-grey head and tail, chestnut-brown back with black teardrop spots, cream-buff underside with dark streaks. In flight from below, the tail is a clean blue-grey fan. This is the plumage most people associate with the Kestrel.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eurasian_kestrel_2023_03_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult male",
+            "month_taken": 3,
+            "caption": "Male Kestrel showing blue-grey head and chestnut back"
+          }
+        ]
+      },
+      {
+        "stage_name": "Hovering",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The signature behaviour: head completely still while wings beat rapidly and tail fans open. The kestrel faces into the wind and maintains a fixed position in the air, scanning the ground below for movement. The head points downward at a slight angle. This behaviour is easier to see on windy days when less wing-flapping is needed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hovering_%D0%A1ommon_kestrel_%28Falco_tinnunculus%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Hovering",
+            "month_taken": 6,
+            "caption": "Kestrel in classic hover — head perfectly still, wings and tail spread"
+          }
+        ]
+      },
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Young Kestrels leave the nest in June–July and look similar to adult females — brown with barring. They are often seen in late summer practising hovering, sometimes less smoothly than adults. The family group may remain loosely together for several weeks after fledging.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "sparrowhawk",
+        "similarity_note": "Both common raptors at Old Down",
+        "key_difference": "Sparrowhawk has short rounded wings and a long tail — it flies fast through woodland and hedgerows in a series of rapid flaps and glides, never hovering. Kestrel has long pointed wings and hovers regularly. Sparrowhawk has barred underparts.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hovering_%D0%A1ommon_kestrel_%28Falco_tinnunculus%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Hovering",
+        "month_taken": 6,
+        "caption": "Kestrel hovering — the behaviour that makes it instantly identifiable"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eurasian_kestrel_2023_03_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult male",
+        "month_taken": 3,
+        "caption": "Male Kestrel perched, showing blue-grey head and chestnut back"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "robin",
+    "common_names": [
+      "Robin",
+      "European Robin"
+    ],
+    "latin_name": "Erithacus rubecula",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "garden"
+    ],
+    "summary": "Britain's unofficial national bird and one of the most familiar — the orange-red breast is visible from a long way off. Robins are unusually confiding and will often follow people digging or clearing vegetation, waiting for disturbed worms and insects.",
+    "full_description": "The Robin (Erithacus rubecula) is one of Britain's most recognisable birds, with its warm orange-red breast, white belly, brown back, and large, expressive dark eyes. Both male and female have identical plumage — unusually for British birds. Adults are about 14cm long, rounded in shape, and tend to perch upright with a slight lean forward. The song is a rich, wistful, melodic warble, heard in every month of the year including winter, when Robins sing at night under streetlights.\n\nRobins are famously territorial and will vigorously defend their patch against other Robins — a puffed-up chest display to show off the red breast is a threat display, and physical fights do occur. They are also unusually confiding around humans, having evolved alongside animals that disturb soil — historically wild boar, now gardeners and walkers. This is why a Robin will often appear when you dig the garden, perching nearby and darting in for earthworms and beetles.\n\nAt Old Down, Robins inhabit the hedgerows, scrub, and woodland edge around the site perimeter. They nest in low hedgerow, in crevices, or on the ground in dense vegetation, building a cup of dead leaves and moss. Young Robins look completely different to adults — they are brown and heavily spotted, with no red breast at all, which confuses many people who encounter them in summer.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident throughout the UK, one of the most abundant birds. Found in almost all habitats with some shrub or tree cover. Partially migratory — UK Robins are mostly resident but are joined by Continental Robins in winter.",
+    "wildlife_value": "Insectivore, earthworm specialist, and berry-eater in autumn and winter. Controls populations of soil invertebrates. Nest sites and territorial patterns shape the spatial use of hedgerows and scrub at Old Down.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange-red",
+      "brown",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The classic Robin — orange-red breast (the colour is technically orange, not red), brown back, large dark eyes, and white belly. Posture is upright with a slight forward lean. Often bobs up and down nervously. The song is a wistful, cascading warble, quite different from any other garden bird.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/European_robin_%2800500%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 10,
+            "caption": "Robin showing the iconic orange-red breast"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 3,
+            "caption": "Robin with characteristic alert posture and head tilt"
+          }
+        ]
+      },
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Young Robins fledge in May–June and look completely different from adults. They are warm brown all over with pale buff spots on the breast and back — no orange-red at all. The spots are gradually replaced by adult plumage through a moult in late summer. Many people mistake juvenile Robins for a different species entirely.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "dunnock",
+        "similarity_note": "Both small, brown, ground-foraging birds that can appear similar at a glance",
+        "key_difference": "Dunnock is grey on the face and breast with brown streaked back, no orange breast at all. Dunnock creeps mouse-like along the ground; Robin stands more upright. The Dunnock's bill is finer and more pointed.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/European_robin_%2800500%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 10,
+        "caption": "Robin — Britain's most beloved garden bird"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 3,
+        "caption": "Robin in characteristic alert pose"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "blue-tit",
+    "common_names": [
+      "Blue Tit"
+    ],
+    "latin_name": "Cyanistes caeruleus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "garden"
+    ],
+    "summary": "The acrobatic jewel of the hedgerow — a Blue Tit can hang completely upside down from the thinnest twig while it picks off insects and larvae. The vivid blue-and-yellow combination makes it one of Britain's most colourful small birds.",
+    "full_description": "The Blue Tit (Cyanistes caeruleus) is one of Britain's most colourful and familiar small birds — bright blue cap, wings and tail, yellow breast, white cheeks with a dark eye stripe, and a thin dark line running down the yellow belly. Males are slightly brighter than females, but the difference is subtle. Blue Tits are tiny — just 12cm long and about 11 grams — but they are energetic and acrobatic, able to hang upside down on the thinnest twigs to access food.\n\nBlue Tits are particularly important predators of caterpillars in spring. A breeding pair with a nest full of chicks can collect up to 1,000 caterpillars per day from the surrounding trees — and they time their breeding to coincide with the peak of caterpillar emergence from oak trees. If the spring is warm and caterpillars emerge early, but the tits start nesting on the traditional date, they may miss the peak. This timing mismatch, driven by climate change, is one of the most studied ecological problems in British birds.\n\nAt Old Down, Blue Tits are most visible in the hedgerows and scrub around the site perimeter. In autumn and winter they join roving mixed-species flocks with Great Tits, Long-tailed Tits, and Treecreepers, moving through the hedgerow together. The loud, scolding 'tsee-tsee-tsee' alarm call and the 'churring' contact notes are distinctive once learned.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident and abundant throughout England, Wales, and Scotland. Most common in woodland and woodland edge, but adapts well to gardens, hedgerows, and urban areas. One of Britain's most numerous birds.",
+    "wildlife_value": "Major predator of caterpillars, aphids, and other small invertebrates. A single breeding pair may remove tens of thousands of invertebrates from an area during the breeding season. Nest holes used after abandonment by other species including some insects. Seeds of sunflowers and teasels eaten in winter.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "yellow",
+      "white",
+      "green"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Vivid blue cap, wing-coverts and tail; bright yellow breast with a faint dark line down the centre; white cheeks with a dark eye stripe. The blue of the cap can appear almost electric on a sunny day. Both sexes are identical in general appearance, though males tend to be slightly brighter blue on the cap.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+            "credit": "Luc Viatour / Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 3,
+            "caption": "Blue Tit adult showing vivid blue cap and yellow breast"
+          }
+        ]
+      },
+      {
+        "stage_name": "Chick and juvenile",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Eggs are laid in April–May in a nest box or tree hole. Chicks hatch after two weeks and fledge at about three weeks. Juveniles have yellow-green on the face and breast (replacing the white cheeks) and duller blue. They are often seen in family groups in July, noisily following parents through hedgerows.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "great-tit",
+        "similarity_note": "Closely related, often in the same flocks",
+        "key_difference": "Great Tit is larger (14cm vs 12cm), has a bold black stripe running down a yellow breast, a black head with white cheeks, and no blue on the cap or wings. The Great Tit's song is the familiar 'tea-cher tea-cher' repeated call.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyanistes_caeruleus_3_Luc_Viatour.jpg",
+        "credit": "Luc Viatour / Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 3,
+        "caption": "Blue Tit — one of Britain's most colourful small birds"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "woodpigeon",
+    "common_names": [
+      "Woodpigeon",
+      "Common Woodpigeon",
+      "Wood Pigeon"
+    ],
+    "latin_name": "Columba palumbus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "farmland",
+      "meadow",
+      "garden"
+    ],
+    "summary": "Britain's largest and most common pigeon — the clattering rush of wings as a flock launches from the treetops is an unmistakable countryside sound. Look for the distinctive white neck patches that flash in flight. The cooing call is one of the most soothing sounds of the British countryside.",
+    "full_description": "The Woodpigeon (Columba palumbus) is Britain's most abundant pigeon and one of the most numerous birds in the country, with a population of around 5.4 million breeding pairs. It is substantially larger than Feral Pigeon or Stock Dove — 41cm long with a wingspan of 75–80cm — blue-grey above, with a pinkish-grey breast, and the diagnostic white patches on each side of the neck (absent in young birds). In flight, the white crescents on each wing are very visible. The soft, repetitive cooing call — 'coo-COO-coo, coo-coo' — is one of the most characteristic sounds of British countryside and woodland edge.\n\nWoodpigeons are almost entirely herbivorous, eating an enormous variety of plant material including grain, berries, seeds, leaves, and buds. They have a crop — a pouch in the throat — that allows them to carry large volumes of food back to their nest. Young Woodpigeons (squabs) are fed 'crop milk' — a protein-rich liquid produced by both parents from cells lining the crop — which is unusual among birds and means they can breed at almost any time of year when food is available.\n\nAt Old Down, Woodpigeons feed in the open grassland and field edges, and roost and nest in the hedgerows and scrub. They are an important prey item for Peregrine Falcon, which hunts over the site, and for Goshawk in nearby woodland. Large flocks gather on farmland near the site in autumn to feed on harvested fields.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Abundant resident throughout the UK. Found in almost all habitats with trees or hedgerows. Has increased significantly in population since the 1960s. One of Britain's most common birds.",
+    "wildlife_value": "Major prey item for Peregrine Falcon, Goshawk, and Sparrowhawk. Seeds passed through the gut are dispersed widely. Nest sites used by other species. Provides a substantial food source for raptors — the presence of large Woodpigeon flocks near Old Down partly explains the regular Red Kite and occasional Peregrine sightings.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine-falcon",
+      "sparrowhawk",
+      "goshawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue-grey",
+      "pink",
+      "white",
+      "green-iridescent"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Large, heavy-bodied pigeon with blue-grey plumage. The white neck patches are the most distinctive feature — white crescents on each side of the neck with iridescent green-purple plumage below them. The breast is pinkish-grey. In flight, white wing bars flash across each wing. Eyes are pale yellow.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Woodpigeon adult showing the distinctive white neck patches"
+          }
+        ]
+      },
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Young Woodpigeons lack the white neck patches entirely and are slightly duller brown-grey overall. They are often seen in summer following adults and begging for food. The white neck patches develop gradually through the first autumn.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "stock-dove",
+        "similarity_note": "Both medium-large grey pigeons in similar habitats",
+        "key_difference": "Stock Dove is smaller and compact, with no white neck patches and no white wing bars. It has two small black wing bars instead. Frequents old trees with nest holes; less common than Woodpigeon.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Common_Wood_Pigeon_facing_left.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Woodpigeon — the largest and most common UK pigeon"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "rabbit",
+    "common_names": [
+      "Rabbit",
+      "European Rabbit"
+    ],
+    "latin_name": "Oryctolagus cuniculus",
+    "type": "mammal",
+    "native_status": "non-native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "field-edge",
+      "hedgerow",
+      "scrub-edge"
+    ],
+    "summary": "One of the most ecologically important animals at Old Down — rabbits graze the chalk grassland short, which is exactly what rare wildflowers and butterflies need to survive. Without rabbits, coarser grasses would take over and the delicate chalk grassland plants would be smothered. Look for their warrens in the sunny slope banks.",
+    "full_description": "The Rabbit (Oryctolagus cuniculus) was introduced to Britain by the Normans around 1100 AD and is now so thoroughly naturalised that it functions as a native species ecologically. At 40–50cm long, rabbits are easily recognised — brown-grey fur, long ears with black tips, large hind legs, and the distinctive white 'scut' (tail) that flashes as they flee. They are most active at dawn and dusk, though visible throughout the day at undisturbed sites like Old Down.\n\nRabbits are ecosystem engineers at Old Down. By grazing the chalk grassland very short and evenly, they prevent coarser, more competitive grasses from overwhelming the fine-leaved chalk grassland species that rare plants and butterflies depend on. Without rabbit grazing, the grassland at Old Down would gradually be colonised by rank grass, then Bramble and Hawthorn scrub, and the chalk grassland community — including Cowslip, Bird's-foot Trefoil, Small Blue butterfly, and Marbled White — would decline and eventually disappear. Myxomatosis can severely reduce rabbit populations, and when this happens the grassland quality changes noticeably within a few years.\n\nSigns of rabbits are easy to find at Old Down. Warrens — networks of burrows — are visible as holes 10–20cm across with fresh-dug soil around the entrance, often on south-facing slopes where the chalk is near the surface. Round black droppings (about 1cm across) are scattered widely, often in latrine piles. Grazing marks on plants — clean-angled cuts on grass stems and shrub shoots — are also characteristic. Rabbits are important prey for Red Kite, Buzzard, Stoat, Fox, and Kestrel on the site.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Introduced to Britain by the Normans c.1100 AD. Now fully naturalised and one of the most widespread mammals in the UK. Most abundant on chalk, limestone, and sandy soils where burrowing is easy.",
+    "wildlife_value": "Critical ecosystem engineer for chalk grassland — grazing maintains the short, diverse sward that rare plants and butterflies depend on at Old Down. Burrows provide shelter for other species including Rabbits obviously, but also Shelduck, Bumblebee queens, and various invertebrates. Major prey species for Red Kite, Buzzard, Kestrel, Fox, Stoat, and Weasel.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "red-kite",
+      "buzzard",
+      "kestrel",
+      "fox",
+      "stoat"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown-grey",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Brown-grey fur above with pale buff underside; large ears 7–8cm long; powerful hind legs; white 'scut' (tail) that flashes when the animal runs. The white tail is a warning signal to other rabbits. Eyes are large and positioned on the sides of the head, giving a wide field of vision. Look for them in the early morning and evening, sitting up and alert before moving to feed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rabbit_%28Oryctolagus_cuniculus%29_Skomer.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Rabbit on chalk grassland — a key ecosystem engineer at Old Down"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/European_rabbit_%28Oryctolagus_cuniculus%29_Heligan.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "European Rabbit — brown-grey adult showing characteristic large ears"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 4,
+            "caption": "Rabbit showing alert posture and white tail (scut)"
+          }
+        ]
+      },
+      {
+        "stage_name": "Warren and signs",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Warrens are systems of interconnected burrows with entrance holes 10–20cm across, usually on sunny slopes or in hedgerow banks. Fresh soil (spoil) at the entrance indicates active use. Round dark droppings, about 1cm across, are scattered widely around the warren and in latrine piles on prominent spots. Gnawed grass and bark at ground level shows where rabbits have been feeding. Footprints show large hind feet landing in front of the smaller front feet.",
+        "photos": []
+      },
+      {
+        "stage_name": "Kitten / Young",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Young rabbits (called kittens or kits) are born underground from February onwards and emerge at about 3 weeks old. They are miniature versions of adults but rounder, slightly fluffier, and with proportionally larger ears and eyes. Several litters are produced each year — rabbits can breed rapidly when conditions are good.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "brown-hare",
+        "similarity_note": "Both medium-sized brown mammals with long ears in open grassland",
+        "key_difference": "Brown Hare is much larger (50–70cm), with longer black-tipped ears, longer hind legs, and a distinctly black-and-white tail (black on top, white below). Hares live entirely above ground — no warrens — and rely on speed. Hares have a wilder, more powerful look than Rabbits.",
+        "time_of_year_note": "Both present year-round; Hares are less common at Old Down than Rabbits",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rabbit_%28Oryctolagus_cuniculus%29_Skomer.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Rabbit — essential grazer of Old Down's chalk grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/European_rabbit_%28Oryctolagus_cuniculus%29_Heligan.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "European Rabbit adult portrait"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Rabbit showing the white scut (tail) that flashes as a warning signal"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "buff-tailed-bumblebee",
+    "common_names": [
+      "Buff-tailed Bumblebee"
+    ],
+    "latin_name": "Bombus terrestris",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Buff-tailed Bumblebee can be confused with White-tailed Bumblebee (Bombus lucorum), which is very similar but has a cleaner white tail and brighter lemon-yellow bands. The tail colour — buff-orange vs white — is the key difference, but is not always easy to judge in the field.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "garden",
+      "hedgerow"
+    ],
+    "summary": "One of Britain's largest and most important bumblebees. The queen emerges in early spring — sometimes even in January in mild winters — and is enormous compared to other insects at that time of year. Watch Cowslips and Knapweed flowers at Old Down for the constant movement of workers collecting pollen and nectar.",
+    "full_description": "The Buff-tailed Bumblebee (Bombus terrestris) is one of the most abundant and widespread bumblebees in Britain. Queens are very large — up to 22mm long — with a yellow band on the thorax, a second yellow band on the abdomen, and a buff-orange tail. Workers are similar but smaller (11–17mm). Males are smaller still, with a more extensive yellow pattern and a yellow-tipped face. The tail colour varies and can be quite pale in worn individuals, making separation from the White-tailed Bumblebee tricky in the field.\n\nQueen Buff-tailed Bumblebees are among the very first insects to emerge in spring, sometimes flying in January or February in mild weather. After hibernating in a small underground cell, the queen must feed intensively to build up energy reserves before finding a suitable nest site — typically an old mouse hole, compost heap, or underground cavity. She then builds a colony of 200–400 workers through spring and summer, which fan out to forage across a large area. A single worker will visit thousands of flowers per day.\n\nAt Old Down, Buff-tailed Bumblebees are among the key pollinators of Cowslip, Bird's-foot Trefoil, Knapweed, and Bramble. Their workers also visit Red Clover, Vetch species, and a wide range of other flowers. Other bumblebee species also occur at Old Down, including the Red-tailed Bumblebee (Bombus lapidarius) — unmistakable with an all-black body and red tail — and the Early Bumblebee (Bombus pratorum), which is smaller and has an orange tail even earlier in the year.",
+    "danger_level": "low",
+    "danger_note": "Female bumblebees can sting if handled or if their nest is disturbed, but are not aggressive when foraging on flowers. Unlike honey bees, bumblebees can sting multiple times. Leave nests undisturbed.",
+    "danger_type": "sting",
+    "native_info": "Native throughout England, Wales, and southern Scotland. One of Britain's most common bumblebees, present in almost all habitats from gardens to chalk grassland. Colony size 200–400 workers.",
+    "wildlife_value": "One of the most important pollinators in Britain, visiting a huge range of wildflowers. Essential for the pollination of Bramble, White Clover, Bird's-foot Trefoil, and many other plants at Old Down. The long-tongued workers can reach nectar in deeper flowers including Cowslip. Colonies provide food for Badgers who excavate nests for larvae and honeypot stores.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "badger"
+    ],
+    "depends_on": [
+      "wildflower-habitat"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "yellow",
+      "buff-orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Queen (early spring)",
+        "months_typical": [
+          2,
+          3,
+          4
+        ],
+        "description": "The queen is the first sign of Buff-tailed Bumblebee in the year — a large, heavy bee appearing in February–April, flying low over the ground looking for a nest site, or feeding intensively on early flowers like Willowherb, Dandelion, and Blackthorn. She is noticeably larger than any worker bee. One yellow band on the thorax, one on the abdomen, and a buff-orange tail.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bombus_terrestris_queen_-_Tilia_cordata_-_Keila.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Queen",
+            "month_taken": 3,
+            "caption": "Buff-tailed Bumblebee queen foraging — note the large size and buff tail"
+          }
+        ]
+      },
+      {
+        "stage_name": "Workers (summer)",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Workers are much smaller than the queen but share the same yellow-and-buff pattern. They visit flowers constantly, often carrying visible orange pollen baskets (corbiculae) on their hind legs. Watch a Knapweed or Bramble flower at Old Down and workers will pass through every few seconds on a warm day.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bombus_terrestris%2C_bumbar.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Workers",
+            "month_taken": 7,
+            "caption": "Buff-tailed Bumblebee worker on a flower"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "white-tailed-bumblebee",
+        "similarity_note": "Very similar species, often in the same habitat",
+        "key_difference": "White-tailed Bumblebee (Bombus lucorum) has a pure white tail (vs buff-orange), brighter lemon-yellow bands, and is generally slightly smaller. The difference in tail colour can be subtle in faded or worn individuals. Both species occur at Old Down.",
+        "time_of_year_note": "Both fly February–October",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "red-tailed-bumblebee",
+        "similarity_note": "Another common bumblebee at Old Down",
+        "key_difference": "Red-tailed Bumblebee (Bombus lapidarius) is completely distinctive — all-black body with a vivid red-orange tail. No yellow bands on the thorax or abdomen.",
+        "time_of_year_note": "Red-tailed Bumblebee flies April–September",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bombus_terrestris_queen_-_Tilia_cordata_-_Keila.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Queen",
+        "month_taken": 3,
+        "caption": "Buff-tailed Bumblebee queen — note large size and buff-orange tail"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bombus_terrestris%2C_bumbar.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Worker",
+        "month_taken": 7,
+        "caption": "Buff-tailed Bumblebee worker foraging"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "common-blue",
+    "common_names": [
+      "Common Blue Butterfly",
+      "Common Blue"
+    ],
+    "latin_name": "Polyommatus icarus",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Males are unmistakable — electric bright blue with black border and white fringe. Females are mostly brown with variable blue scales near the body and orange spots near the wing margin, and can be confused with Brown Argus or Small Blue females. Both sexes have diagnostic orange spots on the undersides of all wings.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "field-edge"
+    ],
+    "summary": "The male is an electric metallic blue that seems to glow in sunlight — one of the most beautiful sights of British grassland summer. Both sexes have lovely orange-spotted undersides. The caterpillars feed on Bird's-foot Trefoil, so finding the butterfly at Old Down means the chalk grassland is in good shape.",
+    "full_description": "The Common Blue (Polyommatus icarus) is the most widespread blue butterfly in Britain and among the most beautiful. Males have vivid sky-blue upperwings with a narrow black border and white fringe, and seem to glow in sunlight — a blue that is almost impossible to describe in writing. Females are predominantly brown with variable amounts of blue near the wing base and orange spots along the outer margins. Both sexes share the same distinctive underside: pale grey-buff with black spots and a row of vivid orange-red spots near the wing margins — this pattern is the reliable ID feature for both sexes.\n\nThe Common Blue has two broods at Old Down in a good year — the first flies May to June, the second July to September. The caterpillars feed primarily on Bird's-foot Trefoil (Lotus corniculatus), with some use of related legumes. Eggs are laid singly on the upper surface of trefoil leaflets. The caterpillars are green and well-camouflaged, and are tended by ants — the caterpillars have a special gland that produces a liquid the ants drink, and in return the ants protect the caterpillar from predators.\n\nAt Old Down, Common Blue is typically more numerous than Small Blue, and is a strong indicator of chalk grassland quality. On warm sunny days in July, it is possible to see males spiralling upward in territorial chases, females nectaring on Knapweed and Marjoram, and both sexes roosting with wings closed on tall grass stems in the evening.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. The most common and widespread blue butterfly in Britain. Most abundant on chalk and limestone grassland, coastal dunes, and brownfield sites where Bird's-foot Trefoil grows.",
+    "wildlife_value": "Caterpillars are specifically dependent on Bird's-foot Trefoil, making this butterfly a reliable indicator of good chalk grassland. Caterpillars are tended by ants — a mutualistic relationship. Adults are prey for spiders and birds. The presence of Common Blue at Old Down indicates a healthy population of its food plant.",
+    "pollinators_supported": [
+      "knapweed",
+      "marjoram",
+      "bird's-foot-trefoil"
+    ],
+    "food_source_for": [],
+    "depends_on": [
+      "birds-foot-trefoil"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "brown",
+      "orange",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Eggs are tiny, disc-shaped, and pale green-white, laid singly on the upper surface of Bird's-foot Trefoil leaflets. They are very difficult to spot without a hand lens. Newly hatched caterpillars eat the egg shell before starting on the leaf.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Green, slug-like caterpillar with a darker line along the back and pale sides — excellent camouflage on the trefoil leaves. Look for small black ants attending the caterpillar: the caterpillar has a gland on its back that produces a sweet secretion that ants drink, and the ants guard the caterpillar in return.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Electric sky-blue upperwings with a narrow black border and white fringe. The blue has a slightly violet tone in certain lights. Underwing is pale buff-grey with black spots and vivid orange spots near the margin. Males are territorial and can be seen chasing other males on sunny days.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Common_blue_%28Polyommatus_icarus%29_male_Turna.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult male",
+            "month_taken": 6,
+            "caption": "Common Blue male upperside — the vivid electric blue is unmistakable on a sunny day"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Polyommatus_icarus_-_Keila.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult male",
+            "month_taken": 7,
+            "caption": "Common Blue showing diagnostic orange-spotted underside"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult female",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Brown upperwings with variable amounts of blue scaling near the wing base (some females are almost as blue as males, others almost entirely brown). Orange spots along the outer wing margin. The orange-spotted underside is the same as the male and is the most reliable identification feature.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Common_blues_%28Polyommatus_icarus%29_mating%2C_male_%28l%29_and_female_%28r%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult female",
+            "month_taken": 7,
+            "caption": "Common Blue mating pair — male (blue, left) and female (brown, right)"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "small-blue",
+        "similarity_note": "Both blue butterflies occurring at Old Down",
+        "key_difference": "Small Blue is much smaller with a wingspan of 16–27mm (Common Blue 28–36mm). Male Small Blue is not blue — it is sooty grey-brown with a dusting of blue scales near the body. Underside is pale grey with black dots and NO orange spots.",
+        "time_of_year_note": "Both fly May–August at Old Down",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "holly-blue",
+        "similarity_note": "Another blue butterfly sometimes seen at Old Down",
+        "key_difference": "Holly Blue underside is distinctive — plain silvery-blue with tiny black dots and no orange spots. Holly Blue flies earlier in spring (April) and tends to fly high around Holly and Ivy, rather than low over grassland.",
+        "time_of_year_note": "Holly Blue first brood April–May; Common Blue May–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Common_blue_%28Polyommatus_icarus%29_male_Turna.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult male",
+        "month_taken": 6,
+        "caption": "Common Blue male — one of Old Down's most beautiful summer butterflies"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Polyommatus_icarus_-_Keila.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Common Blue showing the diagnostic orange-spotted underside"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Common_blues_%28Polyommatus_icarus%29_mating%2C_male_%28l%29_and_female_%28r%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Mating pair",
+        "month_taken": 7,
+        "caption": "Common Blue mating pair — male blue (left), female brown (right)"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
+  },
+  {
+    "id": "meadow-brown",
+    "common_names": [
+      "Meadow Brown Butterfly",
+      "Meadow Brown"
+    ],
+    "latin_name": "Maniola jurtina",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "field-edge",
+      "roadside",
+      "hedgerow"
+    ],
+    "summary": "One of Britain's most abundant grassland butterflies, and one of the few that will fly on dull, overcast days. Old Down can be carpeted with Meadow Browns in July and August. The single large eye-spot on the forewing is the key ID feature.",
+    "full_description": "The Meadow Brown (Maniola jurtina) is Britain's most abundant butterfly by population, and one of the most characteristic species of summer grassland. Males are dark brown with a small orange patch on the forewing containing a single black eye-spot with a white centre. Females are larger with a more extensive orange-brown patch on the forewing and a more prominent eye-spot. The underside of the hindwing is mottled buff-brown with a small cluster of spots — much paler and less patterned than many browns.\n\nThe Meadow Brown is unusual among British butterflies in that it will fly in overcast and even light rain, unlike most species that only fly in sunshine. This makes it one of the most reliably visible butterflies on visits to Old Down through the summer. It is single-brooded — one flight period from June through September — and the adults live for several weeks, nectaring on Knapweed, Bramble, Marjoram, and many other flowers. The caterpillars feed on a range of fine grasses, which is why the species thrives in both chalk grassland and rough grassland habitats.\n\nAt Old Down, Meadow Brown is typically the most numerous butterfly by count in summer, often hundreds visible simultaneously on a warm July day. It makes an excellent species for children learning to count butterflies — it is abundant, easy to spot, and lands frequently on flowers. Look especially on Knapweed, Bramble flowers, and Ragwort.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales, and Ireland. One of the most abundant butterflies in Britain. Found in almost all grassland habitats, from chalk downland to coastal dunes to roadside verges.",
+    "wildlife_value": "Caterpillars feed on common fine grasses, making this butterfly independent of specialist plants and very adaptable. Adults are important pollinators of Knapweed, Bramble, and Marjoram. Prey for bats, spiders, and birds. The abundance of Meadow Brown at Old Down provides a baseline indicator for grassland quality that is easy to monitor.",
+    "pollinators_supported": [
+      "knapweed",
+      "bramble",
+      "marjoram"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "orange",
+      "black",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "The caterpillar hibernates over winter as a small larva, resuming feeding in spring on fine grasses. It is green with a pale stripe along each side, well camouflaged in the grass stems. By May it has grown to full size and pupates in a chrysalis close to the ground.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Dark brown wings with a small orange-brown patch on the upper forewing and a single black eye-spot (with one or two white pupils). Males tend to be darker than females. The underside of the hindwing is mottled brown and buff — much plainer than the Gatekeeper.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gro%C3%9Fes_Ochsenauge_Maniola_jurtina_3.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult male",
+            "month_taken": 7,
+            "caption": "Meadow Brown male showing the dark brown wings and eye-spot on forewing"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult female",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Females are slightly larger than males with a more extensive orange-brown band on the forewing and a more prominent eye-spot. The orange colouring makes females look warmer and brighter than males when settled on a flower. Both sexes rest with wings closed when not in active flight.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Meadow_brown_butterfly_%28Maniola_jurtina%29_female.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult female",
+            "month_taken": 8,
+            "caption": "Meadow Brown female — orange colouring more extensive than male"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "gatekeeper",
+        "similarity_note": "Very similar brown butterfly often in the same habitat",
+        "key_difference": "Gatekeeper (Pyronia tithonus) is smaller, with two white pupils in the eye-spot (Meadow Brown has one or two but usually one), more orange on the forewing, and a distinctly patterned underside of the hindwing (Meadow Brown's is plainer). Gatekeeper prefers scrub-grassland edges and hedgerows rather than open grassland.",
+        "time_of_year_note": "Gatekeeper flies July–August; Meadow Brown June–September",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "ringlet",
+        "similarity_note": "Another brown grassland butterfly that can occur at Old Down",
+        "key_difference": "Ringlet is darker brown, almost sooty, with multiple cream-ringed eyespots on the underside of both wings. Meadow Brown is warmer brown with much plainer hindwing underside.",
+        "time_of_year_note": "Ringlet flies June–August; Meadow Brown June–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Meadow_brown_butterfly_%28Maniola_jurtina%29_female.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult female",
+        "month_taken": 8,
+        "caption": "Meadow Brown — Britain's most abundant grassland butterfly"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gro%C3%9Fes_Ochsenauge_Maniola_jurtina_3.JPG",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult male",
+        "month_taken": 7,
+        "caption": "Meadow Brown male showing single eye-spot on dark forewing"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-28"
   }
 ]
