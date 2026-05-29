@@ -496,14 +496,14 @@
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native to the UK. Found mainly in southern England and Wales on chalk and limestone grasslands. Colonies are typically small and localised. Old Down is excellent habitat.",
-    "wildlife_value": "Adults feed on the nectar of Bird's-foot Trefoil, clovers, and vetches. Caterpillars have a fascinating relationship with ants (myrmecophily) — they secrete a sweet honeydew from a special gland, which ants feed on, in return protecting the caterpillar from predators. Their presence is a reliable indicator of high-quality chalk grassland.",
+    "wildlife_value": "Adults feed on the nectar of Kidney Vetch, Bird's-foot Trefoil, and other small flowers. Caterpillars feed exclusively on Kidney Vetch (Anthyllis vulneraria) — this is the sole larval foodplant, and Small Blue will only breed where Kidney Vetch grows on well-drained chalk or limestone grassland. Caterpillars have a remarkable relationship with ants (myrmecophily) — they secrete a sweet honeydew from a special gland, which ants drink greedily; in return the ants protect the caterpillar from parasitic wasps and predators. Their presence reliably indicates high-quality chalk grassland.",
     "pollinators_supported": [],
     "food_source_for": [
       "spider",
       "insectivorous-bird"
     ],
     "depends_on": [
-      "birds-foot-trefoil"
+      "kidney-vetch"
     ],
     "invasive_impact": "",
     "removal_advice": "",
@@ -2868,7 +2868,7 @@
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native throughout the UK in short grassland, especially on well-drained and chalk soils. Common on roadsides, meadows, and coastal cliffs. Thrives in low-nutrient conditions.",
-    "wildlife_value": "The sole larval food plant for Small Blue butterfly caterpillars — one of the most specific ecological relationships at Old Down. Also used by Common Blue caterpillars and the Six-spot Burnet moth. Excellent nectar source for bumblebees, especially long-tongued species. Fixes atmospheric nitrogen, improving soil quality for surrounding plants.",
+    "wildlife_value": "A critical chalk grassland plant for insects. The primary larval foodplant for Common Blue butterfly caterpillars, and also used by the Six-spot Burnet Moth caterpillar. The flowers are a rich nectar source for bumblebees, solitary bees, and many other insects. The seed pods explode when ripe, scattering seeds several metres. Its nitrogen-fixing root nodules improve soil fertility, making it an important part of the grassland ecosystem.",
     "pollinators_supported": [
       "bumblebee",
       "solitary-bee",
@@ -4806,5 +4806,2395 @@
     ],
     "verified": true,
     "date_added": "2026-05-28"
+  },
+  {
+    "id": "marbled-white",
+    "common_names": [
+      "Marbled White"
+    ],
+    "latin_name": "Melanargia galathea",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The bold black-and-white chequered pattern is unique among British butterflies — nothing else looks like it.",
+    "months_visible": [
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "unimproved-grassland"
+    ],
+    "summary": "A stunning black-and-white chequered butterfly that looks like no other in Britain. Once you've seen one dancing over purple knapweed on a July afternoon, you'll never forget it.",
+    "full_description": "The Marbled White is one of Britain's most unmistakeable butterflies — its bold black-and-white chequered pattern is completely unique. Despite its name it is not related to the white butterflies at all, but belongs to the 'browns' family (Satyrinae), alongside Meadow Browns and Speckled Woods. It loves open chalk and limestone grasslands where it nectars eagerly on purple and pink flowers, especially knapweed, scabious, and thistles — you'll often see several together on a single knapweed flowerhead.\n\nAt Old Down, July is Marbled White month. On warm afternoons the hillside can be alive with dozens drifting lazily over the long grass, quite unlike the more jittery flight of other butterflies. Females do something unusual when egg-laying: rather than placing eggs carefully on a foodplant, they scatter them at random while flying, letting the eggs fall into the grass. The caterpillars feed on fine-leaved grasses including Red Fescue and Yorkshire Fog, so the rough, uncut areas of the site are crucial for the colony.\n\nOn cloudy days, Marbled Whites roost with wings spread open rather than folded — unusual for the brown family and a useful ID feature. If you find one roosting in the grass, look closely: the underside of the wings has a delicate pattern of grey, white, and black that is just as beautiful as the uppersides.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to southern and central England. A chalk and limestone grassland specialist. Has expanded its range northwards in recent decades, likely in response to climate change.",
+    "wildlife_value": "Adults are important pollinators of chalk grassland wildflowers, especially knapweed, scabious, and thistles. The caterpillars feed on fine-leaved grasses including Red Fescue and Yorkshire Fog, making rough uncut grassland essential for breeding. A strong population of Marbled Whites indicates that the grassland is being managed well — not cut too early, not too heavily grazed.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider",
+      "bat"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "cream"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "Females scatter creamy-white eggs at random into tall grass while flying — they don't place them carefully on a specific plant. The eggs hatch within 2–3 weeks.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "The newly hatched caterpillar does something remarkable: it immediately goes to sleep. It hibernates through autumn and winter without eating, only waking in spring to feed on fine grasses. The caterpillar is green or brown, beautifully camouflaged, and feeds at night — so it's extremely hard to find.",
+        "photos": []
+      },
+      {
+        "stage_name": "Chrysalis",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "The chrysalis forms in loose soil at the base of grass clumps, or in a thin silken hammock just above the ground. It is pale cream or green, well-hidden in the vegetation.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Adults fly from late June to August, peaking in July. Males and females look similar, though females tend to be slightly larger with more cream in the pattern. Both sexes are avid nectar feeders — look for them on knapweed, scabious, thistles, and marjoram. On cloudy days they roost with wings spread open in the grass.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Melanargia_galathea_01_%28MK%29.JPG",
+            "caption": "Marbled White nectaring, showing the bold chequered upperwing pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Schachbrett_Melanargia_galathea_5a.jpg",
+            "caption": "Marbled White at rest on grass showing the underside wing pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Melanargia_galathea_01_%28MK%29.JPG",
+        "caption": "Marbled White — bold chequered pattern",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Schachbrett_Melanargia_galathea_5a.jpg",
+        "caption": "Marbled White at rest showing underside",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "kidney-vetch",
+    "common_names": [
+      "Kidney Vetch",
+      "Lady's Fingers"
+    ],
+    "latin_name": "Anthyllis vulneraria",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "The woolly white calyx and clustered flowerheads are distinctive. Flowers are usually yellow but can be orange, red, or cream — look for the fuzzy white 'cushion' around each cluster.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "limestone-grassland",
+      "coastal",
+      "dry-grassland"
+    ],
+    "summary": "A key chalk grassland plant and the sole foodplant for Small Blue butterfly caterpillars. The clustered flowerheads wrapped in woolly white calyces are unmistakeable once you know what to look for.",
+    "full_description": "Kidney Vetch is a low-growing chalk and limestone grassland plant with clusters of small flowers nestled in a distinctive woolly white or cream 'cushion' of sepals. The flowers are usually bright yellow but at Old Down you may also find orange-red or bicoloured forms — the whole plant can look remarkably different from one patch to the next. It grows in short, well-drained turf and is a strong indicator of ancient, unimproved chalk grassland. The leaves are divided into narrow leaflets and have a silvery sheen when young.\n\nKidney Vetch has one of the most important ecological relationships at Old Down: it is the sole larval foodplant of the Small Blue butterfly (Cupido minimus). The tiny female Small Blue lays her eggs directly on the flower buds, and the caterpillars feed inside the developing seed pods. No Kidney Vetch means no Small Blue — it's that simple. The Six-spot Burnet Moth caterpillar also feeds on it, alongside Bird's-foot Trefoil.\n\nIt also fixes nitrogen in the soil through root nodules containing symbiotic bacteria — the same trick legumes use — which helps maintain the low-fertility conditions that chalk grassland wildflowers need. The flowers are a favourite of bumblebees, particularly the short-tongued Buff-tailed Bumblebee which sometimes 'steals' nectar by biting a hole in the base of the flower.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK on chalk, limestone, and coastal grassland. Most abundant in southern England.",
+    "wildlife_value": "The sole larval foodplant of the Small Blue butterfly — one of the most specific ecological relationships in British entomology. Also used as a secondary foodplant by Six-spot Burnet Moth caterpillars and Common Blue caterpillars. The flowers are an important nectar source for bumblebees, solitary bees, and hoverflies. Root nodules fix atmospheric nitrogen, helping maintain the low-fertility soils that chalk grassland specialists need.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly"
+    ],
+    "food_source_for": [
+      "small-blue",
+      "six-spot-burnet",
+      "common-blue"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "orange",
+      "red",
+      "cream"
+    ],
+    "colour_leaf": [
+      "green",
+      "silver"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "Kidney Vetch forms a low rosette of silky, divided leaves in spring. The leaves have a distinctive silvery-green sheen and feel soft to the touch.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Clusters of small pea-family flowers are held in a thick, woolly white or cream calyx that looks like a cushion. Flowers are usually yellow but can range from cream to deep orange-red. Look at the base of each cluster and you'll see the woolly sepals — this is the clincher for ID.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Anthyllis_vulneraria_%28flower_head%29.jpg",
+            "caption": "Kidney Vetch flowerhead showing the woolly white calyx",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anthyllis_vulneraria_inflorescence_-_Niitv%C3%A4lja.jpg",
+            "caption": "Kidney Vetch in flower, showing yellow flowerheads",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seed",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "After flowering, the woolly calyces dry to a papery brown and contain small, kidney-shaped seeds. This is where the plant gets its common name.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "birds-foot-trefoil",
+        "similarity_note": "Both are yellow-flowered legumes of chalk grassland",
+        "key_difference": "Bird's-foot Trefoil has neat, un-woolly flowers and distinctive claw-shaped seed pods. Kidney Vetch always has a thick woolly white or cream calyx around each flower cluster.",
+        "time_of_year_note": "Both flower May to September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Anthyllis_vulneraria_%28flower_head%29.jpg",
+        "caption": "Kidney Vetch — flowerhead close-up",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anthyllis_vulneraria_inflorescence_-_Niitv%C3%A4lja.jpg",
+        "caption": "Kidney Vetch in chalk grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Anthyllis_vulneraria_rubriflora_002.JPG",
+        "caption": "Kidney Vetch — orange-red colour form",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "yellow-rattle",
+    "common_names": [
+      "Yellow Rattle"
+    ],
+    "latin_name": "Rhinanthus minor",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The inflated yellow-green seed pod rattles audibly when ripe — shake the stem gently. Yellow snapdragon-like flowers and opposite toothed leaves are distinctive.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "unimproved-grassland"
+    ],
+    "summary": "The gardener of the meadow — Yellow Rattle steals food from grass roots, weakening them and making space for wildflowers to grow. Shake a ripe plant and you'll hear the seeds rattling inside the pods.",
+    "full_description": "Yellow Rattle has a clever trick: it is hemiparasitic on grasses, meaning it taps into the roots of nearby grass plants and steals water and nutrients from them. This weakens the grasses, stops them from dominating, and makes space for smaller, slower-growing wildflowers to thrive. It is one of the most important plants in traditional hay meadows and is used deliberately in meadow restoration — sowing Yellow Rattle seed is often the first step in creating a new wildflower meadow.\n\nThe plant itself has yellow, two-lipped flowers emerging from an inflated green-yellow calyx, and opposite pairs of toothed leaves. It's annual — it germinates in autumn, flowers the following summer, and dies by August. But the seeds are remarkable: as the plant dries out, the seeds rattle audibly inside the papery inflated pods. This is both the origin of the name and a handy ID feature — shake a plant in July and you'll hear the rattle clearly.\n\nFinding Yellow Rattle at Old Down is a good sign — it indicates the grassland has not been heavily fertilised and is being managed traditionally. It's an indicator of ancient, unimproved grassland that has never been ploughed.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. Most abundant in traditionally managed hay meadows and chalk grassland. An annual that needs bare soil patches to germinate.",
+    "wildlife_value": "By parasitising grasses, Yellow Rattle reduces grass dominance and creates the diverse, low-fertility sward that supports dozens of chalk grassland wildflowers and the insects that depend on them. The flowers are visited by long-tongued bumblebees, particularly Buff-tailed and Garden Bumblebees. Its decline mirrors the loss of traditional hay meadows — the plant cannot survive in heavily fertilised or frequently mown grassland.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Seedling",
+        "months_typical": [
+          9,
+          10,
+          3,
+          4
+        ],
+        "description": "Yellow Rattle germinates in autumn, producing a small rosette of toothed leaves. It immediately starts parasitising nearby grass roots, even at this tiny size.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "The plant grows to 20–50cm, with opposite pairs of toothed leaves and yellow two-lipped flowers emerging from inflated green calyces. Look for the yellow flowers poking out of the swollen pod-like calyx — it looks almost like a tiny snapdragon.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rhinanthus_minor_detail.jpeg",
+            "caption": "Yellow Rattle flowers — note the inflated green calyx",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bloemen_van_een_Ratelaar_%28Rhinanthus%29_13-06-2021._%28d.j.b%29.jpg",
+            "caption": "Yellow Rattle in bloom in a chalk grassland meadow",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Seed Rattle",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "By July the flowers fade and the calyces puff up into papery inflated pouches. Inside, seeds loosen from the pod walls and rattle when you shake the plant — give it a try! The plant dies completely after setting seed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Zaaddozen_van_een_Ratelaar_%28Rhinanthus%29_26-06-2022._%28d.j.b%29_02.jpg",
+            "caption": "Ripe Yellow Rattle seed pods — shake them to hear the rattle",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rhinanthus_minor_detail.jpeg",
+        "caption": "Yellow Rattle flowers",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bloemen_van_een_Ratelaar_%28Rhinanthus%29_13-06-2021._%28d.j.b%29.jpg",
+        "caption": "Yellow Rattle in meadow",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Zaaddozen_van_een_Ratelaar_%28Rhinanthus%29_26-06-2022._%28d.j.b%29_02.jpg",
+        "caption": "Yellow Rattle seed pods",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "vipers-bugloss",
+    "common_names": [
+      "Viper's Bugloss",
+      "Blueweed"
+    ],
+    "latin_name": "Echium vulgare",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The vivid blue funnel-shaped flowers with protruding red stamens are unlike any other common UK wildflower. Pink buds and blue open flowers often appear on the same plant at the same time.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "dry-grassland",
+      "coastal",
+      "disturbed-ground"
+    ],
+    "summary": "One of Britain's most striking wildflowers — tall spikes of vivid blue funnels with red stamens poking out. Bees absolutely love it, and the blue is so intense it almost doesn't look real.",
+    "full_description": "Viper's Bugloss earns its dramatic name from the spotted stem that can resemble a snake's skin, and the seed that resembles a viper's head. But the plant is completely harmless — in fact, it's one of the best wildflowers you can find for bees, butterflies, and hoverflies. The tall spike of vivid blue, funnel-shaped flowers with long red-purple stamens is one of the most eye-catching sights of summer on chalk grassland. The flowers open pink and turn brilliant blue as they mature — so a single spike carries both colours at once.\n\nIt is a biennial: in its first year it produces only a leafy rosette, then in its second year it sends up a tall flowering stem (30–90cm), sets seed, and dies. Look for the rough, bristly leaves with white spots (these are the swollen bases of hairs, not disease) and the hairy, sometimes spotted stem. It favours disturbed and well-drained ground — chalk grassland, roadsides, cliffs, and shingle banks.\n\nViper's Bugloss is exceptionally rich in nectar and pollen. On a warm day it will be covered in bumblebees, solitary bees, and butterflies competing for the deep nectaries. Even at a distance you can often locate it by the buzzing.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to southern and central Britain. Locally common on chalk, limestone, coastal cliffs, and disturbed ground. Rare in Scotland and Ireland.",
+    "wildlife_value": "One of the most insect-rich wildflowers in Britain. Produces abundant nectar and pollen accessible to a wide range of bees and butterflies. Particularly valued by long-tongued bumblebees and solitary bees, as well as Small Tortoiseshell and Painted Lady butterflies. Several moth species lay eggs on the leaves. The rough, hairy stems provide shelter for small invertebrates.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "bumblebee",
+      "painted-lady",
+      "small-tortoiseshell"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "blue",
+      "pink",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "First Year Rosette",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "In the first year, Viper's Bugloss produces only a low, flat rosette of rough, bristly leaves. These have distinctive white spots (the bases of stiff hairs) and lie close to the ground through winter.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering Spike",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "In the second year, a tall bristly spike grows rapidly to 30–90cm. Flowers open from the bottom upwards — pink buds at the top, vivid blue open flowers below, with red stamens protruding beyond the petals. This gives each spike a wonderful gradient of pink-to-blue.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Echium_vulgare_Dortmund-01.JPG",
+            "caption": "Viper's Bugloss flowers — vivid blue with protruding red stamens",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Echium_vulgare_Dortmund-02.JPG",
+            "caption": "Viper's Bugloss spike showing pink buds and open blue flowers",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Echium_vulgare_Dortmund-01.JPG",
+        "caption": "Viper's Bugloss in flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Echium_vulgare_Dortmund-02.JPG",
+        "caption": "Viper's Bugloss flower spike",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "wild-thyme",
+    "common_names": [
+      "Wild Thyme",
+      "Creeping Thyme"
+    ],
+    "latin_name": "Thymus polytrichus",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "The distinctive thyme scent when leaves are rubbed is the clincher. Low, creeping habit with tiny oval leaves and tight clusters of small pink-purple flowers.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "limestone-grassland",
+      "dry-heath",
+      "rocky-ground"
+    ],
+    "summary": "The tiniest herb in the chalk grassland — crush a leaf and that unmistakeable thyme scent tells you exactly what it is. The tight mats of pink-purple flowers are a magnet for bees and butterflies.",
+    "full_description": "Wild Thyme creeps low across the chalk grassland surface, forming dense, flat mats only a few centimetres high. The tiny oval leaves are aromatic — give one a gentle rub and you'll get that familiar thyme scent immediately. This is the easiest way to confirm the ID. The small clusters of pink-purple flowers are held at the tips of the stems from June to August and are a magnet for bees, butterflies, and hoverflies on warm days.\n\nWild Thyme (Thymus polytrichus) is the native British species found on chalk and limestone grassland — it's different from the garden thyme (Thymus vulgaris) used in cooking, though they're closely related. It favours very short, well-drained turf where the grass is kept low by grazing or mowing, and cannot compete with tall vegetation. Finding it at Old Down indicates that the short-turf areas are being managed correctly.\n\nWild Thyme is the larval food plant of the Large Blue butterfly — though that species is not found at Old Down. The plant's main role in the local ecosystem is as a nectar source: it may be tiny, but a mat of flowering thyme on a warm June day will have more insects visiting it per square centimetre than almost any other plant.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the UK. Found on chalk, limestone, and rocky grassland throughout Britain and Ireland. Requires short, well-drained turf.",
+    "wildlife_value": "An important nectar source for bumblebees, solitary bees, butterflies, and hoverflies in short chalk grassland. The larvae of several specialist moths feed on Wild Thyme, and it provides shelter for ants and other small invertebrates within its creeping mats. As a plant of short turf, its presence indicates that the grassland has not been over-grown or left unmanaged — it disappears quickly when grass grows too tall.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "butterfly",
+      "hoverfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Creeping Mat",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "Wild Thyme grows as a low, dense mat of tiny oval aromatic leaves, creeping across bare chalk or short turf. In spring it begins to grow new shoots from the woody stems.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wild_Thyme_%28Thymus_polytrichus%29%2C_Baltasound_-_geograph.org.uk_-_4041381.jpg",
+            "caption": "Wild Thyme growing as a low mat on chalk grassland",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Small clusters of pink-purple flowers appear at the tips of the stems. The flowers are tiny — only 4–6mm — but a whole mat in flower is highly visible and heavily visited by insects. The aroma is strongest on warm sunny days.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wild_Thyme_%28Thymus_praecox_subsp._britannicus%29_-_geograph.org.uk_-_819871.jpg",
+            "caption": "Wild Thyme in flower — pink-purple clusters on chalk grassland",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wild_Thyme_%28Thymus_polytrichus%29%2C_Baltasound_-_geograph.org.uk_-_4041381.jpg",
+        "caption": "Wild Thyme mat on chalk grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wild_Thyme_%28Thymus_praecox_subsp._britannicus%29_-_geograph.org.uk_-_819871.jpg",
+        "caption": "Wild Thyme in flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "bee-orchid",
+    "common_names": [
+      "Bee Orchid"
+    ],
+    "latin_name": "Ophrys apifera",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The lip of the flower mimics a bumblebee so convincingly that it's unmistakeable — there is nothing else like it in the UK.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": true,
+    "weather_note": "Numbers at any one site vary enormously from year to year — a hillside with dozens one summer may have almost none the next. Likely linked to soil moisture in the preceding autumn.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "disturbed-ground",
+      "roadside",
+      "dune"
+    ],
+    "summary": "The most astonishing wildflower in Britain — its lip has evolved to look exactly like a bumblebee, complete with fuzzy texture and patterning. Each flower is a tiny masterpiece.",
+    "full_description": "The Bee Orchid is arguably the most extraordinary wildflower in Britain. Each flower has evolved to mimic a female bumblebee in extraordinary detail — the velvety brown-and-yellow lip, the patterning, even the texture, all designed to fool male bees into attempting to mate with it, and in doing so transfer pollen. There's a twist, though: the bee species involved (Eucera long-horned bees) don't live in Britain. So the UK's Bee Orchids are unable to attract pollinators at all — and simply self-pollinate instead. They've kept the disguise but lost the purpose.\n\nBee Orchids appear first as a flat rosette of oval leaves in autumn, which persists through winter and spring. The flowering spike emerges in June, growing to 15–45cm, and carries 2–7 flowers. The three sepals are pink, and behind them the extraordinary lip — a rounded, velvety lobe coloured warm brown with yellow and cream markings — is unmistakeable. Each flower is a perfect miniature puzzle: the more you look, the more detail you see.\n\nBee Orchid numbers at Old Down will vary considerably from year to year — some summers may bring dozens, others just a handful. This natural variability is normal and is not cause for concern. They love short, well-drained chalk turf that is not too competitive, and often appear in disturbed ground or near path edges where the sward is kept open.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to southern and central England and Wales. Has spread to disturbed ground and road verges in recent decades. Requires well-drained, low-fertility soil — cannot compete with rank grassland.",
+    "wildlife_value": "Self-pollinates in the UK (the bee-mimicry attracts no actual pollinators here). However, Bee Orchids are associated with rich chalk grassland ecosystems that support many insects, and their presence indicates the correct management — short, unfertilised turf. The rosette leaves provide shelter for small invertebrates through winter. The flowers produce no nectar, so bees visiting (if they do) get nothing — the orchid is a pure deceiver.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "brown",
+      "yellow",
+      "cream"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Leaf Rosette",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "Bee Orchid spends most of the year as a flat rosette of smooth, oval, grey-green leaves at ground level. These appear in autumn and persist through winter. If you know where Bee Orchids grow at Old Down, look for the rosettes from September onwards — they're easy to find once you know the leaf shape.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "The flowering spike emerges rapidly in June, reaching 15–45cm. It carries 2–7 flowers, each with three pink or white sepals and the extraordinary lip that mimics a bumblebee. Look very closely at the lip — you'll see the velvety texture, the 'H' or 'U'-shaped marking, and the overall uncanny resemblance to an insect. After flowering, the plant sets seed and dies back completely.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_3545765.jpg",
+            "caption": "Bee Orchid in flower — the lip mimics a bumblebee",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_2463669.jpg",
+            "caption": "Bee Orchid close-up showing flower detail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_1362132.jpg",
+            "caption": "Bee Orchid on chalk grassland, UK",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_3545765.jpg",
+        "caption": "Bee Orchid in flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_2463669.jpg",
+        "caption": "Bee Orchid flower close-up",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_1362132.jpg",
+        "caption": "Bee Orchid on chalk grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "pyramidal-orchid",
+    "common_names": [
+      "Pyramidal Orchid"
+    ],
+    "latin_name": "Anacamptis pyramidalis",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The tight pyramid shape of the flowerhead at the top of the spike is distinctive. Deep pink to bright magenta colour, with unspotted leaves.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "dune",
+      "roadside",
+      "limestone-grassland"
+    ],
+    "summary": "One of the most elegant of the chalk grassland orchids — a dense pyramid of deep pink flowers on a tall stem, with a surprisingly strong vanilla and fox scent. Pollinated by moths.",
+    "full_description": "The Pyramidal Orchid is one of the easier UK orchids to identify: the dense, rounded pyramid of deep pink to magenta flowers at the top of the stem is distinctive and instantly recognisable. The spike grows 20–50cm and carries dozens of small flowers packed together, opening from the bottom upwards. Each individual flower has a three-lobed lip and two guide ridges that direct visiting insects to the nectar. The leaves are unspotted (unlike Common Spotted Orchid) and grey-green, clasping the stem.\n\nThe scent is extraordinary and easy to miss unless you get close — a strange combination of vanilla and fox. This is specifically designed to attract moths and butterflies, which are the main pollinators. On summer evenings, look for moths hovering at Pyramidal Orchid flowers — they hover rather than land, inserting their long probosces for nectar, and pollen masses (pollinia) stick to their eyes or head.\n\nPyramidal Orchid grows from an underground tuber and reappears each year, though it may disappear for several years if conditions aren't right. Like all native orchids it is protected by law — it is illegal to pick, uproot, or deliberately damage it.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to southern England and Wales. Most common on chalk and limestone grassland. Has spread to road verges and sand dunes, particularly in southern England.",
+    "wildlife_value": "Pollinated primarily by day-flying butterflies (especially Burnet moths, Common Blue, and Marbled White) and by moths at dusk and night. The flowers produce nectar but the pollen masses stick to visiting insects' heads — an efficient pollination mechanism. The plant is associated with rich chalk grassland communities that support dozens of specialist insects. All native orchids are protected by the Wildlife and Countryside Act 1981.",
+    "pollinators_supported": [
+      "moth",
+      "butterfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "magenta"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Underground Tuber",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "Through autumn and winter, Pyramidal Orchid exists as a pair of underground tubers, with no above-ground growth at all. The tubers store energy for the following year's flowering.",
+        "photos": []
+      },
+      {
+        "stage_name": "Leaf Stage",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "In spring, unspotted grey-green leaves emerge and clasp the rising stem. At this stage it cannot be confused with Common Spotted Orchid, which has distinctly spotted leaves.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "The pyramid-shaped flowerhead is unmistakeable — a tight cone of deep pink flowers that opens from the bottom up. Get close and sniff: the strange vanilla-fox scent is strongest in the evening when moths are active. Each flower has a three-lobed lip and a long spur that contains nectar.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anacamptis_pyramidalis_2_RF.jpg",
+            "caption": "Pyramidal Orchid in full flower — the classic pyramid shape",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Anacamptis-pyramidalis_2012.jpg",
+            "caption": "Pyramidal Orchid spike on chalk grassland",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-spotted-orchid",
+        "similarity_note": "Both are pink orchids of chalk grassland",
+        "key_difference": "Common Spotted Orchid has spotted leaves and a more elongated, cylindrical spike that is open at the top. Pyramidal Orchid has unspotted leaves and a tight, rounded pyramid shape.",
+        "time_of_year_note": "Common Spotted Orchid flowers slightly earlier (May–June vs June–July for Pyramidal)",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anacamptis_pyramidalis_2_RF.jpg",
+        "caption": "Pyramidal Orchid in flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Anacamptis-pyramidalis_2012.jpg",
+        "caption": "Pyramidal Orchid spike",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "common-spotted-orchid",
+    "common_names": [
+      "Common Spotted Orchid"
+    ],
+    "latin_name": "Dactylorhiza fuchsii",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Spotted leaves are the key feature — look for dark purple blotches in rings or streaks. Flowers vary from almost white to deep pink-purple, which can cause confusion.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "woodland-edge",
+      "marsh-edge",
+      "meadow"
+    ],
+    "summary": "Britain's most common orchid, but no less beautiful for it — pale pink flowers with intricate dotted patterns, and the distinctive spotted leaves that give it its name.",
+    "full_description": "The Common Spotted Orchid is the most widespread orchid in Britain, found in a huge range of habitats from chalk downland to woodland rides, road verges, and even garden lawns. The key ID feature is the spotted leaves: each leaf has dark purple blotches, rings, or streaks — no other common UK orchid has this combination of spotted leaves with pale pink flowers. The flower spike grows 20–50cm and carries many flowers, each one a delicate pale pink to deep pink-purple with darker spots and streaks on the three-lobed lip.\n\nThe flowers are pollinated by a range of bumblebees and solitary bees, attracted by both the colour and a mild vanilla-like scent. Unusually, the flowers produce nectar (unlike some related orchids that offer nothing and rely on deception). Plants grow from a pair of underground tubers and can live for many years, though they may not flower every season.\n\nCommon Spotted Orchid is highly variable: the flower colour ranges from almost white to vivid pink-purple, and the lip pattern varies enormously. This makes identification tricky in some cases, but the spotted leaves are always the clincher. Like all native orchids it is protected by law and should never be picked or uprooted.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. The most common and widespread British orchid. Found in a wide range of habitats but most abundant on neutral to calcareous soils.",
+    "wildlife_value": "Produces nectar and is pollinated by a range of bumblebees and solitary bees. The flowers are also visited by hoverflies. As a perennial of unimproved grassland, its presence indicates that the site has not been fertilised or heavily disturbed. All native orchids are protected by the Wildlife and Countryside Act 1981.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "white",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette with Spotted Leaves",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "The spotted leaves emerge before the flower spike, making this the best time to find and identify young plants. Look for 4–8 shiny leaves arranged in a spiral, each marked with dark purple blotches.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dactylorhiza_fuchsii_-_v%C3%B6%C3%B6thuul-s%C3%B5rmk%C3%A4pp_Pakri.jpg",
+            "caption": "Common Spotted Orchid spotted leaves — the key ID feature",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "The flower spike rises to 20–50cm with dozens of pale pink to deep pink flowers. Each flower has a three-lobed lip marked with darker pink or purple dots and lines. The spike flowers from the bottom upward, so bottom flowers are fully open while the top is still in bud.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dactylorhiza_fuchsii_Mariazell_01.JPG",
+            "caption": "Common Spotted Orchid in full flower, showing the variable pink colouring",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "pyramidal-orchid",
+        "similarity_note": "Both are pink orchids of chalk grassland",
+        "key_difference": "Pyramidal Orchid has unspotted leaves and a tight pyramid-shaped flowerhead. Common Spotted has spotted leaves and a more cylindrical spike.",
+        "time_of_year_note": "Common Spotted flowers slightly earlier — May to July vs Pyramidal's June to August",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dactylorhiza_fuchsii_Mariazell_01.JPG",
+        "caption": "Common Spotted Orchid in flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dactylorhiza_fuchsii_-_v%C3%B6%C3%B6thuul-s%C3%B5rmk%C3%A4pp_Pakri.jpg",
+        "caption": "Common Spotted Orchid spotted leaves",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "yellowhammer",
+    "common_names": [
+      "Yellowhammer"
+    ],
+    "latin_name": "Emberiza citrinella",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The male is unmistakeable — a brilliant lemon-yellow head and underparts with a chestnut back. Females are streakier but still show yellow. Both sexes have a distinctive chestnut rump in flight.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-farmland",
+      "scrub",
+      "hedgerow",
+      "arable-edge"
+    ],
+    "summary": "The brightest bird of the chalk farmland — the male's lemon-yellow head and chest glow like sunshine on the hedgerow. Listen for his song: 'a little bit of bread and no cheeeeese.'",
+    "full_description": "The Yellowhammer is one of Britain's most strikingly coloured farmland birds — the male's vivid lemon-yellow head and underparts, contrasting with a rich chestnut back and white outer tail feathers, are unmistakeable. Females are more streaked and less yellow, but still show enough yellow to be distinctive. In flight, watch for the chestnut rump — both sexes have it.\n\nThe Yellowhammer's song is one of the most famous in British birdsong: a series of short notes accelerating to a long, thin, buzzing final note, traditionally transcribed as 'a little bit of bread and no cheeeeese.' Males sing persistently from hedgerow tops, fence posts, and scrub from April through July. The call — a sharp 'twick' — can be heard year-round from flocks in winter fields.\n\nYellowhammers are on the Red List of Birds of Conservation Concern — their population has crashed by over 50% since the 1970s, mainly due to the loss of weedy arable fields and winter stubbles that once provided seeds. Old Down's scrubby chalk grassland, with nearby farmland, is exactly the type of habitat this species needs, making every sighting especially significant.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native resident throughout the UK, though rarer in western Scotland and Ireland. Red List species. Population has declined by more than 50% since the 1970s due to agricultural intensification.",
+    "wildlife_value": "Yellowhammers eat seeds (especially grass seeds and weed seeds) year-round, and feed their chicks almost entirely on insects and caterpillars during the breeding season. They nest low in dense scrub or hedgerow bases, and require uncut field margins and weedy stubble for winter foraging. Their decline mirrors the loss of these traditional farming features.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "yellow",
+      "brown",
+      "chestnut",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "description": "The nest is built low in a hedgerow, bramble patch, or tussock of grass — sometimes on the ground. The eggs are pale with distinctive dark scribbly streaks and blotches, as if written in ink, which gives the old folk name 'writing lark.' Clutch size: 3–4 eggs, 2–3 broods per year.",
+        "photos": []
+      },
+      {
+        "stage_name": "Chick",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Chicks hatch after about 13 days and fledge around 13 days after that. Both parents feed them almost exclusively on insects and caterpillars, making insect-rich grassland essential in summer.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The male Yellowhammer in summer is one of the most vividly coloured of British birds — brilliant lemon-yellow head and underparts, rich chestnut back with dark streaks. In winter the colours are slightly duller. He sings from exposed perches throughout summer.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Male_Yellowhammer._Emberiza_citrinella_%2835685006441%29.jpg",
+            "caption": "Male Yellowhammer — brilliant lemon-yellow head and underparts",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Goldammer_Emberiza_citrinella.jpg",
+            "caption": "Male Yellowhammer on a perch",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Winter Flock",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "In winter, Yellowhammers form flocks, often mixing with other buntings, finches, and sparrows. They visit stubble fields and weedy margins searching for seeds. The flock includes both males and the duller females and juveniles.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yellow_Hammer_%2810104017396%29.jpg",
+            "caption": "Yellowhammer in winter plumage",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Male_Yellowhammer._Emberiza_citrinella_%2835685006441%29.jpg",
+        "caption": "Male Yellowhammer",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Goldammer_Emberiza_citrinella.jpg",
+        "caption": "Yellowhammer on perch",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yellow_Hammer_%2810104017396%29.jpg",
+        "caption": "Yellowhammer, winter",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "linnet",
+    "common_names": [
+      "Linnet",
+      "Common Linnet"
+    ],
+    "latin_name": "Linaria cannabina",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Male in summer has a striking crimson forehead and breast — look for the red patch as the key field mark. Both sexes have a white wing panel visible in flight. Females and winter males are streaky brown and can be confused with other small finches.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "heathland",
+      "scrub",
+      "farmland"
+    ],
+    "summary": "A small finch of open countryside — the breeding male has a bright crimson forehead and breast that flash in the sun. Linnets love gorse and bramble scrub for nesting and feed on weed seeds on bare ground.",
+    "full_description": "The Linnet is a small, lively finch of heathland, scrub, and open farmland. The breeding male is one of the more attractive British finches: a warm brown back, pale underparts, and a vivid crimson forehead and breast that appear in spring and fade by autumn. The bill is stout and seed-cracking in shape. In flight, white wing panels and white sides to the tail flash conspicuously. Females and non-breeding males are streaky brown and much harder to identify — look for the wing panel as the most reliable feature in all plumages.\n\nLinnets are social birds: you'll often hear them before you see them, giving a rapid, twittering song and a flight call that sounds like a musical 'chichichi.' They nest in loose colonies in dense scrub — gorse, bramble, and hawthorn are favourites — and several pairs may nest close together. The nest is a neat cup of grass and moss lined with hair and plant down.\n\nLike the Yellowhammer, the Linnet is a Red List species whose UK population has declined dramatically. Both are specialist seed-eaters that depend on weedy arable fields, traditional hay meadows, and rough uncultivated ground that modern farming has largely eliminated. Their presence at Old Down indicates that the surrounding landscape still supports a seed-rich food supply.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native resident and partial migrant. Widespread throughout the UK but declining. Red List species. Some birds move to coastal areas in winter.",
+    "wildlife_value": "Linnets feed almost exclusively on seeds — especially the seeds of weeds like fat hen, chickweed, dandelion, and dock. They occasionally take small invertebrates to feed to chicks. Their foraging on bare and disturbed ground can help disperse seeds. As Red List species, Linnets are a priority for habitat management at sites like Old Down.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "merlin"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "brown",
+      "white",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Breeding Male",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "description": "In spring and summer the male develops a vivid crimson forehead and breast patch — these are the key ID features. The back is warm brown, the underparts pale. Look for the white wing panel in flight.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
+            "caption": "Male Linnet in breeding plumage — crimson forehead and breast",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Female",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The female is streaky brown with no red colouring — easily confused with other small finches. Look for the white wing panel (less bright than the male's), the small stout bill, and the warm brown tones rather than grey.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Linnet_%28Linaria_cannabina%29_female.jpg",
+            "caption": "Female Linnet — streaky brown with no red",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Winter Flock",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "In autumn and winter, Linnets form flocks, sometimes of hundreds, that roam over farmland and coastal marshes searching for seeds. The males lose their red colouring until spring.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Common_linnet_%28Linaria_cannabina_mediterranea%29_female.jpg",
+            "caption": "Linnet in winter plumage",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Common_linnet_%28Linaria_cannabina_mediterranea%29_male.jpg",
+        "caption": "Male Linnet in breeding plumage",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Linnet_%28Linaria_cannabina%29_female.jpg",
+        "caption": "Female Linnet",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Common_linnet_%28Linaria_cannabina_mediterranea%29_female.jpg",
+        "caption": "Linnet, winter",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "slow-worm",
+    "common_names": [
+      "Slow-worm",
+      "Slowworm"
+    ],
+    "latin_name": "Anguis fragilis",
+    "type": "reptile",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Smooth, shiny, coppery-brown skin with no visible legs, blinking eyes (snakes have no eyelids), and a rounded snout. Much smaller and more slender than any UK snake.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6
+    ],
+    "weather_flag": true,
+    "weather_note": "Only active in warm weather. Most easily seen on sunny mornings when they bask under flat stones or corrugated metal sheets.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "hedgerow",
+      "garden",
+      "woodland-edge",
+      "scrub"
+    ],
+    "summary": "Not a worm. Not a snake. The Slow-worm is a legless lizard — and it's completely harmless. It has eyelids (snakes don't), smooth coppery skin, and a superpower: it can detach its own tail to escape a predator.",
+    "full_description": "The Slow-worm is one of Britain's most misunderstood animals. It looks like a snake but is actually a legless lizard — it just lost its legs over millions of years of evolution. You can tell it from a snake because it has eyelids (you can see it blink), ear openings, and a body that is more cylindrical and uniform — snakes have a distinctly wider belly. The skin is smooth and shiny, usually bronze-coppery in males, browner in females (which often have a dark stripe along the back). Both are beautiful in the right light.\n\nSlow-worms are shy and secretive, spending much of their time underground or under cover. At Old Down, look for them under flat stones, pieces of corrugated metal, or in warm grassy tussocks. They are particularly active on warm mornings when they bask briefly before retreating to cover. Their diet is specialised: they eat mainly slow-moving prey that they can catch without a chase — slugs, slow worms (despite the name confusion), small snails, earthworms, and woodlice.\n\nSlow-worms give birth to live young in late summer — unusual for a reptile. The babies are tiny (5–10cm), golden-bronze with a dark back stripe, and look like miniature adults. Like all UK reptiles, the Slow-worm is fully protected by law. If you find one, observe it from a distance — replace any cover exactly as you found it.",
+    "danger_level": "none",
+    "danger_note": "Completely harmless and cannot bite effectively. Despite looking like a snake, it is a legless lizard and poses no threat whatsoever.",
+    "danger_type": "",
+    "native_info": "Native throughout the UK, including Scotland and Wales. Protected under the Wildlife and Countryside Act 1981. One of the UK's six native reptile species.",
+    "wildlife_value": "Slow-worms are important predators of slugs and earthworms, making them valuable in gardens and grassland ecosystems. They are preyed upon by Adders, Kestrels, Buzzards, and domestic cats. The eggs of Slow-worm young are a food source for some ground beetles. As a protected species they are an indicator of undisturbed, structurally diverse habitat.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "adder",
+      "kestrel",
+      "buzzard",
+      "hedgehog"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "bronze",
+      "copper",
+      "brown",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "Baby Slow-worms are born in late summer, usually 6–12 at a time. They are tiny (5–10cm) and strikingly golden or bronze, with a sharp dark stripe along the back and belly. This bold pattern fades as they grow. They are independent from birth.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Female",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Adult females are typically brown or bronze-brown, often with a dark stripe along the back and dark sides. They reach 30–50cm in length. Females give birth to 6–12 live young in August–September.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Slow_Worm_%28Anguis_fragilis_fragilis%29_-_geograph.org.uk_-_859472.jpg",
+            "caption": "Adult Slow-worm — smooth, coppery skin and blinking eyes distinguish it from snakes",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Adult males are often more uniformly bronze-grey, with fewer dark markings than females. Blue spots may develop on older males — these are thought to be attractive to females. Males can reach 45–50cm, though most are shorter.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Slow_worm_%28Anguis_fragilis%29_-_geograph.org.uk_-_644993.jpg",
+            "caption": "Slow-worm — note the blinking eyes (a lizard feature, not a snake feature)",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Slow_worm_%28Anguis_fragilis%29_-_geograph.org.uk_-_644993.jpg",
+        "caption": "Slow-worm — legless lizard, not a snake",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Slow_Worm_%28Anguis_fragilis_fragilis%29_-_geograph.org.uk_-_859472.jpg",
+        "caption": "Adult Slow-worm on chalk grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "six-spot-burnet",
+    "common_names": [
+      "Six-spot Burnet Moth",
+      "Six-spot Burnet"
+    ],
+    "latin_name": "Zygaena filipendulae",
+    "type": "moth",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Six red spots on metallic blue-green wings — count the spots carefully. Five-spot Burnet has only five spots. The red hindwings are visible in flight.",
+    "months_visible": [
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "coastal"
+    ],
+    "summary": "A day-flying moth that looks like a jewel — metallic blue-green wings with six vivid red spots. It flies slowly in sunshine and doesn't care if you approach closely, because it's actually toxic to birds.",
+    "full_description": "The Six-spot Burnet is one of Britain's most distinctive moths, and the only moth you're likely to see flying confidently in bright sunshine. Most moths are night-flying and cryptic — this one is bold, slow, and brightly coloured, because it has nothing to fear. Both the caterpillar and adult moth contain hydrogen cyanide, absorbed from its foodplants, which makes it unpalatable to birds. The vivid red-on-metallic-green colouring is a warning: 'I taste terrible, don't eat me.' This warning colouring is called aposematism.\n\nAt Old Down, look for Six-spot Burnets nectaring on knapweed, scabious, and thistles alongside the butterflies in July. They are unhurried and approachable — you can get very close to photograph them. The larvae feed on Bird's-foot Trefoil and Kidney Vetch, so good populations of both plants support good numbers of this moth. The cocoons — papery golden-yellow tubes attached to grass stems — can sometimes be found in late spring.\n\nMating pairs often stay together for extended periods on flowerheads. The female lays eggs in neat batches on the underside of foodplant leaves. The caterpillar is yellow with black spots and is equally well-defended chemically — birds quickly learn to leave them alone.",
+    "danger_level": "low",
+    "danger_note": "The moth contains hydrogen cyanide and is toxic if eaten, but is completely harmless to touch or handle. It cannot sting or bite.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout the UK. Most abundant on chalk and limestone grassland in southern England. One of several UK Burnet moth species.",
+    "wildlife_value": "Adults are pollinators of chalk grassland wildflowers, particularly knapweed, scabious, and Bird's-foot Trefoil. The caterpillars feed on Bird's-foot Trefoil and Kidney Vetch, making the presence of both plants important for the species. The chemical defence of both larva and adult means they are not eaten by birds — making them unusual in the food web. Their boldness and slow flight makes them excellent for introducing children to moths.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "birds-foot-trefoil",
+      "kidney-vetch"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "black",
+      "green",
+      "metallic"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "Eggs are laid in neat batches on the undersides of Bird's-foot Trefoil or Kidney Vetch leaves. They are pale yellow and hatch within 2–3 weeks.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "The caterpillar is fat, yellow-green with black spots. It feeds on Bird's-foot Trefoil and Kidney Vetch. The caterpillar overwinters in a state of reduced activity and resumes feeding in spring. Like the adult, it contains hydrogen cyanide and is left alone by birds.",
+        "photos": []
+      },
+      {
+        "stage_name": "Cocoon",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "In late spring, the caterpillar spins a papery, golden-yellow or white cocoon high up on a grass stem or plant stalk. These are distinctive and can be found by careful searching. The cocoon is elongated and pointed at both ends.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Adults emerge in late June and fly through August. The metallic blue-green forewings with six vivid red spots are unmistakeable. Adults fly slowly in sunshine and frequently visit flowers to nectar. They are completely approachable — their toxic chemistry means they have no need to flee.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg",
+            "caption": "Six-spot Burnet Moth — metallic green wings with six red spots",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zygaena_filipendulae_%28side_view%29_-_Kulna.jpg",
+            "caption": "Six-spot Burnet Moth side view showing wing shape",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Zygaena_filipendulae_on_Avena_sativa.jpg",
+            "caption": "Six-spot Burnet Moth on grass — often found on grass seed heads before nectaring",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "five-spot-burnet",
+        "similarity_note": "Both are day-flying red-spotted moths of chalk grassland",
+        "key_difference": "Count the red spots: Six-spot has six, Five-spot has five. They can fly together at the same sites.",
+        "time_of_year_note": "Both fly June to August",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Zygaena_filipendulae_%28top_view%29_-_Kulna.jpg",
+        "caption": "Six-spot Burnet Moth",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zygaena_filipendulae_%28side_view%29_-_Kulna.jpg",
+        "caption": "Six-spot Burnet Moth side view",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Zygaena_filipendulae_on_Avena_sativa.jpg",
+        "caption": "Six-spot Burnet on grass",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "marmalade-hoverfly",
+    "common_names": [
+      "Marmalade Hoverfly",
+      "Marmalade Fly"
+    ],
+    "latin_name": "Episyrphus balteatus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Orange and black banding with double narrow black bands on the abdomen — the double bands are the key feature that separates it from many similar hoverflies. Much smaller and more slender than a wasp.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "garden",
+      "hedgerow",
+      "woodland-edge"
+    ],
+    "summary": "One of Britain's most familiar hoverflies — orange and black striped, hovering perfectly still in mid-air before darting to a flower. It looks like a wasp but has no sting. Millions migrate here from mainland Europe every year.",
+    "full_description": "The Marmalade Hoverfly is probably the hoverfly most people have noticed — hovering motionless, then darting sideways, then hovering again. The orange and black banding mimics a wasp or bee well enough to deter many predators (this is called Batesian mimicry), but it is completely harmless. Look closely and you'll see the single pair of wings (flies have two wings; wasps and bees have four), the large fly-style eyes, and the short antennae — nothing like a wasp's.\n\nMarmalade Hoverflies are migrants — every year, millions fly north from southern Europe and Africa to take advantage of the UK's summer flowers. Some years bring enormous numbers; on good days you can see them streaming in off the coast. Adults feed on nectar and pollen from flowers, while the larvae are voracious predators of aphids — a single larva can eat hundreds of aphids before pupating, making hoverflies important natural pest controllers.\n\nThe hover is extraordinary — the hoverfly maintains a fixed position in space with wingbeats of 120 per second, making tiny rapid adjustments for wind and air currents. It's one of the most impressive flying skills in the insect world. To see it best, watch one hovering over a flower on a warm, still afternoon.",
+    "danger_level": "none",
+    "danger_note": "Despite resembling a wasp, hoverflies cannot sting. They are completely harmless.",
+    "danger_type": "",
+    "native_info": "Native to the UK and a migratory visitor in large numbers from mainland Europe. One of the most common hoverfly species in Britain.",
+    "wildlife_value": "Adults are important pollinators — they visit a very wide range of flowers and can pollinate species that bees ignore. Larvae eat aphids, making hoverflies valuable natural pest controllers in gardens and crops. Migratory species like this one link ecosystems across Europe — the same individual may pollinate flowers in Spain, France, and England in a single season.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "black",
+      "yellow"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Larva",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "The larva is a pale, slug-like maggot found among aphid colonies on plant stems. It is completely blind and moves by feel, but can eat hundreds of aphids. It pupates in a brown barrel-shaped pupa on or near the foodplant.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "The adult is seen hovering over flowers or resting on leaves in sunshine. The orange and black banding is bright and contrasting. In flight, the hover is its most distinctive behaviour — it can hang motionless for extended periods, then dart sideways at speed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Episyrphus_balteatus_male_-_flying_%28aka%29.jpg",
+            "caption": "Marmalade Hoverfly hovering — note the single pair of wings",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Episyrphus_balteatus_on_flower_2.jpg",
+            "caption": "Marmalade Hoverfly on flower",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "buff-tailed-bumblebee",
+        "similarity_note": "Both are orange/black banded flying insects",
+        "key_difference": "Bumblebees are large and very furry; hoverflies are smaller and sleek. Bumblebees have four wings and longer antennae. Hoverflies hover motionless; bumblebees rarely do.",
+        "time_of_year_note": "Both visible spring to autumn",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Episyrphus_balteatus_male_-_flying_%28aka%29.jpg",
+        "caption": "Marmalade Hoverfly hovering",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Episyrphus_balteatus_on_flower_2.jpg",
+        "caption": "Marmalade Hoverfly on flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "speckled-wood",
+    "common_names": [
+      "Speckled Wood"
+    ],
+    "latin_name": "Pararge aegeria",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Brown with cream or pale yellow spots, including a distinctive row of eye-spots near the wing edges. The dappled-shade habitat and habit of basking in patches of sunlight is a strong clue.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "dappled-shade",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "The butterfly of dappled sunlight and woodland edges — warm brown with cream spots, and a habit of spiralling upward in fierce territory battles. One of the few UK butterflies that can be seen in every month from March to October.",
+    "full_description": "The Speckled Wood is a medium-sized brown butterfly with a distinctive pattern of pale cream spots on a warm dark-brown background, and a row of small eye-spots around the wing edges. It is strongly associated with dappled shade — woodland rides, hedgerows, and scrubby edges where patches of sunlight filter through to the ground. Males defend individual spots of sunlight on the ground or a leaf, rising in spiralling aerial battles with rival males before one retreats and the winner returns to his sunlit patch.\n\nSpeckled Wood is one of the longest-season butterflies in Britain — you can see it in every month from March to October in a warm year. This is partly because it has multiple broods, and partly because it can overwinter as either a caterpillar or a chrysalis — uniquely flexible among British butterflies. The caterpillars feed on a range of grasses and are bright green with cream stripes, perfectly camouflaged on a grass blade.\n\nAt Old Down, look for Speckled Wood along the edges where scrub or hedgerow meets the open grassland. Adults bask with wings open or half-open on sunny leaves, and are remarkably easy to approach when basking.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales, and southern Scotland. Has expanded its range northward significantly in recent decades. One of the more common and widespread UK butterflies.",
+    "wildlife_value": "Caterpillars feed on a range of coarse grasses (Cock's-foot, Yorkshire Fog, False Brome), making areas of long grass at woodland and scrub edges important for breeding. Adults take nectar from bramble, ragwort, and other flowers. The species rarely visits open grassland flowers but is an important link between woodland-edge and grassland habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider",
+      "bat"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Bright green with a pale stripe, perfectly camouflaged on a grass blade. May overwinter as a caterpillar — the only UK butterfly that can overwinter in two different life stages (as either caterpillar or chrysalis).",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Adults bask with wings spread in dappled sunlight. The pattern of cream spots and eyespots on dark brown wings is distinctive. Males rise in fierce spiralling chases to defend sunlit patches. Multiple broods mean adults can be seen from March to October.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Speckled_wood_%28Pararge_aegeria_aegeria%29_male.jpg",
+            "caption": "Speckled Wood basking in dappled sunlight",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Speckled_wood_%28Pararge_aegeria_aegeria%29_male_underside.jpg",
+            "caption": "Speckled Wood showing underside pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Speckled_wood_%28Pararge_aegeria_aegeria%29_male.jpg",
+        "caption": "Speckled Wood",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Speckled_wood_%28Pararge_aegeria_aegeria%29_male_underside.jpg",
+        "caption": "Speckled Wood underside",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "orange-tip",
+    "common_names": [
+      "Orange-tip",
+      "Orange Tip Butterfly"
+    ],
+    "latin_name": "Anthocharis cardamines",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Male is unmistakeable — white with bright orange wingtips. Female is white with black wingtips and often confused with the white butterflies. Both sexes have a beautiful green-and-white marbled pattern on the underside of the hindwing.",
+    "months_visible": [
+      4,
+      5,
+      6
+    ],
+    "peak_months": [
+      5
+    ],
+    "weather_flag": true,
+    "weather_note": "A true spring butterfly — numbers and timing vary with spring weather. Cold springs push emergence back; warm springs bring them out in April.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "woodland-edge",
+      "hedgerow",
+      "riverside",
+      "chalk-grassland"
+    ],
+    "summary": "The arrival of the Orange-tip is one of the classic signs that spring has truly arrived. The male's bright orange wingtips are unmistakeable — look for them dancing along hedgerows and wildflower verges in May.",
+    "full_description": "The Orange-tip is a spring butterfly — it emerges in April and May and is typically gone by June, with just a single brood per year. The male is one of the most distinctive British butterflies: white wings with a large patch of vivid orange at the tip of each forewing. There's no mistaking him when he flies past. The female is white with dark wingtips and no orange — she is regularly confused with Small White or Green-veined White, but the beautiful marbled green-and-white underside of the hindwing (visible when at rest or in flight) is present in both sexes and is the clincher.\n\nThe caterpillars feed on the flowers and seed pods of Garlic Mustard (Alliaria petiolata) and Cuckooflower (Cardamine pratensis) — plants that are usually found in damp meadows, hedgerow bases, and woodland edges rather than dry chalk grassland. At Old Down, look for Orange-tips flying along the hedgerow edges and in areas where damp ground or rank vegetation supports these foodplants.\n\nOne of the most remarkable things about Orange-tip caterpillars is that they are cannibalistic — if two caterpillars meet on the same plant, one will eat the other. This is why the female lays only a single egg per plant: if she laid more, they'd just eat each other.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales, and southern Scotland. Common and widespread where foodplants grow. A single brood, flying April to June.",
+    "wildlife_value": "Orange-tips are pollinators of spring wildflowers, including Cuckooflower and Garlic Mustard. The caterpillars feed on these plants' seed pods, making them dependent on damp, undisturbed ground where the plants grow. The adults are important nectar visitors to early-flowering plants including Bluebell, Dandelion, and Cuckooflower — all at a time when few other butterflies are flying.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "orange",
+      "black",
+      "green"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "The female lays a single bottle-shaped egg on the flower stalk of Garlic Mustard or Cuckooflower — crucially, only one egg per plant, to prevent cannibalism. The egg starts white and turns orange as it develops, which can help you spot it.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "The caterpillar is green-grey, almost perfectly matching the seed pods it feeds on. It is cannibalistic — if it meets another Orange-tip caterpillar, it will eat it. Look carefully along the seed pods of Garlic Mustard in June.",
+        "photos": []
+      },
+      {
+        "stage_name": "Chrysalis",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "The chrysalis is remarkable — long, curved, and pointed, shaped like a curved thorn or leaf midrib. It is extremely well-camouflaged and attached along a stem. The butterfly overwinters inside and emerges the following April.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "The male is brilliant white with a large orange patch covering the outer third of the forewing tip. Both sexes have a beautiful marbled green-and-white underside on the hindwing that looks like crinkled lichen — a perfect camouflage when at rest.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Orange_tip_%28Anthocharis_cardamines%29_male_2.jpg",
+            "caption": "Male Orange-tip showing vivid orange wingtips",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Orange_tip_%28Anthocharis_cardamines%29_male_Geiranger.jpg",
+            "caption": "Male Orange-tip in flight",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult — Underside",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "When at rest with wings closed, both males and females show the green-and-white marbled underside of the hindwing — this is the best ID feature for the female, who has no orange above.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Orange_tip_%28Anthocharis_cardamines%29_male_underside.jpg",
+            "caption": "Orange-tip at rest showing the marbled green-and-white underside",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Orange_tip_%28Anthocharis_cardamines%29_male_2.jpg",
+        "caption": "Male Orange-tip butterfly",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Orange_tip_%28Anthocharis_cardamines%29_male_Geiranger.jpg",
+        "caption": "Orange-tip in flight",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Orange_tip_%28Anthocharis_cardamines%29_male_underside.jpg",
+        "caption": "Orange-tip underside — marbled green and white",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "brimstone",
+    "common_names": [
+      "Brimstone",
+      "Brimstone Butterfly"
+    ],
+    "latin_name": "Gonepteryx rhamni",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Male is brilliant sulphur yellow — the most vivid yellow of any UK butterfly. Female is a very pale greenish-white and can be confused with Large White, but the distinctive leaf-shaped wing outline and orange spot on each wing identify both sexes.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      3,
+      4,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "One of the earliest butterflies of the year — can emerge on warm days in January or February. Emergence timing varies with winter temperature. Often the first butterfly of the year.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "chalk-grassland"
+    ],
+    "summary": "The canary-yellow male Brimstone is one of the most vivid sights of early spring — often the first butterfly of the year. The word 'butterfly' may actually come from this species: 'butter-coloured fly.'",
+    "full_description": "The Brimstone is one of Britain's longest-lived butterflies — adults live for up to 13 months, overwintering as adults tucked into ivy or Holly, and emerging on the first warm days of late winter or spring. On a mild February afternoon, a flash of vivid sulphur yellow along a hedgerow is the classic first-Brimstone-of-the-year moment. The male is the most intensely yellow butterfly in Britain — nothing else comes close. The female is a pale, almost white greenish-cream and is regularly mistaken for a Large White at first glance.\n\nBoth sexes have a distinctive wing outline — the wings are shaped like leaves, with a small hook at the tip of the forewing. When at rest with wings closed, the leaf-vein pattern and leaf-green colouring of the underside makes both sexes effectively invisible against ivy or leafy vegetation. An orange spot sits at the centre of each wing, visible on both surfaces.\n\nThe caterpillars feed exclusively on Buckthorn and Alder Buckthorn — neither of which is particularly common at Old Down, so Brimstones seen there are likely adults that have moved in from nearby woodland or hedgerow rather than being bred on site. Adults are powerful fliers and can travel significant distances.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales; scarce in Scotland. Requires Buckthorn or Alder Buckthorn for breeding. Adults are long-lived and mobile.",
+    "wildlife_value": "As one of the earliest butterflies to appear in spring, Brimstones are early pollinators of spring flowers — they particularly favour Primrose, Lungwort, and Bugle. The caterpillars are entirely dependent on Buckthorn species. The overwintering adults' leaf-shaped, leaf-coloured wings are a remarkable example of camouflage adaptation.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "yellow",
+      "green",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "The caterpillar is plain green with a white stripe along the side — perfectly camouflaged on a Buckthorn leaf. It feeds on Buckthorn (Rhamnus cathartica) or Alder Buckthorn (Frangula alnus). It pupates in a leaf-shaped green chrysalis attached to a stem.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "The male is brilliant sulphur yellow — possibly the origin of the name 'butterfly' (butter-coloured fly). Each wing has an orange central spot. The leaf-shaped outline is apparent at rest, and when wings are closed the green underside makes him nearly invisible.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg",
+            "caption": "Male Brimstone — vivid sulphur yellow with leaf-shaped wings",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Common_brimstones_%28Gonepteryx_rhamni%29_courting_in_flight.jpg",
+            "caption": "Brimstone pair — male (yellow) and female (pale green-white) courting in flight",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg",
+        "caption": "Male Brimstone butterfly",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Common_brimstones_%28Gonepteryx_rhamni%29_courting_in_flight.jpg",
+        "caption": "Male and female Brimstone in flight",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "red-admiral",
+    "common_names": [
+      "Red Admiral"
+    ],
+    "latin_name": "Vanessa atalanta",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakeable: black wings with bold red bands and white spots at the wingtips. No other UK butterfly has this combination.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "garden",
+      "woodland-edge",
+      "chalk-grassland",
+      "hedgerow"
+    ],
+    "summary": "One of Britain's most familiar and beautiful butterflies — jet black with bold red bands and white spots. Often one of the last butterflies seen in autumn, feeding on fallen fruit and ivy flowers.",
+    "full_description": "The Red Admiral is one of the most striking and recognisable British butterflies. The bold combination of jet black wings with bright red bands crossing the forewings and hindwings, plus white spots near the forewing tips, is completely unmistakeable — there is nothing else like it in the UK. Underneath, the wings have a beautiful complex pattern of brown, black, and orange that provides excellent camouflage when roosting on tree bark.\n\nRed Admirals are primarily migrants from southern Europe and North Africa — vast numbers move north each spring, and the British population is reinforced by these arrivals each year. Some individuals are now known to overwinter successfully in southern England, emerging on warm winter days. The caterpillars feed on Stinging Nettles, making any patch of nettles in a sunny, sheltered spot potentially important for breeding.\n\nIn late summer and autumn, Red Admirals are drawn to ripe and rotting fruit — orchards, blackberries, fallen windfall apples, and garden ivy flowers are magnets for them at this time of year. They bask with wings spread flat in the autumn sunshine, soaking up warmth before their long flight south. At this time, they can also be seen roosting motionless on sun-warmed fence posts, tree trunks, and walls.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident and migrant. Breeds in the UK using Stinging Nettles, but many individuals are migrants from mainland Europe. Increasingly overwinters in the south of England.",
+    "wildlife_value": "Caterpillars feed on Stinging Nettles, making nettles a key resource for this species. Adults are important pollinators of late-season flowers — especially ivy flowers in autumn, which are one of the most important late nectar sources for many insects. Red Admirals are among the most mobile of UK butterflies, linking habitats across large distances.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "insectivorous-bird",
+      "spider",
+      "bat"
+    ],
+    "depends_on": [
+      "stinging-nettle"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "red",
+      "white",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "The caterpillar lives in a tent of folded nettle leaves, sewn together with silk. It is black or dark brown with yellow spots along the sides. Peel back a folded nettle leaf on a sunny nettle patch in summer and you may find one.",
+        "photos": []
+      },
+      {
+        "stage_name": "Chrysalis",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "The chrysalis hangs from a stem near the nettle patch, dark brown with small metallic-gold patches.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult — Summer",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Fresh adults in summer are vividly coloured — jet black, red, and white. They nectar on a wide range of flowers including knapweed, thistles, bramble, and marjoram.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Red_Admiral_butterfly_%28Vanessa_atalanta%29_-_geograph.org.uk_-_6187954.jpg",
+            "caption": "Red Admiral butterfly — the bold red bands and white spots are unmistakeable",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult — Autumn",
+        "months_typical": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "In late summer and autumn, Red Admirals feed intensely on rotting fruit and ivy flowers to build up energy reserves. At this time of year they often bask with wings fully spread on warm surfaces, and can be approached very closely.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vanessa_atalanta_-_geograph.org.uk_-_215963.jpg",
+            "caption": "Red Admiral basking in autumn sunshine",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vanessa_atalanta_-_geograph.org.uk_-_1473871.jpg",
+            "caption": "Red Admiral showing the beautiful underwing pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Red_Admiral_butterfly_%28Vanessa_atalanta%29_-_geograph.org.uk_-_6187954.jpg",
+        "caption": "Red Admiral butterfly",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vanessa_atalanta_-_geograph.org.uk_-_215963.jpg",
+        "caption": "Red Admiral basking",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vanessa_atalanta_-_geograph.org.uk_-_1473871.jpg",
+        "caption": "Red Admiral underwing",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
   }
 ]
