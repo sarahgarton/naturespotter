@@ -1,0 +1,21 @@
+/* Sholing Valley / Miller's Pond branded configuration
+ * To deploy the Sholing Valley version, change this script tag in index.html:
+ *   <script src="config/location.js"></script>
+ * to:
+ *   <script src="config/location-sholing-valley.js"></script>
+ */
+window.LOCATION_CONFIG = {
+  id: "sholing-valley",
+  name: "Sholing Valley Nature Spotter",
+  shortName: "Sholing Valley",
+  tagline: "A field guide to Miller's Pond and the Shoreburs Greenway",
+  aboutTitle: "About Sholing Valley",
+  defaultLocationFilter: "sholing-valley",
+  showLocationFilter: false,
+  logo: null,
+  footerText: "Sholing Valley Nature Spotter · Miller's Pond & the Shoreburs Greenway, Southampton",
+  contactEmail: "",
+  metaTitle: "Sholing Valley Nature Spotter",
+  metaDescription: "Identify wildlife at Miller's Pond and the Shoreburs Greenway, Sholing, Southampton — pond, wetland, meadow, scrub, acid grassland and woodland-edge habitats.",
+  locationsIntroText: "This guide covers wildlife at Miller's Pond and the Shoreburs Greenway in Sholing, Southampton — a nature reserve with pond, wetland, acid grassland, meadow, scrub and woodland-edge habitats."
+};
