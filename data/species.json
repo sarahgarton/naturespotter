@@ -8907,7 +8907,14 @@
           12
         ],
         "description": "Look for oval prints with 4 toes in a diamond pattern and clear claw marks pointing forward. Best seen in soft mud, wet soil, or snow. Fox prints appear in a very straight line — the hind foot registers almost exactly into the front foot print. Measure the print: 5–6cm long × 4–4.5cm wide.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fox_Tracks_on_Snow_-_Flickr_-_brewbooks_%281%29.jpg",
+            "caption": "Fox tracks in snow — oval prints in a straight, registering line",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY"
+          }
+        ]
       },
       {
         "stage_name": "Scat",
@@ -8941,7 +8948,14 @@
       }
     ],
     "similar_species": [],
-    "photos": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fox_Tracks_on_Snow_-_Flickr_-_brewbooks_%281%29.jpg",
+        "caption": "Fox tracks in snow — oval prints in a straight, registering line",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY"
+      }
+    ],
     "verified": true,
     "date_added": "2026-05-29"
   },
@@ -9171,7 +9185,14 @@
           12
         ],
         "description": "Look in soft mud at field edges, pond margins, and path edges. Roe slots are small (3–4cm), heart-shaped, and pointed at the front. Compare with rabbit prints (four toes, no cloven hoof) and Fox prints (four toes with pads). A clean diagonal cut on nibbled vegetation indicates deer browsing (vs. ragged rabbit gnawing).",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Roe_deer_tracks_on_a_muddy_path_in_Tuntorp.jpg",
+            "caption": "Roe Deer slots (footprints) in mud — small heart-shaped cloven prints",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       },
       {
         "stage_name": "Fraying",
@@ -9206,7 +9227,20 @@
       }
     ],
     "similar_species": [],
-    "photos": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Roe_deer_tracks_on_a_muddy_path_in_Tuntorp.jpg",
+        "caption": "Roe Deer slots (footprints) in mud — small heart-shaped cloven prints",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Deer_Tracks_%28132992233%29.jpg",
+        "caption": "Deer tracks showing the cloven hoof print pattern",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
     "verified": true,
     "date_added": "2026-05-29"
   },
