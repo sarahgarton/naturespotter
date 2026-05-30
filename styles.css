@@ -354,6 +354,15 @@ button { cursor: pointer; font-family: var(--font-body); }
   display: block;
 }
 
+.header-tagline {
+  background: var(--moss);
+  color: rgba(255,255,255,0.75);
+  font-size: 12px;
+  font-style: italic;
+  padding: 4px 20px 10px;
+  text-align: center;
+}
+
 .header-actions .btn-icon {
   color: var(--cream);
   border-color: rgba(255,255,255,0.4);
