@@ -166,6 +166,7 @@
     try {
       const resp = await fetch('data/species.json');
       allSpecies = await resp.json();
+      allSpecies.sort((a, b) => a.common_names[0].localeCompare(b.common_names[0]));
     } catch (e) {
       console.error('Failed to load species data:', e);
       allSpecies = [];
