@@ -458,7 +458,7 @@
     ],
     "verified": true,
     "date_added": "2026-05-22",
-    "featured": false
+    "featured": true
   },
   {
     "id": "small-blue",
@@ -7196,5 +7196,148 @@
     ],
     "verified": true,
     "date_added": "2026-05-29"
+  },
+  {
+    "id": "holly-blue",
+    "common_names": [
+      "Holly Blue"
+    ],
+    "latin_name": "Celastrina argiolus",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "The only blue butterfly you are likely to see flying high around trees and shrubs rather than low over grassland. Bright sky-blue upperwings with very little dark edging in spring. Pale silver-blue undersides with small black dots (no orange spots).",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      4,
+      5,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "gardens"
+    ],
+    "summary": "A sky-blue butterfly of woodland edges and scrub — the only blue you'll see flying up around holly, ivy, and shrubs rather than low over grass. Two generations each year, spring and late summer.",
+    "full_description": "The Holly Blue (Celastrina argiolus) is the most widespread blue butterfly in the UK and the one most likely to be seen in gardens, parks, and woodland edges. Males are a vivid sky-blue above with narrow dark wing borders; females have broader dark borders that are more prominent in the second (late summer) generation. The undersides of both wings are pale silver-blue scattered with small black dots — quite different from the orange-spotted undersides of the Common Blue. Holly Blues fly higher than other blue butterflies, weaving around shrubs and trees rather than staying low over grassland. There are two generations per year: the first in spring (April–June) lays eggs on holly flower buds; the second in late summer (July–September) prefers ivy. The species is well known for dramatic population cycles — numbers boom and crash over several years, driven by a specialist parasitic wasp (Listrodomus nycthemerus) that attacks the caterpillars. Old Down's mix of scrub, woodland edge, holly, and ivy makes it excellent habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the UK. Common and widespread across England and Wales, less so in Scotland. Found in woodland edges, hedgerows, parks, and gardens wherever holly and ivy grow. Old Down's scrub and woodland edge provides ideal habitat.",
+    "wildlife_value": "Adults nectar on a wide range of flowers including bramble, privet, and ivy. Caterpillars of the spring generation feed on holly flower buds and developing berries; the second generation feeds on ivy flowers. The caterpillars are tended by ants, which protect them in exchange for a sugary secretion — a relationship shared with several UK blue butterflies.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "spider",
+      "insectivorous-bird"
+    ],
+    "depends_on": [
+      "holly",
+      "ivy"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          4,
+          5,
+          7,
+          8
+        ],
+        "description": "Tiny, pale green, disc-shaped eggs are laid singly on the flower buds of holly (spring generation) or ivy (summer generation). They are very hard to spot without a hand lens. Eggs hatch within about a week.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6,
+          8,
+          9
+        ],
+        "description": "Caterpillars are small, green, and slug-shaped — well camouflaged among flower buds and developing berries. Spring caterpillars eat holly flowers and unripe berries; summer caterpillars eat ivy flowers. Like many blue butterfly caterpillars, they secrete a sweet liquid that attracts ants, which in turn guard them from predators and parasitic wasps.",
+        "photos": []
+      },
+      {
+        "stage_name": "Chrysalis",
+        "months_typical": [
+          6,
+          9,
+          10
+        ],
+        "description": "The chrysalis is small, pale brown, and formed low down on bark, leaf litter, or in crevices. The chrysalis of the second generation overwinters, not emerging until the following spring.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Spring adults (April–June) are brighter sky-blue with narrow dark borders, especially the males. Summer adults (July–September) have wider dark borders, particularly the females. Both generations have the distinctive pale silver-blue underside with small black dots. Watch for them flying high around holly and ivy bushes, often basking briefly on sunny leaves.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
+            "caption": "Holly Blue male, upperwing",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Holly_Blue_Butterfly_%28Celastrina_argiolus%29_underside.jpg",
+            "caption": "Holly Blue underside showing silver-blue with black dots",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "name": "Common Blue",
+        "how_to_tell_apart": "Common Blue flies low over grassland; Holly Blue flies higher around shrubs. Common Blue underside has orange spots near the wing edges; Holly Blue underside is plain pale blue with small black dots only."
+      },
+      {
+        "name": "Small Blue",
+        "how_to_tell_apart": "Small Blue is much smaller (14–18mm vs 26–34mm), silvery rather than sky-blue, and restricted to chalk grassland with Kidney Vetch. Holly Blue is larger and found near holly and ivy."
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
+        "caption": "Holly Blue male",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
   }
 ]
