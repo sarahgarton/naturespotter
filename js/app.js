@@ -6,6 +6,8 @@
   /* ============================================================
      STATE
   ============================================================ */
+  const ADMIN_PASSWORD = 'olddown';
+
   let allSpecies = [];
   let filteredSpecies = [];
   let previousScreen = 'browse';
@@ -55,7 +57,6 @@
   }
   function setSpotted(obj) { localStorage.setItem('ns_spotted', JSON.stringify(obj)); }
 
-  // TODO: replace with Supabase anonymous count in Phase 2
   function getSpottedCounts() {
     try { return JSON.parse(localStorage.getItem('ns_spotted_counts') || '{}'); } catch { return {}; }
   }
@@ -243,8 +244,10 @@
     document.querySelectorAll('#filter-colour input').forEach(cb => cb.addEventListener('change', onFilterChange));
     document.querySelectorAll('#filter-confidence input').forEach(cb => cb.addEventListener('change', onFilterChange));
 
-    // Right Now
-    document.getElementById('btn-right-now').addEventListener('click', () => {
+    // Right Now — label shows current month on load
+    const rightNowBtn = document.getElementById('btn-right-now');
+    rightNowBtn.textContent = `Right Now (${MONTH_NAMES[new Date().getMonth()]})`;
+    rightNowBtn.addEventListener('click', () => {
       const m = new Date().getMonth() + 1;
       document.getElementById('filter-month').value = String(m);
       onFilterChange();
@@ -327,6 +330,11 @@
 
     // Admin mode trigger — EXACTLY "admin"
     if (filters.search === 'admin') {
+      const pw = prompt('Admin password:');
+      if (pw !== ADMIN_PASSWORD) {
+        document.getElementById('filter-search').value = '';
+        return;
+      }
       setupAdmin();
       showScreen('admin');
       return;
@@ -463,10 +471,7 @@
     document.querySelectorAll('#filter-type input, #filter-location input, #filter-native input, #filter-colour input, #filter-confidence input')
       .forEach(cb => cb.checked = false);
     sessionStorage.removeItem('ns_filters');
-    applyFilters({ search:'', month:'', types:[], locations:[], natives:[], colours:[], confidences:[] });
-    updateFilterBadge({ search:'', month:'', types:[], locations:[], natives:[], colours:[], confidences:[] });
-    const container = document.getElementById('active-filters');
-    if (container) container.innerHTML = '';
+    onFilterChange();
   }
 
   /* ============================================================
@@ -502,7 +507,6 @@
       : '';
 
     const isSpotted = spotted[s.id];
-    // TODO: replace with Supabase anonymous count in Phase 2
     const counts = getSpottedCounts();
     const spottedCount = counts[s.id] || 0;
     const countText = spottedCount > 0
@@ -565,7 +569,6 @@
     } else {
       spotted[id] = true;
       dates[id] = new Date().toISOString().split('T')[0];
-      // Increment persistent count — TODO: replace with Supabase anonymous count in Phase 2
       const counts = getSpottedCounts();
       counts[id] = (counts[id] || 0) + 1;
       setSpottedCounts(counts);
@@ -615,7 +618,6 @@
 
     const spotted = getSpotted();
     const isSpotted = spotted[s.id];
-    // TODO: replace with Supabase anonymous count in Phase 2
     const counts = getSpottedCounts();
     const spottedCount = counts[s.id] || 0;
     const detailCountStr = spottedCount > 0
@@ -966,10 +968,7 @@
     // Header 'About' button
     const openBtn = document.getElementById('btn-open-about');
     if (openBtn) {
-      openBtn.addEventListener('click', () => {
-        previousScreen = 'browse';
-        showScreen('about');
-      });
+      openBtn.addEventListener('click', () => showScreen('about'));
     }
     // Back button
     const backBtn = document.getElementById('btn-back-about');
@@ -1007,10 +1006,7 @@
      LOCATIONS
   ============================================================ */
   function setupLocations() {
-    document.getElementById('btn-open-locations').addEventListener('click', () => {
-      previousScreen = 'browse';
-      showScreen('locations');
-    });
+    document.getElementById('btn-open-locations').addEventListener('click', () => showScreen('locations'));
     document.getElementById('btn-back-locations').addEventListener('click', () => {
       showScreen('browse');
     });
@@ -1174,7 +1170,7 @@
         <div class="sub-actions">
           <button class="btn-approve" data-id="${sub.id}">Approve</button>
           <button class="btn-reject" data-id="${sub.id}">Reject</button>
-          <button class="btn-claude-review" data-id="${sub.id}" title="Generate a Claude prompt to research this species">🤖 Review with Claude</button>
+          <button class="btn-claude-review" data-id="${sub.id}" title="Generate a research prompt for this species">Research species</button>
         </div>` : `
         <div class="sub-actions">
           <button class="btn-ghost" style="font-size:13px;padding:5px 12px" data-id="${sub.id}" data-action="reopen">Reopen</button>
@@ -1247,14 +1243,14 @@ Respond with the complete JSON object only, starting with { and ending with }`;
     modal.innerHTML = `
       <div style="background:var(--cream);border-radius:12px;padding:28px;max-width:600px;width:100%;max-height:80vh;display:flex;flex-direction:column;gap:16px;box-shadow:var(--shadow-lg)">
         <div style="display:flex;justify-content:space-between;align-items:center">
-          <h3 style="font-family:var(--font-display);color:var(--moss);margin:0">🤖 Claude Review Prompt</h3>
+          <h3 style="font-family:var(--font-heading);color:var(--moss);margin:0">Research Prompt</h3>
           <button id="close-claude-modal" style="background:none;border:none;font-size:22px;cursor:pointer;color:var(--text-light)">&times;</button>
         </div>
-        ${copied ? '<p style="color:var(--fern);font-size:14px;font-weight:600">✓ Copied to clipboard</p>' : '<p style="color:var(--text-light);font-size:13px">Copy this prompt and paste it into Claude.ai:</p>'}
+        ${copied ? '<p style="color:var(--fern);font-size:14px;font-weight:600">✓ Copied to clipboard</p>' : '<p style="color:var(--text-light);font-size:13px">Copy this prompt to research the species:</p>'}
         <textarea readonly style="flex:1;min-height:240px;font-family:monospace;font-size:12px;padding:12px;border:1px solid var(--border);border-radius:8px;resize:vertical;color:var(--text-dark);background:var(--chalk);line-height:1.5">${prompt.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</textarea>
         <div style="display:flex;gap:10px;justify-content:flex-end">
           <button id="copy-claude-prompt" class="btn-ghost" style="font-size:14px">Copy prompt</button>
-          <a href="https://claude.ai" target="_blank" rel="noopener" class="btn-primary" style="font-size:14px;text-decoration:none;display:inline-flex;align-items:center;gap:6px">Open Claude.ai ↗</a>
+          <button class="btn-primary" style="font-size:14px" id="open-claude-ai" onclick="window.open('https://claude.ai','_blank','noopener')">Open AI assistant ↗</button>
         </div>
       </div>`;
 
