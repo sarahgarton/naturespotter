@@ -6,8 +6,6 @@
   /* ============================================================
      STATE
   ============================================================ */
-  const ADMIN_PASSWORD = 'olddown';
-
   let allSpecies = [];
   let filteredSpecies = [];
   let previousScreen = 'browse';
@@ -332,7 +330,8 @@
     // Admin mode trigger — EXACTLY "admin"
     if (filters.search === 'admin') {
       const pw = prompt('Admin password:');
-      if (pw !== ADMIN_PASSWORD) {
+      const adminPassword = (window.LOCATION_CONFIG || {}).adminPassword || 'naturespotter';
+      if (pw !== adminPassword) {
         document.getElementById('filter-search').value = '';
         return;
       }
