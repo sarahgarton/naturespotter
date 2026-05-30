@@ -16,5 +16,6 @@ window.LOCATION_CONFIG = {
   footerText: "Old Down Nature Spotter · Made for the Old Down Home Ed Nature Club",
   contactEmail: "old.down.wildlife@gmail.com",
   metaTitle: "Old Down Nature Spotter",
-  metaDescription: "Identify wildlife at Old Down chalk grassland and woodland park, Basingstoke"
+  metaDescription: "Identify wildlife at Old Down chalk grassland and woodland park, Basingstoke",
+  locationsIntroText: "This guide focuses on wildlife spotted at Old Down, a chalk grassland and woodland park in Basingstoke. Species are also tagged where they are common across South UK generally."
 };

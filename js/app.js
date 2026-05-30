@@ -141,6 +141,10 @@
     if (aboutTitle && cfg.aboutTitle) aboutTitle.textContent = cfg.aboutTitle;
     if (aboutTagline && cfg.tagline) aboutTagline.textContent = cfg.tagline;
 
+    // Locations intro text
+    const locIntro = document.getElementById('locations-intro-text');
+    if (locIntro && cfg.locationsIntroText) locIntro.textContent = cfg.locationsIntroText;
+
     // Footer
     const footerText = document.getElementById('footer-text');
     if (footerText && cfg.footerText) footerText.textContent = cfg.footerText;
