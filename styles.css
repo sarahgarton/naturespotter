@@ -214,6 +214,13 @@ button { cursor: pointer; font-family: var(--font-body); }
   margin-bottom: 32px;
 }
 
+.disclaimer-logo {
+  max-width: 160px;
+  height: auto;
+  display: block;
+  margin: 0 auto 16px;
+}
+
 .guide-emblem {
   font-size: 48px;
   margin-bottom: 12px;
