@@ -300,7 +300,8 @@
     "weather_note": "",
     "featured": false,
     "locations": [
-      "old-down"
+      "old-down",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "woodland-edge",
@@ -754,10 +755,11 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -913,7 +915,8 @@
     "featured": false,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "hedgerow",
@@ -1626,7 +1629,7 @@
     ],
     "verified": true,
     "date_added": "2026-05-22",
-    "featured": false
+    "featured": true
   },
   {
     "id": "brimstone",
@@ -1908,7 +1911,7 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
       "sholing-valley",
@@ -2919,10 +2922,11 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -4658,9 +4662,10 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
-      "old-down"
+      "old-down",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "woodland",
@@ -5839,7 +5844,7 @@
     ],
     "verified": true,
     "date_added": "2026-05-22",
-    "featured": false
+    "featured": true
   },
   {
     "id": "hazel",
@@ -6907,10 +6912,11 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -8352,7 +8358,8 @@
     "featured": false,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -9026,7 +9033,8 @@
     "featured": false,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -10173,10 +10181,11 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "woodland-edge",
@@ -10969,7 +10978,8 @@
     "featured": true,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -12090,7 +12100,8 @@
     "weather_note": "",
     "featured": false,
     "locations": [
-      "old-down"
+      "old-down",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "woodland",
@@ -12233,7 +12244,8 @@
     "featured": false,
     "locations": [
       "old-down",
-      "south-uk"
+      "south-uk",
+      "sholing-valley"
     ],
     "habitat_tags": [
       "chalk-grassland",
@@ -12929,5 +12941,4557 @@
     ],
     "verified": true,
     "date_added": "2026-05-29"
+  },
+  {
+    "id": "silver-birch",
+    "common_names": [
+      "Silver Birch"
+    ],
+    "latin_name": "Betula pendula",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "White papery bark and delicate drooping branches are unmistakable. Young trees can be confused with Downy Birch — check the hairless twigs (Silver Birch) vs hairy twigs (Downy Birch).",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "acid-grassland",
+      "urban-edge"
+    ],
+    "summary": "Slender tree with brilliant white bark and weeping branches. A pioneer species that colonises open ground quickly. Vital for wildlife — over 300 insect species depend on it.",
+    "full_description": "Silver Birch (Betula pendula) is one of Britain's most elegant native trees, instantly recognised by its brilliant white, papery bark that peels in horizontal strips and develops dark diamond-shaped cracks with age. It has a slender, graceful form with pendulous (drooping) branches and small, triangular leaves with a double-toothed edge that flutter in the breeze. In autumn the leaves turn a clear, clean yellow before falling. Silver Birch is a pioneer species — one of the first trees to colonise bare or disturbed ground. It thrives on acid, sandy or poor soils, making it ideal for the sandy, acidic conditions at Sholing. Despite its delicate appearance it is a powerhouse for wildlife: over 300 species of insect have been recorded using it, including the Birch Polypore fungus, which grows exclusively on birch. Its seeds — tiny winged nutlets — are produced in huge quantities and dispersed by wind, and are a key winter food for finches such as Redpoll and Siskin.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to Britain and found throughout, but most at home on acid, sandy soils in the south and east, and across upland areas in the north.",
+    "wildlife_value": "Exceptional wildlife value. Supports over 300 insect species including many moths (Buff-tip, Pebble Hook-tip). Birch Polypore and other fungi grow on its bark and dead wood. Seeds eaten by Redpoll, Siskin and other finches. Provides nesting habitat for many birds in holes and branches.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "siskin",
+      "redpoll",
+      "birch-polypore"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "green"
+    ],
+    "colour_leaf": [
+      "green",
+      "yellow"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "white",
+      "black"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Catkins",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "In early spring, long male catkins (yellow-green, 2–4cm) hang from the branches, releasing clouds of pollen. Smaller, upright female catkins are pollinated by wind. This happens before or as the leaves emerge.",
+        "photos": []
+      },
+      {
+        "stage_name": "In Leaf",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Leaves are small, triangular, and mid-green with a double-toothed margin. They tremble in the lightest breeze. By October they turn clear yellow before falling.",
+        "photos": []
+      },
+      {
+        "stage_name": "Winter Silhouette",
+        "months_typical": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "The white bark and fine, drooping purple-brown twigs are beautiful in winter. Look for the bark at any time of year — it is the most reliable identification feature.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "downy-birch",
+        "similarity_note": "Both are native birches with white bark",
+        "key_difference": "Downy Birch has hairy twigs and rounder leaves; Silver Birch has hairless, warty twigs and more pointed, triangular leaves with a more pendulous habit.",
+        "time_of_year_note": "Both visible year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bjørk%2C_Betula_pendula_-_geograph.org.uk_-_590503.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "In Leaf",
+        "month_taken": 6,
+        "caption": "Silver Birch showing white bark and delicate canopy"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "alder",
+    "common_names": [
+      "Alder",
+      "Common Alder"
+    ],
+    "latin_name": "Alnus glutinosa",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Round, slightly notched leaves and small, dark woody cone-like fruits (persistent on the tree) are diagnostic. Usually found right beside water.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "pond",
+      "streamside",
+      "waterside"
+    ],
+    "summary": "The tree of the waterside. Round leaves and dark, cone-like fruits. Its roots fix nitrogen and stabilise stream banks — and its waterlogged wood lasts for centuries.",
+    "full_description": "Alder (Alnus glutinosa) is Britain's waterside tree, almost always found growing with its feet in or near water — along stream banks, pond margins, marshes and wet woodland. At Miller's Pond and along the Shoreburs Greenway, look for it wherever the ground is persistently wet. It has round-to-oval leaves, slightly notched at the tip, that are sticky when young (hence 'glutinosa'). Its most distinctive feature is the small, dark woody fruits that look like miniature cones and persist on the tree through winter long after the leaves have fallen. In late winter, before any other tree, Alder's purple-red male catkins hang in clusters, a sign that spring is approaching. Its roots host nitrogen-fixing bacteria (Frankia), enriching poor, waterlogged soils. The wood is unusually rot-resistant when permanently waterlogged — Venice was built on Alder piles.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Most abundant in wet, lowland areas. A key species of wet woodland (alder carr).",
+    "wildlife_value": "Catkins provide early pollen for bees. Seeds eaten by Redpoll, Siskin and Goldfinch in winter. Supports many specialist insects including the Alder Moth. Dead alder in water is important for invertebrates. Roots stabilise riverbanks and provide habitat for water voles and otters.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "siskin",
+      "redpoll",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "black",
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Catkins",
+        "months_typical": [
+          2,
+          3,
+          4
+        ],
+        "description": "One of the first trees to flower. Long, dangling male catkins (purple-red then yellow) appear from February. Smaller, egg-shaped female catkins become the distinctive woody 'cones'.",
+        "photos": []
+      },
+      {
+        "stage_name": "In Leaf",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Round-oval, dark green leaves, slightly sticky when young. Old woody cones from the previous year often still visible alongside new growth.",
+        "photos": []
+      },
+      {
+        "stage_name": "Winter Cones",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "The small dark woody cone-like fruits persist on bare branches through winter. A key identification feature. Look for them dangling in clusters at the waterside.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Alnus_glutinosa_catkins.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Catkins",
+        "month_taken": 3,
+        "caption": "Alder catkins and last year's woody cones"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "holly",
+    "common_names": [
+      "Holly",
+      "Common Holly"
+    ],
+    "latin_name": "Ilex aquifolium",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Shiny, dark green, spiny leaves are unmistakable. Upper branches of mature trees often have smooth-edged leaves. Red berries in winter on female plants only.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      11,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "Evergreen with spiny, glossy leaves and red winter berries. One of only three native British evergreen trees. Berries are vital food for thrushes and other winter birds.",
+    "full_description": "Holly (Ilex aquifolium) is one of Britain's best-known native trees and one of only three native evergreen broadleaved trees (alongside Box and Yew). Its dark, waxy, spiny leaves are unmistakable. Interestingly, the spines are primarily a defence against browsing by deer and cattle — on mature trees where branches are beyond reach, the leaves often become smooth-edged. Holly is dioecious (separate male and female plants), and only female plants bear the bright red berries, provided a male plant is nearby for pollination. The berries ripen in autumn and are a critical winter food source for thrushes — particularly Fieldfare and Redwing — Blackbirds, and Mistle Thrushes, which guard berry-laden bushes fiercely against rivals. Holly grows slowly and can live for hundreds of years, developing into a tall tree in woodland or remaining as dense, impenetrable scrub in hedgerows.",
+    "danger_level": "caution",
+    "danger_note": "Holly berries are toxic to humans (especially children) and dogs, causing vomiting and diarrhoea. Do not eat them.",
+    "danger_type": "toxic-berries",
+    "native_info": "Native throughout England, Wales and southern Scotland. Common in woodland and hedgerows.",
+    "wildlife_value": "Berries are a critical winter food for Blackbird, Mistle Thrush, Fieldfare and Redwing. Dense evergreen foliage provides roosting and nesting cover year-round, especially in winter. Flowers provide nectar and pollen for bees. Holly Blue butterfly lays eggs on Holly in spring.",
+    "pollinators_supported": [
+      "honeybee",
+      "bumblebee"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "mistle-thrush",
+      "fieldfare",
+      "redwing",
+      "holly-blue"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowers",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "Small, white, four-petalled flowers appear in clusters in May and June. They are scented and attractive to bees. Male and female flowers are on separate plants.",
+        "photos": []
+      },
+      {
+        "stage_name": "Berries",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "Female plants bear clusters of bright red berries from October onwards, persisting through winter until eaten by birds. A vital wildlife resource in the lean winter months.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ilex_aquifolium-1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Berries",
+        "month_taken": 11,
+        "caption": "Holly with typical spiny leaves and red berries"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "goat-willow",
+    "common_names": [
+      "Goat Willow",
+      "Pussy Willow",
+      "Great Sallow"
+    ],
+    "latin_name": "Salix caprea",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Broad, rounded leaves (unlike most willows which are narrow), and silky grey catkins ('pussy willow') in early spring before leaves. Damp or wet ground.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "woodland-edge",
+      "scrub",
+      "waterside"
+    ],
+    "summary": "The pussy willow of early spring — silky grey catkins appear before the leaves. One of the most important early-spring pollen sources for bees. Broad leaves distinguish it from most willows.",
+    "full_description": "Goat Willow (Salix caprea) is one of the earliest trees to flower in spring, and its familiar fluffy grey catkins — long known as 'pussy willow' — are a welcome sight in late February and March, appearing before the leaves and providing one of the most important early pollen sources for bumblebee queens emerging from hibernation. Unlike most willows, which have narrow, lance-shaped leaves, Goat Willow has broad, oval leaves with a rounded tip, making it one of the easier willows to identify. It grows as a large shrub or small tree in damp or disturbed ground, woodland edges and scrub — exactly the kind of habitat found along the Shoreburs Greenway. Male plants bear yellow catkins (pollen-producing) and females bear green catkins that develop into cottony seed heads. The Purple Emperor butterfly — one of Britain's most magnificent insects — depends almost exclusively on Goat Willow for its larvae.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Common in damp ground, woodland edges, roadsides and scrub.",
+    "wildlife_value": "Exceptionally important for early-spring pollinators — one of the best pollen sources when little else is in flower. Supports over 150 insect species. Larval food plant for the Purple Emperor butterfly. Catkin pollen important for early queen bumblebees.",
+    "pollinators_supported": [
+      "bumblebee",
+      "honeybee",
+      "solitary-bee"
+    ],
+    "food_source_for": [
+      "purple-emperor"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "grey",
+      "silver"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Catkins",
+        "months_typical": [
+          2,
+          3,
+          4
+        ],
+        "description": "Silky grey oval catkins appear on bare branches from late February. Male catkins turn yellow as pollen is released. Female catkins are more slender and turn green, later producing cottony seeds.",
+        "photos": []
+      },
+      {
+        "stage_name": "In Leaf",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Broad, oval leaves, dark green above and grey-green and downy below. Very different from the narrow leaves of most willows. Twigs are grey-brown and may be downy.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "crack-willow",
+        "similarity_note": "Both are willows growing near water",
+        "key_difference": "Crack Willow has very long, narrow lance-shaped leaves (10–15cm). Goat Willow has broad, rounded-oval leaves. Crack Willow is a large tree; Goat Willow usually a smaller shrub.",
+        "time_of_year_note": "Both visible year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Salix_caprea_catkins.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Catkins",
+        "month_taken": 3,
+        "caption": "Goat Willow 'pussy willow' catkins in early spring"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "common-daisy",
+    "common_names": [
+      "Daisy",
+      "Common Daisy",
+      "Lawn Daisy"
+    ],
+    "latin_name": "Bellis perennis",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tiny white flowers with yellow centres at ground level, on short stalks, with a rosette of spoon-shaped leaves. One of Britain's most familiar wildflowers.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "weather_flag": true,
+    "weather_note": "Flowers open in sunshine and close at night or in dull weather (hence 'day's eye' — the origin of 'daisy').",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "garden",
+      "urban-edge"
+    ],
+    "summary": "Britain's most familiar wildflower. White petals around a yellow centre, hugging the ground in lawns and meadows. Flowers almost all year round and is a key early nectar source.",
+    "full_description": "The Common Daisy (Bellis perennis) is arguably Britain's most recognisable wildflower. Its simple, cheerful white-petalled flowers with bright yellow centres need no introduction. The name 'daisy' comes from 'day's eye' — the flowers open in sunshine and close at dusk or in overcast weather. It is a perennial plant that forms low rosettes of spoon-shaped, slightly hairy leaves, with flowers on short stems (2–10cm). It grows in short, grazed or mown grassland — lawns, meadows, parks — and is one of the few wildflowers that actually benefits from mowing, as it keeps competition low. Despite its humble reputation, it is an important early nectar source, particularly in spring, flowering almost continuously from February to November. It is also a food plant for several moth species, and its seeds are eaten by small birds. In meadows managed for wildlife, daisies can form impressive drifts.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the British Isles. Extremely common.",
+    "wildlife_value": "Important early and late-season nectar source for bees, hoverflies and small butterflies. Leaves eaten by various moth caterpillars. Seeds eaten by sparrows and finches. One of the most accessible wildflowers for pollinators in urban and suburban settings.",
+    "pollinators_supported": [
+      "bumblebee",
+      "honeybee",
+      "solitary-bee",
+      "hoverfly",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "sparrow",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "oxeye-daisy",
+        "similarity_note": "Both have white petals and yellow centres",
+        "key_difference": "Oxeye Daisy is much larger (flowers 3–6cm across on tall stems to 70cm). Common Daisy is tiny (1–2cm flowers) at ground level on very short stems.",
+        "time_of_year_note": "Common Daisy flowers almost year-round; Oxeye Daisy peaks May–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bellis_perennis_flower_%28aka%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 4,
+        "caption": "Common Daisy — white petals and yellow disc florets"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "meadow-buttercup",
+    "common_names": [
+      "Meadow Buttercup",
+      "Tall Buttercup"
+    ],
+    "latin_name": "Ranunculus acris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Shiny, bright yellow flowers on tall, branched, hairless (or slightly hairy) stems. No reflexed sepals (unlike Creeping Buttercup). Leaves deeply divided into 3–7 lobes.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": true,
+    "weather_note": "Flowers open in sunshine; petals have a waxy coating that reflects UV light, making them attractive to insect pollinators.",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "wetland"
+    ],
+    "summary": "The classic buttercup of summer meadows — tall, branching stems with shiny yellow flowers. The most upright of the common buttercups, creating golden drifts in uncut grassland.",
+    "full_description": "Meadow Buttercup (Ranunculus acris) is the stately, tall buttercup of traditional hay meadows and uncut grassland, reaching 30–80cm. Its shiny, bright yellow flowers (2–3cm across) sit on long, branching stems. The leaves are deeply divided into 3–7 lobes, themselves further divided, giving a lacy appearance — the stem leaves become progressively simpler and narrower towards the top. Unlike Creeping Buttercup, Meadow Buttercup does not produce runners (stolons) and unlike Bulbous Buttercup it has no reflexed (bent-back) sepals. The polished petals have a glossy, waxy surface that strongly reflects UV light — visible to insects as a bright signal. Meadow Buttercup is an indicator of old, unimproved grassland and its presence in good numbers at Sholing is a positive sign. In meadow management, it is one of the species that flowers before a traditional July hay cut.",
+    "danger_level": "caution",
+    "danger_note": "All buttercups contain protoanemonin, an irritant sap. Avoid contact with eyes or prolonged skin contact. Toxic if eaten in large quantities. Livestock avoid it when fresh but may eat it when dried in hay — though potency reduces when dried.",
+    "danger_type": "irritant-sap",
+    "native_info": "Native throughout the British Isles.",
+    "wildlife_value": "Important pollen and nectar source for bees, beetles and hoverflies. Seeds eaten by finches and buntings. Part of traditional meadow flora supporting a wide range of invertebrates.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly",
+      "beetle"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "creeping-buttercup",
+        "similarity_note": "Very similar yellow buttercup in similar habitats",
+        "key_difference": "Creeping Buttercup produces creeping runners (stolons) along the ground. Meadow Buttercup is taller and more upright with no runners. Creeping Buttercup prefers wetter, muddier ground.",
+        "time_of_year_note": "Both flower May–August",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ranunculus_acris_flowers.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 6,
+        "caption": "Meadow Buttercup — shiny yellow flowers on tall branching stems"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "yarrow",
+    "common_names": [
+      "Yarrow",
+      "Common Yarrow",
+      "Milfoil"
+    ],
+    "latin_name": "Achillea millefolium",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Flat-topped clusters of tiny white (occasionally pink-tinged) flowers. Finely feathery, aromatic leaves are distinctive — rub a leaf for a pungent, herby smell.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "hedgerow",
+      "urban-edge"
+    ],
+    "summary": "Flat-topped clusters of tiny white flowers above finely feathery, aromatic leaves. A tough meadow plant important for hoverflies and small beetles. Leaves smell strongly of herbs when crushed.",
+    "full_description": "Yarrow (Achillea millefolium) is a tough, aromatic perennial of grassland and meadows, instantly identifiable by its finely divided, feathery leaves that smell pungent and herby when crushed — the genus name honours Achilles, who legendarily used it to staunch wounds. The flowers are borne in flat-topped clusters (corymbs) of many tiny individual flower heads, usually white but sometimes pink-tinged. The plant grows 20–60cm tall and spreads by both seed and underground rhizomes, forming patches in grassland. It is one of the key 'matrix' species of traditional meadows, providing a flat landing platform for a huge variety of invertebrates — particularly hoverflies, small beetles, and solitary wasps. It is extremely drought-tolerant and thrives in dry, sunny grassland, but will grow almost anywhere. Yarrow has a very long folk medicine tradition and is still used in herbal medicine.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the British Isles. Very common.",
+    "wildlife_value": "One of the top plants for invertebrate diversity. The flat flower-head is easily accessible to many small insects. Supports hoverflies, solitary wasps, beetles, small butterflies and moths. Leaves eaten by several moth caterpillars.",
+    "pollinators_supported": [
+      "hoverfly",
+      "solitary-bee",
+      "bumblebee",
+      "butterfly",
+      "beetle"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Achillea_millefolium_-_open_flower_head_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Yarrow — flat-topped white flower clusters"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "self-heal",
+    "common_names": [
+      "Self-heal",
+      "All-heal",
+      "Woundwort"
+    ],
+    "latin_name": "Prunella vulgaris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Short plant with a dense, oblong spike of small violet-purple flowers. Grows in short grassland and lawns. Leaves oval and slightly toothed.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "garden",
+      "urban-edge"
+    ],
+    "summary": "Low-growing plant with dense spikes of violet-purple flowers in short grassland and lawns. An important nectar plant for bumblebees, and one of the few wildflowers that thrives in mown lawns.",
+    "full_description": "Self-heal (Prunella vulgaris) is a neat, low-growing perennial that occurs in short grassland, lawns, woodland rides and disturbed ground. Its dense, oblong flower spikes carry small two-lipped flowers of rich violet-purple, each with a hooded upper lip and a fringed lower lip, in whorls around a tight, barrel-shaped head. It grows 5–30cm tall and can survive regular mowing by keeping low. The plant has a very long history in herbal medicine — its common name refers to its traditional use in wound-healing and as a treatment for sore throats. It is an important nectar source for bumblebees, particularly Buff-tailed and White-tailed Bumblebees, and is also visited by other bees and butterflies. In lawns managed with a light touch — cutting less frequently and slightly higher — Self-heal will quickly establish itself.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the British Isles. Very common.",
+    "wildlife_value": "Important nectar source for bumblebees and solitary bees. Also visited by butterflies and hoverflies. Can survive in mown lawns, providing wildlife value in otherwise low-diversity areas.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "butterfly",
+      "hoverfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "violet"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Prunella_vulgaris%2C_Gewone_brunel%2C_bloem.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Self-heal — dense violet-purple flower spike"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "red-campion",
+    "common_names": [
+      "Red Campion"
+    ],
+    "latin_name": "Silene dioica",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Bright deep-pink (not truly red) five-petalled flowers with each petal split in two. Hairy stems and leaves. Flowers in spring before many other plants in shaded spots.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "Vivid deep-pink flowers on hairy stems in woodland and hedgerow edges. One of spring's most striking wildflowers. The flowers are on separate male and female plants.",
+    "full_description": "Red Campion (Silene dioica) is one of the most eye-catching spring wildflowers of woodland edges, hedgerows and shaded banks, its vivid deep-pink (or magenta) flowers brightening the understorey from March through to autumn. Despite the name, the colour is closer to cerise or deep pink than red. The flowers are about 2cm across with five petals, each deeply notched at the tip, giving a ten-lobed appearance. Red Campion is dioecious — male and female flowers are on separate plants. Male flowers have ten stamens; female flowers have a striped, inflated calyx tube. The stems and leaves are softly hairy and slightly sticky. It grows 30–90cm tall and is a lover of nitrogen-rich, moist soil in shaded or semi-shaded places. Where it grows alongside White Campion, hybridisation occurs to produce pale pink forms. Red Campion is an important food plant for caterpillars of the Rivulet moth, which eats the seeds.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland, less common in the far north.",
+    "wildlife_value": "Nectar source for long-tongued bumblebees, butterflies and moths. Seeds eaten by caterpillars of the Rivulet and Campion moths. An important spring flower for woodland-edge pollinators.",
+    "pollinators_supported": [
+      "bumblebee",
+      "butterfly",
+      "moth"
+    ],
+    "food_source_for": [
+      "rivulet-moth"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "red"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "white-campion",
+        "similarity_note": "Closely related campion, sometimes found nearby",
+        "key_difference": "White Campion has white flowers and tends to grow in more open, disturbed habitats. Where the two meet, pale-pink hybrids are common. The leaf shape and hairiness are similar.",
+        "time_of_year_note": "White Campion flowers May–October; Red Campion from March",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Silene_dioica_1_beentree.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 5,
+        "caption": "Red Campion flowers — deep pink with notched petals"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "ragwort",
+    "common_names": [
+      "Common Ragwort",
+      "Ragwort"
+    ],
+    "latin_name": "Jacobaea vulgaris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Flat-topped clusters of bright yellow daisy-like flowers on tall stems. Deeply lobed, slightly ragged leaves. Look for black-and-yellow striped Cinnabar moth caterpillars feeding on it.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "urban-edge",
+      "disturbed-ground"
+    ],
+    "summary": "Tall plant with flat-topped clusters of yellow daisy flowers and deeply lobed leaves. Toxic to horses and livestock, but one of the most important wildflowers for invertebrates in Britain — supporting over 170 insect species.",
+    "full_description": "Common Ragwort (Jacobaea vulgaris) is a tall, branching biennial or short-lived perennial growing 30–100cm, common on roadsides, rough grassland and disturbed ground. Its bright yellow, daisy-like flowers are borne in flat-topped clusters from June onwards. The leaves are dark green and deeply, irregularly lobed — 'ragged', hence the name. Ragwort is toxic to horses and cattle (particularly when dried in hay, as the smell that deters them when fresh is reduced) and is listed under the Weeds Act 1959, leading to widespread — and often ecologically damaging — destruction. However, living ragwort is avoided by most grazing animals and is not a hazard in grazed fields. Its ecological value is enormous: it supports over 170 insect species and is one of the single most important wildflowers for invertebrate diversity in Britain. Most iconic is the Cinnabar moth, whose striking black-and-yellow-striped caterpillars can completely defoliate plants. It is also an important nectar source for bumblebees, hoverflies, and butterflies including the Small Copper and various skippers.",
+    "danger_level": "caution",
+    "danger_note": "Toxic to horses, ponies, cattle, donkeys and goats — especially when dried (in hay). Also mildly toxic to humans if consumed in large amounts. Do not handle then touch eyes. Not a hazard by simply touching.",
+    "danger_type": "toxic-if-ingested",
+    "native_info": "Native throughout the British Isles.",
+    "wildlife_value": "One of the most wildlife-valuable wildflowers in Britain. Supports 77 insect species directly and over 170 in total. Food plant for Cinnabar moth caterpillars. Important nectar source for bees, hoverflies, butterflies and day-flying moths. Seeds eaten by Goldfinch.",
+    "pollinators_supported": [
+      "bumblebee",
+      "honeybee",
+      "hoverfly",
+      "butterfly",
+      "beetle"
+    ],
+    "food_source_for": [
+      "cinnabar-moth",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "Do not remove from wildlife areas — it has exceptional biodiversity value. In horse pasture: remove before seeding, wear gloves, bag for disposal (do not compost as toxins persist in dried plant).",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Senecio_jacobaea.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Common Ragwort in full flower"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "teasel",
+    "common_names": [
+      "Common Teasel",
+      "Teasel"
+    ],
+    "latin_name": "Dipsacus fullonum",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: tall, stiff, prickly stems with large, spiny, egg-shaped heads and a collar of curved bracts beneath them. Even in winter the dead heads persist and are distinctive.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "urban-edge",
+      "disturbed-ground",
+      "waterside"
+    ],
+    "summary": "Tall, architectural plant with spiny heads that flower in a distinctive ring pattern. Dead heads persist all winter, providing seeds for Goldfinch. One of the most important late-summer plants for pollinators.",
+    "full_description": "Common Teasel (Dipsacus fullonum) is one of the most architecturally striking native wildflowers, growing 70–200cm tall on stiff, prickly stems with large, spiny, egg-shaped heads. It is a biennial, spending the first year as a flat rosette of leaves, then shooting up in its second year to flower. The flower heads are remarkable: small lilac-purple flowers open not from the top or bottom but in a ring that moves both up and down the head simultaneously, creating a distinctive banded pattern. This makes Teasel popular with longer-tongued bumblebees. After flowering, the spiny, cone-like heads persist through autumn and winter, and are a major attraction for Goldfinch, which cling acrobatically to extract the seeds. As a result, Teasel is one of the most-recommended plants for wildlife gardens and reserves. It thrives on disturbed, moderately fertile soils near water and along roadsides.",
+    "danger_level": "none",
+    "danger_note": "The stems and leaves are prickly — wear gloves when handling.",
+    "danger_type": "",
+    "native_info": "Native in England and Wales. Less common in Scotland.",
+    "wildlife_value": "Major nectar source for long-tongued bumblebees and butterflies. Seeds are a key winter food for Goldfinch. Dead heads also provide winter perches and insect shelter. Rated among the top plants for garden and reserve wildlife value.",
+    "pollinators_supported": [
+      "bumblebee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "lilac"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Rosette",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "First-year plants are flat rosettes of large, crinkled, slightly prickly leaves close to the ground. They can persist all winter before shooting up in spring of their second year.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "The tall, prickly stem develops with opposite pairs of leaves joined at the base (forming a water-holding cup). The spiny heads flower in a distinctive double ring of lilac-purple from July.",
+        "photos": []
+      },
+      {
+        "stage_name": "Seed Head",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "After flowering, the dried, spiny heads persist through winter on the stiff stems. A key food source for Goldfinch, which visit repeatedly to extract seeds.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Dipsacus_fullonum_%281%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Teasel in flower — ring of purple florets on spiny head"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "rosebay-willowherb",
+    "common_names": [
+      "Rosebay Willowherb",
+      "Fireweed"
+    ],
+    "latin_name": "Chamerion angustifolium",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tall spikes of vivid pink-purple flowers with four petals, and long, narrow leaves arranged spirally up the stem. Produces huge quantities of cottony white seeds in late summer.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "urban-edge",
+      "disturbed-ground",
+      "woodland-edge",
+      "scrub"
+    ],
+    "summary": "Vivid pink-purple flower spikes on tall plants, followed by cottony white seed fluff in late summer. A coloniser of disturbed ground and woodland clearings — earned the name 'Fireweed' for colonising bomb sites after the Blitz.",
+    "full_description": "Rosebay Willowherb (Chamerion angustifolium) is an instantly recognisable plant of disturbed ground, roadsides, railway banks, woodland clearings and post-fire land. It grows 50–150cm tall, with long, narrow, willow-like leaves arranged spirally up the stem and tall, tapering spikes of vivid pink-purple, four-petalled flowers. In late summer the flowers give way to long, slender seed pods that split open to release thousands of seeds, each attached to a long, white, silky thread that carries it on the wind — the resulting 'snow' of cottony fluff is one of the sights of August. Rosebay Willowherb was nicknamed 'Fireweed' for its rapid colonisation of bomb sites in London and other British cities after the Blitz of 1940–41, its vivid flowers covering acres of rubble. It spreads aggressively by both seed and underground rhizomes, forming large patches. An important nectar source for bumblebees and the food plant of the Elephant Hawk-moth caterpillar.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to Britain, but greatly expanded its range in the 20th century following land disturbance. Now very common.",
+    "wildlife_value": "Major nectar source for bumblebees, especially Buff-tailed and Garden Bumblebee. Food plant for the caterpillar of the spectacular Elephant Hawk-moth. Seeds dispersed by wind. Provides cover for invertebrates and small mammals.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "elephant-hawk-moth"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rosebay_willowherb.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Rosebay Willowherb — tall spikes of vivid pink-purple flowers"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "bindweed",
+    "common_names": [
+      "Bindweed",
+      "Field Bindweed",
+      "Hedge Bindweed"
+    ],
+    "latin_name": "Calystegia sepium",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large, white (or pink-striped), trumpet-shaped flowers with two broad leaf-like bracts at the base. Twining, climbing stems. Arrow-shaped leaves.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "Flowers open in sunshine and close in dull weather or at night.",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "scrub",
+      "urban-edge",
+      "waterside"
+    ],
+    "summary": "Large, white, funnel-shaped flowers on twining stems scrambling through hedges and scrub. A vigorous native climber, important for hoverflies, bees and hawk-moths. Tricky to control in gardens.",
+    "full_description": "Hedge Bindweed (Calystegia sepium) is the larger of the two common British bindweeds, with big, pure white (or occasionally pink-striped), trumpet-shaped flowers up to 7cm across — one of the largest flowers of any British wildflower. The stems twine anticlockwise around other plants, scrambling to several metres. The leaves are arrow-shaped with pointed basal lobes. Two broad, leaf-like bracts sit at the base of each flower, distinguishing it from the smaller Field Bindweed (Convolvulus arvensis) which lacks these. The flowers are open by day and attract hoverflies, bees and hawk-moths — the Convolvulus Hawk-moth hovers at dusk to feed on nectar from the deep flower tubes. Despite its vigour (it spreads by deep underground rhizomes that are very difficult to eradicate), it is a native wildflower with real ecological value at the edges of scrub and waterside habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Less common in Scotland.",
+    "wildlife_value": "Nectar source for hoverflies, bumblebees and hawk-moths. The Convolvulus Hawk-moth uses its long proboscis to reach nectar in the deep flower tube. Leaves eaten by caterpillars of some moth species.",
+    "pollinators_supported": [
+      "hoverfly",
+      "bumblebee",
+      "hawk-moth"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "Very difficult to control. In gardens: repeatedly cut at ground level to weaken; do not compost rhizomes. Do not use herbicide near water.",
+    "colour_flower": [
+      "white",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Calystegia_sepium20100703_01.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Hedge Bindweed — large white trumpet flowers"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "honeysuckle",
+    "common_names": [
+      "Honeysuckle",
+      "Common Honeysuckle",
+      "Woodbine"
+    ],
+    "latin_name": "Lonicera periclymenum",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Twining woody climber with paired, tubular, creamy-yellow to orange-pink flowers with a powerful sweet scent, especially at dusk. Red berries in late summer.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "Fragrant, twining woodland climber with clusters of creamy-yellow and pink tubular flowers. The scent intensifies at dusk to attract hawk-moths. Red berries follow in late summer.",
+    "full_description": "Honeysuckle (Lonicera periclymenum), also known as Woodbine, is one of Britain's most beloved native climbing shrubs, renowned for the intense, sweet scent of its flowers — particularly at dusk and dawn. It is a woody, twining climber that can reach 10m, winding clockwise around other plants and through hedgerows. The flowers are long, tubular, and borne in clusters, creamy-yellow flushed with pink or purple-red on the outside. The scent is strongest in the evening, when it attracts hawk-moths — particularly the Elephant and Privet Hawk-moths — which hover at the flowers to drink nectar with their long probosces. By day, bumblebees with long tongues can access the nectar. In late summer, clusters of glossy red berries develop and are eaten by birds, including Warblers, Blackbirds and Thrushes. Dormice feed on Honeysuckle flowers and berries, and also use strips of Honeysuckle bark to line their hibernation nests.",
+    "danger_level": "caution",
+    "danger_note": "The red berries are mildly toxic to humans, especially children, causing vomiting and stomach upset. Do not eat them.",
+    "danger_type": "toxic-berries",
+    "native_info": "Native throughout the British Isles.",
+    "wildlife_value": "Outstanding for wildlife. Nectar for hawk-moths, bumblebees and butterflies. Berries eaten by Blackbird, Thrush and Warblers. Bark strips used by Dormice for nest lining. Leaves food for caterpillars of White Admiral and several moth species.",
+    "pollinators_supported": [
+      "hawk-moth",
+      "bumblebee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "blackcap",
+      "garden-warbler",
+      "hazel-dormouse"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "cream",
+      "pink",
+      "orange"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red"
+    ],
+    "colour_bark_stem": [
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lonicera_periclymenum.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 6,
+        "caption": "Honeysuckle — tubular flowers with characteristic pink and cream colouring"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "common-reed",
+    "common_names": [
+      "Common Reed",
+      "Norfolk Reed"
+    ],
+    "latin_name": "Phragmites australis",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tall, robust grass with feathery, purple-brown plumes at the top and stiff, hollow stems. Forms dense stands at water margins. Dead stems and plumes persist through winter.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "pond",
+      "waterside"
+    ],
+    "summary": "Tall, feathery-plumed grass forming dense stands at the water's edge. The iconic reedbed plant, essential habitat for Reed Warbler, Sedge Warbler and Cetti's Warbler. Stems used for thatching.",
+    "full_description": "Common Reed (Phragmites australis) is the tallest native grass in Britain, growing 1.5–3.5m tall, and forms extensive, dense stands at the edges of ponds, lakes, rivers, ditches and marshes. Its stiff, hollow stems carry long, strap-like blue-green leaves, and in late summer a large, feathery flower plume (panicle) of purple-brown to silver that persists, nodding in the wind, through the whole winter. Reed beds are one of Britain's most important wildlife habitats. At Miller's Pond, even a fringe of Common Reed creates ideal habitat for Cetti's Warbler (which nests in dense waterside vegetation), Reed Bunting, and roosting invertebrates. The dead stems host many specialist invertebrates, including the rare Reed Leopard moth. Stems are also the traditional material for thatching roofs — 'Norfolk Reed' has been used for centuries. Reed can spread very aggressively by rhizome, and reedbed management (cutting in winter) is often needed to prevent it overtaking open water.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the British Isles. Cosmopolitan — the most widespread plant species in the world.",
+    "wildlife_value": "Exceptional. Creates dense reedbed habitat essential for Cetti's Warbler, Reed Warbler, Sedge Warbler, and Reed Bunting. Supports many specialist invertebrates. Provides winter roost for Starlings and Swallows (pre-migration). Stems used by solitary bees as nesting cavities.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "cettis-warbler",
+      "reed-warbler"
+    ],
+    "depends_on": [],
+    "invasive_impact": "Can spread aggressively and overtake open water and other wetland habitats if unmanaged. Needs periodic cutting or grazing to prevent dominance.",
+    "removal_advice": "Winter cutting (November–February) keeps reedbed in check and maintains a mosaic of habitats. Do not spray near water.",
+    "colour_flower": [
+      "purple",
+      "brown",
+      "silver"
+    ],
+    "colour_leaf": [
+      "green",
+      "blue-green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "brown",
+      "beige"
+    ],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Phragmites_australis.jpeg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Seed Head",
+        "month_taken": 9,
+        "caption": "Common Reed — feathery purple-brown plumes"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "wild-garlic",
+    "common_names": [
+      "Wild Garlic",
+      "Ramsons"
+    ],
+    "latin_name": "Allium ursinum",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Carpets of broad, bright green, strap-like leaves with a strong garlic smell when crushed. White star-shaped flowers in spring. Grows in damp, shaded woodland.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "peak_months": [
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "waterside"
+    ],
+    "summary": "Creates white-flowered carpets in damp woodland in spring, smelling strongly of garlic. Leaves, flowers and bulbs are all edible. An indicator of old, undisturbed woodland.",
+    "full_description": "Wild Garlic (Allium ursinum), also known as Ramsons, is one of the most distinctive spring wildflowers, transforming damp woodland floors into white-flowered carpets from April to May, accompanied by a powerful smell of garlic. The broad, bright green, strap-like leaves emerge from February, long before the flowers, and quickly carpet the ground in ancient or long-established woodland. The flowers are white, star-shaped, arranged in a rounded head on a triangular stem. All parts of the plant — leaves, flowers, bulbs and seeds — are edible and have a garlic flavour that is milder than cultivated garlic. Wild Garlic is an indicator species for old, undisturbed, damp woodland — a useful sign of habitat quality. After flowering, the leaves die back completely by early summer, leaving no trace above ground until the following February.",
+    "danger_level": "caution",
+    "danger_note": "Wild Garlic leaves can be confused with Lily of the Valley (toxic) and Lords-and-Ladies (toxic). Always crush a leaf and check for the garlic smell — if there is no smell, do not eat. Both toxic lookalikes lack the garlic scent.",
+    "danger_type": "lookalike-toxic",
+    "native_info": "Native throughout Britain and Ireland. Particularly common in damp, lowland woodland.",
+    "wildlife_value": "Flowers provide nectar for early-spring bumblebees and hoverflies. Leaves eaten by some moth caterpillars. Dense spring growth shades out some invasive species. An important indicator of ancient or long-established woodland.",
+    "pollinators_supported": [
+      "bumblebee",
+      "hoverfly",
+      "solitary-bee"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "lords-and-ladies",
+        "similarity_note": "Can share damp woodland habitat; leaves similar when young",
+        "key_difference": "Lords-and-Ladies leaves are arrow-shaped with dark spotting, and have no garlic smell when crushed. Wild Garlic has a distinctly garlicky smell. Always smell before eating any garlic-like plant.",
+        "time_of_year_note": "Both emerge in early spring",
+        "danger_level": "high"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Allium_ursinum_flowers.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 4,
+        "caption": "Wild Garlic carpeting a woodland floor in spring"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "three-cornered-leek",
+    "common_names": [
+      "Three-cornered Leek",
+      "Three-cornered Garlic"
+    ],
+    "latin_name": "Allium triquetrum",
+    "type": "wildflower",
+    "native_status": "non-native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Drooping, bell-shaped white flowers with a green stripe down each petal. Distinctive triangular (three-cornered) stem — roll it between fingers and feel the three ridges. Garlic smell when crushed.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "peak_months": [
+      3,
+      4
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "urban-edge",
+      "woodland-edge",
+      "hedgerow",
+      "disturbed-ground"
+    ],
+    "summary": "White drooping bell flowers with a green stripe, on a distinctly three-sided stem that smells of garlic. Native to the Mediterranean, naturalised across south England. Edible, but an invasive spreader.",
+    "full_description": "Three-cornered Leek (Allium triquetrum) is a bulbous plant native to the Mediterranean region that has naturalised widely across southern England, particularly in the south and southwest. It grows in hedgerows, roadsides, gardens and disturbed ground, often forming large patches. The stem is distinctly three-sided (triangular in cross-section) — run it between your fingers to feel the three ridges, which is the easiest identification feature. The drooping, bell-shaped white flowers have a distinctive green stripe down the centre of each petal. Like Wild Garlic, it smells strongly of garlic when any part is crushed. All parts are edible and have a mild garlic flavour — leaves, flowers and bulbs. However, it spreads aggressively and can outcompete native wildflowers. It is listed as an invasive non-native species in some areas. In Sholing it is commonly found on roadsides and disturbed ground.",
+    "danger_level": "caution",
+    "danger_note": "Can be confused with Wild Garlic, Bluebell (toxic), or Three-leaved Snowflake. Always check for the triangular stem and garlic smell before eating. Bluebells are toxic and have no garlic smell.",
+    "danger_type": "lookalike-toxic",
+    "native_info": "Not native to the UK — originally from the Mediterranean. Naturalised widely across southern England and Wales.",
+    "wildlife_value": "Some nectar value for early bees and hoverflies. However, its aggressive spread can reduce native wildflower diversity — particularly outcompeting Wild Garlic and Bluebell.",
+    "pollinators_supported": [
+      "hoverfly",
+      "solitary-bee"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "Can spread aggressively and outcompete native bulbs including Bluebell and Wild Garlic in hedgerows and woodland edges. Listed as a non-native invasive in some contexts.",
+    "removal_advice": "In conservation areas, remove by pulling up the entire bulb before seeding. The edible bulbs and leaves can be eaten — a useful way to control while reducing waste. Do not compost — bulbs will regrow.",
+    "colour_flower": [
+      "white",
+      "green"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "wild-garlic",
+        "similarity_note": "Both are garlic-smelling spring bulbs",
+        "key_difference": "Wild Garlic has broad flat leaves and upright flower clusters. Three-cornered Leek has narrow, keeled leaves and drooping, individually stalked flowers on a triangular stem.",
+        "time_of_year_note": "Both flower in spring; Three-cornered Leek slightly earlier",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Allium_triquetrum_1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flower",
+        "month_taken": 4,
+        "caption": "Three-cornered Leek — drooping white flowers with green stripe"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "scarlet-elf-cup",
+    "common_names": [
+      "Scarlet Elf Cup"
+    ],
+    "latin_name": "Sarcoscypha austriaca",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Vivid scarlet, cup-shaped fungus on dead wood in winter and early spring. The bright red inner surface and pale, downy outer surface are distinctive. One of very few bright red fungi.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "waterside",
+      "wetland"
+    ],
+    "summary": "Vivid scarlet cup-shaped fungi appearing on dead wood in winter — one of the most striking and unmistakable of all British fungi. A winter delight in damp woodland.",
+    "full_description": "Scarlet Elf Cup (Sarcoscypha austriaca) is one of Britain's most spectacular fungi, appearing in the depths of winter on moss-covered dead wood, twigs and branches in damp woodland — often near streams and wet ground. Its cup-shaped fruit bodies (2–6cm across) have a brilliant, vivid scarlet interior and a paler, downy outer surface — the contrast makes them stand out dramatically against the drab colours of the winter woodland floor. They are also found on buried or partially buried woody debris. Despite the common name (and some older references), the species most commonly found in Britain is S. austriaca rather than S. coccinea — they are very difficult to tell apart without microscopy. Scarlet Elf Cup belongs to the Ascomycetes (sac fungi), releasing spores from the inner surface. It is saprotrophic, breaking down dead wood, and plays an important ecological role in woodland nutrient cycling. It is an edible species, though rarely collected in quantity.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native in Britain. Found in damp woodland, particularly near water. Uncommon but spectacular when found.",
+    "wildlife_value": "Saprotrophic decomposer — breaks down dead wood and contributes to nutrient cycling. The cups may provide a humid microhabitat for small invertebrates in winter.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "dead-wood",
+      "damp-woodland"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "scarlet",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sarcoscypha_coccinea_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 2,
+        "caption": "Scarlet Elf Cup — vivid red cups on damp dead wood"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "giant-puffball",
+    "common_names": [
+      "Giant Puffball"
+    ],
+    "latin_name": "Calvatia gigantea",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: a large, smooth, white sphere sitting on the ground, like a football or volleyball. Up to 50cm across (occasionally larger). Cut through to verify — inside should be pure white throughout (if there is any internal structure or colour, discard).",
+    "months_visible": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "woodland-edge"
+    ],
+    "summary": "A large, smooth white sphere on the ground — unmistakable. Can grow to the size of a football or larger. Edible when pure white inside. One of the most dramatic fungi you can find.",
+    "full_description": "Giant Puffball (Calvatia gigantea) is one of the most extraordinary fungi in Britain — a smooth, white, spherical fruit body that sits directly on the ground and can grow to truly impressive sizes: typically 10–50cm across, but recorded up to 150cm and weighing several kilograms. It has no cap or stalk, and when young and white inside is considered an excellent edible species (it has been compared to tofu or white bread in texture, and is delicious sliced and fried in butter). The key safety check is to cut it in half from top to bottom: the inside must be pure, uniform white throughout with no internal structure. If there is any yellowish, greenish, or structured interior, do not eat it — immature deadly Amanita species can grow inside a white egg-like case that might superficially resemble a young puffball. As the Giant Puffball ages it turns yellow, then brown, and finally the outer skin breaks down to release a vast cloud of brown spores — a single fruit body can contain 7 trillion spores. Found in meadows, grassland edges and open woodland, often appearing in the same spot year after year.",
+    "danger_level": "caution",
+    "danger_note": "Edible only when pure white inside throughout. Always cut open to check. Do not eat if the interior shows any colour, structure, or if the puffball is the size of a golf ball (could be an Amanita egg). When in doubt, leave it out.",
+    "danger_type": "lookalike-toxic",
+    "native_info": "Native in Britain. Locally common in old meadows, parkland and woodland edges.",
+    "wildlife_value": "Saprotrophic — decomposes organic matter. Produces an enormous quantity of spores (up to 7 trillion). Provides food for slugs, insects and small mammals as it ages and breaks down.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "yellow",
+      "brown"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Calvatia_gigantea.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 9,
+        "caption": "Giant Puffball — a large white sphere on the ground"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "common-puffball",
+    "common_names": [
+      "Common Puffball",
+      "Warted Puffball"
+    ],
+    "latin_name": "Lycoperdon perlatum",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small, pear-shaped or club-shaped white puffball covered in small pointed warts. Grows in groups on soil or rotting wood. A central pore develops at the top to release brown spores.",
+    "months_visible": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "meadow"
+    ],
+    "summary": "Small, warty, pear-shaped puffballs growing in clusters in woodland and grassland. Turn from white to yellow-brown as they mature, then develop a hole at the top to puff out brown spores when pressed.",
+    "full_description": "The Common Puffball (Lycoperdon perlatum) is one of Britain's most frequently encountered fungi, growing in clusters on soil in woodland, grassland edges and sometimes on rotting wood from late summer through to autumn. It is pear-shaped or club-shaped, 3–6cm tall, and covered in small, pointed warts or spines that rub off easily leaving a distinctive net-like pattern on the surface. When young and white inside (the test is to cut in half — pure white = edible), it is edible though not highly regarded. As it matures it turns yellowish then brown, and a circular pore develops at the top. Press a mature puffball and a cloud of brown spores puffs out — children delight in this. It belongs to the same general group of gasteromycetes as the Giant Puffball and Earthstar.",
+    "danger_level": "caution",
+    "danger_note": "Edible only when pure white inside. Always cut in half to check — young toxic Amanita species grow inside a white 'egg' that could superficially resemble a small puffball.",
+    "danger_type": "lookalike-toxic",
+    "native_info": "Native and common throughout Britain.",
+    "wildlife_value": "Saprotrophic decomposer. Spores eaten by various invertebrates. Provides food for squirrels and other small mammals.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "brown",
+      "yellow"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lycoperdon_perlatum_2011_G2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 9,
+        "caption": "Common Puffball — warty white pear-shaped puffballs in a cluster"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "shaggy-inkcap",
+    "common_names": [
+      "Shaggy Inkcap",
+      "Lawyer's Wig",
+      "Shaggy Mane"
+    ],
+    "latin_name": "Coprinus comatus",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tall, white, cylindrical cap covered in shaggy white and brown scales — resembling a lawyer's wig. Gills quickly autodigest (liquify) from the bottom up into black inky fluid. Grows in groups on disturbed or grassy ground.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "urban-edge",
+      "grassland",
+      "disturbed-ground",
+      "meadow"
+    ],
+    "summary": "Tall, shaggy-scaled white fungus on grassy ground and roadsides. One of Britain's most distinctive mushrooms, it liquifies itself from the bottom up into black 'ink' as it ages. Excellent to eat when young.",
+    "full_description": "The Shaggy Inkcap (Coprinus comatus) is one of Britain's most distinctive and commonly encountered fungi, growing in loose clusters in grassland, roadsides, parks and disturbed ground. Young specimens are tall and cylindrical (5–15cm), white with shaggy, recurved scales — resembling a white barrister's wig, hence 'Lawyer's Wig'. As it matures it undergoes autodigestion (autolysis): the gills and cap progressively liquify from the bottom up into a dripping, black, inky fluid. This process begins quickly — sometimes within hours of emerging — and is the mechanism by which spores are dispersed. Young, firm, white specimens are considered an excellent edible species with a delicate, mild flavour, but must be collected and eaten within hours as autodigestion begins almost immediately. Do not consume with alcohol — a related species, Coprinoid mushrooms, causes reactions with alcohol, and caution is advised.",
+    "danger_level": "caution",
+    "danger_note": "Edible when young and fully white, but do not eat with alcohol (within 72 hours) as some related species cause severe reaction with alcohol. Collect only pure white, firm specimens and eat immediately — do not store. Do not confuse with Magpie Inkcap (Coprinopsis picacea) which is toxic.",
+    "danger_type": "conditional-edible",
+    "native_info": "Native and common throughout Britain.",
+    "wildlife_value": "Saprotrophic — decomposes organic matter in grassland and disturbed soil. The black liquid (containing spores) is eaten by flies and other invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "brown",
+      "black"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coprinus_comatus_2_beentree.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 10,
+        "caption": "Shaggy Inkcap — young white 'wig' form alongside a dissolving older specimen"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "turkeytail",
+    "common_names": [
+      "Turkeytail",
+      "Turkey Tail"
+    ],
+    "latin_name": "Trametes versicolor",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Fan-shaped, thin, flexible brackets in concentric zones of brown, grey, cream and blue-green. Grows in overlapping tiers on dead broadleaved wood. Underside has tiny pores (not gills).",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "dead-wood"
+    ],
+    "summary": "Thin, fan-shaped bracket fungus with beautiful concentric colour zones — brown, cream, grey and blue-green — growing in overlapping tiers on dead wood. One of the most common and beautiful wood-decay fungi.",
+    "full_description": "Turkeytail (Trametes versicolor) is one of Britain's most common and attractive bracket fungi, growing year-round on dead broadleaved wood — fallen logs, stumps and dead branches. It produces thin, flexible, fan-shaped or wavy brackets (2–8cm across) in overlapping tiers or rosettes. The upper surface is beautifully marked with concentric, alternating zones of colour — typically mixtures of brown, rust, cream, grey and blue-green — though the exact colours vary considerably, hence 'versicolor' (many-coloured). The underside is white or cream and covered in tiny pores (a polypore), distinguishing it from similar species with gills or smooth undersides. It is a saprotrophic white-rot fungus, breaking down the lignin and cellulose of dead wood. Turkeytail contains polysaccharide compounds that have been studied in cancer research, though it should not be used medicinally without proper guidance.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and extremely common throughout Britain. Found year-round.",
+    "wildlife_value": "An important wood-decay fungus, breaking down dead wood and recycling nutrients. The decaying wood it creates is vital habitat for many invertebrates and other fungi. Provides roosting sites for small invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "dead-wood"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "grey",
+      "blue",
+      "green"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Trametes_versicolor_-_Lindsey.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 11,
+        "caption": "Turkeytail — concentric colour zones on overlapping brackets"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "jelly-ear",
+    "common_names": [
+      "Jelly Ear",
+      "Jelly Ear Fungus",
+      "Jew's Ear"
+    ],
+    "latin_name": "Auricularia auricula-judae",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Ear-shaped, rubbery, translucent brown jelly fungus growing on dead or living Elder branches. The shape and rubbery-jelly texture are distinctive. Found year-round.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "dead-wood"
+    ],
+    "summary": "Ear-shaped, rubbery brown jelly fungus on Elder branches. Feels like a real ear. Edible and used in Chinese cooking. Found year-round — one of the most reliably spotted winter fungi.",
+    "full_description": "Jelly Ear (Auricularia auricula-judae) is one of Britain's most distinctive fungi, growing throughout the year on dead or dying branches, most often Elder (Sambucus nigra). Its fruit body is shaped remarkably like an ear — concave on one side, with folds and ridges suggesting an auricle (outer ear) — and has a rubbery, jelly-like texture that is unmistakable to the touch. In wet weather it is plump and translucent brown; in dry weather it shrivels to a tough, wrinkled, dark brown crust, then rehydrates and returns to its jelly form when wet again. It can be found year-round but is most abundant and visible in autumn and winter when leaves are off the trees. Jelly Ear is edible (it is the main ingredient in hot and sour soup and other Chinese dishes, where it is used dried), though it has little flavour and is mainly valued for texture. The name 'Jew's Ear' refers to the legend of Judas Iscariot hanging himself from an Elder tree.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Very common on Elder. Found year-round.",
+    "wildlife_value": "Saprotrophic decomposer of Elder and other dead wood. The jelly-like fruiting body provides moisture in dry periods and supports various microorganisms.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "elder",
+      "dead-wood"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "tan"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Auricularia_auricula_crop.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 11,
+        "caption": "Jelly Ear on Elder — rubbery, ear-shaped brown fruiting body"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "king-alfreds-cakes",
+    "common_names": [
+      "King Alfred's Cakes",
+      "Cramp Balls",
+      "Coal Fungus"
+    ],
+    "latin_name": "Daldinia concentrica",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Hard, shiny, dark reddish-brown to black spherical lumps on dead Ash or other dead wood. Look like burnt cakes. Cut in half to see beautiful concentric rings inside.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "dead-wood"
+    ],
+    "summary": "Hard, shiny, black ball-like lumps growing on dead Ash — like burnt cakes. Cut one open to reveal beautiful silvery-black concentric rings inside. Named after the legend of Alfred burning the cakes.",
+    "full_description": "King Alfred's Cakes (Daldinia concentrica) is a distinctive and easily recognised wood-decaying fungus. It grows as hard, smooth, almost spherical fruit bodies (2–8cm across) on dead or dying wood, most typically Ash (Fraxinus excelsior). Young fruit bodies are reddish-brown and shiny; old ones become dull, rough and sooty black. Cut one in half and the interior reveals beautiful, silvery-grey concentric rings — like tree rings but in alternating silvery and dark zones. This internal pattern is its most diagnostic feature. The common name refers to the Anglo-Saxon legend of King Alfred, who, sheltering from the Vikings, let a peasant woman's cakes burn — the lumps resemble overcooked bread rolls. Another old name, 'Cramp Balls', refers to the folk belief that carrying one in your pocket would prevent cramp. The fruit bodies are perennial and persist for years on dead wood. They are also known as 'Coal Fungus' because they can be used as tinder, holding an ember for a long time — useful for fire-lighting with a flint.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout Britain. Most associated with Ash and Beech.",
+    "wildlife_value": "Saprotrophic white-rot fungus, breaking down dead wood and creating vital habitat for invertebrates, particularly wood-boring beetles. The hard, persistent fruiting bodies provide insect shelter.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "dead-wood",
+      "ash"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "brown",
+      "red"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Daldinia_concentrica.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 11,
+        "caption": "King Alfred's Cakes — hard black spheres on dead wood"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "birch-polypore",
+    "common_names": [
+      "Birch Polypore",
+      "Razor Strop Fungus"
+    ],
+    "latin_name": "Fomitopsis betulina",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Smooth, kidney-shaped or hoof-shaped bracket growing only on Birch. Upper surface buff-grey to pale brown; underside white with tiny pores (not gills). Grows on living, stressed, or dead birch trees.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "dead-wood"
+    ],
+    "summary": "Smooth, kidney-shaped bracket growing exclusively on Silver Birch. A key part of the Silver Birch ecosystem. The dried fungus was used as a razor strop and has a long history in folk medicine.",
+    "full_description": "Birch Polypore (Fomitopsis betulina, formerly Piptoporus betulinus) is a polypore bracket fungus that grows exclusively on Silver and Downy Birch, making it one of the easiest fungi to identify by host alone. It produces large, smooth, kidney- or hoof-shaped brackets (5–25cm across), with an upper surface that is buff-grey to pale tan-brown, with an inrolled margin and a short, stubby stalk or base. The underside is pure white with thousands of tiny pores (not gills). It grows throughout the year, though old brackets become tougher and darker with age. It may grow on living but stressed birch trees, or on recently dead ones. The dried fungus was historically used as a razor strop (hence the alternative name) and as a medicinal anti-inflammatory and wound dressing — Ötzi the Iceman, frozen for 5,300 years in the Alps, was found with pieces of Birch Polypore in his pack. It is a parasitic and saprotrophic brown-rot fungus, often killing weakened birch trees.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain wherever Silver or Downy Birch grows.",
+    "wildlife_value": "An important part of the birch ecosystem. Breaks down dead birch and creates vital deadwood habitat. The soft fruiting body hosts specialist invertebrates including several rare flies (Agathomyia wankowiczii, whose larvae form galls in the fruiting body). Creates log cavities used by birds and mammals.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "silver-birch"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fomitopsis_betulina_2019_G1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 9,
+        "caption": "Birch Polypore — smooth kidney-shaped bracket on Silver Birch"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "sulphur-tuft",
+    "common_names": [
+      "Sulphur Tuft"
+    ],
+    "latin_name": "Hypholoma fasciculare",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Dense clusters of bright yellow-orange mushrooms with sulphur-yellow gills turning olive-green with age. Growing from stumps or buried wood. Bitter taste. Very common in autumn.",
+    "months_visible": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "dead-wood"
+    ],
+    "summary": "Dense tufts of bright yellow-orange mushrooms on tree stumps and dead wood. Common in autumn woodland. Toxic — do not eat. The bitter smell and greenish gills are warning signs.",
+    "full_description": "Sulphur Tuft (Hypholoma fasciculare) is one of the most common fungi in British woodland, producing dense clusters of bright sulphur-yellow to orange-yellow mushrooms on stumps, logs and buried roots from summer through to winter. The caps are 2–7cm across, convex at first then flattening, golden-yellow to orange at the centre fading to sulphur-yellow at the margin. The gills are initially yellow but turn greenish-olive to grey-purple as the spores mature — a distinctive diagnostic feature. The flesh and gills smell strongly and taste extremely bitter — a warning of its toxicity. Sulphur Tuft is a saprotrophic wood-decay fungus and a very important decomposer in woodland. It is toxic, causing severe gastrointestinal symptoms. Despite looking appealing, it should never be eaten.",
+    "danger_level": "toxic",
+    "danger_note": "Toxic — causes severe vomiting, diarrhoea and in serious cases can be fatal. Do not eat. The bitter taste is a warning. Do not confuse with edible Honey Fungus (Armillaria) — Honey Fungus has white/cream gills and a skirt (ring) on the stem.",
+    "danger_type": "toxic-if-ingested",
+    "native_info": "Native and very common throughout Britain in broadleaved and coniferous woodland.",
+    "wildlife_value": "An important wood-decay fungus, breaking down stumps and fallen timber. Visited by fungus gnats and other insects. Deadwood created by its activity supports a wide range of invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "dead-wood"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "yellow",
+      "orange",
+      "green"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hypholoma_fasciculare_crop.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 10,
+        "caption": "Sulphur Tuft — dense yellow-orange clusters on a stump"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "earthstar",
+    "common_names": [
+      "Earthstar",
+      "Common Earthstar"
+    ],
+    "latin_name": "Geastrum triplex",
+    "type": "fungus",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: a central spore sac (like a small puffball) surrounded by a star of fleshy, pointed rays that split open from a brown ball and curl back or under. Found on woodland soil in autumn.",
+    "months_visible": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge"
+    ],
+    "summary": "One of nature's most striking designs — a central spore sac surrounded by a star of splayed rays. An architectural woodland fungus that often persists through winter. Miller's Pond has notable earthstar records.",
+    "full_description": "Earthstars are among the most architecturally dramatic of all British fungi. The Collared Earthstar (Geastrum triplex), the most commonly encountered species in Britain, begins as a brown, onion-shaped ball buried or partly buried in leaf litter in woodland. As it matures, the outer skin splits into 4–8 pointed, fleshy rays that splay outward and often curl back underneath, lifting the central spore sac off the ground. The spore sac is round, with a fibrous, fringed apical pore at the top through which spores are released — when raindrops hit the sac, puffs of brown spore dust shoot out. When the rays are fully spread, the structure can be 5–12cm across. A 'collar' or saucer of tissue often develops around the base of the spore sac — the feature that distinguishes G. triplex from other earthstars. Earthstars are inedible but totally harmless. They indicate undisturbed woodland soil with good leaf litter accumulation. Southampton's Miller's Pond and Shoreburs Greenway has documented earthstar records.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native in Britain. Found in deciduous and mixed woodland, particularly with Beech and Hazel. Locally uncommon — a good indicator of quality habitat.",
+    "wildlife_value": "Saprotrophic — decomposes leaf litter and organic matter. Spores dispersed by wind and rain. Indicates undisturbed, quality woodland habitat.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "woodland",
+      "leaf-litter"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "beige"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Geastrum_triplex.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Fruiting Body",
+        "month_taken": 10,
+        "caption": "Collared Earthstar — spore sac on splayed star of rays"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "blackbird",
+    "common_names": [
+      "Blackbird",
+      "Common Blackbird"
+    ],
+    "latin_name": "Turdus merula",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Male: jet black with bright orange-yellow bill and eye ring. Female: dark brown, faintly spotted on breast, with a duller bill. The rich, fluted song is unmistakable.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "garden",
+      "hedgerow",
+      "urban-edge"
+    ],
+    "summary": "Britain's most familiar garden bird. The male's jet-black plumage and orange bill are unmistakable. Its rich, melodious song — often at dawn and dusk — is one of the great sounds of the British countryside.",
+    "full_description": "The Blackbird (Turdus merula) is one of Britain's most familiar and beloved birds. The male is entirely jet black with a bright orange-yellow bill and a bold orange eye ring — one of the most striking combinations of any British bird. The female is dark brown, often faintly spotted on the breast, with a duller bill. Young birds of both sexes are brown and spotted, resembling the female. The Blackbird's song is extraordinary: a rich, complex, fluted melody, deeply musical, that is one of the most evocative sounds of early spring mornings and summer evenings — particularly the quiet alarm calls at dusk. Blackbirds are ground-feeding thrushes, hopping across lawns and leaf litter with characteristic pauses, head tilted, listening for earthworms. They are among the most important consumers of berries in autumn and winter, particularly Hawthorn, Elder, Holly and Ivy. Blackbirds are highly territorial and often the dominant species in gardens.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and one of the most common birds in Britain. Resident year-round.",
+    "wildlife_value": "Important frugivore — disperses seeds of many berry-bearing shrubs (Hawthorn, Elder, Holly, Ivy, Rowan). Feeds heavily on earthworms, controlling soil invertebrate populations. Nests in dense scrub; nest provides habitat for invertebrates. Song is a key part of the dawn chorus.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "orange",
+      "brown"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "starling",
+        "similarity_note": "Both dark birds common in gardens",
+        "key_difference": "Starling is smaller, has a short tail, spangled/iridescent plumage and moves in flocks. Blackbird is larger, with a long tail, and a more solitary habit.",
+        "time_of_year_note": "Both resident year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Blackbird_%28Turdus_merula%29_male_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 4,
+        "caption": "Blackbird male — jet black plumage with orange bill"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "wren",
+    "common_names": [
+      "Wren",
+      "Winter Wren"
+    ],
+    "latin_name": "Troglodytes troglodytes",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Very small, rotund, reddish-brown bird, usually with cocked tail. The explosively loud song for its size is a key indicator. Scurries through undergrowth like a mouse.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "garden"
+    ],
+    "summary": "Tiny, round, reddish-brown bird with a cocked tail, bursting with one of the loudest songs relative to body size of any British bird. Usually heard before seen, scurrying through low vegetation.",
+    "full_description": "The Wren (Troglodytes troglodytes) is Britain's most numerous breeding bird by number of pairs, yet its tiny size (less than 10g — similar to a 50p coin in weight) means it is often overlooked. It is a plump, short-tailed bird with reddish-brown plumage, finely barred with dark brown, and a pale supercilium (eyebrow stripe). Its tail is characteristically cocked upright. Despite its diminutive size, the Wren produces one of the loudest, most explosive songs of any British bird — a rapid, trilling, cascading torrent of notes that carries far through dense scrub. The song is given throughout the year except during the hardest winter weather. Wrens are birds of the understorey, scurrying through dense vegetation, fallen branches and leaf litter like a tiny mouse, probing for invertebrates. Cold winters can devastate Wren populations, and in extreme cold they roost communally for warmth — dozens of Wrens packed into a nestbox have been recorded.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and resident throughout Britain and Ireland. Britain's most abundant breeding bird by pairs.",
+    "wildlife_value": "Important insectivore feeding on small invertebrates, spiders, and beetles in leaf litter and undergrowth. The domed nest (male builds several 'cock nests') provides nest sites. Dense cover at ground level — bramble, scrub, log piles — is essential for Wren survival.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "tawny-owl"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "red",
+      "buff"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Troglodytes_troglodytes_3.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Wren — tiny, round and reddish-brown with cocked tail"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "great-tit",
+    "common_names": [
+      "Great Tit"
+    ],
+    "latin_name": "Parus major",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest tit. Yellow-green body with a bold black head, white cheeks, and a broad black stripe down the centre of the yellow breast. The black stripe is broader in males.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "garden",
+      "hedgerow"
+    ],
+    "summary": "Britain's biggest tit — bold black head with white cheeks and a broad black stripe down the bright yellow belly. Its repertoire of calls includes a two-note 'teacher-teacher' song.",
+    "full_description": "The Great Tit (Parus major) is the largest of Britain's tit family and one of the most handsome: a striking combination of glossy black head, bright white cheeks, yellow-green upperparts and a bright yellow breast split by a bold black central stripe. The male's breast stripe is broader than the female's. The Great Tit has a huge vocabulary of calls — reportedly over 40 distinct calls have been recorded — and its familiar two-note 'teacher-teacher' (or 'see-saw') song is one of the first signs of spring. Great Tits are year-round residents, feeding heavily on invertebrates in spring and summer, and switching to seeds, nuts and berries in autumn and winter. They are one of the most important consumers of caterpillars in deciduous woodland, timing their breeding to coincide with the peak of oak caterpillar emergence. Great Tits readily use nestboxes and are among the most intensively studied birds in the world (at Wytham Woods, Oxford).",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout Britain and Ireland.",
+    "wildlife_value": "Major controller of caterpillar populations in spring. Consumes huge quantities of Beech mast and other seeds in winter. Uses nestboxes readily, and supports nest-site competition with Nuthatch and other species.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "yellow",
+      "green"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "blue-tit",
+        "similarity_note": "Both tits in the same habitats",
+        "key_difference": "Blue Tit is smaller with a blue cap. Great Tit is larger with a black cap and a broad black stripe down the breast.",
+        "time_of_year_note": "Both resident year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Parus_major_LC0468.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Great Tit — black head, white cheeks and yellow breast with bold stripe"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "chiffchaff",
+    "common_names": [
+      "Chiffchaff",
+      "Common Chiffchaff"
+    ],
+    "latin_name": "Phylloscopus collybita",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small, olive-green warbler. The song is unmistakable and simple: 'chiff-chaff-chiff-chaff' repeated endlessly. Almost identical in appearance to Willow Warbler — song is the key difference.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "scrub",
+      "garden"
+    ],
+    "summary": "One of Britain's first summer migrants — the song ('chiff-chaff-chiff-chaff') is a sound of early spring. Small and olive-green, it is best identified by voice. Some now overwinter in mild southern England.",
+    "full_description": "The Chiffchaff (Phylloscopus collybita) is one of the first summer migrants to arrive in Britain, typically from mid-March, and its simple, repetitive 'chiff-chaff-chiff-chaff' song — sung from a high perch in trees — is one of the great sounds of early spring. It is a small, rather featureless warbler — olive-brown above, paler and washed buff-yellow below, with a short pale supercilium. It is almost identical in plumage to the Willow Warbler, the key distinction being the song (Willow Warbler has a descending, liquid cascade of notes) and the dark legs (Chiffchaff has dark legs; Willow Warbler has pale legs). The Chiffchaff is an insectivore, picking tiny invertebrates from leaves and twigs with its fine bill. An increasing number of Chiffchaffs now overwinter in mild southern England, particularly near water, where they feed on midges and other small insects — Miller's Pond is excellent habitat for these wintering birds.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Summer migrant, arriving March–April, departing September–October. Increasing numbers overwinter in southern England.",
+    "wildlife_value": "Important insectivore, consuming large numbers of small invertebrates in woodland and scrub. One of the first signs of spring in British woodland.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "olive",
+      "brown",
+      "buff",
+      "yellow"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "willow-warbler",
+        "similarity_note": "Almost identical in appearance",
+        "key_difference": "Willow Warbler has pale pinkish-flesh legs (Chiffchaff has dark/black legs). Song is completely different: Willow Warbler has a beautiful descending cascade; Chiffchaff repeats its own name.",
+        "time_of_year_note": "Both summer migrants April–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Chiffchaff.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Chiffchaff — small olive-green warbler"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "blackcap",
+    "common_names": [
+      "Blackcap",
+      "Garden Warbler... but it's a Blackcap"
+    ],
+    "latin_name": "Sylvia atricapilla",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Grey-brown warbler with a neat, rounded cap: jet black in males, rufous-brown in females and juveniles. Beautiful, rich, fluty song — often compared to Blackbird but faster and more varied.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "scrub",
+      "garden"
+    ],
+    "summary": "A medium-sized warbler with a distinctive neat black cap (male) or brown cap (female). Its rich, fluty song is one of the finest of all British birds. Once a summer migrant, many now overwinter in southern England.",
+    "full_description": "The Blackcap (Sylvia atricapilla) is widely considered one of Britain's finest songsters, with a rich, fluty, varied song that starts quietly then builds in volume and complexity — often compared to the Blackbird but faster, more urgent and more varied. The cap colour makes it easy to sex: the male has a jet black cap contrasting with pale grey cheeks and grey-brown upperparts; the female has a warm rufous-brown cap with brownish upperparts. It is primarily a summer migrant to Britain, arriving from March and departing by October, but an increasing population — mostly birds from central Europe — now overwinters in southern England, visiting gardens for berry-bearing shrubs (particularly Honeysuckle, Ivy and Holly) and feeding stations. Blackcaps are versatile warblers of dense scrub and woodland edge, singing from within or just above dense cover.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Summer migrant to Britain, arriving March–April. Increasing numbers overwinter, particularly in south England.",
+    "wildlife_value": "Important frugivore in autumn and winter — disperses seeds of Honeysuckle, Ivy, Holly and Elder. Insectivore in summer, feeding on caterpillars and other invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "grey",
+      "brown",
+      "rufous"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sylvia_atricapilla_male.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 5,
+        "caption": "Blackcap male — neat black cap and grey plumage"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "goldfinch",
+    "common_names": [
+      "Goldfinch",
+      "European Goldfinch"
+    ],
+    "latin_name": "Carduelis carduelis",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: red face with white cheek, black head, and broad golden-yellow wing bar visible in flight. Twittering, liquid call. Often in flocks ('charms') on seed heads of Teasel, Ragwort and Knapweed.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "grassland",
+      "garden",
+      "urban-edge",
+      "scrub"
+    ],
+    "summary": "One of Britain's most colourful birds — red face, black head, and brilliant gold wing bars. Flocks ('charms') descend on Teasel and Knapweed seed heads in autumn. A key reason to grow these plants.",
+    "full_description": "The Goldfinch (Carduelis carduelis) is arguably Britain's most colourful resident bird: a vivid combination of red face, white cheeks, black crown and nape, warm buff-brown upperparts, and — most stunning of all — a broad, brilliant golden-yellow wing bar that flashes in flight. Flocks of Goldfinch (a group is called a 'charm') produce a delightful liquid, tinkling twittering call as they feed. Goldfinches are specialist seed-feeders with a fine, pointed bill adapted for extracting seeds from the composite flower heads of plants such as Teasel, Knapweed, Ragwort and Burdock. In autumn and winter, flocks work through seed heads methodically. Their dependency on these plants makes them an excellent reason to leave areas of 'weedy' grassland uncut — a well-managed wildlife meadow will attract Goldfinches regularly. Goldfinch numbers have recovered strongly since the 1970s, partly due to the growth of garden feeding and the restoration of wildflower habitats.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and resident throughout Britain, with partial migration — some move south in winter.",
+    "wildlife_value": "Important seed disperser of grassland wildflowers. Goldfinch flocks create feeding 'disturbance' that benefits other small birds. Their presence indicates good-quality, diverse wildflower grassland.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "merlin"
+    ],
+    "depends_on": [
+      "teasel",
+      "knapweed",
+      "ragwort"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "black",
+      "white",
+      "yellow",
+      "gold",
+      "brown"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Carduelis-carduelis-aka.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 9,
+        "caption": "Goldfinch — red face and golden wing bar"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "nuthatch",
+    "common_names": [
+      "Nuthatch",
+      "Eurasian Nuthatch"
+    ],
+    "latin_name": "Sitta europaea",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Blue-grey above, orange-buff below with a bold black eye stripe. The only British bird that regularly climbs headfirst down tree trunks. Loud, ringing calls.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge"
+    ],
+    "summary": "The only British bird that regularly descends tree trunks headfirst. Blue-grey above and orange-buff below, with a bold black eye stripe. An indicator of mature broadleaved woodland.",
+    "full_description": "The Nuthatch (Sitta europaea) is one of the most distinctive and characterful birds of mature broadleaved woodland. It is compact and round-looking, with a large head, short tail, and a long, dagger-like bill. The upperparts are blue-grey; the underparts orange-buff (deeper orange-rust on the flanks); a bold black stripe runs through the eye. Most unusually, the Nuthatch is the only British bird that routinely descends tree trunks headfirst — Treecreepers always go up, Woodpeckers brace with their tail, but the Nuthatch runs both up and down with equal ease, using its powerful feet. Its loud, ringing, whistled calls — including a rapid 'twit-twit-twit' and a long, piping whistle — carry well through woodland. Nuthatches nest in tree holes, famously plastering the entrance with mud to reduce the size to exactly the right diameter (to exclude competitors and predators). They are resident and territorial year-round, and their presence indicates mature broadleaved woodland with good tree hole availability.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native in England and Wales. Less common in Scotland, and largely absent from Ireland. Expanding its range northward.",
+    "wildlife_value": "An indicator of mature, good-quality broadleaved woodland. Controls invertebrate populations on tree bark. Caches nuts and seeds in bark crevices for winter. Competes for nest holes with Great Tit, Blue Tit and Starling.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [
+      "english-oak",
+      "mature-woodland"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "grey",
+      "orange",
+      "buff",
+      "black",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nuthatch_%28Sitta_europaea%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Nuthatch on a tree trunk — blue-grey back, orange flanks, black eye stripe"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "carrion-crow",
+    "common_names": [
+      "Carrion Crow",
+      "Crow"
+    ],
+    "latin_name": "Corvus corone",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large, all-black bird with a heavy, all-black bill (unlike the Rook's grey-white bill base) and a harsh 'caw' call. Usually solitary or in pairs. Intelligent and wary.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "meadow",
+      "urban-edge",
+      "waterside"
+    ],
+    "summary": "Large, all-black, intelligent bird with a heavy black bill. Usually solitary or in pairs. One of the most adaptable and intelligent birds in Britain — problem-solving, tool use and memory have all been recorded.",
+    "full_description": "The Carrion Crow (Corvus corone) is a large, entirely black bird — plumage, bill, legs and feet all black — with a heavy, arched bill and a harsh, grating 'caw' call. It is usually seen alone or in pairs, unlike the colonial Rook. The Crow is one of the most intelligent birds in the world: experiments have demonstrated tool use, causal reasoning, planning, and long-term memory for individual human faces. At Sholing, crows will be present in most habitats — from the pond margins to the meadow and woodland edges. They are omnivores and opportunists, eating almost anything: carrion, eggs and chicks of other birds, invertebrates, grain, berries, small mammals and discarded human food. They are also important scavengers. The Carrion Crow is often persecuted by gamekeepers but is native and plays an important ecological role in nutrient cycling and scavenging.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales and most of Scotland. Common in almost all habitats.",
+    "wildlife_value": "Important omnivore and scavenger. Recycles carrion and waste. Opportunistic predation keeps small bird and rodent populations in check. One of the most ecologically flexible native birds.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "rook",
+        "similarity_note": "Very similar large black corvid",
+        "key_difference": "Rook has a bare, pale grey-white face patch and a more tapered, straight bill. Rooks nest colonially in 'rookeries'; Crows nest in pairs. Rook has loose, baggy feathering on thighs.",
+        "time_of_year_note": "Both resident year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carrion_Crow_%28Corvus_corone%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Carrion Crow — all black with heavy bill"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "magpie",
+    "common_names": [
+      "Magpie",
+      "Common Magpie",
+      "Eurasian Magpie"
+    ],
+    "latin_name": "Pica pica",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: black and white with a long iridescent green-purple tail. Harsh, rattling 'chak-chak-chak' call. One of the most recognisable British birds.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "urban-edge",
+      "garden"
+    ],
+    "summary": "Striking black-and-white bird with a long, iridescent tail. Its chattering call and bold character make it impossible to miss. One of the most intelligent birds in Britain — one of the few non-mammals to pass the mirror test.",
+    "full_description": "The Magpie (Pica pica) is one of Britain's most instantly recognisable birds: a bold, charismatic corvid in vivid black and white with a long, graduated tail that shimmers with green and purple iridescence in good light. The body is black on the head, breast, back and wings (with a large white wing patch), and brilliant white on the belly and shoulder. The long tail can account for more than half the bird's total length. The Magpie's harsh, rattling 'chak-chak-chak' call is characteristic. Magpies are highly intelligent — they are one of the very few non-human animals (and the only non-mammal) to have passed the mirror self-recognition test, suggesting a degree of self-awareness. Like all corvids they are omnivores, eating insects, earthworms, carrion, small mammals, and — most controversially — the eggs and chicks of other birds during the breeding season. Magpies build large, domed nests of sticks, often in thorny scrub such as Hawthorn.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Very common. Has greatly increased in urban areas since the 1970s.",
+    "wildlife_value": "Omnivore and scavenger. Builds large, domed nests that are subsequently used by Kestrels, Little Owls and Stock Doves. Controls invertebrate and small rodent populations. One of the most ecologically versatile British birds.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "green",
+      "purple"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Common_Magpie_25.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Magpie — bold black and white with iridescent green tail"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "mallard",
+    "common_names": [
+      "Mallard"
+    ],
+    "latin_name": "Anas platyrhynchos",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Male: iridescent green head, white collar, yellow bill, chestnut breast. Female: streaky brown with orange and dark bill. Both have a blue-purple wing patch (speculum) visible in flight.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "Britain's most familiar duck — the green-headed male is unmistakable. Found on almost every pond and lake. The loud 'quack' is actually only made by the female.",
+    "full_description": "The Mallard (Anas platyrhynchos) is Britain's most familiar and widespread duck, found on almost every lake, pond, river and canal in the country. The male in breeding plumage is striking: iridescent bottle-green head, narrow white collar, chestnut breast, pale grey body, and a yellow bill, with curled tail feathers (the 'drake curl'). The female is streaked brown with an orange and dark bill. Both sexes have a metallic blue-purple wing patch (speculum) bordered by white, visible in flight. The loud, resonant 'quack' that everyone associates with ducks is produced only by females — males make a quieter, rasping sound. Mallards are highly adaptable, feeding on aquatic plants, invertebrates, seeds and bread (though bread is not a healthy food for them). At Miller's Pond they will be a permanent fixture. Mallards are also the ancestor of nearly all domestic duck breeds.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and extremely common throughout Britain. Resident year-round with some winter immigration from Europe.",
+    "wildlife_value": "Important grazers of aquatic vegetation, controlling plant growth. Consume invertebrates, controlling populations. Nesting females create sheltered spots in bankside vegetation. Provide food for foxes, mink and larger raptors. Ducklings are important prey for herons, pike and larger invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "grey-heron",
+      "red-fox"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "white",
+      "brown",
+      "grey",
+      "yellow",
+      "blue"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mallard-Anas-platyrhynchos.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 3,
+        "caption": "Mallard male — iridescent green head and yellow bill"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "moorhen",
+    "common_names": [
+      "Moorhen",
+      "Common Moorhen"
+    ],
+    "latin_name": "Gallinula chloropus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Dark, chicken-like waterbird with a bright red and yellow bill, and white undertail flicked nervously. Bobs its head as it walks or swims. Look for the white line along the flanks.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "Dark, nervous waterbird with a brilliant red-and-yellow bill and white flashes on its sides. Constantly bobs its head and flicks its tail. Common on ponds and slow rivers alongside Mallard.",
+    "full_description": "The Moorhen (Gallinula chloropus) is a familiar waterbird on ponds, rivers, lakes and streams throughout Britain. It is dark grey-black with brownish-olive upperparts and white undertail feathers that it flicks repeatedly — a characteristic nervous habit. The most distinctive feature is the bright red frontal shield and bill with a yellow tip. A white stripe runs along the flanks. The Moorhen walks with a jerky head-bob and swims in a distinctive nodding motion. It is more aggressive than it looks — Moorhens fiercely defend territories and chicks, and older siblings from earlier broods often help raise younger chicks. At Miller's Pond they will be resident year-round. Moorhens nest in dense bankside vegetation — Reed, Sedge, low branches overhanging water — and can produce two or three broods per season. Unlike Coots, they rarely venture onto open water and prefer pond margins and reed edges.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout Britain and Ireland.",
+    "wildlife_value": "Grazes aquatic vegetation. Consumes invertebrates and seeds. An important part of pond ecosystems. Nests in dense bankside vegetation, creating habitat structure.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "grey-heron",
+      "red-fox"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "grey",
+      "red",
+      "yellow",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "coot",
+        "similarity_note": "Both dark waterbirds on ponds",
+        "key_difference": "Coot is all-black with a white bill and frontal shield. It prefers open water and dives regularly. Moorhen has a red-and-yellow bill and white flank stripe, and prefers sheltered margins.",
+        "time_of_year_note": "Both resident year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Moorhen.arp.750pix.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Moorhen — red and yellow bill, white undertail"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "grey-heron",
+    "common_names": [
+      "Grey Heron",
+      "Heron"
+    ],
+    "latin_name": "Ardea cinerea",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Very large, grey and white bird with a long neck, dagger-like yellow bill and long legs. Stands motionless for long periods at water's edge. Flies with neck folded in an S and broad, bowed wings.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "Britain's tallest bird — a large, grey and white heron standing motionless at the water's edge like a statue. An apex predator of pond and river, taking fish, frogs, voles and even ducklings.",
+    "full_description": "The Grey Heron (Ardea cinerea) is Britain's largest and most familiar heron, standing up to 1m tall with a wingspan of 155–175cm. It is pale grey above with a white neck streaked with black and white, a white head with a broad black stripe running behind the eye to form a hanging black crest, and a long, dagger-like yellow bill. In flight, the neck is folded in a characteristic S-shape and the broad wings are bowed — making it unmistakable even at distance. On the ground it stands motionless for extended periods, fixing its gaze on the water with extraordinary patience before striking with lightning speed to seize a fish, frog, water vole or even a duckling. Herons nest colonially in large trees (heronries), sometimes well away from water, returning to the same colony year after year. They can be seen at virtually any waterbody at any time of year. The heron's harsh, guttural call ('kraank') is often heard before the bird is seen. At Miller's Pond, a Grey Heron will be a near-daily visitor.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and resident throughout Britain and Ireland. One of Britain's most widespread birds.",
+    "wildlife_value": "Apex aquatic predator controlling fish, frog, and water vole populations. Nest colonies (heronries) provide habitat for other nesting birds. A flagship species for healthy water bodies.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "white",
+      "black",
+      "yellow"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "little-egret",
+        "similarity_note": "Both large white or grey herons at waterbodies",
+        "key_difference": "Little Egret is smaller and entirely white with black legs and yellow feet. Grey Heron is much larger and grey with a yellow bill.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ardea_cinerea_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Grey Heron — standing at water's edge"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "little-egret",
+    "common_names": [
+      "Little Egret"
+    ],
+    "latin_name": "Egretta garzetta",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small, all-white heron with black legs, distinctive bright yellow feet, and a black dagger bill. Yellow feet often visible when wading. Graceful in flight with neck pulled back.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "A small, brilliant-white heron with black legs and unmistakable yellow feet. Dainty and active, it shuffles its feet to disturb fish. A conservation success story — now breeding in Britain after near-extinction.",
+    "full_description": "The Little Egret (Egretta garzetta) is a small, elegant, entirely white heron with black legs and striking, bright yellow feet — the yellow feet are the key identification feature and often visible as the bird wades. The bill is long, slim and black; the eye is yellow. Breeding birds develop long, wispy plumes (aigrettes) on the back. The Little Egret is one of Britain's most notable conservation success stories: it was hunted to near-extinction in Europe for its plumes in the 19th century, and was an extremely rare visitor to Britain until the 1980s. It has since colonised and spread rapidly, and is now a regular breeding bird along the south coast and estuaries, including the Southampton and Solent area. Miller's Pond and the Shoreburs Greenway waterways are regularly visited. Unlike the patient Grey Heron, Little Egrets are active hunters — running and shuffling their feet in shallow water to disturb and catch small fish, frogs and invertebrates.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Colonised Britain as a breeding bird from the 1990s. Now established as a regular breeder in southern England. Previously, a rare vagrant.",
+    "wildlife_value": "Active predator of small fish, frogs, invertebrates and other aquatic organisms. Part of the increasing diversity of waterbird species in southern England. A flagship species for wetland conservation.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "black",
+      "yellow"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "grey-heron",
+        "similarity_note": "Both herons at the water's edge",
+        "key_difference": "Grey Heron is much larger (4x heavier) and grey, with a yellow bill. Little Egret is all white with black bill and yellow feet.",
+        "time_of_year_note": "Both year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Egretta-garzetta-001.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 8,
+        "caption": "Little Egret — all white with distinctive yellow feet"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "kingfisher",
+    "common_names": [
+      "Kingfisher",
+      "Common Kingfisher"
+    ],
+    "latin_name": "Alcedo atthis",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: electric-blue back and wings contrasting with vivid orange underparts. Small, dumpy and large-headed. More often heard (a high, piping whistle) than seen, flashing past low over water.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "Britain's most dazzling bird — electric blue above and vivid orange below. A jewel of the waterside, diving to catch small fish with pinpoint accuracy. An amber-list species and indicator of clean water.",
+    "full_description": "The Kingfisher (Alcedo atthis) is one of Britain's most spectacular birds — a small, dumpy, large-headed bird with electric-blue upperparts (that gleam turquoise in sunlight) and vivid orange-chestnut underparts, and a long, dagger-like bill. It is a bird of clean, slow-moving or still water with clear visibility and abundant small fish. At Miller's Pond, the Kingfisher is a documented species, and it is one of the reserve's most treasured birds. Despite its vivid colours, Kingfishers are easily missed — they often give their presence away first with their sharp, high-pitched piping whistle as they fly low and fast over water. They hunt by perching motionless over water, watching with binocular vision, then diving steeply to catch small fish. They nest in burrows excavated in vertical earth banks. Kingfisher numbers fluctuate with winter severity — hard frosts freeze their feeding water and cause high mortality, but populations recover quickly in mild years. They are on the Amber conservation list.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales and Ireland. Less common in Scotland. Amber conservation list.",
+    "wildlife_value": "Indicator species for clean, well-oxygenated water with good fish populations. Controls small fish populations. Nest burrows are excavated each year and may be used by other species subsequently.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "clean-water",
+      "small-fish"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "turquoise",
+      "orange",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Alcedo_atthis_-_Riserve_Naturali_del_Lago_di_Varese_-_DSC05533.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 9,
+        "caption": "Kingfisher — electric blue and orange perched over water"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "sparrowhawk",
+    "common_names": [
+      "Sparrowhawk",
+      "Eurasian Sparrowhawk"
+    ],
+    "latin_name": "Accipiter nisus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Small, compact hawk with short, rounded wings and a long tail. Male: blue-grey above, orange-barred below. Female: much larger, brown above with brown barring below. Rapid, agile flight through trees; often hunts garden birds.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "scrub",
+      "garden",
+      "urban-edge"
+    ],
+    "summary": "A compact, agile hawk of woodland and gardens. The male's blue-grey back and orange-barred breast are distinctive; females are larger and browner. An ambush predator that takes small birds in fast, twisting pursuit.",
+    "full_description": "The Sparrowhawk (Accipiter nisus) is Britain's most widespread bird of prey, found wherever there is a mix of woodland or scrub and open ground. It is a compact hawk with short, rounded wings and a long tail — adaptations for fast, manoeuvrable flight through trees. There is pronounced sexual dimorphism: the male is considerably smaller than the female, with blue-grey upperparts and warm orange barring on the white breast; the female is dark brown above with brown barring below and a prominent white supercilium. Sparrowhawks hunt by ambush and surprise — flying low and fast along hedgerows and through woodland to appear suddenly and snatch a small bird. They take a huge range of species, from Goldfinch and Blue Tit to Blackbird, Starling and even Woodpigeon (by the larger female). Their recovery from pesticide-driven near-extinction in the 1970s has been dramatic, and they are now common at Sholing, attracted by the high density of garden birds.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout Britain. One of the most successful recoveries in British conservation after organochlorine pesticide bans.",
+    "wildlife_value": "Apex predator of small birds in woodland and garden habitats. Controls songbird populations, selecting the weakest individuals. Presence indicates a healthy, diverse bird community. Spectacular aerobatic flight.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "grey",
+      "orange",
+      "brown",
+      "white"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "kestrel",
+        "similarity_note": "Both medium-small raptors in similar areas",
+        "key_difference": "Kestrel has pointed wings and hovers. Sparrowhawk has short, rounded wings and never hovers. Kestrel is rusty-red and buff; Sparrowhawk is blue-grey or brown and barred.",
+        "time_of_year_note": "Both resident year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sparrowhawk_edit.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 5,
+        "caption": "Sparrowhawk male — blue-grey back and orange-barred breast"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "cettis-warbler",
+    "common_names": [
+      "Cetti's Warbler"
+    ],
+    "latin_name": "Cettia cetti",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Almost never seen — but the explosive, sudden, unmistakable song is distinctive: a burst of loud, rapid 'chew-chew-chew-chewit-chewit' from deep in reedbed or waterside scrub. Rufous-brown plumage.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "pond",
+      "waterside",
+      "scrub"
+    ],
+    "summary": "Heard far more than seen — the explosive, loud 'chew-chew-chewit' song bursts from dense waterside vegetation. A relatively recent colonist of southern England, expanding rapidly northward. Resident year-round.",
+    "full_description": "Cetti's Warbler (Cettia cetti) is one of the most exciting additions to Britain's breeding bird list in recent decades — it first bred in Britain in 1972 and has since expanded steadily northward, taking advantage of mild winters and suitable wetland habitats. It is a resident species, unlike most warblers, remaining year-round. At Miller's Pond and the Shoreburs Greenway wetland margin, it should be listened for from spring through to autumn — the song is one of the most distinctive in British birding: an explosive, staccato burst — 'CHEW-chew-chew-CHEWIT-chewit' — delivered suddenly and with great volume from deep in dense vegetation, and then the bird falls silent. You will hear Cetti's Warblers far more often than you see them. The bird is rufous-brown above with a pale supercilium and greyish-white below, with a rounded, graduated tail often cocked upright. Only the male sings — and he is polygynous, maintaining territories with multiple females.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Colonised Britain from 1972. Now established as a breeding bird in southern and central England. Numbers affected by cold winters but recovering rapidly.",
+    "wildlife_value": "Insectivore of waterside vegetation — feeds on invertebrates in dense reed, sedge and willow scrub. Indicator of good-quality waterside habitat. Part of a nationally expanding population.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "common-reed",
+      "waterside-scrub"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "rufous",
+      "white",
+      "buff"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Cettis_Warbler.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Cetti's Warbler — rufous-brown bird of dense waterside cover"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "badger",
+    "common_names": [
+      "Badger",
+      "European Badger"
+    ],
+    "latin_name": "Meles meles",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: stocky, grey body with a distinctive black-and-white striped head. Rarely seen in daylight — look for their signs (see Badger Signs entry for tracks, latrines and sett evidence).",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "scrub",
+      "meadow"
+    ],
+    "summary": "Britain's largest land predator — a stocky, grey, powerfully built animal with a striking black-and-white striped head. Nocturnal and shy, it is far more often detected by signs than seen directly.",
+    "full_description": "The Badger (Meles meles) is Britain's largest land predator by weight (up to 15kg) and one of our most charismatic and recognisable mammals. Its stocky, muscular grey body with short legs, bushy tail, and distinctive black-and-white striped head are unmistakable. Despite their size, Badgers are rarely seen in daylight — they are primarily nocturnal, emerging around dusk to forage. They live in extended family groups in underground sett systems, which can be hundreds of years old and extend for dozens of metres. Badgers are omnivores with earthworms forming the bulk of their diet — a single Badger may eat 200 earthworms in a single night. They also eat beetle larvae, fallen fruit, cereals, rabbits, and hedgehogs. The Shoreburs Greenway's scrub and woodland edge habitat is ideal Badger territory — look for signs: distinctive latrines (shallow scrapes with droppings), paths through hedgerows, and large mounds of excavated soil at sett entrances. At both Old Down and Sholing, Badger signs have been recorded.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Common in lowland England; less so in urban areas, mountains and some parts of Scotland.",
+    "wildlife_value": "Soil aeration through digging supports invertebrate diversity. Old setts provide shelter for rabbits, foxes and other species after abandonment. An indicator of undisturbed, mature habitat. Badger paths through hedgerows create corridors for other wildlife.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "white",
+      "black"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Meles_meles_2.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Badger — stocky grey body and bold black-and-white striped head"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "hedgehog",
+    "common_names": [
+      "Hedgehog",
+      "Western European Hedgehog"
+    ],
+    "latin_name": "Erinaceus europaeus",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: a small, round mammal covered in spines (modified hairs). Curls into a tight ball when threatened. Active at night — listen for snuffling. Road casualties are unfortunately common.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "garden",
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "meadow",
+      "urban-edge"
+    ],
+    "summary": "Britain's only spiny mammal — beloved, iconic, and sadly declining. Snuffles through gardens and rough grassland at night eating slugs and beetles. Hibernates October–April.",
+    "full_description": "The Hedgehog (Erinaceus europaeus) is one of Britain's most beloved and recognisable mammals, but it is in serious decline — populations have fallen by over a third since 2000 in rural areas, and by 50% in some regions. It is a small (400–1,200g), round mammal whose back and sides are covered in around 5,000–7,000 cream-tipped brown spines (modified hairs). When threatened it curls into a tight, impenetrable ball, relying on its spines for defence. Hedgehogs are primarily nocturnal, foraging for beetles, earthworms, slugs, caterpillars, and fallen fruit. They are important consumers of garden pests. Hedgehogs hibernate from late October to April in a nest of leaves and grass, dropping their body temperature close to ambient. Garden features essential for Hedgehogs include: connected gardens (gaps in fences), compost heaps, log piles and leaf piles for nesting, and wild corners with invertebrate habitat. Urban-edge habitats like Sholing are becoming increasingly important for Hedgehogs as rural populations decline.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Declining seriously — on the Red List as a 'Vulnerable' species in Britain.",
+    "wildlife_value": "Important predator of soil and litter invertebrates including slugs, beetles and earthworms. An indicator of garden and urban-edge habitat quality. Declining populations indicate broader ecosystem problems.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "badger",
+      "red-fox",
+      "tawny-owl"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream"
+    ],
+    "life_stages": [],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Erinaceus_europaeus_LC0069.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Hedgehog — spiny back and pointed snout"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "noctule-bat",
+    "common_names": [
+      "Noctule Bat",
+      "Common Noctule"
+    ],
+    "latin_name": "Nyctalus noctula",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Britain's largest bat. Flies high and fast with powerful, rolling flight, often in daylight around dusk. Golden-brown fur, short rounded ears. Echolocation call around 20kHz, audible on bat detector.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "meadow",
+      "waterside",
+      "urban-edge"
+    ],
+    "summary": "Britain's largest bat — golden-brown, flying high and fast well before dark with a characteristic rolling, steep-diving flight. Most often seen over ponds and woodland edges at dusk.",
+    "full_description": "The Noctule (Nyctalus noctula) is Britain's largest bat (wingspan 32–40cm, weight 18–40g) and one of the most distinctive to observe — it is often the first bat to appear in the evening, sometimes before sunset, flying high (10–50m) with a characteristic powerful, rolling flight punctuated by steep, twisting dives to catch large beetles and moths. Its flight silhouette is recognisable: long, narrow wings and a rapid, purposeful, 'swift-like' quality quite unlike the fluttering of smaller bats. Its fur is golden-brown to russet and it has short, rounded ears. The echolocation call — around 20kHz — is often the lowest-pitched and loudest of our native bats, audible on a bat detector as a slow series of loud 'smacks'. Noctules roost in tree holes (particularly old woodpecker holes in mature trees) and sometimes in buildings. They forage widely over open country, woodland canopy and water, and are associated with mature trees and open water. Sholing's mix of pond, meadow and woodland edge is excellent Noctule habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Less common in Scotland. Declining due to loss of mature trees with roosting cavities.",
+    "wildlife_value": "Controls populations of large flying insects including beetles, moths and crane flies. Roost holes in mature trees also used by other species (Nuthatch, small mammals). An indicator of the presence of veteran trees.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "mature-woodland",
+      "english-oak",
+      "silver-birch"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "golden",
+      "tan"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "common-pipistrelle",
+        "similarity_note": "Both bats seen at dusk",
+        "key_difference": "Pipistrelle is much smaller (wingspan 19–25cm vs 32–40cm), flutters rather than rolls, and flies lower and closer to vegetation. Noctule is larger and flies high with a powerful, swooping flight.",
+        "time_of_year_note": "Both active April–October",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nyctalus_noctula_MHNT.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Noctule Bat — Britain's largest bat with golden-brown fur"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "common-lizard",
+    "common_names": [
+      "Common Lizard",
+      "Viviparous Lizard"
+    ],
+    "latin_name": "Zootoca vivipara",
+    "type": "reptile",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Small (10–15cm), brown or olive-brown lizard with a pattern of dark spots and streaks along the back. Often seen basking on logs, rocks, walls and rough vegetation in warm sunny spots.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "Only active in warm, sunny weather. Cool, cloudy days reduce sightings significantly.",
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "acid-grassland",
+      "meadow",
+      "scrub",
+      "woodland-edge"
+    ],
+    "summary": "Britain's most widespread reptile — a small, slender brown lizard that basks on logs and sunny patches. Almost always disappears instantly when disturbed. The only British reptile that gives birth to live young.",
+    "full_description": "The Common Lizard (Zootoca vivipara) is Britain's most widespread and abundant reptile, found from sea level to mountain top — it is the only native British reptile found above the Arctic Circle. It is a small, slender lizard 10–15cm total length (including tail), with brown to olive-grey upperparts marked with rows of dark spots or streaks and a cream or orange-yellow belly. Like all British reptiles it requires external heat to be active, and spends much of its time basking in warm, sheltered spots — log piles, south-facing banks, rough vegetation edges, railway embankments and brownfield sites. It is uniquely unusual among lizards in being viviparous (giving birth to live young) rather than egg-laying — the young are born in a transparent membrane that they burst through immediately. Common Lizards feed on small invertebrates, particularly spiders, beetles and small flies. The tail can be shed (autotomy) as a defence against predators and regrows, though the regenerated tail has a different scale pattern. Acid grassland and scrub edge habitat at Sholing is suitable.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland — the most widespread British reptile. Protected from killing, injuring or sale under the Wildlife and Countryside Act.",
+    "wildlife_value": "Prey for many predators including Kestrel, Sparrowhawk, Smooth Snake, Grass Snake, and small mustelids. Feeds on invertebrates, contributing to control of spider and beetle populations. Presence indicates sunny, warm, structurally diverse habitat.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "kestrel",
+      "sparrowhawk",
+      "grass-snake"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "olive",
+      "orange",
+      "cream"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "slow-worm",
+        "similarity_note": "Both small reptiles in similar habitat",
+        "key_difference": "Slow-worm is a legless lizard — smooth, shiny, and snake-like with no visible legs. Common Lizard has four small but visible legs and a more slender, agile build.",
+        "time_of_year_note": "Both active March–October",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Common_Lizard_%28Zootoca_vivipara%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Common Lizard basking — brown and spotted"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "grass-snake",
+    "common_names": [
+      "Grass Snake",
+      "Ringed Snake"
+    ],
+    "latin_name": "Natrix helvetica",
+    "type": "reptile",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest snake. Olive-green or brown with a distinctive yellow-and-black collar behind the head, and black spots and bars down the sides. No zigzag stripe (unlike Adder). Excellent swimmer.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Most active in warm weather. Common near water and compost heaps where they lay eggs.",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "pond",
+      "meadow",
+      "scrub",
+      "woodland-edge"
+    ],
+    "summary": "Britain's largest snake — olive-green with a distinctive yellow-and-black collar. Non-venomous and completely harmless. An excellent swimmer, often found near ponds and rivers. Lays eggs in compost heaps.",
+    "full_description": "The Grass Snake (Natrix helvetica) is Britain's largest snake (females up to 120cm, males smaller), and the one most associated with water. It is olive-green to brown above, with a distinctive yellow-orange and black collar (nuchal collar) immediately behind the head, and rows of black spots and bars down the flanks. The belly is black and white in a chequered pattern. It has no zigzag stripe — that is the Adder. Grass Snakes are completely harmless to humans — they have no venom and their only defence is to hiss, flatten the neck, release a foul-smelling musk, or feign death (thanatosis) by rolling onto their back. They are excellent swimmers and are most common near water: ponds, rivers, marshes — making Miller's Pond ideal habitat. They feed primarily on frogs and toads (hence their association with water), but also eat fish, newts, small mammals and birds. Uniquely among British reptiles, Grass Snakes lay eggs (others are viviparous) — compost heaps and warm vegetable matter are favoured laying sites.",
+    "danger_level": "none",
+    "danger_note": "Non-venomous and completely harmless. Will hiss and may release a foul-smelling musk if handled — best left undisturbed. Protected under the Wildlife and Countryside Act — it is an offence to kill or injure one.",
+    "danger_type": "",
+    "native_info": "Native in England and Wales. Absent from Scotland and Ireland. Declining due to habitat loss, road mortality and persecution.",
+    "wildlife_value": "Important predator of frogs, toads, newts and fish — a key part of the pond ecosystem food chain. Prey for Badger, Hedgehog, Red Fox and Buzzard. Eggs laid in compost heaps and decaying vegetation.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "badger",
+      "red-fox"
+    ],
+    "depends_on": [
+      "common-frog",
+      "common-toad",
+      "pond"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "olive",
+      "brown",
+      "yellow",
+      "black"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "adder",
+        "similarity_note": "Both native British snakes",
+        "key_difference": "Adder has a distinctive zigzag stripe down its back and a V or X mark on the head. Grass Snake has a yellow-and-black collar and no zigzag. Adder is venomous; Grass Snake is harmless.",
+        "time_of_year_note": "Both active March–October",
+        "danger_level": "high"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Natrix_natrix_juvenile.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Grass Snake — olive-green with distinctive yellow-and-black collar"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "common-toad",
+    "common_names": [
+      "Common Toad"
+    ],
+    "latin_name": "Bufo bufo",
+    "type": "amphibian",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Larger than a Frog. Dry, warty, brown skin (not smooth and moist like Frog). Short legs and walks rather than hops. Slow-moving. Amber or golden eye with a horizontal pupil.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      3,
+      4
+    ],
+    "weather_flag": true,
+    "weather_note": "Breeding migration to ponds triggered by mild, damp nights in February–March (temperatures above 5°C). Otherwise nocturnal and secretive.",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "meadow",
+      "woodland",
+      "garden"
+    ],
+    "summary": "Larger, wartier cousin of the Common Frog. Dry, bumpy skin and golden eyes with horizontal pupils. Walks rather than hops. A garden ally that eats slugs and other pests. Migrates to ponds in spring.",
+    "full_description": "The Common Toad (Bufo bufo) is larger and more robust than the Common Frog, with dry, warty, rough-textured brown or olive-brown skin (never the smooth, moist skin of the frog). It has distinctive copper-gold or amber eyes with horizontal slit pupils. It moves by walking or short hops rather than the frog's longer leaps. Outside the breeding season, Toads are terrestrial, living in gardens, woodland, rough grassland and scrub — often far from water. They are nocturnal for most of the year, sheltering under logs, stones and plant pots by day. In late February to March, Toads undertake remarkable migrations to breeding ponds, often crossing roads — toad patrols (where volunteers carry toads across roads) are an important conservation activity. Males arrive first and grasp females in amplexus, sometimes forming 'mating balls'. Spawn is laid in long strings (frog spawn is in clumps). Toads are remarkable in that they are largely immune to the toxins of many invertebrates (such as ants and woodlice) that frogs cannot eat, making them important controllers of a wide range of invertebrate pests.",
+    "danger_level": "caution",
+    "danger_note": "Toads produce mild toxins from parotoid glands behind the eyes — dogs that mouth them may foam briefly. Wash hands after handling. Do not eat (mildly toxic). Not dangerous to healthy humans who handle them carefully.",
+    "danger_type": "mild-toxin",
+    "native_info": "Native throughout Britain. Absent from Ireland. Declining — on the Biodiversity Action Plan list due to loss of ponds and road mortality during breeding migrations.",
+    "wildlife_value": "Important controller of slugs, beetles, ants and many other invertebrate garden pests. Prey for Grass Snake, Hedgehog, Badger, Heron and Corvids. Declining — loss of garden ponds is a major threat.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "grass-snake",
+      "grey-heron",
+      "badger"
+    ],
+    "depends_on": [
+      "pond",
+      "common-reed"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "olive",
+      "orange",
+      "gold"
+    ],
+    "life_stages": [],
+    "similar_species": [
+      {
+        "species_slug": "common-frog",
+        "similarity_note": "Both native amphibians at ponds",
+        "key_difference": "Common Frog has smooth, moist skin and longer legs and hops. Common Toad has dry, warty skin, shorter legs and walks. Frog spawn in clumps; Toad spawn in long strings.",
+        "time_of_year_note": "Both breed in early spring",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bufo_bufo_2_Luc_Viatour.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Common Toad — warty skin and golden horizontal-pupil eye"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": false
+  },
+  {
+    "id": "southern-hawker-dragonfly",
+    "common_names": [
+      "Southern Hawker",
+      "Southern Hawker Dragonfly"
+    ],
+    "latin_name": "Aeshna cyanea",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large dragonfly. Male: black with bold blue and green spots. Female: black with brown-green spots. Broad, apple-green patches on the last two segments near the tail tip in both sexes. Inquisitive — often approaches people.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Most active in warm, sunny weather. Feeds on the wing in woodland rides and gardens, not just over water.",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "woodland-edge",
+      "garden"
+    ],
+    "summary": "One of Britain's largest and most colourful dragonflies — black and blue-green. Famous for its inquisitive behaviour, hovering to investigate people. A regular visitor to gardens as well as ponds.",
+    "full_description": "The Southern Hawker (Aeshna cyanea) is one of Britain's commonest and most familiar large dragonflies, and one of the most charismatic. Males are black with paired spots of bright blue and green running down the abdomen; females are dark with brown-green spots. Both sexes share distinctive broad, apple-green patches on the last two abdominal segments. The Southern Hawker is a powerful, direct flier that patrols territories over ponds and along woodland rides and garden hedgerows, not only over water — it feeds actively in woodland glades and gardens far from water, catching midges, flies and other small invertebrates. It is famously inquisitive and will often hover close to a stationary human, investigating them at close range. Larvae (nymphs) are aquatic, living in ponds and other water bodies for 2–3 years before emerging as adults. At Miller's Pond, Southern Hawkers should be a reliable summer species.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Common in the south; rarer in the north.",
+    "wildlife_value": "Important predator of flying insects — controls midge, fly and small moth populations. Larvae are important predators in pond ecosystems. Prey for Hobby, Kingfisher and larger spiders.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "hobby",
+      "kingfisher"
+    ],
+    "depends_on": [
+      "pond"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "green",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Larva (Nymph)",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Aquatic nymph lives in the pond for 2–3 years, hunting invertebrates and small fish. Climbs out of the water up plant stems at night to emerge as an adult.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Newly emerged adults (tenerals) are pale and soft for a few days. Mature adults patrol powerfully and inquisitively from July to October, hunting on the wing.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Aeshna_cyanea_male_1.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 8,
+        "caption": "Southern Hawker male — black with blue and green spots"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
+  },
+  {
+    "id": "banded-demoiselle",
+    "common_names": [
+      "Banded Demoiselle"
+    ],
+    "latin_name": "Calopteryx splendens",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Damselfly. Male: brilliant metallic blue-green body with a dark blue-black smudge on each wing (not the whole wing, as in the Beautiful Demoiselle). Female: metallic green body with translucent greenish wings. Fluttering, butterfly-like flight.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "Flies only in warm, sunny weather. Found exclusively near slow-moving or still water with muddy or silty substrates.",
+    "locations": [
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "pond",
+      "wetland",
+      "waterside"
+    ],
+    "summary": "One of Britain's most beautiful insects — males flash iridescent blue-green with distinctive dark wing patches as they flutter like a butterfly over waterside vegetation. A signature species of slow, clean waterways.",
+    "full_description": "The Banded Demoiselle (Calopteryx splendens) is one of Britain's most spectacular damselflies and arguably one of the most beautiful of all British insects. The male has a brilliant, iridescent metallic blue-green body and wings with a distinctive dark blue-black smudge covering approximately the outer half of each wing — the 'band' that gives the species its name. The female has an equally beautiful iridescent metallic green body with translucent, pale green-tinged wings and a false white 'pseudopterostigma' near the wing tip. The flight is quite unlike that of other damselflies or dragonflies — slow and fluttering, like a butterfly, the wing patches flashing as they glide over waterside vegetation. Males display to females on waterside perches. Banded Demoiselles are associated with slow-moving or standing water with a muddy or silt substrate — the larvae live in mud at the bottom of ponds and slow streams. The Shoreburs Greenway waterways are documented Banded Demoiselle habitat. They are also an indicator of water quality — their presence suggests clean, unpolluted water with a good invertebrate community.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Expanding its range northward, possibly in response to climate change.",
+    "wildlife_value": "Larvae are important predators in waterside mud communities. Adults feed on small flying insects. Prey for Kingfisher, Hobby and larger dragonflies. An indicator of clean, slow-moving water with good aquatic invertebrate diversity.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "kingfisher",
+      "hobby"
+    ],
+    "depends_on": [
+      "pond",
+      "clean-water"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "green",
+      "teal",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Larva (Nymph)",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Aquatic larva lives in silty mud at the bottom of ponds and slow rivers for one to two years, hunting small invertebrates.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Adults flutter over waterside vegetation from May to September. Males display from waterside perches, flashing their wing patches to attract females.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "beautiful-demoiselle",
+        "similarity_note": "Very similar iridescent damselfly",
+        "key_difference": "Beautiful Demoiselle has the dark wing colour covering almost the entire wing (not just a central band). It prefers faster-flowing, cleaner streams than Banded Demoiselle.",
+        "time_of_year_note": "Both fly May–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Calopteryx_splendens_male.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Adult Male",
+        "month_taken": 7,
+        "caption": "Banded Demoiselle male — iridescent blue-green with dark wing band"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30",
+    "featured": true
   }
 ]
