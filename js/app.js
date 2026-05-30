@@ -122,6 +122,13 @@
     const locGroup = document.getElementById('filter-location-group');
     if (locGroup) locGroup.style.display = cfg.showLocationFilter === false ? 'none' : '';
 
+    // Hide location cards on the Locations screen that don't belong to this config
+    if (cfg.showLocationFilter === false && cfg.defaultLocationFilter) {
+      document.querySelectorAll('.location-card[data-location]').forEach(card => {
+        if (card.dataset.location !== cfg.defaultLocationFilter) card.style.display = 'none';
+      });
+    }
+
     // Default location filter — pre-tick the checkbox silently
     if (cfg.defaultLocationFilter) {
       const cb = document.querySelector(`#filter-location input[value="${cfg.defaultLocationFilter}"]`);

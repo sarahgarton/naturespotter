@@ -341,6 +341,12 @@ button { cursor: pointer; font-family: var(--font-body); }
   font-weight: 700;
 }
 
+.header-logo {
+  height: 44px;
+  width: auto;
+  display: block;
+}
+
 .header-actions .btn-icon {
   color: var(--cream);
   border-color: rgba(255,255,255,0.4);
@@ -470,7 +476,7 @@ button { cursor: pointer; font-family: var(--font-body); }
 /* --- Browse Main --- */
 .browse-main {
   flex: 1;
-  padding: 20px 24px 40px;
+  padding: 20px 32px 40px;
   min-width: 0;
 }
 
@@ -1327,7 +1333,7 @@ button { cursor: pointer; font-family: var(--font-body); }
 
   .btn-filter-toggle { display: flex; }
 
-  .browse-main { padding: 16px 16px 40px; }
+  .browse-main { padding: 16px 20px 40px; }
 
   .species-grid {
     grid-template-columns: repeat(2, 1fr);
