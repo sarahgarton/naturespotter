@@ -10209,5 +10209,2274 @@
     ],
     "verified": true,
     "date_added": "2026-05-29"
+  },
+  {
+    "id": "peacock-butterfly",
+    "common_names": [
+      "Peacock Butterfly",
+      "Peacock"
+    ],
+    "latin_name": "Aglais io",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The four large peacock eye-spots on brick-red wings are completely unmistakeable. No other British butterfly looks anything like it. Even with wings closed the dark underside is distinctive.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "One of the first butterflies seen in warm spring sunshine, sometimes flying as early as February on mild days when it emerges from hibernation.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "woodland-edge",
+      "hedgerow",
+      "meadow",
+      "garden"
+    ],
+    "summary": "The most spectacular butterfly in Britain — four vivid peacock eye-spots on brick-red wings that look almost artificial. It hibernates as an adult through winter, often in sheds or log piles, and is one of the first butterflies to appear in spring sunshine.",
+    "full_description": "The Peacock is justifiably one of Britain's most popular butterflies. The four large, vivid eye-spots — each mimicking the eye of an owl or larger predator — are an extraordinary defence mechanism. When a Peacock is resting with wings closed it is dark and nearly invisible, like a dead leaf. If disturbed by a small predator, it suddenly flips its wings open, revealing the four eyes and making a rustling hissing sound simultaneously — a startling double shock that gives the butterfly time to escape.\n\nUnlike most butterflies, the Peacock overwinters as an adult — it hibernates in cool, dark places such as hollow trees, log piles, outhouses, and garden sheds. From October it enters hibernation, and on the first warm days of late winter (sometimes as early as February) it emerges to feed on early nectar sources before laying eggs. The caterpillars feed exclusively on Stinging Nettles, so patches of nettles in sunny locations are essential for breeding. The hairy black caterpillars live in groups inside a silk web on the nettle top, gradually dispersing as they grow.\n\nAt Old Down, Peacocks are most numerous in late summer when adults from the summer brood are feeding up on knapweed, thistles, and bramble to build fat reserves for hibernation. Look for them nectaring avidly on sunny days in August and September, sometimes with Red Admirals and Commas at the same flowers.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Common and widespread, particularly in the south.",
+    "wildlife_value": "Adults are important pollinators of late-summer wildflowers including knapweed, thistles, Buddleia, and bramble. Caterpillars are an important food source for Blue Tit and Great Tit chicks in summer. The species depends on patches of Stinging Nettle in sunny locations for breeding.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit",
+      "great-tit",
+      "sparrow"
+    ],
+    "depends_on": [
+      "stinging-nettle"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "brown",
+      "blue",
+      "black",
+      "yellow"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Spiky black caterpillars live communally in a silk web on Stinging Nettle tops. Up to 200 caterpillars per nest. Despite their threatening appearance they are harmless — they feed only on nettles. Look for the distinctive black tent-like webs on tall nettles in June–July.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Peacock_%28Aglais_io%29_caterpillar_Ruggeller_Riet.jpg",
+            "caption": "Peacock caterpillars — black and spiky, living communally on nettles",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "The four peacock eye-spots on brick-red wings are unmistakeable. At rest with wings closed the butterfly disappears — the dark underside is excellent camouflage against bark or dead leaves. If startled, it flips open its wings with an audible hiss.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Peacock_butterfly_%28Aglais_io%29_2.jpg",
+            "caption": "Peacock Butterfly — four vivid eye-spots on brick-red wings",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Peacock_Butterfly_%28Aglais_io%29_-_geograph.org.uk_-_3650762.jpg",
+            "caption": "Peacock nectaring on late-summer flowers",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Peacock_butterfly_%28Aglais_io%29_2.jpg",
+        "caption": "Peacock Butterfly",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Peacock_Butterfly_%28Aglais_io%29_-_geograph.org.uk_-_3650762.jpg",
+        "caption": "Peacock nectaring",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Peacock_%28Aglais_io%29_caterpillar_Ruggeller_Riet.jpg",
+        "caption": "Peacock caterpillars on nettles",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "small-tortoiseshell",
+    "common_names": [
+      "Small Tortoiseshell"
+    ],
+    "latin_name": "Aglais urticae",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Orange-red wings with black patches at the front edge and a row of blue spots around the outer margins. The inner edge (near the body) is dark brown. Underside is dark brown-grey with paler outer half — excellent dead-leaf camouflage.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Like the Peacock, it overwinters as an adult and may be seen flying in late February on warm sunny days.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "woodland-edge",
+      "hedgerow",
+      "meadow",
+      "garden"
+    ],
+    "summary": "Once one of Britain's most common garden butterflies, the Small Tortoiseshell has declined sharply in the south. Its larvae feed on Stinging Nettles — so every sunny nettle patch is potential butterfly habitat.",
+    "full_description": "The Small Tortoiseshell is one of Britain's most familiar butterflies — or was. It has declined significantly in southern England over recent decades, for reasons not fully understood. Possible causes include a parasitic fly (Sturmia bella, introduced from Europe) that lays its eggs on nettles near the caterpillars, warmer winters affecting hibernation, and changes in nettle patch quality. It remains common in northern Britain.\n\nThe butterfly overwinters as an adult, often in cool dark spots — including inside houses where they may be found torpid behind curtains or in loft spaces. They need to be left alone or carefully moved to a cool dark outbuilding, not brought into warm rooms where they will waste their fat reserves. In spring they emerge hungry and feed on early flowers before laying eggs.\n\nCaterpillars are bright yellow-green with black spines, and like Peacock caterpillars they live communally in silk webs on Stinging Nettles. The best habitat is sunny nettle patches along south-facing hedgerow bases. Unlike the Peacock, the Small Tortoiseshell has two broods in good years — a spring brood and a summer brood — so adults can be seen from March to October.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Has declined in southern England but remains widespread.",
+    "wildlife_value": "Adults are pollinators of knapweed, buddleia, thistles, and late-summer wildflowers. Caterpillars are food for Blue Tit chicks and ground beetles.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit",
+      "sparrow"
+    ],
+    "depends_on": [
+      "stinging-nettle"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "black",
+      "blue",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Orange-red with bold black-and-yellow patches on the forewing, and a row of blue crescents on the outer margin. The underside is superb camouflage — dark brown-grey with a paler outer half, like a dead leaf when resting with wings closed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Aglais_urticae_-_Small_tortoiseshell_01.jpg",
+            "caption": "Small Tortoiseshell — orange-red with black patches and blue marginal spots",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kleine_Fuchs%2C_Aglais_urticae_6.JPG",
+            "caption": "Small Tortoiseshell with wings spread showing full colour pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "comma-butterfly",
+        "similarity_note": "Both orange with dark markings, and both overwinter as adults",
+        "key_difference": "Comma has very ragged, notched wing edges (unique) and is a purer orange. Small Tortoiseshell has smooth wing edges and a darker pattern near the body.",
+        "time_of_year_note": "Both fly in spring and late summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Aglais_urticae_-_Small_tortoiseshell_01.jpg",
+        "caption": "Small Tortoiseshell",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kleine_Fuchs%2C_Aglais_urticae_6.JPG",
+        "caption": "Small Tortoiseshell wings spread",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Small_tortoiseshell_%28Aglais_urticae%29_underside_Sweden.jpg",
+        "caption": "Small Tortoiseshell underside — camouflaged like a dead leaf",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "comma-butterfly",
+    "common_names": [
+      "Comma",
+      "Comma Butterfly"
+    ],
+    "latin_name": "Polygonia c-album",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The deeply notched, ragged wing edges are unique among British butterflies — no other species has this shape. Orange-brown with dark spots. Underside looks like a dead leaf with a small white comma-shaped mark (the species name 'c-album' = white C).",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Overwinters as adult, emerging on warm days from February onwards.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "chalk-grassland",
+      "scrub"
+    ],
+    "summary": "The butterfly with the most extraordinary camouflage in Britain — close wings and it becomes a dead leaf, complete with ragged torn edges and a pale comma-mark like a leaf blemish. Named for that tiny white comma underneath.",
+    "full_description": "The Comma's outline is unlike any other British butterfly: the wing edges are deeply cut and notched, like torn, weathered leaves. Combined with the streaked brown underside and tiny white comma mark, a resting Comma with closed wings is one of the most convincing leaf mimics in nature. It sits on woodland edge vegetation with wings closed and vanishes. Open the wings and it's a different creature: bright orange-brown with dark spots, very similar to a Small Tortoiseshell but with more ragged edges.\n\nThe Comma has an interesting conservation history. It nearly disappeared from Britain by the early 20th century, surviving only in the Welsh borders, then recovered spectacularly through the 20th century and is now widespread and common, even expanding northwards — possibly a response to climate change. It is one of the few UK butterflies that is genuinely increasing.\n\nTwo colour forms of the summer brood exist: 'hutchinsoni' (pale orange-yellow, producing autumn adults) and the darker form (producing overwintering adults). All forms overwinter as adults. Larvae feed on Stinging Nettles, Hop, and Elm — the nettle connection means it shares habitat requirements with Peacock and Small Tortoiseshell.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Spreading northwards. Has increased significantly in the last 50 years.",
+    "wildlife_value": "Adult pollinators of late-summer flowers and ivy (October). Caterpillars feed on nettles, eaten by insectivorous birds.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit"
+    ],
+    "depends_on": [
+      "stinging-nettle"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "brown",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "The ragged wing outline is the instant ID feature — no other British butterfly has this notched shape. The underside is a superb dead-leaf mimic with a tiny white comma mark. Look for the comma mark when the butterfly lands with wings closed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Comma_%28Polygonia_c-album%29_2.jpg",
+            "caption": "Comma — the ragged wing edges and orange-brown colour are diagnostic",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Comma_%28Polygonia_c-album%29_Butterfly_-_geograph.org.uk_-_8158422.jpg",
+            "caption": "Comma showing the deeply notched wing outline — unique among British butterflies",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "small-tortoiseshell",
+        "similarity_note": "Both orange, both overwinter as adults",
+        "key_difference": "Small Tortoiseshell has smooth wing edges. Comma's deeply notched, ragged wings are unmistakeable.",
+        "time_of_year_note": "Often found feeding on the same flowers in August–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Comma_%28Polygonia_c-album%29_2.jpg",
+        "caption": "Comma Butterfly",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Comma_%28Polygonia_c-album%29_Butterfly_-_geograph.org.uk_-_8158422.jpg",
+        "caption": "Comma showing ragged wing edges",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "green-hairstreak",
+    "common_names": [
+      "Green Hairstreak"
+    ],
+    "latin_name": "Callophrys rubi",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The brilliant emerald-green underside is unique — no other British butterfly shows this colour. The uppersides are plain brown, rarely seen as the butterfly almost always rests with wings closed. Tiny (26–34mm), fast-flying.",
+    "months_visible": [
+      4,
+      5,
+      6
+    ],
+    "peak_months": [
+      5
+    ],
+    "weather_flag": true,
+    "weather_note": "Only flies in warm sunshine. Cold or cloudy days in May will show nothing; try warm, still, sunny mornings.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "scrub",
+      "woodland-edge",
+      "sunny-slopes"
+    ],
+    "summary": "A tiny jewel of a butterfly — the underside is a brilliant, iridescent emerald green, like a living leaf. It's one of Old Down's specialities: April–June only, warm sunshine only, and blink and you'll miss it darting between patches of Bird's-foot Trefoil and Gorse.",
+    "full_description": "The Green Hairstreak is the only butterfly in Britain with a green underside, and what a green it is — not muted or dull but a rich, bright emerald that seems almost to glow in sunlight. The uppersides are plain brown, almost never visible since the butterfly always rests with wings tightly closed, showing only the green underside against a leaf or stem. The combination of colour and habit makes it one of the most camouflaged butterflies in Britain: it disappears completely among green vegetation.\n\nAt Old Down, Green Hairstreak is an exciting find — an indicator of high-quality chalk grassland with the right foodplants and structure. It flies from late April to early June, with May being peak. Males are territorial: they choose a prominent perch (often on a particular bramble spray or gorse sprig) and dart out to investigate any passing butterfly or insect. Watch a favoured perch for a few minutes and the same male will often return repeatedly to the same spot.\n\nThe larvae feed on a range of chalk grassland plants — Bird's-foot Trefoil, Gorse, Broom, Bramble, and Rock-rose among others. Eggs are laid singly on the foodplant buds. The caterpillar is green and extraordinarily hard to find. The species has a single annual generation and overwinters as a chrysalis in the soil.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Widespread but always localised to suitable habitat. A good indicator of chalk grassland quality.",
+    "wildlife_value": "Adults feed on nectar from Bird's-foot Trefoil, Gorse, and other chalk grassland flowers. The caterpillars are tended by ants in some studies. Their presence reliably indicates the right combination of chalk grassland structure, foodplants, and lack of disturbance.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "spider",
+      "insectivorous-bird"
+    ],
+    "depends_on": [
+      "birds-foot-trefoil",
+      "gorse"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Look for tiny fast-flying butterflies along south-facing scrub edges. Males perch on prominent stems and dart out at rivals. Always resting with wings shut — the brilliant green underside is what you'll see. A white streak (the 'hairstreak') on the hindwing underside is sometimes visible at close range.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Green_hairstreak_%28Callophrys_rubi%29_3.jpg",
+            "caption": "Green Hairstreak — the brilliant emerald-green underside is unique",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Green_hairstreak_%28Callophrys_rubi%29.jpg",
+            "caption": "Green Hairstreak at rest — wings always closed, showing only the green underside",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Green_hairstreak_%28Callophrys_rubi%29_3.jpg",
+        "caption": "Green Hairstreak",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Green_hairstreak_%28Callophrys_rubi%29.jpg",
+        "caption": "Green Hairstreak resting",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "dingy-skipper",
+    "common_names": [
+      "Dingy Skipper"
+    ],
+    "latin_name": "Erynnis tages",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Small, moth-like, brown-grey butterfly that rests with wings held flat like a moth. Dark grey-brown with faint white spots. Often mistaken for a moth but note the characteristic clubbed skipper antennae. Flies very fast and low.",
+    "months_visible": [
+      5,
+      6
+    ],
+    "peak_months": [
+      5,
+      6
+    ],
+    "weather_flag": true,
+    "weather_note": "Flies only in warm sunshine. On cloudy days it rests with wings spread flat on warm bare ground or stones — surprisingly easy to find when not flying.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "sunny-slopes",
+      "short-turf"
+    ],
+    "summary": "Don't be put off by the name — the Dingy Skipper is a Red List species and one of Old Down's most special butterflies. Find it in May–June along south-facing slopes where Bird's-foot Trefoil grows, resting flat-winged on bare chalk.",
+    "full_description": "The Dingy Skipper suffers badly from its name — 'dingy' is deeply unfair. Yes, it is brown and grey, but it is a UK Red List butterfly (population declined by over 50% since the 1970s), a specialist of high-quality chalk and limestone grassland, and an exciting find at Old Down. It is one of the indicators that the site is genuinely special for chalk grassland invertebrates.\n\nThe Dingy Skipper is a member of the skipper family, which are small, rapid-flying butterflies with a distinctive thickset body and hooked antenna tip. Dingy Skippers rest with wings held flat (like a moth) rather than folded vertically, often on bare warm soil or stone. The grey-brown chequered pattern is intricate at close range. On cold or cloudy days they roost in dead flower heads, holding the wings wrapped tightly around themselves.\n\nThe sole larval foodplant is Bird's-foot Trefoil (Lotus corniculatus). Eggs are laid singly on the leaves. Caterpillars live inside a rolled leaf tied with silk. The species overwinters as a caterpillar inside a rolled grass stem, then pupates in spring. There is one brood per year, flying May to June. The decline is linked to loss of chalk grassland and abandonment of traditional management that kept swards short and open.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. UK Red List — population declined over 50% since 1976. Mainly southern England.",
+    "wildlife_value": "A specialist chalk grassland species whose presence reliably indicates high-quality, traditionally managed habitat. The caterpillars feed only on Bird's-foot Trefoil. Finding Dingy Skippers at Old Down confirms the quality of the chalk grassland management.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "spider",
+      "insectivorous-bird"
+    ],
+    "depends_on": [
+      "birds-foot-trefoil"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "Look along south-facing slopes with Bird's-foot Trefoil in warm sunshine in May–June. On cloudy days, find them roosting in dead knapweed or thistle heads, wings wrapped around the stem. On sunny days they fly fast and low, settling on bare chalk or soil with wings spread flat.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Erynnis_tages_%2826792031150%29.jpg",
+            "caption": "Dingy Skipper — grey-brown moth-like butterfly resting with flat wings",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Erynnis_tages_%2826461040404%29.jpg",
+            "caption": "Dingy Skipper on chalk grassland — wings spread flat in typical resting posture",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Erynnis_tages_%2826792031150%29.jpg",
+        "caption": "Dingy Skipper",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Erynnis_tages_%2826461040404%29.jpg",
+        "caption": "Dingy Skipper resting flat",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "hazel-dormouse",
+    "common_names": [
+      "Hazel Dormouse",
+      "Common Dormouse",
+      "Dormouse"
+    ],
+    "latin_name": "Muscardinus avellanarius",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "Almost never seen directly as strictly nocturnal and spends most of its life in the canopy or in hibernation. Identification is almost always from signs: gnawed hazelnut shells (smooth round hole on the side with smooth inner edge), or the woven round nest of honeysuckle bark and grass. Any dormouse seen directly is unmistakeable — small, golden-orange, huge dark eyes, fluffy tail.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Active only in warm weather. May enter torpor for days during cold spells even in summer. Hibernates October to April.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hazel-coppice",
+      "hedgerow"
+    ],
+    "summary": "Old Down's most secretive speciality — the Hazel Dormouse is strictly nocturnal, protected, and rarely seen. But its signs are distinctive: a gnawed hazelnut with a smooth round hole is a dormouse's calling card. The UK population has halved since the 1990s.",
+    "full_description": "The Hazel Dormouse is one of Britain's most charming mammals and one of its most threatened. Small, golden-orange, with enormous dark eyes and a thick fluffy tail, it looks almost too cute to be real. But it is also one of the hardest British mammals to see — strictly nocturnal, spending most of its time in the canopy or in hedgerow scrub, and hibernating for up to seven months (October to April). The UK population has declined by more than 50% since the 1990s.\n\nFinding a dormouse sign is exciting and completely achievable. The key sign is a gnawed hazelnut shell: dormice make a smooth, round hole in the side of the nut (not at the top), with a smooth inner edge where the lower incisor has worked inward and slightly downward — leaving characteristic grooves around the inside of the hole. Wood Mice make a rougher, more ragged hole; squirrels split or crush the whole nut. If you find a shell like this in September or October under a hazel bush at Old Down, there's a dormouse living there.\n\nThe dormouse also makes a distinctive woven summer nest: a ball about the size of a tennis ball, woven from strips of honeysuckle bark and grass, placed 1–2 metres up in bramble, hazel, or other scrub. Hibernation nests are on or just below the ground. The dormouse is fully protected under Schedule 5 of the Wildlife and Countryside Act — it is illegal to disturb a dormouse or its nest.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to England and Wales. Red List — population declined over 50% since the 1990s. Legally protected under Schedule 5, Wildlife and Countryside Act 1981.",
+    "wildlife_value": "Dormice are specialist consumers of hazel nuts, honeysuckle flowers, pollen, insects, and berries. Their role in consuming and spreading hazel nuts is part of the woodland food web. Old nest structures are used by other small mammals. The species requires a continuous shrub layer linking hazel, bramble, and honeysuckle — making it an indicator of well-structured woodland edge habitat.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "tawny-owl",
+      "stoat",
+      "weasel"
+    ],
+    "depends_on": [
+      "hazel",
+      "honeysuckle",
+      "bramble"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "brown",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Gnawed Hazelnut — Key Sign",
+        "months_typical": [
+          9,
+          10,
+          11
+        ],
+        "description": "The most reliable sign: a hazelnut shell with a smooth, round hole on the SIDE (not the top), with smooth, slightly inwardly-angled inner edges. Look under hazel bushes from September onwards. Compare with Wood Mouse holes (rougher, more ragged) and squirrel (smashed or split).",
+        "photos": []
+      },
+      {
+        "stage_name": "Summer Nest",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "A woven ball nest about the size of a tennis ball, built from strips of honeysuckle bark and grass, placed 1–2m up in bramble, hazel, or other scrub. Much more tightly woven than a bird's nest. If you find one, observe from a distance only — do not disturb.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Golden-orange fur, large dark eyes, rounded ears, and a thick, furry tail (unlike other small rodents). Strictly nocturnal — if you ever see one in daylight it is likely sick or disturbed. Active from May to October, hibernating October to April.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Muscardinus_avellanarius.jpg",
+            "caption": "Hazel Dormouse — golden-orange with huge dark eyes and a fluffy tail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Muscardinus_avellanarius.jpg",
+        "caption": "Hazel Dormouse",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "pipistrelle-bat",
+    "common_names": [
+      "Common Pipistrelle",
+      "Pipistrelle Bat"
+    ],
+    "latin_name": "Pipistrellus pipistrellus",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "The smallest British bat — about the size of a thumb. Dark brown fur with a dark face, ears, and wing membrane. Jerky, twisting flight low over vegetation and water. Emerges 20–30 minutes after sunset. Echolocates at 45kHz (a bat detector makes them audible as a rapid ticking).",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "Only active in warm weather above about 8°C. Not seen in cold or wet conditions.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "chalk-grassland",
+      "hedgerow",
+      "water"
+    ],
+    "summary": "Britain's most common bat — tiny, fast-flying, and acrobatic at dusk. A single Pipistrelle eats up to 3,000 midges and gnats per night. Stand by a hedgerow at sunset and watch them emerge to feed.",
+    "full_description": "The Common Pipistrelle is Britain's most abundant bat and most people's first bat sighting. It is tiny — weighing just 3–8g, about as heavy as a two-pence coin — but astonishingly agile. It emerges from its roost about 20–30 minutes after sunset and can often be watched feeding along hedgerows and woodland edges, making sharp twisting turns as it catches small moths, midges, and gnats on the wing. A single bat eats up to 3,000 insects per night.\n\nPipistrelles navigate and hunt by echolocation — they emit bursts of ultrasound at around 45kHz (well above human hearing) and listen to the echoes to build a 3D picture of their surroundings. A bat detector converts the calls to an audible clicking or ticking sound. If you have one, bring it to Old Down at dusk — the calls are very distinctive. The closely related Soprano Pipistrelle calls at 55kHz and is identified by bat detector only.\n\nBats are strictly protected under UK and EU law — it is illegal to disturb, handle, or harm a bat, or to block, damage, or destroy a roost (even when the bats are not present). If you find an injured bat on the ground, do not handle it with bare hands; contact the Bat Conservation Trust helpline.",
+    "danger_level": "none",
+    "danger_note": "Do not handle bats with bare hands — although bat bites are very rare, bats can carry European Bat Lyssavirus. If you find a grounded bat, call the Bat Conservation Trust helpline (0345 1300 228) rather than handling it directly.",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. The most common bat species in the UK. Fully protected.",
+    "wildlife_value": "A single Common Pipistrelle consumes up to 3,000 insects per night, providing significant pest control. Bats are important predators of moths (including some pest species), midges, and gnats. Pipistrelle roosts in buildings and trees are protected — loss of roost sites is a major conservation issue.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "insects",
+      "roost-sites"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "dark-brown",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Pup",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Females gather in maternity roosts (often in roof spaces) in June–July to give birth. Each mother has a single pup. Pups are born naked and helpless, gaining fur within two weeks. They start flying at about three weeks. Maternity colonies can number hundreds of bats.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult foraging",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Watch for fast, jerky, twisting flight at dusk along hedgerows, woodland edges, and over water. Emerges 20–30 minutes after sunset. Tiny — barely larger than a large moth. The flight pattern is distinctive: rapid direction changes unlike any bird.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pipistrellus_pipistrellus.jpg",
+            "caption": "Common Pipistrelle — Britain's smallest and most common bat",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pipistrellus_pipistrellus.jpg",
+        "caption": "Common Pipistrelle bat",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "stag-beetle",
+    "common_names": [
+      "Stag Beetle"
+    ],
+    "latin_name": "Lucanus cervus",
+    "type": "beetle",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest beetle — up to 7.5cm long including the male's enormous antler-like mandibles. Shiny dark brown to black body with red-brown wing cases. Females are smaller and have much smaller mandibles. Unmistakeable.",
+    "months_visible": [
+      5,
+      6,
+      7
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": true,
+    "weather_note": "Most active on warm evenings in June–July. Males fly at dusk looking for females, making an impressive buzzing flight.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "old-trees",
+      "dead-wood"
+    ],
+    "summary": "Britain's largest and most spectacular beetle — the male's enormous antler-like mandibles look fearsome but are actually used to wrestle other males, not to hurt people. The larvae spend up to seven years eating rotting wood underground before becoming the beetle you see.",
+    "full_description": "The Stag Beetle is the largest beetle in Britain and one of its most dramatic insects. The male's extraordinary mandibles — enlarged jaws resembling a stag's antlers — are used exclusively in combat with other males for the right to mate with females. They look terrifying but can only very rarely pinch a finger, and even then it is not painful. The females have much smaller, functional jaws.\n\nThe adult beetles live for only a few weeks and do not feed as adults (they may sip tree sap or fruit juice). The real life is underground: the larvae spend 3–7 years feeding on rotting wood — old tree stumps, buried roots, and dead wood in soil. This long larval period in rotting wood makes the Stag Beetle entirely dependent on old trees and dead wood habitat. Loss of old trees and over-tidying of gardens and woodlands has reduced populations significantly — the Stag Beetle is a UK Priority Species.\n\nMales fly at dusk in June and July, making a distinctive loud buzzing flight as they cruise low over the ground searching for females. It's an incredible sight. If you find one on the ground, move it gently to the nearest piece of old wood or log pile — do not move it far from where you found it.",
+    "danger_level": "none",
+    "danger_note": "The male's antler-like mandibles look alarming but are almost always too weak to pinch meaningfully. Handle with care if you must, but they are harmless and should not be feared.",
+    "danger_type": "",
+    "native_info": "Native to Britain. UK Priority Species — has declined significantly due to loss of dead wood habitat. Mainly southern England.",
+    "wildlife_value": "Stag Beetle larvae are major decomposers of dead wood, breaking down old tree stumps and buried roots. This decomposition is essential for woodland soil health. Adults are eaten by Foxes, Badgers, and crows. The species depends entirely on the presence of old trees and dead wood — a Stag Beetle population is a reliable indicator of long-established woodland or veteran trees.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "fox",
+      "badger",
+      "jackdaw"
+    ],
+    "depends_on": [
+      "dead-wood",
+      "old-trees"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "brown",
+      "red-brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Larva",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Creamy-white C-shaped grubs, up to 10cm long, found in rotting wood and soil. They spend 3–7 years underground eating dead wood before pupating. They are harmless and an important part of dead wood decomposition.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "The male's enormous red-brown mandibles (up to 3cm long) are used only in wrestling contests with other males. Males fly low at dusk in June–July, making a distinctive loud buzzing. Look on the ground near old tree stumps and at the base of old oaks.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lucanus_cervus_%2833249236556%29.jpg",
+            "caption": "Stag Beetle male — the spectacular antler-like mandibles are used for wrestling",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Male_stag_beetle%2C_Lucanus_Servus%2C_Faversham_-_geograph.org.uk_-_6192300.jpg",
+            "caption": "Male Stag Beetle at ground level near old wood",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult Female",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Females are smaller than males with much smaller but functional mandibles. They spend more time on the ground searching for a spot to lay eggs near rotting wood. Can actually give a mild pinch if handled.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lucanus_cervus_female.jpg",
+            "caption": "Stag Beetle female — smaller, with smaller mandibles",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lucanus_cervus_%2833249236556%29.jpg",
+        "caption": "Stag Beetle male",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Male_stag_beetle%2C_Lucanus_Servus%2C_Faversham_-_geograph.org.uk_-_6192300.jpg",
+        "caption": "Male Stag Beetle",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lucanus_cervus_female.jpg",
+        "caption": "Stag Beetle female",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "devils-coach-horse",
+    "common_names": [
+      "Devil's Coach Horse",
+      "Devil's Coach Horse Beetle"
+    ],
+    "latin_name": "Ocypus olens",
+    "type": "beetle",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large (2–3cm), all-black, elongated rove beetle with very short wing cases (elytra) leaving most of the abdomen exposed and flexible. When threatened, raises the tail upward like a scorpion and opens its large jaws. Unmistakeable in this defensive posture.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "compost",
+      "under-logs",
+      "damp-ground"
+    ],
+    "summary": "The most dramatic beetle in Britain — when threatened it curls its tail up like a scorpion and opens its fangs. Completely harmless to people, but a ferocious predator of slugs, worms, and other invertebrates.",
+    "full_description": "The Devil's Coach Horse is a rove beetle (family Staphylinidae) — a family characterised by very short wing cases that leave most of the abdomen exposed and flexible. This gives the Devil's Coach Horse a scorpion-like appearance, especially when threatened: it raises the tip of its abdomen upward, opens its large, powerful jaws, and releases a foul-smelling chemical from glands at the tail tip. This defensive display is dramatic but entirely harmless to people.\n\nThe Devil's Coach Horse is a nocturnal predator, hunting under logs, stones, in leaf litter, and along garden paths at night. It eats slugs, worms, fly larvae, and other invertebrates — making it a genuine garden and woodland ally. It moves fast and purposefully, and can bite if handled carelessly (its mandibles are surprisingly strong), though the bite is no worse than a small pinch.\n\nIn Irish folklore, the Devil's Coach Horse was believed to be a manifestation of evil and could supposedly absorb sins by chewing them. Medieval Europeans thought it could curse people with a glance. In reality it is one of the most beneficial beetles in the garden.",
+    "danger_level": "low",
+    "danger_note": "The defensive display (raised abdomen, open jaws) looks alarming but is harmless. The bite from the large mandibles is a mild pinch only. The chemical secretion from the tail tip smells unpleasant but is not toxic. Do not handle unnecessarily.",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Very common in a wide range of habitats.",
+    "wildlife_value": "An important nocturnal predator of slugs, worms, fly larvae, and other invertebrates. Significant in controlling slug populations. The larvae are also predatory, living in soil and leaf litter.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "toad",
+      "hedgehog",
+      "badger"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Look under logs, stones, and in leaf litter. At night it hunts actively on paths and in hedgerow bases. If disturbed it adopts the scorpion posture — tail raised, jaws open — then scurries away fast. The short wing cases (elytra) leave the flexible abdomen completely exposed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ocypus_olens_qtl1.jpg",
+            "caption": "Devil's Coach Horse in defensive posture — tail raised like a scorpion",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ocypus_olens_qtl2.jpg",
+            "caption": "Devil's Coach Horse — large black rove beetle, completely harmless to people",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ocypus_olens_qtl1.jpg",
+        "caption": "Devil's Coach Horse in defensive posture",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ocypus_olens_qtl2.jpg",
+        "caption": "Devil's Coach Horse",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "common-wasp",
+    "common_names": [
+      "Common Wasp",
+      "Wasp"
+    ],
+    "latin_name": "Vespula vulgaris",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Yellow and black banded abdomen, narrow waist, and smooth (not fuzzy) body. Four wings. The yellow face has a characteristic anchor or dagger-shaped black mark — use this to distinguish from German Wasp (which has three dots). In flight, legs hang down.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "woodland-edge",
+      "hedgerow",
+      "meadow",
+      "garden"
+    ],
+    "summary": "Wasps are misunderstood — all summer they are ferocious hunters of caterpillars and flies, doing a huge amount of pest control. Only in late summer, when the colony collapses and workers go sugar-seeking, do they become a nuisance. They sting only in defence.",
+    "full_description": "The Common Wasp has an image problem. Most people associate wasps with late-summer nuisance — crawling over jam sandwiches, buzzing aggressively around picnics, and stinging unprovoked. But this behaviour happens only for a few weeks at the end of the colony's life. From April to August, wasps are beneficial predators: they catch caterpillars, flies, aphids, and other insects by the thousand to feed their larvae, doing enormous amounts of pest control in gardens and crops.\n\nA Common Wasp nest is a masterpiece of engineering. Starting from scratch each spring, the queen builds a nest from chewed wood fibre (paper) — she chews bark and dead wood, mixes it with saliva, and applies it as a paste that dries to a papery material. Workers expand the nest through summer until a colony may contain 10,000 workers. The hexagonal cells are used for raising larvae.\n\nIn late summer, the new queens and males are produced, the colony collapses, and the workers — suddenly without larvae to feed — look for sugar instead. This is when they become a nuisance. Stay calm near wasps, cover food and drink, and resist swatting — a crushed wasp releases an alarm pheromone that makes nearby wasps aggressive.",
+    "danger_level": "low",
+    "danger_note": "Wasps sting in self-defence when they feel threatened. The sting is painful but not medically significant for most people. However, some people are allergic to wasp venom — a severe allergic reaction (anaphylaxis) is a medical emergency. People with known allergies should carry an EpiPen.",
+    "danger_type": "sting",
+    "native_info": "Native throughout Britain and Ireland. Very common everywhere.",
+    "wildlife_value": "A major predator of caterpillars, flies, aphids, and other insects in summer — providing significant pest control. Wasps also act as pollinators of some flowers and fig species. Nest wood-pulp building recycles dead wood. Wasp nests are raided by Badgers and Green Woodpeckers for the larvae.",
+    "pollinators_supported": [
+      "wasp-pollinated-flowers"
+    ],
+    "food_source_for": [
+      "badger",
+      "green-woodpecker"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "yellow",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Queen",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "Newly-mated queens emerge from hibernation in March–April and begin building a new nest alone. She raises the first workers entirely by herself. Queens are larger than workers with the same colour pattern.",
+        "photos": []
+      },
+      {
+        "stage_name": "Worker",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Workers (sterile females) hunt insects to feed the larvae and expand the nest. In late summer, look for workers feeding on ripe fruit, sap runs, and any sweet food source as the colony winds down.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vespula_vulgaris-_common_wasp_worker_%2849242597487%29.jpg",
+            "caption": "Common Wasp worker — the yellow face with an anchor/dagger black mark identifies this species",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Common_Wasp%5E_Vespula_vulgaris_-_Flickr_-_gailhampshire.jpg",
+            "caption": "Common Wasp — bold yellow and black stripes, smooth body (not fuzzy like a bee)",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vespula_vulgaris-_common_wasp_worker_%2849242597487%29.jpg",
+        "caption": "Common Wasp worker",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Common_Wasp%5E_Vespula_vulgaris_-_Flickr_-_gailhampshire.jpg",
+        "caption": "Common Wasp",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "honey-bee",
+    "common_names": [
+      "Honey Bee",
+      "Western Honey Bee"
+    ],
+    "latin_name": "Apis mellifera",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Golden-brown with a fuzzy (hairy) thorax, clearly visible pollen baskets on the hind legs when foraging, and a pointed abdomen with yellow-brown and dark bands. Flies with a steady, purposeful hum. Smaller and less yellow than a bumblebee.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "wildflower-meadow",
+      "hedgerow",
+      "woodland-edge",
+      "garden"
+    ],
+    "summary": "The world's most famous pollinator — and a fascinating social insect. A single colony can contain 60,000 bees. Honey Bees communicate the direction and distance of flowers to each other by dancing.",
+    "full_description": "The Honey Bee is one of the most important insects on Earth — responsible, alongside other pollinators, for the production of a third of all human food. A single colony can contain 50,000–60,000 workers, all daughters of a single queen. The colony works as a single superorganism: workers build wax comb, raise larvae, collect nectar and pollen, guard the entrance, and regulate the temperature of the hive by fanning their wings.\n\nHoney Bees communicate the location of flowers using the 'waggle dance' — a figure-of-eight dance performed inside the hive in which the angle of the waggle run relative to vertical indicates the direction of the food source relative to the sun, and the duration of the waggle indicates distance. This is one of the most sophisticated communication systems known in the animal kingdom.\n\nThe Honey Bee's sting is barbed — it stays in the skin after a sting, and the venom sac continues to pump venom for up to a minute. The bee dies after stinging. Remove the sting promptly by scraping (not squeezing) it out. Honey Bees are gentle compared to wasps — they sting only to defend the colony or themselves when pressed. Managed hives are kept by beekeepers; wild colonies nest in tree holes, old roofs, and other cavities.",
+    "danger_level": "low",
+    "danger_note": "The sting is barbed and stays in the skin — scrape it out immediately (don't squeeze the venom sac). Sting is painful but not dangerous for most people. People with bee venom allergy should carry an EpiPen.",
+    "danger_type": "sting",
+    "native_info": "Native to Britain; the managed race (Apis mellifera mellifera) has been kept by beekeepers for thousands of years. Also present as wild colonies in tree holes and old buildings.",
+    "wildlife_value": "One of the most important pollinators of wildflowers and crops. A colony visits millions of flowers per day. Honey Bee wax and honey support other wildlife; wax moth larvae feed in old combs. Swarms are eaten by opportunistic predators.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "wasp",
+      "badger"
+    ],
+    "depends_on": [
+      "wildflowers"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "golden",
+      "yellow",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Worker foraging",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Look for bees with orange or yellow pollen packed into the pollen baskets on their hind legs — bright orange or yellow blobs on each back leg. Workers visit hundreds of flowers per foraging trip, transferring pollen between plants.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Honey_Bee_%28Apis_mellifera%29_on_globe_thistle_%28Echinops%29%2C_Lemore_Manor%2C_Eardisley_-_geograph.org.uk_-_4116989.jpg",
+            "caption": "Honey Bee foraging — note the orange pollen baskets on the hind legs",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Honey_Bee_%28Apis_Mellifera%29_on_Rhododendron_at_Twizell_Mill_-_geograph.org.uk_-_849022.jpg",
+            "caption": "Honey Bee on flower — golden-brown with fuzzy thorax",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "buff-tailed-bumblebee",
+        "similarity_note": "Both are golden-brown bees visiting flowers",
+        "key_difference": "Bumblebees are much larger, rounder, and much furrier all over. Honey Bees are slimmer with a pointed abdomen and only fuzzy on the thorax.",
+        "time_of_year_note": "Both seen all summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Honey_Bee_%28Apis_mellifera%29_on_globe_thistle_%28Echinops%29%2C_Lemore_Manor%2C_Eardisley_-_geograph.org.uk_-_4116989.jpg",
+        "caption": "Honey Bee foraging",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Honey_Bee_%28Apis_Mellifera%29_on_Rhododendron_at_Twizell_Mill_-_geograph.org.uk_-_849022.jpg",
+        "caption": "Honey Bee on flower",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "common-field-grasshopper",
+    "common_names": [
+      "Common Field Grasshopper",
+      "Field Grasshopper"
+    ],
+    "latin_name": "Chorthippus brunneus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Short antennae (shorter than body length). Brown, green, or purple-grey with hairy underside. Males produce a series of short chirps (6–10 per second) in a warm afternoon sun. Jumps strongly when disturbed. Hind legs much longer than front legs.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": true,
+    "weather_note": "Only sings in warm sunshine — a cool cloudy day will produce silence even in peak season. The song is warmth-dependent.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "dry-grassland",
+      "short-turf",
+      "sunny-slopes"
+    ],
+    "summary": "Close your eyes on a warm August afternoon at Old Down and listen — that rapid chirping from the grass is the grasshopper's song. Males rub their hind legs against their wings to 'stridulate'. Grasshoppers are ancient: they've been singing like this for 300 million years.",
+    "full_description": "The Common Field Grasshopper is the most frequently heard grasshopper on dry chalk grassland in southern England. On a warm, still August afternoon at Old Down, their song — a series of short, buzzy chirps, each burst lasting 1–2 seconds, repeated every few seconds — is one of the defining sounds of the site. To produce it, the male rubs a row of tiny pegs on his inner hind femur against a hardened vein on the forewing — a process called stridulation. Different grasshopper species produce different songs; with practice they can be identified by ear alone.\n\nGrasshoppers belong to a group called Orthoptera, which also includes crickets. The key difference: grasshoppers have short antennae (shorter than the body), are active by day, and produce song by rubbing leg against wing. Crickets have very long antennae, are mostly nocturnal, and produce song by rubbing the wings together. Grasshoppers have been on Earth for over 300 million years — they were singing on ancient fern forests long before the dinosaurs existed.\n\nThe Common Field Grasshopper is highly variable in colour — the same species can be brown, green, purple, or striped. This polymorphism may help individuals match their specific patch of ground. Adults overwinter as eggs laid in soil, with nymphs hatching in May and reaching adulthood by July.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. The most common grasshopper on dry chalk and limestone grassland in England.",
+    "wildlife_value": "Grasshoppers are an important food source for Kestrel, Skylark, Yellowhammer, and many invertebrate predators including spiders and ground beetles. Their grazing helps maintain short-turf structure. Chalk grassland grasshopper populations are indicators of site quality.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "kestrel",
+      "skylark",
+      "yellowhammer",
+      "garden-spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "green",
+      "grey",
+      "purple"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Nymph",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Nymphs hatch in May from overwintered eggs in soil. They look like miniature adults but with developing wing buds and no adult wings. They moult several times as they grow.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Adults reach full size by July. On warm sunny days, males sing from prominent grass stems. Try to spot one singing — watch for the rapid up-down movement of the hind leg. The song stops immediately if the grasshopper spots you approaching.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Field_Grasshopper._Chorthippus_brunneus_probably_%2839682104943%29.jpg",
+            "caption": "Common Field Grasshopper — short antennae and strong hind legs for jumping",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Field_grasshopper._Chorthippus_brunneus_%2836273886762%29.jpg",
+            "caption": "Field Grasshopper — colour varies widely from brown to green",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "speckled-bush-cricket",
+        "similarity_note": "Both are green jumping insects found in grassland",
+        "key_difference": "Bush crickets have very long antennae (longer than the body), are mostly nocturnal, and call at night. Grasshoppers have short antennae and call by day.",
+        "time_of_year_note": "Both found late summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Field_Grasshopper._Chorthippus_brunneus_probably_%2839682104943%29.jpg",
+        "caption": "Common Field Grasshopper",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Field_grasshopper._Chorthippus_brunneus_%2836273886762%29.jpg",
+        "caption": "Field Grasshopper",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "speckled-bush-cricket",
+    "common_names": [
+      "Speckled Bush Cricket"
+    ],
+    "latin_name": "Leptophyes punctatissima",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Bright green with dense tiny purple-black speckles all over. Very long antennae (much longer than the body). Females have a long, curved ovipositor (egg-laying tube). Almost entirely wingless. Found on bramble and other shrubs late summer.",
+    "months_visible": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "scrub",
+      "woodland-edge",
+      "bramble"
+    ],
+    "summary": "A beautifully speckled green cricket found on bramble and hedgerow from late summer. Almost flightless, it calls at such a high frequency that most adults can barely hear it — a bat detector brings its song into earshot.",
+    "full_description": "The Speckled Bush Cricket is one of the most beautifully marked insects in Britain. Bright green, covered in a dense constellation of tiny dark purple-brown speckles, it looks like a leaf flecked with dew. The extremely long, thread-like antennae distinguish it immediately from grasshoppers. It is found on bramble, hedgerow shrubs, and rough vegetation from late July through to November.\n\nThe song is produced by wing-rubbing (stridulation), but unlike grasshoppers, crickets rub their wings together rather than leg against wing. The Speckled Bush Cricket calls at around 20–30kHz — at the very top edge of most adults' hearing range, and completely inaudible to anyone over about 40. Children often hear it as a very faint, high-pitched tick; adults typically need a bat detector set to 20–25kHz to detect it. Bring a detector on an evening walk in August and the hedgerows will be full of invisible crickets.\n\nFemales have a long, curved, sabre-shaped ovipositor (egg-laying tube) that sticks up behind the abdomen — this makes them easy to distinguish from males. The species is almost entirely flightless, spending its life climbing slowly through vegetation. Eggs are laid into bark crevices and overwinter.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Common in hedgerows and scrub.",
+    "wildlife_value": "Speckled Bush Crickets are eaten by bats (which detect them easily), spiders, and insectivorous birds. They eat pollen, plant material, and small invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "bat",
+      "spider",
+      "robin"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Bright green with dense speckles, found climbing slowly through bramble and hedgerow in late summer. Look in late afternoon on bramble leaves in sheltered hedgerows. The female's curved ovipositor is distinctive. Almost never jumps — instead it freezes or moves slowly.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Leptophyes_punctatissima_-20200629-RM-083405.jpg",
+            "caption": "Speckled Bush Cricket — bright green with dense dark speckles, very long antennae",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leptophyes_punctatissima_-_Punktierte_Zartschrecke_I.jpg",
+            "caption": "Speckled Bush Cricket on vegetation",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-field-grasshopper",
+        "similarity_note": "Both are green jumping insects",
+        "key_difference": "This cricket has antennae far longer than its body; grasshoppers have short antennae. Crickets are mostly nocturnal; grasshoppers active by day.",
+        "time_of_year_note": "Both found in late summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Leptophyes_punctatissima_-20200629-RM-083405.jpg",
+        "caption": "Speckled Bush Cricket",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leptophyes_punctatissima_-_Punktierte_Zartschrecke_I.jpg",
+        "caption": "Speckled Bush Cricket on leaf",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "garden-spider",
+    "common_names": [
+      "Garden Spider",
+      "Cross Spider",
+      "European Garden Spider"
+    ],
+    "latin_name": "Araneus diadematus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Round, often brownish abdomen with a distinctive white cross or diadem of white spots on the top. Females are much larger than males. Builds a classic circular orb web with a spiral of sticky thread. Sits in the centre of the web, or hides in a retreat at the edge connected by a signal thread.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "scrub",
+      "woodland-edge",
+      "garden"
+    ],
+    "summary": "The architect of the most beautiful structure in nature — the orb web, rebuilt every day. The dew-covered web on a September morning is one of Britain's iconic sights. Spiders are not insects — they have 8 legs and two body parts, not six legs and three.",
+    "full_description": "The Garden Spider builds one of nature's most impressive structures: a near-perfect circular orb web with a spiral of sticky thread radiating out from a central hub. The spider typically rebuilds this web every day or two — consuming the old web to recycle the protein, then spinning a new one in the small hours of the morning. A web may contain 20–60 metres of silk. On dewy September mornings, hundreds of webs glitter across hedgerows and grassland at Old Down.\n\nThe Garden Spider is a spider, not an insect — an important distinction to make with children. Spiders have 8 legs (insects have 6), two body parts — cephalothorax and abdomen — (insects have three), and fangs (chelicerae) rather than jaws. The Garden Spider's bite is not medically significant in the UK — it could theoretically pierce skin but almost never does, and the venom is not dangerous to people. They are completely harmless.\n\nFemales grow much larger than males over the summer, reaching 10–13mm by autumn compared to the male's 4–8mm. After mating in autumn, females lay a silk egg sac containing 300–900 eggs, often hidden in a crevice or under bark. The female dies after the first hard frost; the eggs overwinter and hatch in spring.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Very common everywhere.",
+    "wildlife_value": "An important predator of flying insects including flies, wasps, moths, and beetles caught in the orb web. Garden Spiders are eaten by Blue Tits, Robins, and other insectivorous birds. The webs also trap many non-pest insects, but the ecological net effect is positive as a predator.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "robin",
+      "blue-tit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "orange",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult (late summer)",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "Females reach full size by September — large, round-abdomened, with the distinctive white cross markings. They sit in the centre of the web waiting for prey, or hide in a curled leaf at the edge connected by a signal thread. September morning dew reveals dozens of webs in hedgerows.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cross_Spider_%28Araneus_diadematus%29_-_European_Garden_Spider_in_Web_-_geograph.org.uk_-_665926.jpg",
+            "caption": "Garden Spider in its orb web — look for the white cross mark on the abdomen",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Garden_spider_%28Araneus_diadematus%29_-_geograph.org.uk_-_966342.jpg",
+            "caption": "Garden Spider — round abdomen with distinctive white diadem spots",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cross_Spider_%28Araneus_diadematus%29_-_European_Garden_Spider_in_Web_-_geograph.org.uk_-_665926.jpg",
+        "caption": "Garden Spider in web",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Garden_spider_%28Araneus_diadematus%29_-_geograph.org.uk_-_966342.jpg",
+        "caption": "Garden Spider",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "centipede",
+    "common_names": [
+      "Brown Centipede",
+      "Stone Centipede",
+      "Centipede"
+    ],
+    "latin_name": "Lithobius forficatus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Flat, fast-moving, shiny brown-orange arthropod with 15 pairs of legs (30 legs total). The first pair of legs are modified as venomous fangs. Much flatter and faster than a millipede. Found under stones and logs. Antennae and legs about the same length.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "under-logs",
+      "damp-ground",
+      "hedgerow"
+    ],
+    "summary": "The fastest animal under a log — centipedes sprint across the ground the moment you lift a stone. They are predators: the first pair of legs are modified into fangs. Not dangerous to people, but great to watch.",
+    "full_description": "Centipedes are ancient, fascinating, and completely harmless to people in Britain. The Brown Centipede (Lithobius forficatus) is the most commonly encountered species — flat, shiny, reddish-brown, about 2–3cm long, with 15 pairs of legs (exactly 30 legs). It moves with surprising speed when a stone is lifted, scurrying for cover. This speed is essential: centipedes are hunters, chasing and catching invertebrate prey using their speed and modified front legs.\n\nThe front pair of legs in centipedes has evolved into venomous fangs (forcipules) used to seize and paralyse prey — primarily insects, worms, and other invertebrates. In theory the fangs can pierce human skin, but in practice this almost never happens with British species, and even if it did, the sensation would be no worse than a mild bee sting. British centipedes are entirely harmless to handle.\n\nA useful distinction for children: centipedes have ONE pair of legs per body segment and are flat, fast predators. Millipedes have TWO pairs of legs per body segment, are rounder, much slower, and eat dead plant material. Lift a log and you may find both; the centipede sprints, the millipede ambles.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. Very common everywhere under logs, stones, and in leaf litter.",
+    "wildlife_value": "An important predator of soil invertebrates, insect larvae, worms, and slugs. Centipedes are eaten by Robins, Blackbirds, Hedgehogs, Shrews, and many other predators. They are a key part of the soil food web.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "robin",
+      "blackbird",
+      "hedgehog",
+      "shrew"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Found under logs, stones, and in leaf litter year-round. Lift a log and watch it sprint for cover — the speed is remarkable. Count the legs to confirm it's a centipede (30 legs = 15 pairs, one per segment). Compare with a millipede under the same log — completely different movement.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithobius_forficatus_3.jpg",
+            "caption": "Brown Centipede — 15 pairs of legs, fast predator under logs and stones",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lithobius_forficatus-o.jpg",
+            "caption": "Brown Centipede — flat, shiny, reddish-brown",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lithobius_forficatus_3.jpg",
+        "caption": "Brown Centipede",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lithobius_forficatus-o.jpg",
+        "caption": "Brown Centipede",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "woodlouse",
+    "common_names": [
+      "Pill Woodlouse",
+      "Woodlouse",
+      "Pill Bug",
+      "Roly-poly Bug"
+    ],
+    "latin_name": "Armadillidium vulgare",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Grey, armour-plated crustacean with 14 legs and two short tail appendages. When touched, the Pill Woodlouse (Armadillidium vulgare) rolls into a perfect ball. Common Woodlouse (Oniscus asellus) is flatter and cannot fully roll up. Both found under logs, stones, and damp material.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "under-logs",
+      "damp-ground",
+      "hedgerow"
+    ],
+    "summary": "Not an insect, not a spider — woodlice are actually crustaceans, more closely related to crabs and shrimps than to beetles. The pill woodlouse rolls into a perfect ball when touched. They breathe through gills, not lungs.",
+    "full_description": "The woodlouse is one of the most reliably findable creatures on a wildlife walk — lift almost any log, stone, or piece of bark in a damp spot and you'll find them. But woodlice are not insects. They are crustaceans — the same group as crabs, shrimps, and lobsters — and are one of the very few crustaceans to have adapted to life on land. They still breathe through gills, not lungs, which is why they need damp conditions: their gills must stay moist to function.\n\nThe most common species found in chalk grassland and woodland edge are the Pill Woodlouse (Armadillidium vulgare) — which rolls into a perfect sphere when disturbed, like a tiny armadillo — and the Common Woodlouse (Oniscus asellus), which is flatter, slightly shinier, and cannot fully roll up. Counting legs is useful: woodlice always have 14 legs (7 pairs), plus two tail-like uropods.\n\nWoodlice are completely harmless and important decomposers — they eat dead plant material, helping break it down into nutrients. They are eaten by spiders, centipedes, ground beetles, shrews, and toads.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Very common in damp habitats everywhere.",
+    "wildlife_value": "Important decomposers of dead plant material — they break down leaf litter, dead wood, and organic debris, releasing nutrients back into the soil. Eaten by spiders, centipedes, ground beetles, shrews, toads, and slow-worms.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "shrew",
+      "toad",
+      "slow-worm",
+      "centipede",
+      "garden-spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Found under logs, stones, and damp bark year-round. When you find one, try gently touching a Pill Woodlouse (the round grey type) — it rolls into a perfect sphere in about half a second. Count the legs — 14 legs (7 pairs). Compare with a centipede nearby.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%9C%D0%BE%D0%BA%D1%80%D0%B8%D1%86%D0%B0-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_-_Armadillidium_vulgare_-_%28Common%29_pill-bug%2C_%28Common%29_pill_woodlouse%2C_Roly-poly%2C_Doodle_bug%2C_or_Carpenter_%2834075599542%29.jpg",
+            "caption": "Pill Woodlouse (Armadillidium vulgare) — rolls into a perfect sphere when touched",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Woodlouse_poster.jpg",
+            "caption": "Woodlouse species guide — showing the main types found in Britain",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%9C%D0%BE%D0%BA%D1%80%D0%B8%D1%86%D0%B0-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_-_Armadillidium_vulgare_-_%28Common%29_pill-bug%2C_%28Common%29_pill_woodlouse%2C_Roly-poly%2C_Doodle_bug%2C_or_Carpenter_%2834075599542%29.jpg",
+        "caption": "Pill Woodlouse",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Woodlouse_poster.jpg",
+        "caption": "Woodlouse species",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "snail",
+    "common_names": [
+      "Garden Snail",
+      "Banded Snail",
+      "Snail"
+    ],
+    "latin_name": "Cornu aspersum / Cepaea spp.",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Snails carry a spiral shell and leave a silver slime trail. Garden Snail: large (2.5–4cm), mottled brown. Banded snails (Cepaea): smaller, brightly coloured — yellow, pink, or brown with variable dark bands. Found on vegetation and damp paths after rain.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "weather_flag": true,
+    "weather_note": "Most active at night and after rain. In dry weather they seal their shell opening with dried mucus (aestivation) and wait for moisture.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "chalk-grassland",
+      "woodland-edge",
+      "damp-ground"
+    ],
+    "summary": "Two types to look for at Old Down — the familiar large Garden Snail on vegetation, and the beautiful colourful Banded Snails on chalk grassland. The banded snails are especially interesting: the colour and band pattern vary from snail to snail, even in the same patch.",
+    "full_description": "Old Down is home to two distinct groups of snails worth knowing about. The Garden Snail (Cornu aspersum) is the familiar large snail — mottled brown with a thick, globular shell — common on vegetation, paths, and in hedgerow bases. It is the classic 'snail with a shell' of the British garden and countryside.\n\nMore interesting ecologically are the banded snails (Cepaea species) found on chalk grassland. White-lipped Snail (Cepaea hortensis) and Brown-lipped Snail (Cepaea nemoralis) are both beautiful, colourful snails whose shells vary dramatically in colour and banding: yellow, pink, or brown, with anywhere from zero to five dark bands. This variation is genetic — it is one of the most studied examples of visible evolution in real time. The colour and banding pattern affects survival (camouflage against different backgrounds) and body temperature (darker shells warm up faster in cold conditions).\n\nSnails are molluscs — related to slugs, mussels, and octopuses. Their muscular 'foot' glides on a carpet of mucus, leaving the silver trail. In dry weather they seal the shell opening with dried mucus and wait. In winter they hibernate under leaf litter. Song Thrushes are specialist snail predators, smashing shells on a favourite 'anvil' stone — look for a stone with broken shell fragments as a sign that a Song Thrush regularly hunts nearby.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Garden Snail is native/naturalised throughout Britain. Cepaea snails are native chalk grassland species.",
+    "wildlife_value": "Song Thrushes are specialist snail predators — their distinctive 'anvil' behaviour (smashing snail shells on a favourite stone) is one of the clearest signs of a healthy snail population. Hedgehogs, Badgers, and ground beetles also eat snails. Chalk grassland Cepaea snails are an important food source for Song Thrush and are indicators of chalk grassland quality.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "song-thrush",
+      "hedgehog",
+      "badger",
+      "ground-beetle"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "yellow",
+      "pink",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Most active at night and after rain. In daytime find them resting under leaves, on walls, or sealed with dried mucus waiting for rain. After rain, walk the paths and look for the silver trails leading to snails feeding on low vegetation.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Garden_Snail_%28Cornu_aspersum%29%2C_Clickimin%2C_Lerwick_-_geograph.org.uk_-_5389460.jpg",
+            "caption": "Garden Snail — the familiar large mottled-brown snail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brown-lipped_Snail_%28Cepaea_nemoralis%29_%288141187351%29.jpg",
+            "caption": "Brown-lipped Banded Snail — colour and banding varies dramatically between individuals",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cepaea_hortensis_MHNT.CON.2002.777.jpg",
+            "caption": "White-lipped Snail (Cepaea hortensis) — chalk grassland species",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Garden_Snail_%28Cornu_aspersum%29%2C_Clickimin%2C_Lerwick_-_geograph.org.uk_-_5389460.jpg",
+        "caption": "Garden Snail",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brown-lipped_Snail_%28Cepaea_nemoralis%29_%288141187351%29.jpg",
+        "caption": "Brown-lipped Banded Snail",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cepaea_hortensis_MHNT.CON.2002.777.jpg",
+        "caption": "White-lipped Snail",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "quaking-grass",
+    "common_names": [
+      "Quaking Grass",
+      "Totter Grass",
+      "Trembling Grass"
+    ],
+    "latin_name": "Briza media",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The dangling, egg-shaped, flattened spikelets are completely unmistakeable — they tremble and quake in even the slightest breeze. No other British grass has this shape. Spikelets are purplish-green, arranged on fine, hair-like stems.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "unimproved-grassland",
+      "meadow",
+      "ancient-grassland"
+    ],
+    "summary": "The most delicate and beautiful grass on the chalk — Quaking Grass trembles constantly in the breeze, its heart-shaped spikelets dancing like tiny lanterns. Finding it confirms you're on genuinely old, never-fertilised grassland.",
+    "full_description": "Quaking Grass is one of the most distinctive and beautiful grasses in Britain, and one of the most reliable indicators of ancient, unimproved chalk grassland. It grows in rosettes of flat basal leaves, sending up flowering stems in June and July that carry clusters of small, flattened, heart- or egg-shaped spikelets on hair-fine branching stalks. The spikelets are purplish-green, about 6–9mm across, and the slightest movement of air sets them trembling and quaking — catching the light and appearing to dance. In a gentle breeze, a patch of Quaking Grass is one of the most enchanting sights in British grassland.\n\nAs an ancient grassland indicator, Quaking Grass tells you something important about Old Down: this has been grassland for a very long time, without ploughing or heavy fertilisation. It is a slow-growing perennial that cannot re-establish on recently disturbed or fertilised ground. Wherever you find Quaking Grass, you're standing on a piece of landscape history.\n\nDried stems with spikelets retain their shape and movement for months — they have been used in dried flower arrangements for centuries. The folk name 'totter grass' also refers to the trembling motion.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland on chalk and limestone grassland. An ancient grassland indicator species.",
+    "wildlife_value": "The seeds are eaten by seed-eating finches including Linnet and Yellowhammer. The dense tussock structure provides shelter for grassland invertebrates. Most importantly, Quaking Grass indicates the presence of high-quality, ancient chalk grassland that supports a rich community of specialist plants and animals.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "linnet",
+      "yellowhammer",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "green"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "June–July: slender stems 20–50cm tall carry the distinctive egg-shaped spikelets that tremble in the breeze. The spikelets are purplish-green, flattened side-on, and hang from hair-fine stalks. Get down low and watch them catching the light.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quaking_Grass%2C_Briza_media_%288894124515%29.jpg",
+            "caption": "Quaking Grass — the trembling egg-shaped spikelets are unmistakeable",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Briza_media_spikelet.jpg",
+            "caption": "Quaking Grass spikelet close-up — flattened, heart-shaped, purplish-green",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quaking_Grass%2C_Briza_media_%288894124515%29.jpg",
+        "caption": "Quaking Grass",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Briza_media_spikelet.jpg",
+        "caption": "Quaking Grass spikelet",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
+  },
+  {
+    "id": "salad-burnet",
+    "common_names": [
+      "Salad Burnet",
+      "Small Burnet"
+    ],
+    "latin_name": "Sanguisorba minor",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Pinnate leaves with pairs of small round toothed leaflets. Crush a leaf and it smells strongly of cucumber — the most reliable ID. Round flower heads on long stems: top half red (female flowers), bottom half yellow-green (male flowers). Very common on chalk.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "unimproved-grassland",
+      "ancient-grassland",
+      "sunny-slopes"
+    ],
+    "summary": "The best fun plant on the chalk — crush a leaf of Salad Burnet and smell your fingers. It smells exactly like cucumber. An ancient chalk grassland indicator that was eaten in salads and herb gardens for centuries.",
+    "full_description": "Salad Burnet is one of the most engaging plants to show children on the chalk. It looks modest at first — pairs of small round toothed leaflets arranged along a central stem — but crush a leaf between your fingers and the smell is immediate and striking: fresh cucumber, unmistakeable and pleasant. This smell is what made Salad Burnet a popular salad herb in Tudor and medieval times; Francis Bacon recommended it for garden paths because 'it perfumes the air most delightfully, being trodden on and crushed.'\n\nThe flowers are unusual. Each small round flower head has a two-part structure: the top half bears the red female flowers (which receive pollen), while the lower half bears the drooping yellow-green male flowers (which release pollen). Wind carries pollen from the male flowers upward to the female flowers above. Watch carefully on a breezy day and you can see the male flowers releasing their pollen in clouds.\n\nLike Quaking Grass, Salad Burnet is an indicator of ancient, unimproved chalk grassland — it colonises slowly and can't re-establish on disturbed or fertilised ground quickly. Its presence at Old Down is a sign of the site's age and the quality of its management. It grows low and keeps growing even when grazed or cut — the leaf rosette survives close cutting and produces new growth.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England on chalk and limestone grassland. An ancient grassland indicator.",
+    "wildlife_value": "Salad Burnet flowers are wind-pollinated but also visited by small insects. The leaves are eaten by rabbits and some invertebrates. As an ancient grassland indicator, its presence at Old Down confirms the quality of the chalk grassland for other specialist species.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "rabbit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Stems 20–40cm with round flower heads — the top half red (female flowers), bottom half yellow-green (male). Crush a leaf and smell: strong cucumber. Once you know this smell you'll find Salad Burnet everywhere on chalk.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chalk_downland_vegetation%2C_Salad_Burnet_%28Sanguisorba_minor%29_-_geograph.org.uk_-_4989454.jpg",
+            "caption": "Salad Burnet on chalk downland — crush a leaf and it smells of cucumber",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sanguisorba_minor%2C_Botanischen_Garten_zu_Berli.jpg",
+            "caption": "Salad Burnet flowers — top half red female flowers, lower half yellow-green male",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chalk_downland_vegetation%2C_Salad_Burnet_%28Sanguisorba_minor%29_-_geograph.org.uk_-_4989454.jpg",
+        "caption": "Salad Burnet on chalk downland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sanguisorba_minor%2C_Botanischen_Garten_zu_Berli.jpg",
+        "caption": "Salad Burnet flowers",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-30"
   }
 ]
