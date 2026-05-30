@@ -3,11 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
   <title>Nature Spotter Guide</title>
+  <link rel="icon" href="assets/logo-old-down.png" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <script src="config/location.js"></script>
 </head>
 <body>
 
@@ -18,9 +21,11 @@
     <div class="disclaimer-wrap">
       <div class="disclaimer-inner">
         <div class="disclaimer-header">
-          <div class="guide-emblem">&#9752;</div>
-          <h1>Nature Spotter Guide</h1>
-          <p class="tagline">A field guide for home education families</p>
+          <img src="assets/logo-old-down.png" alt="Old Down Nature Club logo" class="disclaimer-logo" id="disclaimer-logo"
+               onerror="this.style.display='none';document.getElementById('disclaimer-emblem').style.display='flex'">
+          <div id="disclaimer-emblem" style="display:none"><div class="guide-emblem">&#9752;</div></div>
+          <h1 id="disclaimer-title">Nature Spotter</h1>
+          <p class="tagline" id="disclaimer-tagline">A field guide for home education families</p>
         </div>
 
         <div class="disclaimer-box">
@@ -58,15 +63,21 @@
   <div id="screen-browse" class="screen hidden">
     <header class="browse-header">
       <div class="header-inner">
-        <div class="header-title">
-          <span class="guide-emblem-small">&#9752;</span>
-          <h1>Nature Spotter</h1>
+        <div class="header-title" id="header-title">
+          <img src="assets/logo-old-down.png" alt="Old Down Nature Club logo" class="header-logo" id="header-logo"
+               onerror="this.style.display='none';document.getElementById('header-logo-fallback').style.display='flex'">
+          <div id="header-logo-fallback" class="header-logo-fallback" style="display:none">
+            <span class="guide-emblem-small">&#9752;</span>
+            <h1 id="header-name">Nature Spotter</h1>
+          </div>
         </div>
         <div class="header-actions">
+          <button class="btn-icon" id="btn-open-about" title="About Old Down">About</button>
           <button class="btn-icon" id="btn-open-locations" title="About our locations">&#128205; Locations</button>
           <button class="btn-icon" id="btn-open-submit" title="Suggest an addition or correction">+ Suggest Addition</button>
         </div>
       </div>
+      <div class="header-tagline" id="header-tagline"></div>
     </header>
 
     <div class="browse-layout">
@@ -124,7 +135,7 @@
           </select>
         </div>
 
-        <div class="filter-group">
+        <div class="filter-group" id="filter-location-group">
           <label class="filter-label">Location</label>
           <div class="checkbox-group" id="filter-location">
             <label class="check-item"><input type="checkbox" value="old-down"><span>Old Down</span></label>
@@ -195,6 +206,21 @@
 
     <!-- Filters overlay for mobile -->
     <div class="filters-overlay hidden" id="filters-overlay"></div>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-links">
+          <a href="#" id="footer-browse">Browse</a>
+          <a href="#" id="footer-about">About</a>
+          <a href="#" id="footer-safety">Safety</a>
+          <a href="#" id="footer-submit">Submit a sighting</a>
+        </div>
+        <p class="footer-text" id="footer-text">Nature Spotter</p>
+        <p class="footer-legal">Images: <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a> (CC licensed)</p>
+        <p class="footer-legal">This guide is for identification purposes only. <a href="#" id="footer-disclaimer-link">See full disclaimer.</a></p>
+        <p class="footer-contact" id="footer-contact"></p>
+      </div>
+    </footer>
   </div>
 
   <!-- ============================================================
@@ -448,6 +474,109 @@
 
     </div>
   </div>
+
+  <!-- ============================================================
+       SCREEN: ABOUT (Old Down)
+  ============================================================ -->
+  <div id="screen-about" class="screen hidden">
+
+    <div class="about-header-bar">
+      <button class="btn-back" id="btn-back-about">&#8592; Back</button>
+    </div>
+
+    <!-- 1. Header banner -->
+    <div class="about-hero">
+      <img src="assets/logo-old-down.png" alt="Old Down Nature Club logo" class="about-logo"
+           onerror="this.style.display='none'">
+      <h1 id="about-title">About Old Down</h1>
+      <p class="about-hero-tagline" id="about-tagline">A field guide to Old Down, Basingstoke</p>
+    </div>
+
+    <div class="about-content">
+
+      <!-- 2. What is Old Down -->
+      <section class="about-section">
+        <h2>What is Old Down?</h2>
+        <p>Old Down is 16 hectares of open chalk grassland, planted woodland and a narrow ancient woodland mainly of beech, together with Oak, Whitebeam, Holly, Sycamore and Yew. The open grassland was used to grow arable crops until around 2000 and is now being carefully managed to restore the diverse wildflowers associated with chalk soils. There are wonderful views from the highest point — also the location of an ancient burial ground — across the neighbouring countryside.</p>
+      </section>
+
+      <!-- 3. Why it's special -->
+      <section class="about-section">
+        <h2>Why it's special</h2>
+        <div class="about-highlights">
+          <div class="highlight-item">
+            <span class="highlight-icon">🦋</span>
+            <p><strong>Priority site for the Small Blue Butterfly</strong> as identified by Butterfly Conservation — highest recorded numbers across all Hampshire sites</p>
+          </div>
+          <div class="highlight-item">
+            <span class="highlight-icon">🌸</span>
+            <p><strong>Many other butterfly species</strong> across meadow and woodland edge</p>
+          </div>
+          <div class="highlight-item">
+            <span class="highlight-icon">🌿</span>
+            <p><strong>Five species of orchid</strong> recorded on site</p>
+          </div>
+          <div class="highlight-item">
+            <span class="highlight-icon">⭐</span>
+            <p><strong>After more than 7 years of conservation work,</strong> areas of the site are of Local Nature Reserve quality</p>
+          </div>
+          <div class="highlight-item">
+            <span class="highlight-icon">🐝</span>
+            <p><strong>Managed to improve wildflower diversity,</strong> increase insect and bird species, and maintain chalk grassland habitat</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. The site today -->
+      <section class="about-section">
+        <h2>The site today</h2>
+        <p>Old Down is managed by the Old Down Group — a friendly team of volunteers dedicated to maintaining this 24-acre site of woodland and open grassland for both wildlife and local people. The site also has a children's playground. Look out for new additions coming soon including a running track, brass rubbing posts and climbing sculptures.</p>
+      </section>
+
+      <!-- 5. Get involved -->
+      <section class="about-section about-volunteer">
+        <h2>Get involved</h2>
+        <div class="volunteer-panel">
+          <p>Work parties run every Thursday 10am–12noon at Old Down, meeting at Old Down Hall. Monthly weekend work parties also run — check social media for dates.</p>
+          <p>New volunteers are always welcome. Free training is available through Basingstoke and Deane Council covering tool use, first aid and wildlife skills. No experience needed — just enthusiasm.</p>
+        </div>
+      </section>
+
+      <!-- 6. Contact -->
+      <section class="about-section">
+        <h2>Contact &amp; social media</h2>
+        <p>Email: <a href="mailto:old.down.wildlife@gmail.com" class="about-email">old.down.wildlife@gmail.com</a></p>
+        <p>Follow the Old Down Wildlife Group on Facebook for recent sightings and work party updates.</p>
+      </section>
+
+      <!-- 7. Getting there -->
+      <section class="about-section">
+        <h2>Getting there</h2>
+        <address class="about-address">
+          Old Down<br>
+          Beggarwood Road<br>
+          Basingstoke RG22 4EX
+        </address>
+        <p>Grid reference: SU59694881</p>
+        <p>Free parking on site.</p>
+        <p><a href="http://www.google.co.uk/maps/place/51.235135,-1.146248" target="_blank" rel="noopener" class="about-map-link">View on Google Maps ↗</a></p>
+      </section>
+
+      <!-- 8. Safety reminder -->
+      <section class="about-section">
+        <div class="about-safety-box">
+          <p>Do not pick, touch or eat anything based solely on this guide. Many species have dangerous lookalikes. Always wash hands after being outdoors. Remember — every plant is part of a food web. Please look, not pick.</p>
+          <a href="#" id="about-disclaimer-link">View full disclaimer</a>
+        </div>
+      </section>
+
+      <!-- 9. Credits -->
+      <section class="about-section about-credits">
+        <p>Species data compiled from field records, Natural Basingstoke, and Basingstoke &amp; Deane Borough Council conservation records. Images from Wikimedia Commons under Creative Commons licence.</p>
+      </section>
+
+    </div><!-- /about-content -->
+  </div><!-- /screen-about -->
 
   <script src="js/app.js"></script>
 </body>

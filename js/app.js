@@ -55,6 +55,12 @@
   }
   function setSpotted(obj) { localStorage.setItem('ns_spotted', JSON.stringify(obj)); }
 
+  // TODO: replace with Supabase anonymous count in Phase 2
+  function getSpottedCounts() {
+    try { return JSON.parse(localStorage.getItem('ns_spotted_counts') || '{}'); } catch { return {}; }
+  }
+  function setSpottedCounts(obj) { localStorage.setItem('ns_spotted_counts', JSON.stringify(obj)); }
+
   function getSpottedDates() {
     try { return JSON.parse(localStorage.getItem('ns_spotted_dates') || '{}'); } catch { return {}; }
   }
@@ -90,9 +96,60 @@
   }
 
   /* ============================================================
+     CONFIG
+  ============================================================ */
+  function applyConfig() {
+    const cfg = window.LOCATION_CONFIG || {};
+
+    // Browser title
+    if (cfg.metaTitle) document.title = cfg.metaTitle;
+
+    // Meta description
+    const metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc && cfg.metaDescription) metaDesc.setAttribute('content', cfg.metaDescription);
+
+    // Disclaimer screen
+    const dTitle = document.getElementById('disclaimer-title');
+    const dTagline = document.getElementById('disclaimer-tagline');
+    if (dTitle && cfg.name) dTitle.textContent = cfg.name;
+    if (dTagline && cfg.tagline) dTagline.textContent = cfg.tagline;
+
+    // Header tagline
+    const headerTagline = document.getElementById('header-tagline');
+    if (headerTagline) headerTagline.textContent = cfg.tagline || '';
+
+    // Location filter visibility
+    const locGroup = document.getElementById('filter-location-group');
+    if (locGroup) locGroup.style.display = cfg.showLocationFilter === false ? 'none' : '';
+
+    // Default location filter — pre-tick the checkbox silently
+    if (cfg.defaultLocationFilter) {
+      const cb = document.querySelector(`#filter-location input[value="${cfg.defaultLocationFilter}"]`);
+      if (cb) cb.checked = true;
+    }
+
+    // About page
+    const aboutTitle = document.getElementById('about-title');
+    const aboutTagline = document.getElementById('about-tagline');
+    if (aboutTitle && cfg.aboutTitle) aboutTitle.textContent = cfg.aboutTitle;
+    if (aboutTagline && cfg.tagline) aboutTagline.textContent = cfg.tagline;
+
+    // Footer
+    const footerText = document.getElementById('footer-text');
+    if (footerText && cfg.footerText) footerText.textContent = cfg.footerText;
+    const footerContact = document.getElementById('footer-contact');
+    if (footerContact && cfg.contactEmail) {
+      footerContact.innerHTML = `<a href="mailto:${cfg.contactEmail}">${cfg.contactEmail}</a>`;
+    }
+  }
+
+  /* ============================================================
      INIT
   ============================================================ */
   async function init() {
+    // Apply config first so all UI is correct from the start
+    applyConfig();
+
     // Load species data
     try {
       const resp = await fetch('data/species.json');
@@ -116,6 +173,8 @@
     setupAdmin();
     setupLightbox();
     setupLocations();
+    setupAbout();
+    setupFooter();
   }
 
   /* ============================================================
@@ -222,7 +281,15 @@
 
   function restoreFilters() {
     const saved = getFilters();
-    if (!saved) return;
+    const cfg = window.LOCATION_CONFIG || {};
+    if (!saved) {
+      // No saved state — apply default location filter from config
+      if (cfg.defaultLocationFilter) {
+        const cb = document.querySelector(`#filter-location input[value="${cfg.defaultLocationFilter}"]`);
+        if (cb) cb.checked = true;
+      }
+      return;
+    }
     if (saved.search) document.getElementById('filter-search').value = saved.search;
     if (saved.month) document.getElementById('filter-month').value = saved.month;
     const restore = (groupId, values) => {
@@ -231,7 +298,14 @@
       });
     };
     restore('filter-type', saved.types || []);
-    restore('filter-location', saved.locations || []);
+    // If config hides location filter, always enforce the default regardless of session state
+    if (cfg.showLocationFilter === false && cfg.defaultLocationFilter) {
+      const cb = document.querySelector(`#filter-location input[value="${cfg.defaultLocationFilter}"]`);
+      document.querySelectorAll('#filter-location input').forEach(c => c.checked = false);
+      if (cb) cb.checked = true;
+    } else {
+      restore('filter-location', saved.locations || []);
+    }
     restore('filter-native', saved.natives || []);
     restore('filter-colour', saved.colours || []);
     restore('filter-confidence', saved.confidences || []);
@@ -407,11 +481,22 @@
     const primaryPhoto = s.photos && s.photos[0];
     const placeholder = SPECIES_PLACEHOLDERS[s.type] || SPECIES_PLACEHOLDERS.default;
 
-    const dangerBadge = s.danger_level !== 'low'
-      ? `<span class="badge badge-danger-${s.danger_level}">${s.danger_level === 'dangerous' ? '⚠ Dangerous' : '⚠ Caution'}</span>`
+    const dangerBadge = s.danger_level && s.danger_level !== 'none'
+      ? `<span class="badge badge-danger-${s.danger_level}">${(s.danger_level === 'high' || s.danger_level === 'dangerous') ? '⚠ Dangerous' : '⚠ Caution'}</span>`
+      : '';
+
+    const cfg = window.LOCATION_CONFIG || {};
+    const featuredBadge = s.featured
+      ? `<span class="badge badge-featured">⭐ ${cfg.shortName || 'Old Down'} speciality</span>`
       : '';
 
     const isSpotted = spotted[s.id];
+    // TODO: replace with Supabase anonymous count in Phase 2
+    const counts = getSpottedCounts();
+    const spottedCount = counts[s.id] || 0;
+    const countText = spottedCount > 0
+      ? `You've spotted this ${spottedCount} time${spottedCount === 1 ? '' : 's'}`
+      : '';
 
     card.innerHTML = `
       <div class="card-img-wrap">
@@ -428,6 +513,7 @@
           <span class="badge badge-type">${TYPE_LABELS[s.type] || s.type}</span>
           <span class="badge badge-${s.native_status}">${s.native_status.charAt(0).toUpperCase()+s.native_status.slice(1)}</span>
           ${dangerBadge}
+          ${featuredBadge}
         </div>
       </div>
       <div class="card-footer">
@@ -435,6 +521,7 @@
           <span class="custom-checkbox ${isSpotted ? 'checked' : ''}"></span>
           <span>${isSpotted ? 'Spotted ✓' : 'Spotted?'}</span>
         </button>
+        <span class="spotted-count-text" data-count-id="${s.id}">${countText}</span>
       </div>
     `;
 
@@ -459,17 +546,23 @@
   function toggleSpotted(id, btn) {
     const spotted = getSpotted();
     const dates = getSpottedDates();
-    const now = spotted[id];
-    if (now) {
+    const wasSpotted = spotted[id];
+
+    if (wasSpotted) {
       delete spotted[id];
       delete dates[id];
     } else {
       spotted[id] = true;
       dates[id] = new Date().toISOString().split('T')[0];
+      // Increment persistent count — TODO: replace with Supabase anonymous count in Phase 2
+      const counts = getSpottedCounts();
+      counts[id] = (counts[id] || 0) + 1;
+      setSpottedCounts(counts);
     }
     setSpotted(spotted);
     setSpottedDates(dates);
 
+    // Update spotted button
     const checkbox = btn.querySelector('.custom-checkbox');
     const label = btn.querySelector('span:last-child');
     if (spotted[id]) {
@@ -481,6 +574,18 @@
       btn.classList.remove('spotted');
       label.textContent = 'Spotted?';
     }
+
+    // Update all count display elements for this species
+    const counts = getSpottedCounts();
+    const n = counts[id] || 0;
+    const countStr = n > 0 ? `You've spotted this ${n} time${n === 1 ? '' : 's'}` : '';
+    document.querySelectorAll(`.spotted-count-text[data-count-id="${id}"]`).forEach(el => {
+      el.textContent = countStr;
+    });
+
+    // Also update detail view count if shown
+    const detailCountEl = document.getElementById('detail-spotted-count');
+    if (detailCountEl) detailCountEl.textContent = countStr;
   }
 
   /* ============================================================
@@ -499,6 +604,12 @@
 
     const spotted = getSpotted();
     const isSpotted = spotted[s.id];
+    // TODO: replace with Supabase anonymous count in Phase 2
+    const counts = getSpottedCounts();
+    const spottedCount = counts[s.id] || 0;
+    const detailCountStr = spottedCount > 0
+      ? `You've spotted this ${spottedCount} time${spottedCount === 1 ? '' : 's'}`
+      : '';
 
     // Build danger banner HTML
     let dangerBannerHtml = '';
@@ -622,6 +733,7 @@
           <span class="custom-checkbox ${isSpotted ? 'checked' : ''}"></span>
           <span>${isSpotted ? 'Spotted ✓' : 'Mark as spotted'}</span>
         </button>
+        <div id="detail-spotted-count" class="spotted-count-text" data-count-id="${s.id}" style="margin-top:4px">${detailCountStr}</div>
       </div>
 
       <div class="detail-section">
@@ -834,6 +946,50 @@
   function closeLightbox() {
     document.getElementById('lightbox').classList.add('hidden');
     document.body.style.overflow = '';
+  }
+
+  /* ============================================================
+     ABOUT PAGE
+  ============================================================ */
+  function setupAbout() {
+    // Header 'About' button
+    const openBtn = document.getElementById('btn-open-about');
+    if (openBtn) {
+      openBtn.addEventListener('click', () => {
+        previousScreen = 'browse';
+        showScreen('about');
+      });
+    }
+    // Back button
+    const backBtn = document.getElementById('btn-back-about');
+    if (backBtn) {
+      backBtn.addEventListener('click', () => showScreen('browse'));
+    }
+    // Disclaimer link at bottom of about page
+    const disclaimerLink = document.getElementById('about-disclaimer-link');
+    if (disclaimerLink) {
+      disclaimerLink.addEventListener('click', e => {
+        e.preventDefault();
+        showScreen('disclaimer');
+      });
+    }
+  }
+
+  /* ============================================================
+     FOOTER
+  ============================================================ */
+  function setupFooter() {
+    // Footer nav links
+    const footerBrowse = document.getElementById('footer-browse');
+    if (footerBrowse) footerBrowse.addEventListener('click', e => { e.preventDefault(); showScreen('browse'); });
+    const footerAbout = document.getElementById('footer-about');
+    if (footerAbout) footerAbout.addEventListener('click', e => { e.preventDefault(); showScreen('about'); });
+    const footerSafety = document.getElementById('footer-safety');
+    if (footerSafety) footerSafety.addEventListener('click', e => { e.preventDefault(); showScreen('disclaimer'); });
+    const footerSubmit = document.getElementById('footer-submit');
+    if (footerSubmit) footerSubmit.addEventListener('click', e => { e.preventDefault(); previousScreen = 'browse'; showScreen('submit'); });
+    const footerDisclaimer = document.getElementById('footer-disclaimer-link');
+    if (footerDisclaimer) footerDisclaimer.addEventListener('click', e => { e.preventDefault(); showScreen('disclaimer'); });
   }
 
   /* ============================================================
