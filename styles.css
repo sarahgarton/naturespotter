@@ -1548,6 +1548,14 @@ button { cursor: pointer; font-family: var(--font-body); }
   font-family: var(--font-body);
 }
 .location-link:hover { text-decoration: underline; }
+
+.location-address {
+  font-size: 13px;
+  color: var(--text-light);
+  font-style: normal;
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
 .volunteer-sessions {
   list-style: none;
   padding: 0;
