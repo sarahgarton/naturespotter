@@ -993,8 +993,6 @@
     // Footer nav links
     const footerBrowse = document.getElementById('footer-browse');
     if (footerBrowse) footerBrowse.addEventListener('click', e => { e.preventDefault(); showScreen('browse'); });
-    const footerAbout = document.getElementById('footer-about');
-    if (footerAbout) footerAbout.addEventListener('click', e => { e.preventDefault(); showScreen('about'); });
     const footerSafety = document.getElementById('footer-safety');
     if (footerSafety) footerSafety.addEventListener('click', e => { e.preventDefault(); showScreen('disclaimer'); });
     const footerSubmit = document.getElementById('footer-submit');
