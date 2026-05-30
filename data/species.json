@@ -2435,7 +2435,14 @@
           7
         ],
         "description": "Young Skylarks fledge at just 9–10 days old — before they can fly well — and are then fed on the ground for a further 2–3 weeks by both parents. During this period, the chicks are entirely dependent on insects: grasshoppers, beetles, flies, and caterpillars from dense grassland vegetation. The availability of insect-rich grassland margins is absolutely critical for chick survival — their loss to intensive farming is the primary cause of the Skylark's decline.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juvenile_Skylark_-_geograph.org.uk_-_4565571.jpg",
+            "caption": "Juvenile Skylark — scaly-looking buff-brown plumage, no song yet",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       },
       {
         "stage_name": "Post-breeding",
@@ -2521,6 +2528,12 @@
         "life_stage": "Post-breeding",
         "month_taken": 9,
         "caption": "Skylark, UK grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juvenile_Skylark_-_geograph.org.uk_-_4565571.jpg",
+        "caption": "Juvenile Skylark — scaly-looking buff-brown plumage, no song yet",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -3662,7 +3675,14 @@
           10
         ],
         "description": "Young Kestrels leave the nest in June–July and look similar to adult females — brown with barring. They are often seen in late summer practising hovering, sometimes less smoothly than adults. The family group may remain loosely together for several weeks after fledging.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kestrel_Juveniles_%287399601056%29.jpg",
+            "caption": "Juvenile Kestrels — streakier than adults, less rust-red. Fully grown but still learning to hunt.",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -3690,6 +3710,12 @@
         "life_stage": "Adult male",
         "month_taken": 3,
         "caption": "Male Kestrel perched, showing blue-grey head and chestnut back"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kestrel_Juveniles_%287399601056%29.jpg",
+        "caption": "Juvenile Kestrels — streakier than adults, less rust-red. Fully grown but still learning to hunt.",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -3815,7 +3841,14 @@
           9
         ],
         "description": "Young Robins fledge in May–June and look completely different from adults. They are warm brown all over with pale buff spots on the breast and back — no orange-red at all. The spots are gradually replaced by adult plumage through a moult in late summer. Many people mistake juvenile Robins for a different species entirely.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Juvenile_European_Robin_Smaithwaite_Banks_Lake_District_2025_01.jpg",
+            "caption": "Juvenile Robin — no red breast, spotted brown plumage for camouflage",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -3843,6 +3876,18 @@
         "life_stage": "Adult",
         "month_taken": 3,
         "caption": "Robin in characteristic alert pose"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Juvenile_European_Robin_Smaithwaite_Banks_Lake_District_2025_01.jpg",
+        "caption": "Juvenile Robin — no red breast, spotted brown plumage for camouflage",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/European_robin_singing.jpg",
+        "caption": "Robin singing — one of Britain's most recognised bird songs",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -3960,7 +4005,20 @@
           8
         ],
         "description": "Eggs are laid in April–May in a nest box or tree hole. Chicks hatch after two weeks and fledge at about three weeks. Juveniles have yellow-green on the face and breast (replacing the white cheeks) and duller blue. They are often seen in family groups in July, noisily following parents through hedgerows.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Blue_tit_%28Cyanistes_caeruleus%29_juvenile.jpg",
+            "caption": "Juvenile Blue Tit — yellow-green where the adult is blue, streaky head",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/073_Wild_Eurasian_blue_tit_parent_feeding_at_Pfyn-Finges_Photo_by_Giles_Laurent.jpg",
+            "caption": "Blue Tit parent feeding chicks at the nest hole",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -3980,6 +4038,18 @@
         "life_stage": "Adult",
         "month_taken": 3,
         "caption": "Blue Tit — one of Britain's most colourful small birds"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Blue_tit_%28Cyanistes_caeruleus%29_juvenile.jpg",
+        "caption": "Juvenile Blue Tit — yellow-green where the adult is blue, streaky head",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/073_Wild_Eurasian_blue_tit_parent_feeding_at_Pfyn-Finges_Photo_by_Giles_Laurent.jpg",
+        "caption": "Blue Tit parent feeding chicks at the nest hole",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -4105,7 +4175,20 @@
           9
         ],
         "description": "Young Woodpigeons lack the white neck patches entirely and are slightly duller brown-grey overall. They are often seen in summer following adults and begging for food. The white neck patches develop gradually through the first autumn.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/A_fledgling_wood_pigeon_%28Columba_palumbus%29_-_geograph.org.uk_-_7365953.jpg",
+            "caption": "Fledgling Woodpigeon — no white neck patch yet, scruffier plumage",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Houtduif_jong_%28Columba_palumbus_young_bird%29.jpg",
+            "caption": "Young Woodpigeon — juvenile plumage before the white neck patch develops",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -4125,6 +4208,24 @@
         "life_stage": "Adult",
         "month_taken": 5,
         "caption": "Woodpigeon — the largest and most common UK pigeon"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Woodpigeon_%28Columba_palumbus%29_-_geograph.org.uk_-_5818521.jpg",
+        "caption": "Woodpigeon — the large white neck patch and pink breast are the best ID features",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Wood_Pigeon_%28Columba_palumbus%29_-_geograph.org.uk_-_7124840.jpg",
+        "caption": "Woodpigeon perched — note the iridescent green and purple neck sheen",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/A_fledgling_wood_pigeon_%28Columba_palumbus%29_-_geograph.org.uk_-_7365953.jpg",
+        "caption": "Fledgling Woodpigeon — no white neck patch yet, scruffier plumage",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -8774,7 +8875,14 @@
           7
         ],
         "description": "Cubs are born underground in March–April, dark brown-grey at birth, gaining the orange-red adult coat over a few weeks. They begin to play outside the earth by May, and are among the most entertaining wildlife to watch on a spring evening.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fox_Cub_in_the_Rough_-_geograph.org.uk_-_2713543.jpg",
+            "caption": "Fox cub exploring outside the earth — cubs appear above ground from May onwards",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       },
       {
         "stage_name": "Adult",
@@ -8820,6 +8928,12 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Red_Fox_%28Vulpes_vulpes%29%2C_Struy_-_geograph.org.uk_-_2751042.jpg",
         "caption": "Red Fox in grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fox_Cub_in_the_Rough_-_geograph.org.uk_-_2713543.jpg",
+        "caption": "Fox cub exploring outside the earth — cubs appear above ground from May onwards",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -9716,7 +9830,26 @@
           12
         ],
         "description": "Badger footprints are wide (4–5cm), kidney-shaped, with 5 toes and very long (1–2cm) straight claw marks. Look in soft mud near the sett. Badgers use regular paths through vegetation — these run in straight lines and are wider and more definite than rabbit runs.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Badger_footprint_-_geograph.org.uk_-_5051736.jpg",
+            "caption": "Badger footprint — wide, kidney-shaped with 5 toes and long curved claw marks",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Badger_footprint_-_geograph.org.uk_-_4748651.jpg",
+            "caption": "Badger footprint — note the long straight claw impressions, very different from fox",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Badger_footprint_in_snow_-_geograph.org.uk_-_2804639.jpg",
+            "caption": "Badger footprint in snow — clear 5-toed print with long claw marks",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       }
     ],
     "similar_species": [],
@@ -9730,6 +9863,24 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Entrance_to_Badger_sett_2.jpg",
         "caption": "Badger sett",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Badger_footprint_-_geograph.org.uk_-_5051736.jpg",
+        "caption": "Badger footprint — wide, kidney-shaped with 5 toes and long curved claw marks",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Badger_footprint_-_geograph.org.uk_-_4748651.jpg",
+        "caption": "Badger footprint — note the long straight claw impressions, very different from fox",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Badger_footprint_in_snow_-_geograph.org.uk_-_2804639.jpg",
+        "caption": "Badger footprint in snow — clear 5-toed print with long claw marks",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -9812,7 +9963,14 @@
           6
         ],
         "description": "Fluffy white owlets hatch in April from eggs laid in a tree hole or nest box. They are fed by both parents and begin to leave the nest (branch) before they can fly — these 'branchers' are sometimes found on the ground. If you find a young owl on the ground, leave it alone unless it is in immediate danger: the parents are almost certainly nearby.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Owl_pellet_%2851652574469%29.jpg",
+            "caption": "Owl pellet — the compacted fur and bones coughed up after a meal. Dissect one and find the skull and bones of a wood mouse or vole.",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       },
       {
         "stage_name": "Adult",
@@ -9837,6 +9995,18 @@
             "caption": "Tawny Owl roosting — the streaked brown plumage is perfect camouflage against bark",
             "credit": "Wikimedia Commons",
             "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Waldkauz-Strix_aluco.jpg",
+            "caption": "Tawny Owl — the round head with no ear-tufts is distinctive",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tawny_Owl_%28Strix_aluco%29%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles_%2823814972790%29.jpg",
+            "caption": "Tawny Owl roosting — cryptic brown plumage blends perfectly with bark",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
           }
         ]
       }
@@ -9846,6 +10016,24 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tawny_Owl_perched_on_a_tree.jpg",
         "caption": "Tawny Owl perched — looks like part of the tree",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Waldkauz-Strix_aluco.jpg",
+        "caption": "Tawny Owl — the round head with no ear-tufts is distinctive",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tawny_Owl_%28Strix_aluco%29%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles_%2823814972790%29.jpg",
+        "caption": "Tawny Owl roosting — cryptic brown plumage blends perfectly with bark",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Owl_pellet_%2851652574469%29.jpg",
+        "caption": "Owl pellet — the compacted fur and bones coughed up after a meal. Dissect one and find the skull and bones of a wood mouse or vole.",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -10938,6 +11126,18 @@
             "caption": "Hazel Dormouse — golden-orange with huge dark eyes and a fluffy tail",
             "credit": "Wikimedia Commons",
             "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscardinus_avellanarius_-_Hazel_Dormouse_-_Haselmaus_%287615322874%29.jpg",
+            "caption": "Hazel Dormouse — golden-orange with enormous dark eyes and fluffy tail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Muscardinus_avellanarius_230222180.jpg",
+            "caption": "Hazel Dormouse — note the rounded ears and thick fluffy tail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
           }
         ]
       }
@@ -10947,6 +11147,18 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Muscardinus_avellanarius.jpg",
         "caption": "Hazel Dormouse",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muscardinus_avellanarius_-_Hazel_Dormouse_-_Haselmaus_%287615322874%29.jpg",
+        "caption": "Hazel Dormouse — golden-orange with enormous dark eyes and fluffy tail",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Muscardinus_avellanarius_230222180.jpg",
+        "caption": "Hazel Dormouse — note the rounded ears and thick fluffy tail",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -11025,7 +11237,14 @@
           8
         ],
         "description": "Females gather in maternity roosts (often in roof spaces) in June–July to give birth. Each mother has a single pup. Pups are born naked and helpless, gaining fur within two weeks. They start flying at about three weeks. Maternity colonies can number hundreds of bats.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pipistrellus_pipistrellus_baby.jpg",
+            "caption": "Pipistrelle pup — born blind and helpless, gaining fur within two weeks",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
       },
       {
         "stage_name": "Adult foraging",
@@ -11045,6 +11264,12 @@
             "caption": "Common Pipistrelle — Britain's smallest and most common bat",
             "credit": "Wikimedia Commons",
             "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Zwergfledermaus_Naturschutzgebiet_Frankfurter_Gr%C3%BCng%C3%BCrtel.jpg",
+            "caption": "Common Pipistrelle in flight — fast, jerky, twisting wing beats",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
           }
         ]
       }
@@ -11054,6 +11279,24 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pipistrellus_pipistrellus.jpg",
         "caption": "Common Pipistrelle bat",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pipistrellus_pipistrellus_lateral.jpg",
+        "caption": "Common Pipistrelle in hand — about 3–8g, the size of a two-pence coin",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Zwergfledermaus_Naturschutzgebiet_Frankfurter_Gr%C3%BCng%C3%BCrtel.jpg",
+        "caption": "Common Pipistrelle in flight — fast, jerky, twisting wing beats",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pipistrellus_pipistrellus_baby.jpg",
+        "caption": "Pipistrelle pup — born blind and helpless, gaining fur within two weeks",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
