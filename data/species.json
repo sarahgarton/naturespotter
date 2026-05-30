@@ -7196,5 +7196,3018 @@
     ],
     "verified": true,
     "date_added": "2026-05-29"
+  },
+  {
+    "id": "beech",
+    "common_names": [
+      "Beech",
+      "European Beech",
+      "Common Beech"
+    ],
+    "latin_name": "Fagus sylvatica",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Smooth, silver-grey bark is distinctive — like an elephant's leg. Oval leaves with slightly wavy edges and silky hairs when young. Triangular nuts in prickly cases (beech mast).",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "chalk-woodland",
+      "beech-woodland"
+    ],
+    "summary": "The most graceful of British trees — smooth silver-grey bark, a soaring straight trunk, and a canopy that turns copper-gold in autumn. Beech woodland at Old Down is one of the most magical habitats on the site.",
+    "full_description": "Beech is a tree of superlatives. Its bark is the smoothest and most silver-grey of any British tree — people can't resist touching it, and unfortunately can't resist carving initials into it either, which is why so many old beeches carry old love-carvings that stretch and distort as the tree grows. The canopy is dense and domed, and the leaves emerge in spring as the most delicate, translucent pale green — then turn deep glossy green in summer, and finally copper, orange, and gold in autumn. Old beech trees in autumn are one of the best sights in the British countryside.\n\nBeech casts such dense shade that almost nothing grows beneath it — the woodland floor is often bare brown leaf litter. This is sometimes called a 'beech desert,' though it is not truly dead: fallen leaves rot slowly and the deep leaf layer provides habitat for fungi, invertebrates, and small mammals. In autumn, beech produces triangular nuts called mast, held in spiky four-lobed husks. In a mast year (heavy seed production, which happens every few years), the woodland floor can be carpeted with them. Wood mice, Grey Squirrels, Chaffinches, and even Badgers gorge on them.\n\nThe smooth bark is a favourite surface for Nuthatch and Treecreeper to search for insects. Look for the distinctive screw-shaped holes where woodpeckers have been working, and feel the bark for the tiny channels and bumps where fungi are fruiting. Beech is native to southeast England and parts of Wales but was widely planted across Britain in the 18th and 19th centuries.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Probably native to SE England and parts of Wales; widely planted elsewhere. A dominant tree of chalk and limestone woodland in southern England.",
+    "wildlife_value": "Beech mast is a vital high-calorie food for squirrels, mice, voles, pigeons, and Chaffinches in autumn and winter. The dense leaf litter supports a rich fungal community, including mycorrhizal fungi that live on beech roots. Smooth bark is searched by Nuthatch and Treecreeper for invertebrates. Old beech trees develop cavities used by bats and hole-nesting birds.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "grey-squirrel",
+      "wood-mouse",
+      "chaffinch",
+      "jay",
+      "badger"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green"
+    ],
+    "colour_leaf": [
+      "green",
+      "copper",
+      "gold",
+      "orange"
+    ],
+    "colour_berry_fruit": [
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "silver"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Bud Burst",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "In April–May, beech buds are the most elegant of any tree — long, pointed, and copper-brown, like tiny cigars. As they burst, the new leaves emerge pale green and translucent, edged with silky white hairs. Look up through a newly leafed-out beech canopy against a blue sky for one of the great sights of spring.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blad_van_beuk_%28Fagus_sylvatica%29_01.JPG",
+            "caption": "Beech leaves in spring — translucent pale green with silky edges",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Mature Tree",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "By summer the leaves are deep glossy green and the canopy is dense. The smooth silver-grey bark and tall, straight trunk are the best ID features at any time of year.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Beech_near_Thorns_Cross_-_geograph.org.uk_-_748872.jpg",
+            "caption": "Mature beech tree with characteristic smooth grey trunk",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FagusSylvaticaBark.jpg",
+            "caption": "Beech bark — smooth and silver-grey, like elephant skin",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Beech Mast",
+        "months_typical": [
+          9,
+          10
+        ],
+        "description": "In autumn the canopy turns copper and gold, and the tree drops beech mast — small triangular brown nuts inside spiky four-lobed husks. In a mast year, the forest floor is carpeted with them. Grey Squirrels, Chaffinches, and mice all exploit this seasonal feast.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Old_Beech_Tree%2C_Epping_Forest_-_geograph.org.uk_-_892706.jpg",
+            "caption": "Old Beech in Epping Forest — a classic mature beech",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Beech_near_Thorns_Cross_-_geograph.org.uk_-_748872.jpg",
+        "caption": "Beech tree",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FagusSylvaticaBark.jpg",
+        "caption": "Beech bark — smooth silver-grey",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blad_van_beuk_%28Fagus_sylvatica%29_01.JPG",
+        "caption": "Beech leaves in spring",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "english-oak",
+    "common_names": [
+      "English Oak",
+      "Pedunculate Oak",
+      "Common Oak"
+    ],
+    "latin_name": "Quercus robur",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Deeply lobed leaves with tiny ear-lobes (auricles) at the base. Acorns on long stalks (2–8cm) — this is the key feature that separates it from Sessile Oak, where acorns are stalkless.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "hedgerow",
+      "chalk-woodland",
+      "ancient-woodland"
+    ],
+    "summary": "Britain's most famous tree — the English Oak supports more wildlife than any other native tree, with over 500 species of insects alone. Look out for oak galls: strange alien-looking growths made by tiny wasps.",
+    "full_description": "The English Oak may be Britain's most iconic tree. It can live for over a thousand years, its ancient specimens providing shelter and food for an extraordinary community of creatures. Oak supports more species of insects — around 500 — than any other native British tree, and through these insects it supports bats, birds, and small mammals in a cascading web of life. An oak is not just a tree; it is a habitat.\n\nThe leaves are deeply lobed with distinctive ear-shaped lobes (auricles) at the base where the leaf stalk meets the blade. Acorns appear in September–October and are held on long, thin stalks — this is how to tell English Oak from the similar Sessile Oak, whose acorns sit directly on the twig without a stalk. The bark of young oaks is smooth and greyish, becoming deeply furrowed and ridged on old trees.\n\nOak galls are extraordinary structures created when tiny gall wasps lay their eggs in the tree's tissue. The tree responds by growing a protective swelling around the egg. The most dramatic is the oak apple (a spongy green/brown ball, 2–3cm across) and the marble gall (a hard, round, pea-sized growth caused by Andricus kollari). Each gall species is made by a different wasp species, and each is a tiny world of its own.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England, Wales, and parts of Scotland. One of the commonest British trees. The dominant tree of lowland oak woodland.",
+    "wildlife_value": "Supports around 500 species of insects, including many specialist oak-feeders. The caterpillars of moths that feed on oak leaves are the primary food source for Blue Tit and Great Tit chicks in spring. Acorns are a critical food for Jays (who cache thousands per year, effectively planting oaks), squirrels, Wood Pigeons, deer, and mice. Oak galls are home to dozens of specialist gall wasps and their parasitoids. Old oaks with cavities provide roost sites for bats and nest holes for owls and woodpeckers.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "jay",
+      "grey-squirrel",
+      "woodpigeon",
+      "roe-deer",
+      "wood-mouse",
+      "blue-tit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "colour_berry_fruit": [
+      "brown",
+      "green"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Spring Catkins & New Leaves",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "In April–May, oak produces both new leaves and long drooping catkins (male flowers) at the same time. The new leaves are pale, reddish-bronze. Look for the round female flowers — tiny, on separate stalks — that will become acorns.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Quercus_robur_3_RF.jpg",
+            "caption": "English Oak leaves and structure",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Oak Galls",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "From late spring through autumn, look for oak galls — strange swellings on leaves, twigs, and buds. Each is made by a different species of tiny gall wasp. Marble galls (round, hard, 1–2cm) are the most common; oak apples (spongy, 2–4cm) appear in early summer. They are completely harmless — just extraordinary miniature worlds.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Oak_marble_galls_-_geograph.org.uk_-_928357.jpg",
+            "caption": "Oak marble galls — each one contains the larva of a gall wasp",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Acorns",
+        "months_typical": [
+          9,
+          10,
+          11
+        ],
+        "description": "Acorns ripen from green to brown in September–October. English Oak acorns are held on long stalks (2–8cm) — this is the most reliable way to tell it from Sessile Oak. A productive oak drops thousands of acorns, most of which are eaten by squirrels, Jays, and mice.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Quercus_robur_acorns_in_Tuntorp_1.jpg",
+            "caption": "English Oak acorns on long stalks — the key ID feature",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Quercus_robur_3_RF.jpg",
+        "caption": "English Oak",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Quercus_robur_acorns_in_Tuntorp_1.jpg",
+        "caption": "English Oak acorns on stalks",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Oak_marble_galls_-_geograph.org.uk_-_928357.jpg",
+        "caption": "Oak marble galls",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "hazel",
+    "common_names": [
+      "Hazel",
+      "Common Hazel"
+    ],
+    "latin_name": "Corylus avellana",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Golden-yellow catkins ('lamb's tails') dangling from bare twigs in January–March are unmistakeable. In summer: round, slightly heart-shaped leaves with a pointed tip and toothed edge. Hazelnuts in a leafy husk in autumn.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub",
+      "ancient-woodland"
+    ],
+    "summary": "One of the first signs of spring — Hazel catkins dangle from bare branches in January, sometimes while there's still snow on the ground. In autumn the shrub produces hazelnuts that squirrels and dormice can't resist.",
+    "full_description": "Hazel is one of Britain's most familiar hedgerow and woodland-edge shrubs. It grows as a multi-stemmed bush rather than a single-trunked tree, and its most dramatic moment comes in the depths of winter: from January to March, long golden-yellow catkins dangle from every bare twig, releasing clouds of yellow pollen on warm days. These are the male flowers. Look carefully at the same time and you'll find the tiny female flowers — just a small swelling at a bud tip with red thread-like styles poking out, like a tiny crimson anemone.\n\nHazel has been managed by coppicing for thousands of years — cut it back to the ground and it regrows as multiple straight poles. Coppiced hazel was used for fencing, charcoal, hurdle-making, and basket weaving. This traditional practice created woodland edge habitat with the perfect mix of light and shade for dormice, woodland butterflies, and wildflowers.\n\nThe nuts ripen in September–October inside a leafy husk. Hazel Dormice (a Red List species and Old Down speciality) specifically need hazelnuts — they double their body weight eating them before hibernation. Grey Squirrels take nuts early (while still green); dormice wait for them to ripen. If you find a hazelnut shell with a neat round hole with smooth edges on the side, a dormouse made it. A rougher, more ragged hole is a mouse or squirrel.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. A common hedgerow and woodland-edge shrub. An ancient woodland indicator species.",
+    "wildlife_value": "The nuts are a critical autumn food for Hazel Dormouse, Grey Squirrel, Wood Mouse, Nuthatch, and Jay. The catkin pollen is one of the earliest pollen sources for queen bumblebees emerging from hibernation. The multi-stemmed coppice structure provides nesting habitat for warblers and tits. Hazel Dormice are so dependent on hazel that their presence is almost always associated with it.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee"
+    ],
+    "food_source_for": [
+      "hazel-dormouse",
+      "grey-squirrel",
+      "wood-mouse",
+      "nuthatch",
+      "jay"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green",
+      "yellow"
+    ],
+    "colour_berry_fruit": [
+      "brown",
+      "green"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Catkins",
+        "months_typical": [
+          1,
+          2,
+          3
+        ],
+        "description": "Long, dangling golden catkins appear on bare branches from January — often the first sign that spring is on its way, even when it's cold. Shake a branch gently and a cloud of yellow pollen will drift off. Look closely at other buds for the tiny red female flowers.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Corylus_avellana_0007.JPG",
+            "caption": "Hazel catkins — golden 'lamb's tails' on bare winter twigs",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Leaves",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Round, slightly heart-shaped leaves with a pointed tip and toothed edge emerge in April. The surface is slightly rough and hairy. The bark of young stems is grey-brown with small pale lenticels.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Corylus_avellana_0001.JPG",
+            "caption": "Hazel leaves",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Hazelnuts",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "Hazelnuts ripen from green to brown September–October, each sitting in a distinctive leafy, fringed husk. Look for gnawed shells to identify which animal has been eating them — a neat round hole with smooth inner edges = dormouse; rougher hole = mouse; completely split or crushed = squirrel.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hazelnuts_%28Corylus_avellana%29.jpg",
+            "caption": "Hazelnuts ripening in their leafy husks",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hazelnuts_%28Corylus_avellana%29_-_whole_with_kernels.jpg",
+            "caption": "Hazelnuts — whole and cracked open to show the kernel",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Corylus_avellana_0007.JPG",
+        "caption": "Hazel catkins in winter",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hazelnuts_%28Corylus_avellana%29.jpg",
+        "caption": "Hazelnuts in their husks",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hazelnuts_%28Corylus_avellana%29_-_whole_with_kernels.jpg",
+        "caption": "Hazelnuts whole and cracked",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "elder",
+    "common_names": [
+      "Elder",
+      "Elderberry",
+      "Black Elder"
+    ],
+    "latin_name": "Sambucus nigra",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Compound leaves with 5–7 pairs of toothed leaflets. Flat-topped cream flower clusters (corymbs) in May–June. Black elderberries in September. Crush a leaf and it has a distinctive unpleasant smell. Pithy hollow stems.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "disturbed-ground"
+    ],
+    "summary": "The hedgerow's medicine cabinet and free larder — clusters of cream flowers for elderflower cordial in June, then drooping bunches of black berries for elderberry wine in September. A shrub with something for everyone.",
+    "full_description": "Elder is one of Britain's most distinctive hedgerow shrubs, and one of the most useful to both wildlife and people. In late May and June, it is smothered in flat-topped clusters of tiny cream flowers with a heady, sweet, slightly musty scent — elderflower cordial made from these is a genuine summer delicacy. By September, those flowers have become drooping clusters of small, shiny black berries (elderberries) — beloved of Blackbird, Robin, Starling, and countless other birds, and the basis of elderberry wine, jam, and cordial.\n\nElder grows fast on disturbed, nitrogen-rich soils — it loves old badger setts, rabbit warrens, and road verges. The bark is corky and rough, with a distinctive warty texture. The hollow pithy stems were used by country children for centuries to make peashooters and simple musical instruments. The leaves have a very distinctive unpleasant smell when crushed — this immediately distinguishes elder from other compound-leaved shrubs. The leaves, bark, and raw berries contain compounds that cause nausea if eaten in quantity; the cooked berries are safe and delicious.\n\nDespite its modest size, elder is one of the most wildlife-rich shrubs in the hedgerow. The flowers attract over 50 species of insects; the berries are eaten by at least 30 species of bird; and the pithy stems are hollowed out by small solitary bees for nesting.",
+    "danger_level": "low",
+    "danger_note": "Raw elderberries, leaves, and bark can cause nausea and vomiting if eaten in quantity. Cooked berries are safe and widely used. Do not eat any part of this plant raw.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout the UK. Very common in hedgerows, woodland edges, and disturbed ground. Fast-growing and opportunistic.",
+    "wildlife_value": "The flowers attract over 50 insect species including hoverflies, bees, and butterflies. The berries are eaten by Blackbird, Robin, Starling, Blackcap, and many other birds in autumn — a crucial high-energy food source for migrant and resident birds alike. Hollow stems are used by some solitary bees for nesting. The dense growth provides cover for nesting birds and small mammals.",
+    "pollinators_supported": [
+      "hoverfly",
+      "solitary-bee",
+      "honey-bee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "robin",
+      "starling",
+      "blackcap"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "cream",
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "black",
+      "purple"
+    ],
+    "colour_bark_stem": [
+      "grey",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6
+        ],
+        "description": "Large, flat-topped clusters of tiny cream flowers cover the shrub in May–June. The sweet, heady scent is one of the characteristic smells of early summer. Each flat head (corymb) can be 10–20cm across.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Elder_flower_%28Sambucus_nigra%29%2C_Bishopstone_-_geograph.org.uk_-_1360308.jpg",
+            "caption": "Elder flowers — flat cream corymbs with a heady summer scent",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Elder_flowers%2C_Sambucus_nigra_-_geograph.org.uk_-_5006459.jpg",
+            "caption": "Elder flowers close-up",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Elderberries",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "By August–September, the flower clusters have become heavy drooping bunches of small, shiny black berries. The ripe berries stain fingers purple. Birds strip them rapidly — a loaded elder bush may be stripped within a day or two in autumn.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/00_3775_Schwarzer_Hollunder_%28Sambucus_nigra%29.jpg",
+            "caption": "Elderberries — black, drooping clusters in autumn",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Elder_flower_%28Sambucus_nigra%29%2C_Bishopstone_-_geograph.org.uk_-_1360308.jpg",
+        "caption": "Elder flowers",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/00_3775_Schwarzer_Hollunder_%28Sambucus_nigra%29.jpg",
+        "caption": "Elderberries in autumn",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "dog-rose",
+    "common_names": [
+      "Dog Rose",
+      "Wild Rose"
+    ],
+    "latin_name": "Rosa canina",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large (3–5cm) pale pink or white five-petalled flowers in June–July. Arching thorny stems. Oval, toothed leaflets in groups of 5–7. Distinctive oval red rose hips in autumn.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      6,
+      7,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "chalk-grassland"
+    ],
+    "summary": "Britain's classic wild rose — delicate pink five-petalled flowers in midsummer, then brilliant red oval hips in autumn that are packed with vitamin C. The thorny arching stems make the best impenetrable hedgerows.",
+    "full_description": "The Dog Rose is the most familiar wild rose in Britain and one of the most beautiful hedgerow plants. In June and July, the long arching stems are studded with large, delicate flowers — typically pale pink fading to almost white, with five broad petals and a central boss of golden stamens, and a faint sweet scent. The plant scrambles up through hedgerow shrubs using its curved thorns as grappling hooks, sometimes reaching 3–5 metres.\n\nThe flowers last only a few days each, but a hedgerow of Dog Rose in full flower in late June is genuinely beautiful. By September the petals have long gone and the plant is dotted instead with bright red oval hips — the fruit, containing the seeds. Rose hips are famous for their vitamin C content (higher than most citrus fruits) and were widely gathered during WWII when citrus fruit was unavailable. They are an important winter food for birds, especially Blackbird, Song Thrush, Redwing, and Fieldfare, which swallow them whole and spread the seeds in their droppings.\n\nThe old name 'Dog Rose' is ancient: it may come from the belief that the root could cure a bite from a mad dog, or simply from 'dag' meaning a dagger, referring to the thorns.",
+    "danger_level": "none",
+    "danger_note": "The hairy seeds (achenes) inside the hips are irritating if eaten directly. The hips themselves are fine but always remove the seeds before eating.",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. Very common in hedgerows and scrub. The most widespread of the native wild roses.",
+    "wildlife_value": "Flowers provide pollen and nectar for bumblebees, hoverflies, and solitary bees. The hips are eaten by Blackbird, Song Thrush, Redwing, Fieldfare, and small mammals. The dense thorny stems provide excellent nesting habitat for Dunnock, Whitethroat, and other hedgerow birds. Galls on Dog Rose ('Robin's pincushion', caused by the gall wasp Diplolepis rosae) are a mini-habitat for dozens of insect species.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly",
+      "beetle"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "song-thrush",
+      "redwing",
+      "fieldfare",
+      "wood-mouse"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red",
+      "orange"
+    ],
+    "colour_bark_stem": [
+      "green",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "Large, elegant five-petalled flowers open in June–July. Each flower lasts only a few days. The colour varies from deep pink to almost white. The golden stamens in the centre attract beetles and bees.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosa_canina_in_G%C3%A5seberg_2.jpg",
+            "caption": "Dog Rose flowers — five pale pink petals with golden stamens",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rosa_canina_%283611461126%29.jpg",
+            "caption": "Dog Rose in hedgerow",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Rose Hips",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Smooth, oval, bright red hips ripen September–October and persist into winter. They are a vital food for birds and are extremely rich in vitamin C. Look for the dried flower remnants at the tip of the hip.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2008_11_30_025_Rosa_canina_im_Weinberg.jpg",
+            "caption": "Dog Rose hips in autumn — brilliant red and packed with vitamin C",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosa_canina_in_G%C3%A5seberg_2.jpg",
+        "caption": "Dog Rose flowers",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Rosa_canina_%283611461126%29.jpg",
+        "caption": "Dog Rose in hedgerow",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2008_11_30_025_Rosa_canina_im_Weinberg.jpg",
+        "caption": "Dog Rose hips",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "ivy",
+    "common_names": [
+      "Ivy",
+      "Common Ivy",
+      "English Ivy"
+    ],
+    "latin_name": "Hedera helix",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Evergreen, dark glossy leaves with 3–5 pointed lobes on climbing/creeping stems. Mature flowering stems have oval, unlobed leaves. Climbs using tiny root-like holdfasts.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "wall",
+      "garden"
+    ],
+    "summary": "Far from being a pest, ivy is one of the most wildlife-rich plants in Britain. Its October flowers are the last great nectar feast for insects before winter, and the black berries sustain birds through the dark months.",
+    "full_description": "Ivy gets an unfair reputation. Many people think it's killing the trees it grows on, but in most cases ivy is simply using the tree as support — it feeds itself, rooting in the ground, and climbs with tiny adhesive rootlets rather than sending parasitic roots into the tree. Old ivy on an old tree is an ecosystem in its own right: the dense stems shelter moths, hibernating butterflies (Red Admiral, Comma, Brimstone), and hibernating bats, while the leaves provide year-round cover for birds.\n\nIvy has two distinct leaf forms. Juvenile stems — the climbing ones — have the familiar three-to-five-lobed dark glossy leaves. But once ivy reaches the top of a support and starts flowering, the leaves on those mature stems become oval and unlobed, completely different from the juvenile leaves. The flowers appear in October–November — clusters of small greenish-yellow umbels — and are one of the most important late-season nectar sources for queen wasps, Red Admiral butterflies, hoverflies, and bees. At a time when almost nothing else is flowering, a large ivy in full bloom buzzes with insects.\n\nThe black berries ripen in February–March — late in the season when other food is scarce — and are eaten by Blackbird, Robin, Blackcap, Woodpigeon, and Song Thrush. The berries are mildly toxic to humans (cause stomach upset) but are an important food source for birds.",
+    "danger_level": "low",
+    "danger_note": "The berries and leaves contain compounds that are mildly toxic to humans, causing nausea and vomiting if eaten. The berries are fine for birds but should not be eaten by people. The sap can cause skin irritation in sensitive individuals.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout the UK. Extremely common in woodland, hedgerows, walls, and gardens.",
+    "wildlife_value": "One of the most wildlife-rich plants in Britain. Late-flowering (October–November), providing nectar for queen wasps, Red Admirals, Comma butterflies, hoverflies, and late bumblebees when almost nothing else is available. Berries eaten by Blackbird, Robin, Blackcap, and Woodpigeon in late winter. Dense stems provide roosting and hibernating habitat for insects (including moths and butterflies), bats, and birds. Holly Blue butterfly caterpillars feed on ivy flowers and berries.",
+    "pollinators_supported": [
+      "wasp",
+      "hoverfly",
+      "honey-bee",
+      "bumblebee",
+      "butterfly"
+    ],
+    "food_source_for": [
+      "blackbird",
+      "robin",
+      "blackcap",
+      "woodpigeon",
+      "holly-blue",
+      "robin"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow",
+      "green"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "black"
+    ],
+    "colour_bark_stem": [
+      "green",
+      "brown"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Climbing Stems",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Climbing stems have the familiar three-to-five-lobed dark, glossy leaves. Ivy climbs using tiny adhesive rootlets rather than twining — it glues itself to surfaces and does not damage stone, brick, or healthy bark. The stems are evergreen and provide year-round shelter.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Climbing_stems_of_ivy_%28Hedera_helix%29_-_geograph.org.uk_-_3357100.jpg",
+            "caption": "Ivy climbing a tree — the lobed leaves of the juvenile climbing stems",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Flowers",
+        "months_typical": [
+          10,
+          11
+        ],
+        "description": "In October–November, mature ivy produces clusters of small greenish-yellow flowers. These are one of the last great nectar sources of the year — visit a large flowering ivy on a warm October day and listen to the buzzing of wasps, hoverflies, and the last bees of the season.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hedera_helix_in_Innsbruck.jpg",
+            "caption": "Ivy showing mature flowering stems with unlobed leaves",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Berries",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Black berries ripen in late winter — February to March — when other food is scarce. They are an important food source for birds, particularly Blackcap and Robin. Berries are toxic to humans but safe for birds.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hedera_helix_berries.jpg",
+            "caption": "Ivy berries — black, late-ripening, toxic to humans but vital for birds",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Climbing_stems_of_ivy_%28Hedera_helix%29_-_geograph.org.uk_-_3357100.jpg",
+        "caption": "Ivy climbing a tree",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hedera_helix_in_Innsbruck.jpg",
+        "caption": "Ivy — mature flowering stems",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hedera_helix_berries.jpg",
+        "caption": "Ivy berries in late winter",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "bluebell",
+    "common_names": [
+      "Bluebell",
+      "Common Bluebell",
+      "English Bluebell"
+    ],
+    "latin_name": "Hyacinthoides non-scripta",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "All flowers hang to one side of the drooping stem. Petals curl back at the tips. Cream (not yellow) anthers inside. Sweet, distinctive scent. Leaves are long and strap-like. The Spanish Bluebell (invasive) has flowers all round the upright stem.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1
+    ],
+    "peak_months": [
+      4,
+      5
+    ],
+    "weather_flag": true,
+    "weather_note": "Peak flowering varies by several weeks depending on spring temperatures — as early as late March in warm years, as late as mid-May in cold ones.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "ancient-woodland",
+      "hedgerow"
+    ],
+    "summary": "A carpet of bluebells in an ancient woodland in late April is one of the most iconic sights in British nature. The UK holds about half of the world's population of native Bluebell — it's a genuinely global responsibility.",
+    "full_description": "The Bluebell is one of the most celebrated wildflowers in Britain, and the country has a remarkable global responsibility: the UK holds around 50% of the entire world's population of native Bluebell (Hyacinthoides non-scripta). The sight of a bluebell wood in late April — a shimmer of violet-blue through the bare grey trunks, and the sweet, honey-like scent hanging in the cool air — is one of the most evocative experiences in British nature.\n\nNative bluebell is quite different from the Spanish Bluebell (H. hispanica) introduced from gardens. Native bluebells have all their flowers on one side of a drooping stem (so the tip hangs over), creamy-white anthers inside each flower, and a sweet scent. Spanish Bluebells have flowers all round an upright stem, blue-violet anthers, and little scent. Hybrids between the two exist and are a conservation concern — if you have Spanish Bluebells in your garden near woodland, consider removing them.\n\nBluebells are spring ephemerals: they do all their growing and flowering while the woodland canopy is still open and light reaches the ground. By midsummer the leaves have died back completely and the plant survives underground as a bulb through summer and autumn. The bulbs contain toxic starch and were used historically to glue feathers onto arrows. All parts are toxic if eaten in quantity. They are protected by law: it is illegal to dig up wild bluebells.",
+    "danger_level": "low",
+    "danger_note": "All parts of the Bluebell are toxic if eaten — the bulbs are particularly so. Skin contact with the sap can cause irritation in sensitive individuals. Wash hands after handling.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout the UK. The UK holds approximately 50% of the world's native Bluebell population. Protected by the Wildlife and Countryside Act 1981 — illegal to dig up wild bulbs.",
+    "wildlife_value": "An important nectar source for early bumblebees emerging from hibernation, particularly Garden Bumblebee and Early Bumblebee. Long-tongued bees can reach the nectar; short-tongued bees sometimes bite through the base of the flower to steal it. The spring flowering before canopy closure makes it crucial for early pollinators. Dense carpets indicate ancient, undisturbed woodland — they spread very slowly and cannot recolonise disturbed ground quickly.",
+    "pollinators_supported": [
+      "bumblebee",
+      "solitary-bee",
+      "hoverfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "blue",
+      "violet",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Bulb & Early Leaves",
+        "months_typical": [
+          2,
+          3,
+          4
+        ],
+        "description": "Bluebells emerge from underground bulbs in February–March, with long, strap-shaped leaves appearing before the flowers. In a bluebell wood, the ground is green before it turns blue.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "Flowers appear in April–May. Each stem droops at the tip and carries all its flowers on one side. Petals curl back to reveal cream anthers. The sweet scent is strongest in still air in the morning.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hyacinthoides_non-scripta_%28Common_Bluebell%29.jpg",
+            "caption": "Bluebell — flowers all on one side of the drooping stem, petals curling back",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bluebells_%28Hyacinthoides_non-scripta%29_-_geograph.org.uk_-_1284822.jpg",
+            "caption": "Bluebell carpet in ancient woodland",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluebells_%28Hyacinthoides_non-scripta%29_-_geograph.org.uk_-_1295142.jpg",
+            "caption": "Bluebell woodland — the UK holds half the world's population of this species",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hyacinthoides_non-scripta_%28Common_Bluebell%29.jpg",
+        "caption": "Common Bluebell",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bluebells_%28Hyacinthoides_non-scripta%29_-_geograph.org.uk_-_1284822.jpg",
+        "caption": "Bluebell carpet in woodland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluebells_%28Hyacinthoides_non-scripta%29_-_geograph.org.uk_-_1295142.jpg",
+        "caption": "Bluebell woodland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "herb-robert",
+    "common_names": [
+      "Herb Robert",
+      "Red Robin"
+    ],
+    "latin_name": "Geranium robertianum",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small bright pink five-petalled flowers. Deeply divided, feathery leaves that turn red in autumn or when stressed. Distinctive unpleasant smell when leaves are rubbed. Red-tinged stems. Hairy all over.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "wall",
+      "rocky-ground",
+      "shady"
+    ],
+    "summary": "A cheerful little plant that pops up in walls, hedgerow bases, and shady banks throughout the summer. The bright pink flowers and red-tinged feathery leaves are charming — but rub a leaf and there's that distinctive pong.",
+    "full_description": "Herb Robert is one of those plants that rewards a second look. At first glance it's a small, rather weedy plant in a shady hedgerow base — but look closely and you'll see delicate bright pink five-petalled flowers, feathery divided leaves with a reddish tinge, and hairy stems that are often entirely scarlet. The whole plant turns progressively redder as the season goes on, or when it's stressed by drought.\n\nRub a leaf and you'll immediately notice the distinctive smell — often described as nutty, musty, or just unpleasant. This is one of the best ID features. The plant is in the cranesbill family (Geraniaceae), and after flowering it produces long, pointed seed pods shaped like a crane's bill — hence the family name. When ripe, the pod splits open suddenly and flings the seeds several metres. Watch a seed pod carefully as it starts to split and you might catch this happening.\n\nHerb Robert is one of the most shade-tolerant of common wildflowers, growing in walls, rocky places, hedgerow bases, and woodland floors where little else can manage. It's an annual — it dies each winter and regrows from seed, which it does prolifically. In folk medicine it had many supposed uses, now largely discredited.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. Very common in a wide range of habitats. An annual that seeds itself freely.",
+    "wildlife_value": "Small-to-medium insects, particularly solitary bees and hoverflies, visit the flowers for nectar and pollen. The seeds are dispersed explosively from the long beak-shaped pods. The plant provides ground cover in hedgerow bases and woodland floors. Despite its smell, several moth species use it as a foodplant.",
+    "pollinators_supported": [
+      "solitary-bee",
+      "hoverfly"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink"
+    ],
+    "colour_leaf": [
+      "green",
+      "red"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "red",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Seedling",
+        "months_typical": [
+          3,
+          4,
+          5
+        ],
+        "description": "Herb Robert germinates in spring, forming a small rosette of feathery divided leaves with reddish stems. It grows quickly.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Bright pink flowers (about 1cm across) with five petals appear from April through to October. The plant becomes increasingly red through the season — especially the stems and older leaves. Rub a leaf and smell your fingers for the distinctive musty Herb Robert scent.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Geranium_robertianum_flower_%2814063087865%29.jpg",
+            "caption": "Herb Robert flowers — small, bright pink, five-petalled",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Grenchen_-_Robertskruid_%28Geranium_robertianum%29.jpg",
+            "caption": "Herb Robert plant showing feathery leaves and red stems",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Geranium_robertianum_flower_%2814063087865%29.jpg",
+        "caption": "Herb Robert flowers",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Grenchen_-_Robertskruid_%28Geranium_robertianum%29.jpg",
+        "caption": "Herb Robert plant",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "cleavers",
+    "common_names": [
+      "Cleavers",
+      "Sticky Weed",
+      "Goosegrass",
+      "Sticky Willy"
+    ],
+    "latin_name": "Galium aparine",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Whorls of 6–8 narrow leaves around the square stem. Covered in tiny hooked hairs that stick to clothing and fur. Tiny white four-petalled flowers. Round sticky seeds that cling to anything. Completely unmistakeable once you know it.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "disturbed-ground",
+      "meadow"
+    ],
+    "summary": "Britain's best throwing plant — Cleavers sticks to jumpers, dog fur, and anything else it touches. It's every child's favourite, but it's also a serious plant with a clever seed-dispersal trick.",
+    "full_description": "Cleavers, sticky weed, sticky willy, goosegrass — this plant has more folk names than almost any other wildflower, most of them reflecting its most famous characteristic: it sticks to everything. The entire plant is covered in tiny hooked hairs (like microscopic velcro), and the round seeds are especially sticky. Children throughout history have thrown clumps of it at each other's backs and watched it cling — it's an irresistible plant.\n\nCleavers is an annual that scrambles up through hedgerow shrubs and tall vegetation, using its sticky stems to grip other plants for support. The leaves are arranged in whorls of 6–8 around a square stem. In late spring it produces tiny white four-petalled flowers, followed by the distinctive round paired seeds that cling to animal fur, bird feathers, and clothing — a very effective method of seed dispersal that takes seeds far from the parent plant.\n\nIn herbal medicine, young Cleavers shoots were eaten as a spring salad green or made into juice — it's edible if cooked or prepared, though rather rough to eat raw. The roasted seeds were once used as a coffee substitute. Despite its humble appearance, Cleavers is ecologically important: its dense scrambling stems provide structure for hedgerow insects, and the seeds are eaten by some birds.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. Extremely common in hedgerows, woodland edges, and disturbed ground. One of the most familiar annual weeds.",
+    "wildlife_value": "The seeds are eaten by some finches. The dense scrambling stems provide structural complexity in hedgerow bases. The tiny flowers are visited by small insects. The sticky seeds disperse by adhering to animal fur — this means the plant's seeds travel with deer, rabbits, foxes, and domestic animals, linking habitats across the landscape.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "green"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Scrambling Stems",
+        "months_typical": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Cleavers scrambles up through other vegetation, supported by its sticky stems. Pull a piece off a hedge and feel it — the tiny velcro-like hooks are remarkable under a magnifying glass.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flowering & Seeds",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Tiny four-petalled white flowers appear, followed by round paired seed-pods covered in hooked hairs. These stick firmly to fur, feathers, and clothing. Press one onto your sleeve and it won't come off easily.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galium_aparine_flower.jpg",
+            "caption": "Cleavers flowers — tiny white four-petalled flowers",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galium_aparine_flower.jpg",
+        "caption": "Cleavers — tiny white flowers and the sticky stems",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "lords-and-ladies",
+    "common_names": [
+      "Lords-and-Ladies",
+      "Cuckoo Pint",
+      "Jack-in-the-Pulpit",
+      "Wild Arum"
+    ],
+    "latin_name": "Arum maculatum",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakeable in all stages. Spring: large arrow-shaped leaves (often with dark spots). Flower: a hooded green-cream spathe enclosing a purple club-shaped spadix. Autumn: spike of brilliant scarlet-orange berries.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      4,
+      5,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "shady"
+    ],
+    "summary": "One of the strangest and most dangerous plants in British woodland — the vivid scarlet berries are extremely toxic and look enticingly like berries in a children's story. The spring flower is just as bizarre: a hooded cowl over a purple club that generates its own heat.",
+    "full_description": "Lords-and-Ladies is one of the most extraordinary plants in Britain. The spring flowers are unlike anything else: a large, hooded cream-green spathe (the 'hood') wraps around a central purple club (the spadix). The spadix generates its own heat — measurably warmer than the air — and emits a faint unpleasant smell, both of which attract small insects down into the base of the spathe where they become temporarily trapped and pollinate the flowers. Once the flowers are pollinated the spathe withers, releasing the insects.\n\nThe berries are the most dangerous part. By August the stalk produces a dense spike of brilliant scarlet-orange berries that look exactly like something from a fairy tale — vivid, round, glossy, and clustered tightly together. They are one of the most dangerous wild plants for children in Britain. Eating just a few berries causes immediate intense burning and swelling of the mouth and throat, severe vomiting, and potentially serious breathing difficulties requiring medical attention. If you see a child pick these berries, act immediately.\n\nThe leaves also contain irritant crystals (calcium oxalate raphides) and cause burning and irritation if handled and then mouth touched. The arrow-shaped spring leaves are bright glossy green, often with dark purple blotches. They die back completely by midsummer, leaving the berry spike standing alone.",
+    "danger_level": "high",
+    "danger_note": "HIGHLY TOXIC. The vivid scarlet-orange berries cause immediate severe burning and swelling of the mouth and throat if eaten, even in small quantities. The leaves and stems also contain irritant crystals that cause burning. If any part is eaten, seek medical attention or call 111 immediately. The berries are most dangerous to children as they look attractive and edible.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout England and Wales; scarcer in Scotland. Common in woodland, hedgerow bases, and shady banks.",
+    "wildlife_value": "The spathe traps small flies (especially owl midges) as pollinators — a remarkable example of temporary insect imprisonment for pollination. The berries are eaten by Pheasants and some thrushes, which are not affected by the toxins. The large glossy leaves provide early ground cover in woodland.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "pheasant"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "cream",
+      "green",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red",
+      "orange"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Arrow Leaves",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Large, shiny, arrow-shaped leaves emerge from January onwards in woodland. They are often spotted with dark purple blotches (some plants are unspotted). These are one of the first woodland plants to appear in the new year.",
+        "photos": []
+      },
+      {
+        "stage_name": "Spathe and Spadix",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "In April–May, a hooded cream-green spathe (the 'hood') unfolds to reveal the purple or brown club-shaped spadix inside. The spadix generates heat and smell to attract insects. Touch the inside of the spathe carefully — you may feel it is warmer than the air around it.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jack_in_the_Pulpit_%28Arum_maculatum%29_-_geograph.org.uk_-_1288449.jpg",
+            "caption": "Lords-and-Ladies spathe and spadix — the purple club generates heat to attract insects",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Berries — DANGER",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "By late summer the leaves have died away completely and the stalk is topped with a dense cluster of brilliant scarlet-orange berries. These are HIGHLY TOXIC — eating even a few causes severe burning in the mouth and throat. Never touch these and make sure children do not pick them.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lords_and_Ladies_%28Arum_maculatum%29_-_geograph.org.uk_-_1435560.jpg",
+            "caption": "Lords-and-Ladies berries — beautiful but HIGHLY TOXIC. Do not eat.",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jack_in_the_Pulpit_%28Arum_maculatum%29_-_geograph.org.uk_-_1288449.jpg",
+        "caption": "Lords-and-Ladies spathe and spadix",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lords_and_Ladies_%28Arum_maculatum%29_-_geograph.org.uk_-_1435560.jpg",
+        "caption": "Lords-and-Ladies berries — HIGHLY TOXIC",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "fox",
+    "common_names": [
+      "Red Fox",
+      "Fox"
+    ],
+    "latin_name": "Vulpes vulpes",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Orange-red fur with white underparts, black legs, and a bushy tail (brush) with a white tip. The pointed muzzle and large, alert, pointed ears are distinctive. Dog-like but slimmer and more alert-looking than a domestic dog.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      12
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hedgerow",
+      "chalk-grassland",
+      "urban"
+    ],
+    "summary": "Britain's only wild member of the dog family — clever, adaptable, and absolutely everywhere. Foxes are most often heard at night in January when they scream to find mates, but can be seen at any time of day, especially at dawn and dusk.",
+    "full_description": "The Red Fox is one of Britain's most familiar wild mammals — its orange-red fur, bushy white-tipped tail, pointed nose, and large ears make it instantly recognisable. It has spread from countryside to every city and town, and is now as much an urban animal as a rural one. In towns it has learned to exploit bins, gardens, and food waste; in the countryside it hunts rabbits, voles, and mice, eats insects, earthworms, berries, and carrion, and is one of nature's most generalist opportunists.\n\nAt Old Down, foxes are most often seen at dawn and dusk, moving along the hedgerow base or crossing open grassland. In January, listen at night for the eerie, blood-curdling scream of the vixen — often heard from a long distance away — and the short, sharp bark of the dog fox. The screaming is part of the mating season (December–February). In March–April, the cubs are born underground in an earth (den), usually in a bank, among tree roots, or in a rabbit burrow.\n\nFoxes are solitary hunters but live in social groups of one male (dog fox) and one or two females (vixens), occupying a territory. Young foxes (cubs) are dark brown-grey at birth and gain adult colouring over several weeks. By late summer the cubs disperse to find their own territories — this is when foxes are seen most often in unusual places.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout the UK. One of the commonest and most widespread wild mammals in Britain. Highly adaptable to urban and rural environments.",
+    "wildlife_value": "Foxes are important predators of rabbits, voles, and Wood Mice, helping control herbivore populations. They also eat large numbers of earthworms, beetles, and invertebrates. The fox earth provides habitat for other animals when abandoned. Fox scat is an important scent-marking signal in the ecosystem, influencing the behaviour of other species.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "red",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Cub",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "description": "Cubs are born underground in March–April, dark brown-grey at birth, gaining the orange-red adult coat over a few weeks. They begin to play outside the earth by May, and are among the most entertaining wildlife to watch on a spring evening.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Adults are orange-red with a white chin and underparts, black legs, and a distinctive bushy tail with a white tip. The vixen screams in January–February during mating season — a sound that regularly causes alarm to people who've never heard it before.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
+            "caption": "Red Fox — orange-red fur, bushy white-tipped tail, alert pointed ears",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Red_Fox_%28Vulpes_vulpes%29%2C_Struy_-_geograph.org.uk_-_2751042.jpg",
+            "caption": "Red Fox pausing in grassland — most often seen at dawn and dusk",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
+        "caption": "Red Fox",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Red_Fox_%28Vulpes_vulpes%29%2C_Struy_-_geograph.org.uk_-_2751042.jpg",
+        "caption": "Red Fox in grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "fox-signs",
+    "common_names": [
+      "Fox Tracks and Signs",
+      "Fox Footprints",
+      "Fox Scat"
+    ],
+    "latin_name": "Vulpes vulpes",
+    "type": "tracks-signs",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Fox prints are oval, with 4 toes in a diamond pattern and a triangular central pad. Claws pointing forward. Usually in a straight line (foxes 'register' — hind foot falls in front foot print). Scat is twisted, tapered at one end, placed on prominent spots.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hedgerow",
+      "chalk-grassland"
+    ],
+    "summary": "Finding fox signs is easy once you know what to look for — but telling fox prints from dog prints trips up even experienced trackers. The key is the neat diamond toe arrangement, straight walking line, and pointed twisted scat on prominent spots.",
+    "full_description": "Foxes leave abundant signs throughout their territory, and learning to read them is a satisfying skill. The most reliable sign is the footprint: four toes arranged in a rough diamond around a triangular central pad, with claw marks pointing forward. The key difference from a domestic dog is the tight, neat arrangement of the toes (you can draw an imaginary 'X' between the central toes and the outer toes), and the fact that fox prints are usually in a very straight line — foxes walk efficiently and place their hind foot almost exactly in the print of their front foot (this is called 'registering'). Dog prints are more sprawling and irregular.\n\nFox scat (droppings) is one of the most distinctive signs: dark, twisted, pointed at one end, often with fur, feathers, or berry seeds visible. Crucially, foxes are conspicuous scent markers — they deliberately leave scat on prominent spots: on top of molehills, on stones, on the middle of paths, on fence posts. This is territorial advertisement. Fresh fox scat has a strong, sharp, earthy-musky smell. The smell of fox is also often noticeable near an earth (den) — a sweet, musky undertone often described as distinctive.\n\nOther signs include: the earth itself (a large hole, often with a well-worn path and scattered bones/feathers nearby), flattened grass 'runs' through hedgerow bases, and in winter, prints in snow showing the characteristically straight walking gait.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Signs found throughout the UK wherever foxes are present — essentially everywhere.",
+    "wildlife_value": "Fox scent marks and signs are important ecological signals. The presence of fox territory depresses rabbit activity in an area, which in turn reduces grazing pressure on vegetation. Reading fox signs helps build a picture of the invisible world of nocturnal wildlife at Old Down.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Footprints",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Look for oval prints with 4 toes in a diamond pattern and clear claw marks pointing forward. Best seen in soft mud, wet soil, or snow. Fox prints appear in a very straight line — the hind foot registers almost exactly into the front foot print. Measure the print: 5–6cm long × 4–4.5cm wide.",
+        "photos": []
+      },
+      {
+        "stage_name": "Scat",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Fox scat is dark brown-black, 7–10cm long, twisted, and pointed at one end. It is deliberately placed on prominent spots — on top of molehills, on stones at path junctions, on fence posts. Look for fur, feathers, berry seeds, or beetle cases in the scat. Fresh scat has a distinctive strong foxy smell.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
+            "caption": "Red Fox — see the Fox mammal entry for photos of the animal itself",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Earth (Den)",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "description": "The fox earth is a burrow, often in a bank, among tree roots, or dug into an old rabbit warren. The entrance is typically 20–25cm wide, with a well-worn path leading to it. Look for scattered bones, feathers, and fur nearby. A distinctive sweet-musky smell may be noticeable near the earth.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
+        "caption": "Red Fox — check the Fox card for animal photos",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "roe-deer",
+    "common_names": [
+      "Roe Deer"
+    ],
+    "latin_name": "Capreolus capreolus",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small deer (knee-height to a person). Reddish-brown in summer, grey-brown in winter. Distinctive white or cream rump patch. Males (bucks) have short, rough-textured antlers with 3 points each (April–December). No visible tail — the white rump shows instead.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hedgerow",
+      "chalk-grassland"
+    ],
+    "summary": "A small, elegant deer — about the size of a large dog. Roe Deer are usually seen alone at field edges at dawn and dusk. The bounding white rump patch is the classic sight as one disappears into cover.",
+    "full_description": "Roe Deer are Britain's most common native deer and among its most elegant animals. Small and neat — about the size of a large dog — they are a warm reddish-brown in summer and greyish-brown in winter. The most distinctive feature in all seasons is the prominent white or cream rump patch that flares when alarmed — this is the most common view you'll get at Old Down as a deer bounds away into cover.\n\nUnlike Fallow or Red Deer, Roe are solitary: they live in small territories rather than herds, and a single adult in a field edge at dawn is the typical sighting. Males (bucks) carry short, rough, upright antlers with three points each, grown from March and shed in December. Does (females) have no antlers. From late July the bucks begin the rut — chasing females in tight circles, creating 'roe rings' of worn vegetation around a bush or tree, and making a rasping bark. The alarm call — also given by does — is a loud, sharp 'bark,' startlingly like a dog's.\n\nRoe Deer have a remarkable reproductive adaptation: fertilised eggs in late summer are kept dormant (delayed implantation) and don't develop until January, so although mating is in July–August, the one or two spotted kids aren't born until May–June.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain and Ireland. The most common native deer in the UK. Absent from most of Wales and some parts of Scotland.",
+    "wildlife_value": "Roe Deer browse on a wide range of woodland edge plants including Bramble, Hawthorn, and young tree shoots. Their browsing helps maintain structural diversity at woodland edges. The disturbed scrapes and fraying created by bucks provide habitat for invertebrates. Roe Deer are preyed upon by Fox (kids) and occasionally Badger.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "fox"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "red",
+      "white",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Kid",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Roe kids are born May–June, usually twins. They are spotted (like a Bambi) for the first few weeks — the spots break up the outline and camouflage them in dappled woodland. Kids lie still in vegetation while the mother feeds nearby. If you find a spotted kid lying alone, leave it alone — it is not abandoned.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult Summer",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "In summer the coat is warm reddish-brown. The buck carries antlers with up to 3 points each. Both sexes show the distinctive white rump patch when alarmed. Alert, cautious, usually seen alone at field edges.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor_2.jpg",
+            "caption": "Young male Roe Deer buck with velvet antlers",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Roe_deer_%28Capreolus_capreolus%29_female_Cumnor.jpg",
+            "caption": "Female Roe Deer (doe) — no antlers, white rump patch visible",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult Winter",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "In winter the coat changes to grey-brown. Bucks shed their antlers in December and regrow them through spring. The white rump patch is larger and more obvious in winter.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Roe_Deer_%28Capreolus_capreolus%29_-_geograph.org.uk_-_1946446.jpg",
+            "caption": "Roe Deer in winter — grey-brown coat with prominent white rump",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor_2.jpg",
+        "caption": "Roe Deer buck",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Roe_deer_%28Capreolus_capreolus%29_female_Cumnor.jpg",
+        "caption": "Roe Deer doe",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Roe_Deer_%28Capreolus_capreolus%29_-_geograph.org.uk_-_1946446.jpg",
+        "caption": "Roe Deer in winter",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "roe-deer-signs",
+    "common_names": [
+      "Roe Deer Tracks and Signs",
+      "Deer Slots",
+      "Deer Fraying"
+    ],
+    "latin_name": "Capreolus capreolus",
+    "type": "tracks-signs",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Roe slots (footprints) are small (3–4cm long), heart-shaped, pointed at the front — like two crescents facing each other. Fraying (bark scraped from young trees) is at 50–100cm height. Droppings are small, cylindrical, dark pellets in loose clusters.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hedgerow"
+    ],
+    "summary": "Roe Deer leave a rich record of signs if you know what to look for — neat cloven hoof prints in mud, frayed and battered young trees where bucks mark territory, and trails of small cylindrical droppings along deer paths.",
+    "full_description": "Roe Deer are creatures of routine — they follow the same paths, visit the same feeding spots, and use the same resting areas — so their signs concentrate along predictable routes. Learning to read deer signs builds a fascinating picture of the animals' lives even when you can't see them directly.\n\nFootprints (slots) are the first thing to look for. Roe Deer have small cloven hooves — the print is two roughly crescent-shaped halves (cleaves), pointed at the front and rounded at the back, 3–4cm long. In soft mud they show the cleaves clearly; in firmer ground only the pointed tip may print. The gait is a neat walk when calm; a bounding gait when alarmed, sometimes showing dew claws (small extra hooves) in a spring.\n\nFraying is the most dramatic sign: bucks mark their territories in spring and summer by rubbing and scoring their antlers against young trees and shrubs, stripping the bark in rough vertical scratches at 50–100cm height. The stripped wood and tattered bark are unmistakeable. Look for additional scent glands at the base of antlers that leave smell-marks on the frayed tree. Fraying can kill young trees and is a significant factor in woodland regeneration. Roe rings — circular worn tracks around a bush — are made during the rut (July–August).",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Signs found throughout Roe Deer range in the UK.",
+    "wildlife_value": "Deer paths through scrub create corridors used by other wildlife. Fraying creates open wounds on trees that are colonised by saproxylic beetles and fungi. Deer droppings redistribute plant nutrients. Roe rings and scrapes create small areas of disturbed bare ground used by certain invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Slots (Footprints)",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Look in soft mud at field edges, pond margins, and path edges. Roe slots are small (3–4cm), heart-shaped, and pointed at the front. Compare with rabbit prints (four toes, no cloven hoof) and Fox prints (four toes with pads). A clean diagonal cut on nibbled vegetation indicates deer browsing (vs. ragged rabbit gnawing).",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor_2.jpg",
+            "caption": "Roe Deer — see the Roe Deer mammal card for photos of the animal",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Fraying",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Bucks fray (rub and score) young trees to mark their territory and polish their growing antlers. Look for vertical scrape-marks on smooth-barked young trees and shrubs at 50–100cm height, with shredded bark and exposed pale wood. The frayed tree often has a characteristic 'beaten-up' look.",
+        "photos": []
+      },
+      {
+        "stage_name": "Droppings",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Small, dark, cylindrical or oval pellets, 1–1.5cm long, usually in loose clusters along deer paths or at feeding sites. May be pointed at one end. Much smaller than Fallow or Red Deer droppings.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Roe_deer_%28Capreolus_capreolus%29_female_Cumnor.jpg",
+        "caption": "Roe Deer — see the Roe Deer mammal card for more",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "grey-squirrel",
+    "common_names": [
+      "Grey Squirrel",
+      "Eastern Grey Squirrel"
+    ],
+    "latin_name": "Sciurus carolinensis",
+    "type": "mammal",
+    "native_status": "non-native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Silver-grey fur with a buff or reddish tinge along the back. Large bushy tail with silver-grey hairs that have white fringes. Much bigger than a mouse or vole. The only squirrel most of us will see in England and Wales.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "hedgerow",
+      "garden",
+      "park"
+    ],
+    "summary": "The Grey Squirrel is one of Britain's most familiar animals — quick, curious, and an acrobatic climber. It was brought from North America in the 1870s and has since spread everywhere, sadly displacing the native Red Squirrel.",
+    "full_description": "The Grey Squirrel is everywhere in England and Wales, and in many parts of Scotland. It was introduced from North America in the 1870s by Victorian landowners who thought it would be an interesting addition to their estates. It has proven extremely successful — perhaps too successful. The Grey Squirrel carries a disease (squirrelpox) that is harmless to Greys but fatal to our native Red Squirrel (Sciurus vulgaris), and through this and competition for food, the native Red Squirrel has been reduced to just a few strongholds in northern Scotland, parts of northern England, and Ireland. This is one of the most significant and sad wildlife stories in Britain.\n\nDespite this, the Grey Squirrel is a remarkable animal and genuinely entertaining to watch. It is an acrobatic climber, an expert food-hider (caching thousands of acorns and hazelnuts each autumn), and much cleverer than it might appear — experiments have shown Grey Squirrels can solve complex puzzles to reach food. Look for their drey high in the fork of a tree — a large messy ball of leaves, twigs, and bark, quite different from a bird's nest. It may be used year-round but is most visible in winter when leaves have fallen.\n\nGrey Squirrels also strip bark from mature trees to reach the sweet sap — this can girdle and kill even large, old trees, and is a significant problem in commercial and ancient woodland.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Non-native. Introduced from North America in the 1870s. Now the dominant squirrel species in England and Wales. Invasive and responsible for the decline of the native Red Squirrel.",
+    "wildlife_value": "Grey Squirrels cache thousands of acorns and hazelnuts each autumn and forget many of them — these forgotten caches become new trees. Jays do the same and are thought to be even more effective at planting oaks. Squirrel dreys are used by Tawny Owls and other species when abandoned. However, Grey Squirrels also predate bird nests and are a significant problem for woodland management. Their impact on Red Squirrel populations is serious and ongoing.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "tawny-owl",
+      "goshawk",
+      "fox"
+    ],
+    "depends_on": [],
+    "invasive_impact": "Grey Squirrels carry squirrelpox virus, which is fatal to Red Squirrels. They out-compete Red Squirrels for food. They strip bark from trees, killing mature specimens. Their presence has caused the near-extinction of the Red Squirrel in England and Wales.",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "silver",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Young squirrels are born twice a year — February–April and June–August — in a drey or tree hole. They are blind and helpless at birth, gaining fur at 3 weeks. They start to explore from the drey at about 7 weeks.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Adults are active all year — they do not hibernate. In autumn, watch them working systematically through woodland burying acorns and hazelnuts. The drey (large ball of leaves and twigs in a tree fork) is visible all year but most obvious in winter.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Grey_squirrel_%28Sciurus_carolinensis%29_02.jpg",
+            "caption": "Grey Squirrel — silver-grey fur with a bushy plumed tail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Grey_squirrel_%28Sciurus_carolinensis%29_-_geograph.org.uk_-_4320287.jpg",
+            "caption": "Grey Squirrel in a tree — look for the large drey in the fork above",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Grey_squirrel_%28Sciurus_carolinensis%29_02.jpg",
+        "caption": "Grey Squirrel",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Grey_squirrel_%28Sciurus_carolinensis%29_-_geograph.org.uk_-_4320287.jpg",
+        "caption": "Grey Squirrel in tree",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "mole-signs",
+    "common_names": [
+      "Mole Hills",
+      "Mole Signs",
+      "Mole"
+    ],
+    "latin_name": "Talpa europaea",
+    "type": "tracks-signs",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Rounded heaps of fine, loose, dark soil — unmistakeable. In winter, the heaps may be larger and more frequent as moles dig deeper to follow earthworms into unfrozen ground.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "woodland-edge"
+    ],
+    "summary": "You'll almost never see a Mole — but you'll always see its work. Those neat conical heaps of fresh dark soil are the sign that a very remarkable animal is living just below your feet.",
+    "full_description": "The Mole is one of Britain's most extraordinary mammals — perfectly adapted for a life spent entirely underground. It is almost blind (eyes are tiny, covered by skin), has no visible ears, and a cylindrical body with massive, spade-like front feet that can shift loose soil with remarkable speed. A mole can dig a tunnel 3.5 metres per hour. The velvety fur is unique: it has no 'grain,' lying equally flat in any direction — essential for an animal that needs to reverse quickly in narrow tunnels.\n\nMole hills are the main sign at Old Down: rounded heaps of fine, loose, crumbled dark soil pushed up from below. A mole's tunnel network can extend across a huge area, and the hills mark the places where the mole has pushed excavated soil to the surface. Fresh hills are dark and damp; older ones are paler and may have grass starting to grow on them. In spring (March–April), the hills are larger and more frequent as the mole creates a special deep 'fortress' nest.\n\nMoles eat almost exclusively earthworms, which they catch in their tunnels. They have a remarkable trick: they bite earthworms in the head to paralyse but not kill them, storing living worms in a 'larder' chamber to eat later. A single mole may store hundreds of paralysed earthworms. Despite their subterranean lives, moles occasionally come to the surface — usually young males dispersing in spring.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout mainland Britain. Absent from Ireland. Common in well-drained soils with good earthworm populations.",
+    "wildlife_value": "Mole digging aerates and mixes soil, bringing subsoil to the surface. Mole hills create patches of bare soil that are important germination sites for short-lived plants, including some rare wildflowers. Mole tunnels are used by shrews, voles, and beetles. Moles are preyed upon by Tawny Owl, Buzzard, Stoat, and Heron.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "tawny-owl",
+      "buzzard",
+      "stoat",
+      "heron"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Mole Hills",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Rounded heaps of fine, crumbled dark soil are pushed to the surface from tunnel excavations. Fresh mole hills are dark and moist. Old ones pale and dry. In spring the mole builds a larger 'fortress' — a deeper chamber with a much larger heap above it.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Talpa_europaea_mole_hills.JPG",
+            "caption": "Mole hills — the Mole's unmistakeable calling card",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Molehill_T%C5%99ebichovice.jpg",
+            "caption": "A fresh mole hill — dark, crumbled, fine soil",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Talpa_europaea_mole_hills.JPG",
+        "caption": "Mole hills on chalk grassland",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Molehill_T%C5%99ebichovice.jpg",
+        "caption": "Fresh mole hill",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "rabbit-warren",
+    "common_names": [
+      "Rabbit Warren",
+      "Rabbit Burrow",
+      "Rabbit Signs"
+    ],
+    "latin_name": "Oryctolagus cuniculus",
+    "type": "tracks-signs",
+    "native_status": "non-native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Multiple burrow entrances (10–20cm wide) with bare, scratched earth and soil heaps. Latrine piles of small round dark droppings nearby. Well-worn paths radiating from entrances. Close-cropped 'lawns' of grass around the warren.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "scrub",
+      "woodland-edge"
+    ],
+    "summary": "An active rabbit warren is a miniature landscape all of its own — bare soil, close-cropped grass, worn paths, and the distinctive small round droppings that tell you exactly who lives here. Look for the hopping tracks in wet mud.",
+    "full_description": "A rabbit warren is one of the easiest wildlife signs to find at Old Down. The warren itself is a network of underground burrows, with multiple entrance holes about 10–20cm wide. Around each entrance, the ground is bare and scratched, with a mound of loose soil to one side. Well-worn paths connect the entrances to each other and radiate outwards to feeding areas.\n\nThe most abundant sign is the droppings: small (7–10mm), round, dark, and fibrous pellets, often in large piles (latrines) near the warren entrance. Rabbits use latrines for territory marking — the piles can be enormous if the warren is long-established. The grass immediately around the warren is close-cropped, almost like a lawn, from constant grazing. In wet conditions, look for the distinctive hopping tracks — two large hind feet that land in front of the two smaller front feet, creating a characteristic paired pattern.\n\nOther signs include: fur snagged on bramble or wire, clean diagonal cuts on grass stems and small plant shoots (rabbits make a clean cut; deer leave a ragged tear), and small scrapes in soft ground where rabbits have been digging. The warren provides habitat for many other species: foxes enlarge entrances for dens, Wheatear and Shelduck nest in disused burrows, and some invertebrates colonise the bare ground around entrances.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Rabbit (Oryctolagus cuniculus) is non-native — introduced by the Normans in the 12th century for food and fur. Now completely naturalised.",
+    "wildlife_value": "Rabbit warrens create important open habitat: the close-cropped lawns around warrens are some of the best places for short-turf specialist plants and insects. Bare soil around entrances provides nesting habitat for solitary bees and wasps. Abandoned burrows are used by foxes, Badgers, Shelduck, Wheatear, and many invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Active Warren",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Look for burrow entrances (10–20cm wide) with fresh, loose soil at the entrance. Fresh digging looks dark and moist. Look for droppings, worn paths, and close-cropped grass. Activity is highest at dawn and dusk.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rabbit_burrow_entrance.jpg",
+            "caption": "Rabbit burrow entrance — bare earth, worn path, approximately 15cm wide",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Rabbit_warrens_-_geograph.org.uk_-_1396224.jpg",
+            "caption": "Rabbit warren — multiple entrances with bare earth and worn paths",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rabbit_burrow_entrance.jpg",
+        "caption": "Rabbit burrow entrance",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Rabbit_warrens_-_geograph.org.uk_-_1396224.jpg",
+        "caption": "Rabbit warren with multiple entrances",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "badger-signs",
+    "common_names": [
+      "Badger Signs",
+      "Badger Sett",
+      "Badger Tracks"
+    ],
+    "latin_name": "Meles meles",
+    "type": "tracks-signs",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "A large, oval sett entrance (20–30cm wide) with a substantial spoil heap of soil and old bedding material. Wide footprints with 5 toes and long curved claw marks. Dung pits (small holes containing droppings) at territory edges.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "Badgers live near Old Down, and their signs are unmistakeable once you know them — large oval sett entrances with massive spoil heaps, wide footprints with long claw marks, and scratch marks on trees. The sett itself may have been in the same spot for hundreds of years.",
+    "full_description": "Badgers (Meles meles) are the UK's largest native land carnivore, and their signs are distinctive and substantial. The sett — the underground burrow system — is the key feature: a large oval entrance (20–30cm wide) with a substantial mound of excavated soil in front of it. Old, well-established setts can have dozens of entrances and the spoil heaps in front of them can be enormous — accumulated over decades or even centuries of occupation. The same sett may be used continuously for hundreds of years.\n\nLook for badger bedding being brought to the surface and aired on warm spring mornings — dry grass, dead leaves, and moss dragged out and left near the entrance before being taken back in. This is one of the most reliable signs that a sett is actively occupied. Badger footprints are wide and bear-like, with 5 toes and prominent long curved claw marks — very different from fox prints. They are often seen in soft mud near the sett entrance or along regular paths.\n\nBadgers are strictly protected by law (the Protection of Badgers Act 1992): it is illegal to disturb a badger sett, harm a badger, or block a sett entrance. Observe from a distance and do not approach active setts.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Common in a wide range of habitats. Fully protected by the Protection of Badgers Act 1992.",
+    "wildlife_value": "Badger setts create extensive underground habitat used by Rabbits, Foxes, and many invertebrates when badgers are not occupying every tunnel. The regular disturbance of soil at sett entrances creates important habitat for bare-ground invertebrates and plants. Badgers are major predators of wasp nests, bumble bee nests, and hedgehog-sized prey.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Sett Entrance",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "A large oval hole (20–30cm wide, wider than tall) with a substantial spoil heap of soil and old bedding material. Old setts have massive accumulated spoil. Look for bedding (hay, grass, leaves) aired near entrances on warm spring mornings.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Entrance_to_Badger_sett.jpg",
+            "caption": "Badger sett entrance — large oval opening with spoil heap",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Entrance_to_Badger_sett_2.jpg",
+            "caption": "Badger sett — note the wide, low oval shape and accumulated spoil",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      },
+      {
+        "stage_name": "Footprints & Paths",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Badger footprints are wide (4–5cm), kidney-shaped, with 5 toes and very long (1–2cm) straight claw marks. Look in soft mud near the sett. Badgers use regular paths through vegetation — these run in straight lines and are wider and more definite than rabbit runs.",
+        "photos": []
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Entrance_to_Badger_sett.jpg",
+        "caption": "Badger sett entrance",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Entrance_to_Badger_sett_2.jpg",
+        "caption": "Badger sett",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "tawny-owl",
+    "common_names": [
+      "Tawny Owl"
+    ],
+    "latin_name": "Strix aluco",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Most often heard rather than seen. The classic 'twit-twoo' is actually a duet: the female calls 'kee-WICK,' the male replies with a long, wavering 'hoooo.' Round head with no ear-tufts. Rich brown, streaked plumage. Large dark eyes. If you see one perched in a tree, look for the hunched, bark-like posture.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "old-trees"
+    ],
+    "summary": "The owl of classic ghost stories — its wavering hoot carries far on still autumn nights. The famous 'twit-twoo' is actually two owls calling to each other. Look for owl pellets under trees: neat parcels of compacted fur and bones coughed up after every meal.",
+    "full_description": "The Tawny Owl is Britain's most common owl and the one behind almost every owl hoot heard at night in the countryside. But the famous 'twit-twoo' is a lie — or rather, a duet. The female calls 'kee-WICK' (the 'twit' half); the male responds with his long, wavering, hollow 'hoooooo' (the 'twoo' half). When you hear both calls together in the darkness, a pair of owls is calling to each other across their territory. Tawny Owls are strictly nocturnal and almost never seen in daylight — but they roost in trees during the day, and if you find one it is usually mobbed loudly by small birds (Blue Tits, Robins, Chaffinches) giving alarm calls — a reliable sign that a predator is roosting nearby.\n\nTawny Owls hunt by listening. Their hearing is extraordinary — they can locate a mouse in total darkness by sound alone. The disc-shaped face channels sound to the asymmetrically placed ears, giving them a three-dimensional sound picture of the ground below. They hunt mainly Wood Mice, voles, and shrews, but also take small birds, large beetles, earthworms, and occasionally frogs. They hunt from a perch, watching and listening, then dropping silently onto prey.\n\nTawny Owls need old trees with cavities for nesting — they don't build nests, just lay eggs in a tree hole, old crow nest, or nest box. Look under old trees for owl pellets: grey, oval parcels about 4–5cm long, compressed fur and bones coughed back up after digesting a meal. Dissecting a pellet reveals the skull and bones of whatever the owl ate — usually Wood Mouse or Field Vole.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout mainland Britain. Absent from Ireland (no native owls breed there). Common wherever there are old trees with cavities.",
+    "wildlife_value": "An important predator of Wood Mouse, Field Vole, and Common Shrew. Tawny Owls regulate small mammal populations in woodland. Nest cavities are often used by other species when vacated. Owl pellets deposited under roost trees contribute to the nutrient cycling of the woodland floor.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "old-trees-with-cavities"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "buff",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Owlet",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Fluffy white owlets hatch in April from eggs laid in a tree hole or nest box. They are fed by both parents and begin to leave the nest (branch) before they can fly — these 'branchers' are sometimes found on the ground. If you find a young owl on the ground, leave it alone unless it is in immediate danger: the parents are almost certainly nearby.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Rich chestnut-brown, intricately streaked with dark brown and buff. The round head and large dark eyes are distinctive. Almost always seen roosting motionless in a tree, looking like part of the bark. Strictly nocturnal — most reliably detected by its calls on autumn and winter nights.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tawny_Owl_perched_on_a_tree.jpg",
+            "caption": "Tawny Owl roosting — the streaked brown plumage is perfect camouflage against bark",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tawny_Owl_perched_on_a_tree.jpg",
+        "caption": "Tawny Owl perched — looks like part of the tree",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "great-spotted-woodpecker",
+    "common_names": [
+      "Great Spotted Woodpecker"
+    ],
+    "latin_name": "Dendrocopos major",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Black and white with red under the tail (both sexes). Male has a red patch on the back of his head; female has none; juvenile has a red cap. The drumming on dead wood in spring is unmistakeable. Undulating flight — a few wingbeats, then a brief fold.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "old-trees",
+      "hedgerow"
+    ],
+    "summary": "The pied woodpecker with the machine-gun drum — a rapid burst of hammering on a dead branch in spring that carries for hundreds of metres. Look for the bright red flash under the tail and, on the male, a red patch on the back of the head.",
+    "full_description": "The Great Spotted Woodpecker is the most common and widespread of Britain's three woodpecker species, and one of the easiest woodland birds to find. Its bold black and white plumage with a crimson-red patch under the tail is distinctive, and it is often heard before it is seen — either the sharp 'tchick!' alarm call, or the extraordinary rapid drumming in spring. Drumming is not pecking for food: it is territorial advertisement and mate attraction, like a song, created by hammering on a resonant dead branch 10–20 times per second. It carries far.\n\nThe bill is a remarkable tool. The woodpecker hammers into dead wood to extract beetle larvae and wood-boring insects from inside the trunk — a food source no other bird can reach. The tongue is extraordinarily long (much longer than the bill), barbed at the tip, and coated in sticky saliva; it can be extended to probe deeply into excavated chambers. In autumn and winter, Great Spotted Woodpeckers also eat seeds, extracting them from pine and spruce cones wedged into 'anvil' cracks in bark — look for the scattered cone debris at the base of a tree.\n\nThe nest hole is excavated by both male and female in a dead or dying tree, taking 2–3 weeks. The same hole is often used for several years, and old holes are taken over by Tits, Nuthatches, and Starlings. Look for the neat round holes in dead wood — much rounder and more precise than the ragged excavations made by feeding.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout mainland Britain. Common and increasing. Absent from Ireland.",
+    "wildlife_value": "Great Spotted Woodpeckers excavate nest holes used by many secondary hole-nesters including Blue Tit, Great Tit, Nuthatch, Starling, and Pied Flycatcher. They are important predators of wood-boring beetle larvae in dead wood. In spring, they sometimes raid the nest holes of other birds for eggs and chicks — a less endearing but ecologically real behaviour.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "dead-wood",
+      "mature-trees"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "red"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Juveniles have a red cap covering most of the crown — neither the male's red nape patch nor the female's plain black nape. They leave the nest in June and follow their parents closely for several weeks.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult — Male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Bold black and white patterning with a red patch on the back of the neck (nape) — the male's distinguishing feature. Red under the tail in both sexes. Bill is strong and chisel-shaped. In spring the loud drumming carries through woodland.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Male2.jpg",
+            "caption": "Male Great Spotted Woodpecker — note the red patch on the back of the head",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Great_Spotted_Woodpecker_on_a_branch_%2838619934166%29.jpg",
+            "caption": "Great Spotted Woodpecker on a branch — bold black, white, and red pattern",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Male2.jpg",
+        "caption": "Great Spotted Woodpecker — male",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Great_Spotted_Woodpecker_on_a_branch_%2838619934166%29.jpg",
+        "caption": "Great Spotted Woodpecker on branch",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Greater_Spotted_Woodpecker_%2841554059345%29.jpg",
+        "caption": "Great Spotted Woodpecker",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "jay",
+    "common_names": [
+      "Jay",
+      "Eurasian Jay"
+    ],
+    "latin_name": "Garrulus glandarius",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Pinkish-buff body, white rump (very conspicuous in flight), and a startling electric-blue wing panel with black barring. Black moustache stripe and black-and-white crest. Harsh, screaming 'skaaark!' call. Often heard before seen.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "oak-woodland",
+      "hedgerow"
+    ],
+    "summary": "The most colourful crow in Britain — a flash of electric blue and that harsh screaming call are the best ID clues. Jays are the oak woodlands' secret gardeners: each autumn one Jay buries thousands of acorns, forgetting many — and those forgotten acorns become oak trees.",
+    "full_description": "The Jay is a member of the crow family (Corvidae) — as clever and adaptable as its relatives, but far more colourful. The pinkish-buff body, white rump (brilliant white in flight), and electric-blue wing panel with fine black barring make it one of Britain's most striking birds. But it is shy: usually glimpsed flying through woodland or heard from dense cover, giving its explosive, harsh screaming call — 'skaaark!' — which is the most common sound of alarm in a beech or oak wood. Other woodland birds treat the Jay's alarm call as a general warning.\n\nIn autumn, Jays perform a remarkable behaviour: acorn-caching. A single Jay may collect and bury up to 3,000 acorns in a single autumn, each one buried individually in a separate hole 2–3cm deep. The Jay has a large sublingual pouch and can carry several acorns at once. It relocates its caches through memory — Jays have been shown to remember thousands of cache sites. But it inevitably forgets some, and those forgotten acorns germinate and become oak trees. Jays are one of the most important agents of oak forest regeneration in Britain — responsible for the spread of oak far faster than wind dispersal alone could achieve.\n\nJays are also accomplished mimics: they can reproduce the calls of Buzzard, Tawny Owl, and other species with surprising accuracy. In spring they become less secretive during courtship, and groups of 3–10 birds may be seen chasing through the treetops — a rare chance to see them well.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout England and Wales. Commoner in the south. Strongly associated with oak woodland but also found in mixed woodland, large gardens, and parks.",
+    "wildlife_value": "Jays are the primary long-distance dispersers of oak acorns in Britain, responsible for the establishment of new oak trees far beyond the parent tree's crown. A single Jay may plant thousands of acorns in a season. They also eat beech mast, hazelnuts, invertebrates, and eggs and nestlings of other birds. Their loud alarm call functions as a warning system for many woodland species.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "english-oak",
+      "beech",
+      "hazel"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "pink",
+      "buff",
+      "blue",
+      "black",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Juveniles look similar to adults but have a softer, slightly streaky appearance. They follow parents and begin learning caching behaviour in their first autumn.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The electric-blue wing panel is unlike any other British bird. In flight, the brilliant white rump patch is the best field mark — it flashes as the bird bounces through trees. The harsh screaming 'skaaark!' call is the classic alarm sound of woodland.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jay_%28Garrulus_glandarius%29_-_geograph.org.uk_-_730153.jpg",
+            "caption": "Jay — pinkish body, blue wing panel, black moustache. The most colourful British crow.",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jay_with_Acorn_%286172318555%29.jpg",
+            "caption": "Jay carrying an acorn — each autumn a single Jay buries thousands",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jay_%28Garrulus_glandarius%29_-_geograph.org.uk_-_730153.jpg",
+        "caption": "Jay",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jay_with_Acorn_%286172318555%29.jpg",
+        "caption": "Jay with acorn",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
+  },
+  {
+    "id": "long-tailed-tit",
+    "common_names": [
+      "Long-tailed Tit"
+    ],
+    "latin_name": "Aegithalos caudatus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tiny pink, black, and white bird with an absurdly long tail — the tail is longer than the body. Moves through trees in a loose, chattering flock. High-pitched 'zee-zee-zee' contact call. Unmistakeable once seen.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "sholing-valley"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "scrub",
+      "hedgerow",
+      "garden"
+    ],
+    "summary": "A tiny fluffy ball of pink and white with an impossibly long tail — Long-tailed Tits travel in family groups and fill the hedgerow with high-pitched contact calls. Their nest is one of the finest pieces of wildlife architecture in Britain.",
+    "full_description": "The Long-tailed Tit is one of the most charming birds in the British countryside. Tiny — the body is barely the size of a ping-pong ball — it has a tail that is longer than the body, giving it a lollipop silhouette unlike any other species. The plumage is a delicate mix of pink, black, and white, with a creamy-buff underside that almost glows in winter sunlight. It is almost never seen alone: Long-tailed Tits travel in family groups of 8–20 birds, keeping in constant contact with high-pitched 'zee-zee-zee' and 'tupp' calls as they bounce acrobatically through the outer twigs of trees and shrubs.\n\nThe nest is one of the most extraordinary structures built by any British bird: a deep, elastic, oval bag woven from moss and spider silk, attached to a fork in a thorny shrub (often Bramble, Hawthorn, or Gorse). The outside is studded with hundreds of flakes of lichen for camouflage. The inside is lined with up to 2,000 feathers — the builders collect feathers from the woodland floor over several weeks. The elastic spider-silk construction stretches as the chicks grow. The whole nest takes 3 weeks to build and is considered one of the finest structures in the animal kingdom.\n\nIn autumn and winter, Long-tailed Tits often join mixed feeding flocks with Blue Tits, Great Tits, Nuthatches, and Treecreepers, moving through woodland together. If you hear 'zee-zee-zee' from a hedgerow and wait, you may get a flock washing through at close range — watch them hanging upside down to reach the tiniest insects.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native throughout Britain. Common and widespread in woodland edge, scrub, and hedgerow. Numbers increase in mild winters.",
+    "wildlife_value": "Long-tailed Tits eat small insects, eggs, and larvae gleaned from outer twigs and buds — a feeding niche that complements rather than competes with other tit species. In cold weather, family groups roost huddled together for warmth. Their nests, once vacated, are not re-used but decompose slowly and the materials are recycled by other nest-builders.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "pink",
+      "white",
+      "black",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Nest Building",
+        "months_typical": [
+          3,
+          4
+        ],
+        "description": "Pairs begin building their extraordinary oval nest from March. They collect moss, spider silk, and lichen for the outside, and feathers — sometimes over 2,000 — for the lining. The whole structure takes about three weeks. Look for them collecting material near Bramble and Hawthorn thickets.",
+        "photos": []
+      },
+      {
+        "stage_name": "Family Flock",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "After breeding, families join together in roving flocks of 8–20 birds. Listen for the constant high, thin 'zee-zee-zee' contact calls — then watch the hedgerow carefully for the tiny pink-and-white shapes bouncing along the outer twigs.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Long_Tailed_Tit_%28Aegithalos_caudatus%29_-_geograph.org.uk_-_657237.jpg",
+            "caption": "Long-tailed Tit — the tail is longer than the body",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Long-tailed_tit_-_Aegithalos_caudatus_%2855067602104%29.jpg",
+            "caption": "Long-tailed Tit — pink, white, and black with the signature long tail",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          }
+        ]
+      }
+    ],
+    "similar_species": [],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Long_Tailed_Tit_%28Aegithalos_caudatus%29_-_geograph.org.uk_-_657237.jpg",
+        "caption": "Long-tailed Tit",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Long-tailed_tit_-_Aegithalos_caudatus_%2855067602104%29.jpg",
+        "caption": "Long-tailed Tit perched",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-05-29"
   }
 ]
