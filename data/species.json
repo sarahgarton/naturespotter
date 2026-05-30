@@ -257,7 +257,7 @@
     ],
     "summary": "Golden yellow drooping flower clusters on chalk grassland — an indicator of ancient, undisturbed meadows. The orange spots inside each flower are diagnostic.",
     "full_description": "Cowslips (Primula veris) are charming low-growing plants of chalk and limestone grasslands, old meadows, and field edges. Reaching only 10–25cm tall, they emerge in early spring as a rosette of wrinkled, oblong leaves before sending up flowering stems in April. The golden yellow flowers droop in characteristic one-sided clusters — each bell-shaped bloom has five notched petals and, crucially, orange or red spots at the petal base. Those spots are the best diagnostic feature, distinguishing Cowslips instantly from the similar Primrose. A sweet, light fragrance hangs over good patches on warm spring afternoons.\n\nCowslips are a reliable indicator of ancient, undisturbed chalk grassland. They cannot survive fields that have been ploughed or heavily fertilised, so large populations — like those at Old Down — tell you the grassland has been relatively undisturbed for many decades. At Old Down, Cowslips appear in April as one of the first great wildflower events of spring, sometimes carpeting entire slopes in golden yellow before most other flowers have opened.\n\nThe relationship between Cowslips and the Duke of Burgundy butterfly is one of nature's most specific partnerships: caterpillars feed almost exclusively on Cowslip and Primrose leaves, making good Cowslip populations essential for this nationally scarce butterfly, historically recorded at Old Down. The long-tongued Bombus hortorum (Garden Bumblebee) can reach nectar deep in the narrow flower tube that shorter-tongued insects cannot access, giving it a private food source in early spring.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native throughout England and Wales, preferring chalky or limestone soils. Scarce in Scotland and north England. Common at Old Down and similar chalk grassland sites.",
@@ -492,7 +492,7 @@
     ],
     "summary": "Britain's smallest butterfly — barely larger than a thumbnail. Males are bright silvery-blue; females brownish. Found only where Bird's-foot Trefoil grows on chalk or limestone grassland.",
     "full_description": "The Small Blue (Cupido minimus) is Britain's smallest butterfly, with a wingspan of just 14–18mm — about the size of a large fingernail. Despite its name, males are silvery-blue rather than vivid blue, and females are predominantly brown with just a dusting of blue at the wing base. Both sexes have pale grey-white undersides with small but neat black spots. They fly in a single generation each year (May–July), with a brief peak in June. Small Blues fly low and fast over short chalk grassland, making them easy to overlook unless you specifically search the knee-high vegetation. The species has an absolute dependence on its sole larval food plant, Bird's-foot Trefoil (Lotus corniculatus), and will only breed where this plant is present in sufficient quantity on well-drained, short-sward grassland. This makes the Small Blue an excellent indicator of chalk grassland health — its presence confirms a botanically rich, traditionally managed site.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native to the UK. Found mainly in southern England and Wales on chalk and limestone grasslands. Colonies are typically small and localised. Old Down is excellent habitat.",
@@ -857,6 +857,14 @@
     ],
     "photos": [
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stinging_Nettle_%28Urtica_dioica%29_-_geograph.org.uk_-_215854.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "Nettle patch in hedgerow"
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Urtica_dioica_Plant.jpg",
         "credit": "Wikimedia Commons",
         "licence": "CC-BY-SA",
@@ -879,14 +887,6 @@
         "life_stage": "Flowering",
         "month_taken": 7,
         "caption": "Stinging Nettle in summer"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Stinging_Nettle_%28Urtica_dioica%29_-_geograph.org.uk_-_215854.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
-        "life_stage": "Flowering",
-        "month_taken": 7,
-        "caption": "Nettle patch in hedgerow"
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Peacock_%28Aglais_io%29_caterpillars_on_stinging_nettle_%28Urtica_dioica%29_Ruggeller_Riet.jpg",
@@ -1268,7 +1268,7 @@
     ],
     "summary": "One of Britain's greatest conservation success stories — nearly extinct by the 1980s, now soaring over southern England. The deeply forked chestnut tail is unmistakable.",
     "full_description": "The Red Kite (Milvus milvus) is one of Britain's most dramatic conservation successes. Nearly hunted to extinction by the early 20th century, with only a tiny relict population surviving in Wales, it was reintroduced to the Chilterns in 1989 and has since spread across much of England, Scotland, and Wales. A large, graceful raptor with a wingspan of 175–195cm, the Red Kite is unmistakable: warm russet-red plumage contrasts with a paler whitish-grey head, dark wingtips, pale patches on the underwings, and — most distinctively — a deeply forked, chestnut-red tail that is constantly twisted and angled in flight for manoeuvrability. It soars on thermals with effortless elegance, quite unlike the heavier-flapping Common Buzzard. Red Kites are opportunistic feeders, taking live prey including rabbits, hares, small mammals, and birds, but also readily eating carrion such as roadkill — a role that earns them the status of nature's waste disposal service. Their haunting mewing call can often be heard before the bird is seen.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native to the UK. Reintroduction programme began in the Chilterns in 1989 and Scotland/Wales in the early 1990s. Now a resident breeding bird across much of southern and central England, spreading northward naturally.",
@@ -1670,20 +1670,20 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
-        "life_stage": "Ripening Berries",
-        "month_taken": 9,
-        "caption": "Ripe blackberries"
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798992.jpg",
         "credit": "Wikimedia Commons",
         "licence": "CC-BY-SA",
         "life_stage": "Flowering",
         "month_taken": 6,
         "caption": "Bramble flowers"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blackberries_%28Rubus_fruticosus%29.jpg",
+        "credit": "Wikimedia Commons",
+        "licence": "CC-BY-SA",
+        "life_stage": "Ripening Berries",
+        "month_taken": 9,
+        "caption": "Ripe blackberries"
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Blackberry_%28Rubus_fruticosus%29_-_flowers_-_geograph.org.uk_-_5798995.jpg",
@@ -1763,7 +1763,7 @@
     ],
     "summary": "Britain's most familiar beetle. Exactly 7 black spots on bright scarlet wing cases. A single adult eats 50–60 aphids per day — one of the most important natural pest controllers in Britain.",
     "full_description": "The 7-Spot Ladybird (Coccinella septempunctata) is Britain's most familiar beetle and one of the most recognisable insects in the world. At 7–8mm long, it has hemispherical, bright scarlet-red wing cases (elytra) bearing exactly seven black spots: three on each wing case plus one shared spot at the midline between them. The pronotum (the plate behind the head) is black with two small white spots at the front corners. The bright warning colouration (aposematism) deters predators — when threatened, ladybirds can secrete a bitter, toxic yellow fluid from leg joints (reflex bleeding) that is highly effective at deterring birds. They are among the most important natural pest controllers in Britain: a single adult can eat 50–60 aphids per day, and the larvae — which look completely unlike the adult, being spiky and black with yellow or orange spots — are even more voracious, consuming 100–150 aphids over their development. One of the gardener's and farmer's greatest allies.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native to the UK and common throughout Britain. Populations can be temporarily displaced by the invasive Harlequin Ladybird in some areas, but the 7-Spot remains widespread.",
@@ -2030,7 +2030,7 @@
     ],
     "summary": "Britain's most familiar amphibian. The life cycle — from jelly spawn to tadpole to froglet to adult — is one of nature's most dramatic transformations and an iconic sign of spring.",
     "full_description": "The Common Frog (Rana temporaria) is Britain's most widespread amphibian and one of the most beloved signs of spring. Adults are 5–9cm long with highly variable colouring — typically brown, olive, or grey with darker mottling, though reddish and yellowish forms also occur. The dark 'mask' running from the nostril through the eye to the shoulder, prominent golden-yellow eyes with horizontal slit pupils, and smooth but moist skin help distinguish frogs from the similar Common Toad. Frogs have powerful hind legs for jumping (50cm+ in a single leap) and are generally slimmer than toads. Their lifecycle is one of the most dramatic in nature: from jelly clumps of spawn in February–March, through free-swimming, algae-grazing tadpoles, to froglets emerging from the pond in June–July, to fully terrestrial adults that must nonetheless stay near water to keep their permeable skin moist. Adults return faithfully to their natal pond each spring, sometimes travelling hundreds of metres across roads and fields to breed.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native throughout the UK and Ireland. One of the most common and widespread amphibians in Britain. Numbers have declined locally due to pond loss, drought, and disease (Ranavirus), but the species remains common.",
@@ -2337,7 +2337,7 @@
     ],
     "summary": "Famous for its spectacular song flight — males rise vertically to 100m+ and sing continuously for minutes on end. A declining farmland bird, but still heard and seen on chalk grassland like Old Down.",
     "full_description": "The Skylark (Alauda arvensis) is one of the most celebrated birds of the British countryside, famed above all else for the extraordinary song flight of the male. A medium-sized songbird (16–18cm), it has streaky brown and buff plumage on the upperparts — the typical camouflage of a ground-nesting bird — with paler, streaked underparts, a small but distinctive crest on the crown (raised when singing or alarmed), and white outer tail feathers visible in flight. The Skylark is most often identified by sound: from March to August, males rise from the ground, ascending vertically to 50–100m or more, and deliver a continuous, complex, liquid warbling song lasting minutes or even hours without pause. This song flight — one of the finest sounds in British nature — serves to defend territory and attract mates. Unfortunately, the Skylark is in serious decline in the UK, having lost over 50% of its population since the 1970s due to intensification of arable farming, loss of wildflower meadows, and removal of the weed-rich field margins that young birds depend on for insect food.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
     "native_info": "Native throughout the UK. Partially migratory — some birds remain in the UK year-round; others migrate south to southern Europe and North Africa for winter. Populations at sites like Old Down are year-round residents on chalk grassland.",
@@ -6242,8 +6242,8 @@
     ],
     "summary": "Not a worm. Not a snake. The Slow-worm is a legless lizard — and it's completely harmless. It has eyelids (snakes don't), smooth coppery skin, and a superpower: it can detach its own tail to escape a predator.",
     "full_description": "The Slow-worm is one of Britain's most misunderstood animals. It looks like a snake but is actually a legless lizard — it just lost its legs over millions of years of evolution. You can tell it from a snake because it has eyelids (you can see it blink), ear openings, and a body that is more cylindrical and uniform — snakes have a distinctly wider belly. The skin is smooth and shiny, usually bronze-coppery in males, browner in females (which often have a dark stripe along the back). Both are beautiful in the right light.\n\nSlow-worms are shy and secretive, spending much of their time underground or under cover. At Old Down, look for them under flat stones, pieces of corrugated metal, or in warm grassy tussocks. They are particularly active on warm mornings when they bask briefly before retreating to cover. Their diet is specialised: they eat mainly slow-moving prey that they can catch without a chase — slugs, slow worms (despite the name confusion), small snails, earthworms, and woodlice.\n\nSlow-worms give birth to live young in late summer — unusual for a reptile. The babies are tiny (5–10cm), golden-bronze with a dark back stripe, and look like miniature adults. Like all UK reptiles, the Slow-worm is fully protected by law. If you find one, observe it from a distance — replace any cover exactly as you found it.",
-    "danger_level": "none",
-    "danger_note": "Completely harmless and cannot bite effectively. Despite looking like a snake, it is a legless lizard and poses no threat whatsoever.",
+    "danger_level": "low",
+    "danger_note": "Slow-worms are completely harmless to people — they cannot bite effectively. However, they are fully protected under Schedule 5 of the Wildlife and Countryside Act 1981. It is a criminal offence to intentionally kill, injure, or take a Slow-worm. Please observe without handling.",
     "danger_type": "",
     "native_info": "Native throughout the UK, including Scotland and Wales. Protected under the Wildlife and Countryside Act 1981. One of the UK's six native reptile species.",
     "wildlife_value": "Slow-worms are important predators of slugs and earthworms, making them valuable in gardens and grassland ecosystems. They are preyed upon by Adders, Kestrels, Buzzards, and domestic cats. The eggs of Slow-worm young are a food source for some ground beetles. As a protected species they are an indicator of undisturbed, structurally diverse habitat.",
@@ -6374,7 +6374,7 @@
     ],
     "summary": "A day-flying moth that looks like a jewel — metallic blue-green wings with six vivid red spots. It flies slowly in sunshine and doesn't care if you approach closely, because it's actually toxic to birds.",
     "full_description": "The Six-spot Burnet is one of Britain's most distinctive moths, and the only moth you're likely to see flying confidently in bright sunshine. Most moths are night-flying and cryptic — this one is bold, slow, and brightly coloured, because it has nothing to fear. Both the caterpillar and adult moth contain hydrogen cyanide, absorbed from its foodplants, which makes it unpalatable to birds. The vivid red-on-metallic-green colouring is a warning: 'I taste terrible, don't eat me.' This warning colouring is called aposematism.\n\nAt Old Down, look for Six-spot Burnets nectaring on knapweed, scabious, and thistles alongside the butterflies in July. They are unhurried and approachable — you can get very close to photograph them. The larvae feed on Bird's-foot Trefoil and Kidney Vetch, so good populations of both plants support good numbers of this moth. The cocoons — papery golden-yellow tubes attached to grass stems — can sometimes be found in late spring.\n\nMating pairs often stay together for extended periods on flowerheads. The female lays eggs in neat batches on the underside of foodplant leaves. The caterpillar is yellow with black spots and is equally well-defended chemically — birds quickly learn to leave them alone.",
-    "danger_level": "low",
+    "danger_level": "none",
     "danger_note": "The moth contains hydrogen cyanide and is toxic if eaten, but is completely harmless to touch or handle. It cannot sting or bite.",
     "danger_type": "toxic-if-eaten",
     "native_info": "Native throughout the UK. Most abundant on chalk and limestone grassland in southern England. One of several UK Burnet moth species.",
@@ -7335,6 +7335,12 @@
     "similar_species": [],
     "photos": [
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blad_van_beuk_%28Fagus_sylvatica%29_01.JPG",
+        "caption": "Beech leaves in spring",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Beech_near_Thorns_Cross_-_geograph.org.uk_-_748872.jpg",
         "caption": "Beech tree",
         "credit": "Wikimedia Commons",
@@ -7343,12 +7349,6 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FagusSylvaticaBark.jpg",
         "caption": "Beech bark — smooth silver-grey",
-        "credit": "Wikimedia Commons",
-        "licence": "CC BY-SA"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blad_van_beuk_%28Fagus_sylvatica%29_01.JPG",
-        "caption": "Beech leaves in spring",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -7662,14 +7662,14 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Corylus_avellana_0007.JPG",
-        "caption": "Hazel catkins in winter",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hazelnuts_%28Corylus_avellana%29.jpg",
+        "caption": "Hazelnuts in their husks",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hazelnuts_%28Corylus_avellana%29.jpg",
-        "caption": "Hazelnuts in their husks",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Corylus_avellana_0007.JPG",
+        "caption": "Hazel catkins in winter",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       },
@@ -7803,6 +7803,12 @@
             "caption": "Elderberries — black, drooping clusters in autumn",
             "credit": "Wikimedia Commons",
             "licence": "CC BY-SA"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/00_3769_Schwarzen_Holunder_%28Sambucus_nigra%29.jpg",
+            "caption": "Elder — mature leaves and ripening elderberries on the branch",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
           }
         ]
       }
@@ -7818,6 +7824,12 @@
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/00_3775_Schwarzer_Hollunder_%28Sambucus_nigra%29.jpg",
         "caption": "Elderberries in autumn",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/00_3769_Schwarzen_Holunder_%28Sambucus_nigra%29.jpg",
+        "caption": "Elder — mature leaves and ripening elderberries on the branch",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       }
@@ -8506,6 +8518,12 @@
         "description": "Tiny four-petalled white flowers appear, followed by round paired seed-pods covered in hooked hairs. These stick firmly to fur, feathers, and clothing. Press one onto your sleeve and it won't come off easily.",
         "photos": [
           {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cleavers_%28Galium_Aparine%29_-_geograph.org.uk_-_434313.jpg",
+            "caption": "Cleavers scrambling up through hedgerow vegetation",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
             "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galium_aparine_flower.jpg",
             "caption": "Cleavers flowers — tiny white four-petalled flowers",
             "credit": "Wikimedia Commons",
@@ -8516,6 +8534,18 @@
     ],
     "similar_species": [],
     "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cleavers_%28Galium_Aparine%29_-_geograph.org.uk_-_434313.jpg",
+        "caption": "Cleavers scrambling up through hedgerow vegetation",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cleavers_%28Galium_Aparine%29_-_geograph.org.uk_-_434473.jpg",
+        "caption": "Cleavers — whorled leaves and sticky stems in natural habitat",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Galium_aparine_flower.jpg",
         "caption": "Cleavers — tiny white flowers and the sticky stems",
@@ -8896,14 +8926,7 @@
           12
         ],
         "description": "Fox scat is dark brown-black, 7–10cm long, twisted, and pointed at one end. It is deliberately placed on prominent spots — on top of molehills, on stones at path junctions, on fence posts. Look for fur, feathers, berry seeds, or beetle cases in the scat. Fresh scat has a distinctive strong foxy smell.",
-        "photos": [
-          {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
-            "caption": "Red Fox — see the Fox mammal entry for photos of the animal itself",
-            "credit": "Wikimedia Commons",
-            "licence": "CC BY-SA"
-          }
-        ]
+        "photos": []
       },
       {
         "stage_name": "Earth (Den)",
@@ -8918,14 +8941,7 @@
       }
     ],
     "similar_species": [],
-    "photos": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_fox_%28Vulpes_vulpes%29_-_geograph.org.uk_-_1812259.jpg",
-        "caption": "Red Fox — check the Fox card for animal photos",
-        "credit": "Wikimedia Commons",
-        "licence": "CC BY-SA"
-      }
-    ],
+    "photos": [],
     "verified": true,
     "date_added": "2026-05-29"
   },
@@ -9155,14 +9171,7 @@
           12
         ],
         "description": "Look in soft mud at field edges, pond margins, and path edges. Roe slots are small (3–4cm), heart-shaped, and pointed at the front. Compare with rabbit prints (four toes, no cloven hoof) and Fox prints (four toes with pads). A clean diagonal cut on nibbled vegetation indicates deer browsing (vs. ragged rabbit gnawing).",
-        "photos": [
-          {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor_2.jpg",
-            "caption": "Roe Deer — see the Roe Deer mammal card for photos of the animal",
-            "credit": "Wikimedia Commons",
-            "licence": "CC BY-SA"
-          }
-        ]
+        "photos": []
       },
       {
         "stage_name": "Fraying",
@@ -9197,14 +9206,7 @@
       }
     ],
     "similar_species": [],
-    "photos": [
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Roe_deer_%28Capreolus_capreolus%29_female_Cumnor.jpg",
-        "caption": "Roe Deer — see the Roe Deer mammal card for more",
-        "credit": "Wikimedia Commons",
-        "licence": "CC BY-SA"
-      }
-    ],
+    "photos": [],
     "verified": true,
     "date_added": "2026-05-29"
   },
@@ -11494,6 +11496,12 @@
         "description": "Look for bees with orange or yellow pollen packed into the pollen baskets on their hind legs — bright orange or yellow blobs on each back leg. Workers visit hundreds of flowers per foraging trip, transferring pollen between plants.",
         "photos": [
           {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Honeybee_landing_on_milkthistle02.jpg",
+            "caption": "Honey Bee landing — showing the fuzzy thorax and golden-brown colouring",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY-SA"
+          },
+          {
             "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Honey_Bee_%28Apis_mellifera%29_on_globe_thistle_%28Echinops%29%2C_Lemore_Manor%2C_Eardisley_-_geograph.org.uk_-_4116989.jpg",
             "caption": "Honey Bee foraging — note the orange pollen baskets on the hind legs",
             "credit": "Wikimedia Commons",
@@ -11518,6 +11526,12 @@
       }
     ],
     "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Honeybee_landing_on_milkthistle02.jpg",
+        "caption": "Honey Bee landing — showing the fuzzy thorax and golden-brown colouring",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY-SA"
+      },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Honey_Bee_%28Apis_mellifera%29_on_globe_thistle_%28Echinops%29%2C_Lemore_Manor%2C_Eardisley_-_geograph.org.uk_-_4116989.jpg",
         "caption": "Honey Bee foraging",
@@ -12099,8 +12113,8 @@
         "description": "Found under logs, stones, and damp bark year-round. When you find one, try gently touching a Pill Woodlouse (the round grey type) — it rolls into a perfect sphere in about half a second. Count the legs — 14 legs (7 pairs). Compare with a centipede nearby.",
         "photos": [
           {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%9C%D0%BE%D0%BA%D1%80%D0%B8%D1%86%D0%B0-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_-_Armadillidium_vulgare_-_%28Common%29_pill-bug%2C_%28Common%29_pill_woodlouse%2C_Roly-poly%2C_Doodle_bug%2C_or_Carpenter_%2834075599542%29.jpg",
-            "caption": "Pill Woodlouse (Armadillidium vulgare) — rolls into a perfect sphere when touched",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Armadillidium_vulgare.jpg",
+            "caption": "Pill Woodlouse (Armadillidium vulgare) — rolls into a perfect ball when touched",
             "credit": "Wikimedia Commons",
             "licence": "CC BY-SA"
           },
@@ -12116,8 +12130,8 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%9C%D0%BE%D0%BA%D1%80%D0%B8%D1%86%D0%B0-%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BE%D1%81%D0%B5%D1%86_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_-_Armadillidium_vulgare_-_%28Common%29_pill-bug%2C_%28Common%29_pill_woodlouse%2C_Roly-poly%2C_Doodle_bug%2C_or_Carpenter_%2834075599542%29.jpg",
-        "caption": "Pill Woodlouse",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Armadillidium_vulgare.jpg",
+        "caption": "Pill Woodlouse (Armadillidium vulgare) — rolls into a perfect ball when touched",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
       },

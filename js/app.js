@@ -407,8 +407,8 @@
     const primaryPhoto = s.photos && s.photos[0];
     const placeholder = SPECIES_PLACEHOLDERS[s.type] || SPECIES_PLACEHOLDERS.default;
 
-    const dangerBadge = s.danger_level !== 'low'
-      ? `<span class="badge badge-danger-${s.danger_level}">${s.danger_level === 'dangerous' ? '⚠ Dangerous' : '⚠ Caution'}</span>`
+    const dangerBadge = s.danger_level && s.danger_level !== 'none'
+      ? `<span class="badge badge-danger-${s.danger_level}">${(s.danger_level === 'high' || s.danger_level === 'dangerous') ? '⚠ Dangerous' : '⚠ Caution'}</span>`
       : '';
 
     const isSpotted = spotted[s.id];
