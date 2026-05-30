@@ -11381,7 +11381,14 @@
           12
         ],
         "description": "Creamy-white C-shaped grubs, up to 10cm long, found in rotting wood and soil. They spend 3–7 years underground eating dead wood before pupating. They are harmless and an important part of dead wood decomposition.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dorcus_parallelipipedus_456750903.jpg",
+            "caption": "Stag beetle family larva — large white C-shaped grub found in rotting wood and buried roots. Stag beetle larvae (Lucanus cervus) look identical to this. They can spend 3–7 years as a larva before emerging as an adult.",
+            "credit": "Wikimedia Commons",
+            "licence": "CC BY"
+          }
+        ]
       },
       {
         "stage_name": "Adult Male",
@@ -11443,6 +11450,12 @@
         "caption": "Stag Beetle female",
         "credit": "Wikimedia Commons",
         "licence": "CC BY-SA"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dorcus_parallelipipedus_456750903.jpg",
+        "caption": "Stag beetle family larva — large white C-shaped grub found in rotting wood and buried roots. Stag beetle larvae (Lucanus cervus) look identical to this. They can spend 3–7 years as a larva before emerging as an adult.",
+        "credit": "Wikimedia Commons",
+        "licence": "CC BY"
       }
     ],
     "verified": true,
