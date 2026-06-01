@@ -21654,5 +21654,2256 @@
         ]
       }
     ]
+  },
+  {
+    "id": "canada-goose",
+    "common_names": [
+      "Canada Goose"
+    ],
+    "latin_name": "Branta canadensis",
+    "type": "bird",
+    "native_status": "non-native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large goose with black head and neck and a distinctive white chinstrap patch. Brown body. Loud, honking 'ah-honk' call. Much larger than Brent Goose; the white chinstrap separates it from all other geese in Britain.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal",
+      "meadow"
+    ],
+    "summary": "The large brown goose with the black neck and white chinstrap — now one of the most familiar geese in Britain, though originally from North America. Canada Geese are year-round residents and occur in flocks at Sturt Pond and on the grassland behind Keyhaven.",
+    "full_description": "The Canada Goose (Branta canadensis) is now one of the most familiar and widespread geese in Britain, though it is a native of North America. Introduced to Britain as an ornamental bird for aristocratic estates from the 17th century onwards, it has since spread to become abundant throughout England. It is a large, impressive goose — one of the biggest waterfowl in Britain — with a long black neck and head, a bold white 'chinstrap' patch on the cheeks, and a warm brown body with pale underparts. The call is a loud, resonant 'ah-honk'. Canada Geese are highly gregarious and adaptable, colonising parks, lakes, reservoirs, estuaries and coastal grassland. At Milford-on-Sea, flocks are regularly seen on Sturt Pond and on the grazed grassland behind the sea wall, often mixing with Brent Geese and other wildfowl in winter. They can cause issues in some places due to overgrazing and fouling, but at natural estuarine sites like Keyhaven they are part of a healthy mixed wildfowl community.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Non-native. Introduced from North America as an ornamental species in the 17th century; now naturalised throughout Britain. UK population around 190,000 birds. Not protected under general wildlife legislation.",
+    "wildlife_value": "As large grazing birds, Canada Geese maintain short sward on coastal grassland. Their droppings fertilise grassland and water margins. They provide prey for foxes (eggs and goslings) and occasionally for larger raptors.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "Can cause localised overgrazing and fouling of grassland and water bodies in high densities. Not considered a major problem at natural coastal sites like Keyhaven.",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Black head and neck, white chinstrap, brown body. Loud honking call. Often in flocks on grassland or water. Nests from March.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 10,
+            "caption": "Canada Goose — black neck and white chinstrap are unmistakable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greylag-goose",
+    "common_names": [
+      "Greylag Goose"
+    ],
+    "latin_name": "Anser anser",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The archetypal 'farmyard goose'. Large and grey-brown with a big orange-pink bill and pink legs. Much paler and more uniform than other grey geese. Loud, resonant 'aahng-ang-ang' call.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10,
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal",
+      "meadow"
+    ],
+    "summary": "The ancestor of most domestic geese and the only grey goose that breeds widely in Britain. Greylags are year-round residents at many south coast sites, often in flocks with Canada Geese. The big orange bill and pale grey plumage distinguish them from all other grey geese.",
+    "full_description": "The Greylag Goose (Anser anser) is the ancestor of most domestic goose breeds and the largest and heaviest of the 'grey geese' found in Britain. It is a bulky, impressive bird with grey-brown plumage, pale grey wing panels very visible in flight, a large orange-pink bill, and pink legs — a combination unique among British geese. The call is loud and deep, the classic 'aahng-ang-ang' that most people associate with geese. Wild Greylags breed in Scotland and northern England, but most birds seen in southern England are feral or semi-feral birds, descended from reintroduced or escaped stock, now well-established and breeding at many sites. In autumn and winter they are joined by truly wild birds from Iceland. Greylag Geese are grazers of grassland and aquatic vegetation, often feeding in fields and on estuary edges. They regularly mix with Canada Geese at Keyhaven and Sturt Pond.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding species in Scotland and northern England; feral populations widespread throughout Britain from reintroductions. Also a winter visitor from Iceland. UK total population well over 100,000. Status: Green (UK BoCC).",
+    "wildlife_value": "Greylag Geese graze and maintain short sward on coastal grassland and estuary margins. Droppings fertilise grassland. Part of the mixed wintering wildfowl community important for the ecological character of Solent estuaries.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "brown",
+      "orange",
+      "pink",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Large pale grey-brown goose with big orange-pink bill and pink legs. Often in flocks on grassland and water. Loud classic 'aahng' call.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 11,
+            "caption": "Greylag Goose — orange-pink bill and pale grey plumage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gadwall",
+    "common_names": [
+      "Gadwall"
+    ],
+    "latin_name": "Mareca strepera",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Male: subtly beautiful grey duck with finely vermiculated grey plumage, black rear end, chestnut wing panel and a white speculum (wing patch) often visible at rest. Female: like a Mallard but slimmer with a white belly. Both show the white speculum in flight — the key feature.",
+    "months_visible": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "saltmarsh",
+      "coastal"
+    ],
+    "summary": "The understated beauty of the duck world — a grey duck that reveals extraordinary intricate patterning at close range. The Gadwall has increased significantly in Britain and is now a regular winter visitor to Keyhaven and Sturt Pond. The white speculum is the key feature to look for.",
+    "full_description": "The Gadwall (Mareca strepera) is one of the most underappreciated and subtle ducks in Britain. At a distance the male appears plain grey — easily overlooked among flashier Mallards and Teals — but close examination reveals extraordinarily intricate, finely vermiculated grey plumage, a deep chestnut-brown wing panel, and a bold black rear end. A white speculum (wing patch) is often visible at rest and is conspicuous in flight. The female is mottled brown like a Mallard but slimmer, with a whiter belly. The Gadwall has expanded as a breeding bird in Britain since the 1970s, and winter numbers have increased significantly. Birds from Iceland and northern Europe join British breeders to winter on sheltered estuaries and lagoons. Sturt Pond and the Keyhaven area regularly hold small numbers of Gadwall in winter, often overlooked among commoner ducks. They feed by dabbling and upending in shallow water, taking aquatic plants and invertebrates.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding resident (mainly south and east England) and winter visitor. UK breeding population around 1,200 pairs; increasing. Winter population around 25,000. Status: Amber (UK BoCC).",
+    "wildlife_value": "Gadwall are important consumers of aquatic vegetation and invertebrates in shallow water. Their feeding can help maintain open water by grazing submerged plant growth.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "brown",
+      "black",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Grey body with finely patterned plumage, black rear, chestnut wing, white speculum. Often overlooked among commoner ducks. Female resembles Mallard but slimmer with white belly.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gadwall-Anas-strepera.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 11,
+            "caption": "Male Gadwall — subtly beautiful grey duck; white speculum visible on wing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pintail",
+    "common_names": [
+      "Pintail",
+      "Northern Pintail"
+    ],
+    "latin_name": "Anas acuta",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Male: unmistakable elongated silhouette — long pointed tail pins, chocolate-brown head, white neck stripe running up to white breast, grey flanks. Female: pale brown, slimmer and longer-necked than Mallard. Both sexes very slender and elegant compared with other ducks.",
+    "months_visible": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "mudflat",
+      "saltmarsh"
+    ],
+    "summary": "One of the most elegant and graceful of all the ducks. The male Pintail's long tail pins and slim neck make it immediately distinguishable at any distance. A scarce winter visitor to Keyhaven — seeing a small group of Pintails on Sturt Pond in January is one of the highlights of a winter visit.",
+    "full_description": "The Pintail (Anas acuta) is widely regarded as the most elegant of all dabbling ducks. The male is striking: a warm chocolate-brown head with a thin white stripe running up the side of the neck into a bright white breast and belly, delicately grey-vermiculated flanks, and long, pointed central tail feathers ('pins') that project well beyond the rest of the tail, giving the bird its distinctive silhouette. In flight the wings show a bronze-green speculum bordered by white. The female is a warm buff-brown, slimmer and longer-necked than a female Mallard, with a pointed (not rounded) tail. Pintails are dabbling ducks that upend in shallow water to reach aquatic plants, seeds and invertebrates from the bottom. They breed very rarely in Britain (a few dozen pairs) and are primarily winter visitors from Iceland, Scandinavia and Russia — arriving at coastal estuaries from September onwards. Keyhaven and Sturt Pond occasionally attract small groups of Pintail in winter; they are always worth looking for among the commoner Teal and Wigeon flocks.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Rare breeding bird (around 10–30 pairs) in Britain; common winter visitor from Iceland and northern Europe. UK wintering population around 29,000 birds, concentrated on large estuaries. Status: Amber (UK BoCC).",
+    "wildlife_value": "Pintails exploit deep-water feeding niches through upending — their long neck allows them to reach food unavailable to shorter-necked ducks. They are part of the wintering wildfowl community that characterises productive estuaries.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "white",
+      "grey",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male (Winter)",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Long pointed tail pins, chocolate head, white neck stripe. The most elegant duck in Britain. Upends in shallow water. Often in small groups among Teal and Wigeon.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male (Winter)",
+            "month_taken": 12,
+            "caption": "Northern Pintail pair — male's long tail pins and elegant silhouette are unmistakable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shoveler",
+    "common_names": [
+      "Shoveler",
+      "Northern Shoveler"
+    ],
+    "latin_name": "Spatula clypeata",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The enormous, spatula-shaped bill is unmistakable — broader at the tip than at the base, and as long as the head. Male: dark green head, white breast, chestnut flanks, blue wing panel. Female: mottled brown. Always looks front-heavy due to the bill. Feeds by swimming with head low and bill in the water.",
+    "months_visible": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "saltmarsh",
+      "mudflat"
+    ],
+    "summary": "A duck that's impossible to misidentify once you've seen the enormous spatula bill — as wide at the tip as the head itself. Shovelers winter at Keyhaven and Sturt Pond, swimming slowly with bill submerged, filter-feeding on tiny invertebrates and plant material from the water.",
+    "full_description": "The Shoveler (Spatula clypeata) is named for its extraordinary bill — the most distinctive bill of any British duck. It is enormous and spatula-shaped, much wider at the tip than at the base, lined with fine comb-like lamellae that filter tiny organisms and plant particles from the water. The bird's front-heavy silhouette with the bill pointing slightly downward is unique and unmistakable. The male is handsomely coloured: dark iridescent green head, white breast, rich chestnut flanks, sky-blue forewing panel. The female is mottled brown. Both are immediately identified by that extraordinary bill. Shovelers feed by swimming slowly with bill held in or just below the water surface, filter-feeding on tiny crustaceans, invertebrate larvae, seeds and algae — food items too small for other ducks. They breed in small numbers in Britain and are much more numerous as winter visitors from northern and eastern Europe. Keyhaven Marshes and Sturt Pond are regular winter sites for small flocks.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding bird (around 700 pairs) in Britain; abundant winter visitor from Iceland and northern Europe. UK wintering population around 18,000 birds. Status: Amber (UK BoCC).",
+    "wildlife_value": "Shovelers are highly efficient filter-feeders that exploit tiny food particles inaccessible to other ducks. Their feeding activity helps maintain water clarity by consuming algae and phytoplankton. Important component of wintering wildfowl communities.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "white",
+      "brown",
+      "blue",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male (Winter)",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Enormous spatula bill, green head, white breast, chestnut flanks. Swims with bill submerged, filter-feeding. Always looks front-heavy. Unmistakable once seen.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Northern_shoveler_%28Spatula_clypeata%29_male_Marken.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male (Winter)",
+            "month_taken": 12,
+            "caption": "Male Northern Shoveler — the enormous spatula-shaped bill is unmistakable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pochard",
+    "common_names": [
+      "Pochard",
+      "Common Pochard"
+    ],
+    "latin_name": "Aythya ferina",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Male: distinctive tricolour pattern — rich chestnut-red head, black breast, pale grey body. Female: brownish with a pale face and blue-grey bill. Dives repeatedly. Rides low in the water. Grey wing stripe in flight.",
+    "months_visible": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal"
+    ],
+    "summary": "A handsome diving duck, the male's chestnut-red head unmistakable against the grey body. Pochard has declined seriously as a breeding bird in Britain; the birds at Keyhaven in winter are mainly visitors from eastern Europe. One of the diving ducks to look for on Sturt Pond.",
+    "full_description": "The Pochard (Aythya ferina) is a medium-sized diving duck with a distinctive, rounded profile and a steeply sloped forehead. The male is attractively patterned: a rich chestnut-red head and neck contrast with a black breast and tail, and a pale silvery-grey body. The eye is red. The female is drab grey-brown with a pale face and a blue-grey bill with a dark band. Pochards dive to reach aquatic plants and invertebrates on the bed of ponds and lakes. They are typically seen in flocks on open water, often among Tufted Ducks. The Pochard has undergone a serious decline in Britain as a breeding bird — down by over 50% since the 1990s — due to changes in wetland habitats. In winter, British birds are supplemented by large influxes from eastern Europe and Russia. Sturt Pond and the sheltered waters around Keyhaven are suitable wintering habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding bird in small numbers (around 250 pairs); abundant winter visitor from eastern Europe. UK wintering population around 48,000 birds. Status: Red (UK BoCC) as breeding bird due to severe decline.",
+    "wildlife_value": "Pochard dive for aquatic plants and invertebrates unavailable to dabbling ducks, contributing to the ecological diversity of wintering wildfowl communities. As declining species, their presence is a marker of high-quality wintering wetland habitat.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "brown",
+      "black",
+      "grey",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male (Winter)",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Chestnut-red head, black breast and tail, pale grey body. Dives repeatedly. Often in flocks with Tufted Ducks on sheltered water.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Common_Pochard_2025_11_15_04.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male (Winter)",
+            "month_taken": 12,
+            "caption": "Male Common Pochard — chestnut head, black breast, pale grey body"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goosander",
+    "common_names": [
+      "Goosander",
+      "Common Merganser"
+    ],
+    "latin_name": "Mergus merganser",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Large, long-bodied diving duck with a long, thin, serrated red bill. Male: dazzling white body (with pink tinge), dark green head, red bill. Female: grey body, chestnut-red head with shaggy crest, red bill. The long thin bill immediately distinguishes it from other ducks.",
+    "months_visible": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "peak_months": [
+      12,
+      1,
+      2
+    ],
+    "weather_flag": true,
+    "weather_note": "Hard weather inland pushes Goosanders to sheltered coastal waters in larger numbers.",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal"
+    ],
+    "summary": "A large, handsome 'sawbill' duck that occasionally visits the Solent and Keyhaven in winter. The male's gleaming white body and dark green head are spectacular. Goosanders use their serrated bills to grip slippery fish caught by diving in rivers and sheltered coastal waters.",
+    "full_description": "The Goosander (Mergus merganser) is the largest of the British sawbill ducks — long, streamlined birds with narrow, serrated red bills designed for catching and gripping slippery fish. The male in winter is spectacular: a deep, iridescent dark green head, a pinkish-white body, red bill and red feet. The female has a warm chestnut-red head with a shaggy double crest, grey body and the same red serrated bill. Goosanders breed on upland rivers and lakes in Scotland, northern England and Wales, nesting in tree holes or rock crevices. In winter, birds from northern Europe join British birds and move to larger rivers, reservoirs and sheltered coastal waters. They can occasionally be seen in the Solent and at Keyhaven in cold winters, diving powerfully to pursue fish underwater. Cold spells inland push birds coastwards. The serrated bill — which gives Goosanders and their relatives the name 'sawbills' — is extremely effective at gripping fish, and the birds are sometimes controversial near fisheries.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding bird in upland Britain (around 3,500 pairs); winter visitor to lowland rivers and coasts. Status: Green (UK BoCC). Has expanded southwards as a breeding bird over the past 50 years.",
+    "wildlife_value": "Goosanders are apex fish predators in freshwater and estuarine systems, consuming salmon parr, trout, eels and other fish. As top piscivores, they are important indicators of healthy fish populations.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "green",
+      "red",
+      "grey",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Gleaming white body, dark green head, narrow red serrated bill. Long and streamlined. Dives powerfully for fish. Occasional visitor to sheltered coastal waters in cold winters.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mergus_merganser_merganser_2078_%285561922560%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 1,
+            "caption": "Goosander — gleaming white body, dark green head, serrated red bill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "red-breasted-merganser",
+    "common_names": [
+      "Red-breasted Merganser"
+    ],
+    "latin_name": "Mergus serrator",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Medium-large sawbill duck with a long, thin, serrated red bill. Male: dark green spiky double crest, white collar, chestnut-red streaked breast, grey flanks. Female: chestnut-red head with shaggy double crest, grey-brown body. More likely than Goosander in coastal/estuarine habitats.",
+    "months_visible": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "peak_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal",
+      "mudflat"
+    ],
+    "summary": "The coastal sawbill — more likely than Goosander in Solent waters. Red-breasted Mergansers winter regularly in the Keyhaven–Hurst Spit area, hunting fish in the shallows. The male's wild, spiky double crest and ornate breast markings make it one of the most distinctive ducks on the coast.",
+    "full_description": "The Red-breasted Merganser (Mergus serrator) is a medium-large diving duck and one of the most distinctively-plumaged birds of the British coast in winter. The male has an extraordinary appearance: a dark iridescent green head with a wild, shaggy double crest that points backwards, a white collar, a rich chestnut-red streaked breast, grey flanks, and a long, thin, serrated orange-red bill. The female has a chestnut-red head with a similarly shaggy double crest and a grey-brown body. Unlike the Goosander (which prefers freshwater), the Red-breasted Merganser is distinctly coastal in winter, favouring sheltered estuaries, harbours and inshore waters. It is a regular winter visitor to the Solent, with birds occurring around Hurst Spit, Keyhaven Harbour and the inshore waters of the area. It dives energetically for fish — particularly gobies, flounder and small eels — using its serrated bill to grip them. Pairs and small groups often engage in cooperative hunting, herding fish into the shallows.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding bird in Scotland, northern England, Ireland and Wales (around 2,500 pairs); winter visitor to coasts. More coastal than Goosander in winter. Status: Amber (UK BoCC).",
+    "wildlife_value": "Red-breasted Mergansers are efficient coastal fish predators, hunting in shallow inshore waters. Their cooperative hunting behaviour is unusual among British ducks. They are indicators of productive inshore fish communities.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "white",
+      "red",
+      "brown",
+      "grey",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4
+        ],
+        "description": "Spiky double crest, green head, white collar, streaked chestnut breast, thin red bill. Dives for fish in coastal shallows. More likely in Solent waters than Goosander.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 12,
+            "caption": "Male Red-breasted Merganser — wild spiky crest and ornate plumage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "great-crested-grebe",
+    "common_names": [
+      "Great Crested Grebe"
+    ],
+    "latin_name": "Podiceps cristatus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest grebe. Elegant long neck, dagger-like pale bill. Summer: spectacular chestnut-and-black frilled head plumes and a black crest. Winter: white face and neck, black cap, brown upperparts. Dives repeatedly. Famous for its extraordinary mutual courtship dance.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "coastal"
+    ],
+    "summary": "Britain's largest and most spectacular grebe. Year-round on Sturt Pond and the Solent, with numbers peaking in winter. Once hunted to near-extinction for its ornate head feathers, its recovery became one of the earliest victories of the conservation movement. The mutual courtship dance is extraordinary.",
+    "full_description": "The Great Crested Grebe (Podiceps cristatus) is Britain's largest grebe and one of its most elegant waterbirds. In summer breeding plumage it is magnificent: a long, pale, sinuous neck, white face, and spectacular ornamental head plumes — a black double crest on the crown and orange-chestnut frills on the cheeks, used in the elaborate mutual courtship ceremonies that made this bird famous. In winter the head plumes are lost and the bird becomes plainer — white face and throat, dark cap, brown upperparts — but the long neck and dagger-like pale bill are always distinctive. Great Crested Grebes were reduced to perhaps 40 pairs in Britain by 1860, having been hunted almost to extinction for their ornate head feathers, which were used to trim ladies' hats. Their subsequent recovery became one of the pivotal stories in British conservation, helping inspire the founding of the Royal Society for the Protection of Birds (RSPB) in 1889. The species has since recovered to around 5,000 pairs. In winter, coastal birds from mainland Europe join British residents, and the Solent holds good numbers. Sturt Pond and the inshore Solent waters are regular sites for Great Crested Grebes year-round.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native resident; also a winter visitor from northern Europe. UK breeding population around 5,000 pairs — fully recovered from near-extinction in the 19th century. Status: Green (UK BoCC). Helped inspire the founding of the RSPB.",
+    "wildlife_value": "Great Crested Grebes are important predators of medium-sized fish and aquatic invertebrates in lakes and sheltered coastal waters. The young are carried on the parents' backs — a behaviour that has charmed naturalists for centuries.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "brown",
+      "black",
+      "orange",
+      "red"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Breeding Adult",
+        "months_typical": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "description": "Spectacular orange-chestnut frills and black crest. Elaborate mutual head-shaking and weed-offering courtship dance — one of the great wildlife displays. Long pale neck, dagger bill.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Podiceps_cristatus_2_-_Lake_Dulverton.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Breeding Adult",
+            "month_taken": 4,
+            "caption": "Great Crested Grebe in breeding plumage — spectacular head plumes used in courtship"
+          }
+        ]
+      },
+      {
+        "stage_name": "Winter Adult",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2
+        ],
+        "description": "Plain white face and neck, dark cap, brown back. Long neck and pale dagger bill still distinctive. Dives repeatedly for fish in sheltered coastal waters and Sturt Pond.",
+        "photos": []
+      }
+    ]
+  },
+  {
+    "id": "shag",
+    "common_names": [
+      "Shag",
+      "European Shag"
+    ],
+    "latin_name": "Gulosus aristotelis",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Like a Cormorant but smaller, with a more rounded head, steeper forehead, thin neck and a bottle-green gloss (not bronze-green) to the black plumage. In spring, adults develop a distinctive upright curly crest on the forehead. Yellow gape (not orange). Never shows white face patch.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "estuary"
+    ],
+    "summary": "A smaller, sleeker relative of the Cormorant that favours rocky, clearer-water coasts. Shags occur in the Solent and around Hurst Spit, mainly in winter. The steep forehead, all-dark plumage without white patches, and green gloss are the key features. In spring, a distinctive curly crest develops.",
+    "full_description": "The Shag (Gulosus aristotelis) is closely related to the Cormorant but is a distinctly different bird in appearance, behaviour and habitat preference. It is smaller — more lightly built — with a steeper, more rounded forehead, a thinner neck and an iridescent dark bottle-green sheen to the black plumage (Cormorant's is bronze-green). Crucially, the Shag never shows the white face patch or white thigh patches of the breeding Cormorant, and the gape is yellow rather than orange. In the breeding season (February–March), adults develop a distinctive, recurved curly crest on the forehead — one of the most charming features of any British seabird. Shags prefer clear, rocky coastal waters where they can hunt fish by diving, and they are less tolerant of murky estuarine conditions than Cormorant. In the Solent, Shags occur mainly in autumn and winter around the rocky structures of Hurst Castle, Hurst Spit and the inshore waters between Milford and the Isle of Wight. They are less numerous than Cormorants in this area. Shags suffered a significant wreck event in 2021–22 when thousands died, and populations in some areas have not yet recovered.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native coastal breeding bird on rocky coasts; less widespread than Cormorant. UK breeding population around 27,000 pairs, mainly on north and west coasts. Status: Amber (UK BoCC). Suffered significant population crash in 2021–22 wreck.",
+    "wildlife_value": "Shags are important fish predators in clear coastal waters, particularly of sand eels, sprats and small gadoids. They nest on cliff ledges in dense colonies, contributing to nutrient cycling through guano deposition.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "green",
+      "yellow"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "All dark with bottle-green gloss; no white patches (unlike Cormorant). Steeper forehead, yellow gape. Spring birds develop a curly crest. Dives in clearer inshore waters.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Shag_Phalacrocorax_aristotelis.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 3,
+            "caption": "European Shag — steeper forehead and all-dark plumage distinguish it from Cormorant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cattle-egret",
+    "common_names": [
+      "Cattle Egret",
+      "Western Cattle Egret"
+    ],
+    "latin_name": "Bubulcus ibis",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Small, stocky, all-white egret with a short yellow-orange bill and a hunched posture. Smaller and chunkier than Little Egret, with a shorter neck. In breeding plumage, buff-orange plumes on crown, breast and back. Often seen in fields with livestock, not water.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      9,
+      10,
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow",
+      "estuary"
+    ],
+    "summary": "A small white egret with an extraordinary global success story — originally an African species, it has colonised every continent except Antarctica in the last 100 years and is now breeding in Britain for the first time. Increasingly seen in fields around Milford and Keyhaven, often following cattle or tractors.",
+    "full_description": "The Cattle Egret (Bubulcus ibis) has one of the most remarkable colonisation stories of any bird. Originally native to Africa, Asia and southern Europe, it has spread across the Americas, Australia and now Britain through its own natural range expansion — following cattle, tractors and mowing machines to catch disturbed invertebrates. It is smaller and stockier than the Little Egret, with a shorter neck, a hunched posture, yellow-orange bill and yellow legs (not black like Little Egret). In breeding plumage it develops buff-orange plumes on the crown, breast and back, and the bill and legs flush orange-red. Cattle Egrets first nested in Britain in Somerset in 2008. Since then breeding colonies have established in several southern English counties, and the species is now a regular sight around south Hampshire. Around Milford-on-Sea, Cattle Egrets are seen increasingly often in fields alongside roads, following cattle or tractors, and occasionally on the saltmarsh edges. Numbers increase in autumn and winter as continental birds join British residents.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Recent natural colonist — first bred in Britain 2008. UK breeding population growing rapidly, now around 100–200 pairs in southern England. Status: formally a vagrant now considered a regular breeding bird. Range expansion driven by climate change and spread of cattle farming.",
+    "wildlife_value": "Cattle Egrets consume large quantities of insects, earthworms and small vertebrates disturbed by livestock and farm machinery. Their association with cattle and horses is a mutual benefit — they remove ticks and flies from animals as well as feeding on disturbed prey.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "yellow",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Small, stocky, all-white egret. Short yellow-orange bill. Hunched posture. Breeding birds have orange-buff plumes. Usually in fields near livestock rather than at water. Increasingly seen around Milford.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cattle_Egret_in_breeding_plumage%2C_Wakodahatchee_Wetlands.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Cattle Egret in breeding plumage — buff-orange crown and breast plumes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glossy-ibis",
+    "common_names": [
+      "Glossy Ibis"
+    ],
+    "latin_name": "Plegadis falcinellus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Heron-sized dark bird with a long, strongly downcurved bill. At distance appears all dark; close up, spectacular iridescent chestnut, bronze and green sheen in good light. Flies with neck outstretched and with regular wingbeats (unlike herons which fold the neck). An exciting find at any coastal site.",
+    "months_visible": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "mudflat",
+      "saltmarsh"
+    ],
+    "summary": "An increasingly regular visitor to the south coast and a genuine rarity to get excited about. Glossy Ibises have expanded from their Mediterranean and African strongholds and are now seen at Keyhaven and Lymington almost annually, probing the mud with their scimitar bill.",
+    "full_description": "The Glossy Ibis (Plegadis falcinellus) is a striking and increasingly regular visitor to the south coast of England. It is a heron-sized wading bird that appears all-dark at a distance, but in good light reveals extraordinary iridescent plumage: the head and neck are chestnut-brown, the body dark glossy green and bronze, with purple and green reflections on the wings. The bill is long, strongly downcurved like a scimitar, used to probe into soft mud and shallow water for invertebrates, frogs, small fish and crayfish. Unlike herons, ibises fly with the neck outstretched (not folded). The Glossy Ibis breeds across the Mediterranean, sub-Saharan Africa and Asia, and has been expanding northwards in Europe. It was a rare vagrant to Britain until the 2000s; since then it has been recorded with increasing frequency, particularly in autumn, as birds disperse from expanding continental populations. Keyhaven Marshes and the Lymington estuary have attracted Glossy Ibises most years since around 2012, and small flocks have occasionally wintered. This is one of the most exciting species to watch for at Keyhaven.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Formerly a rare vagrant; now a regular visitor and occasional winter visitor to south England. Breeds Mediterranean, Africa and Asia; expanding northwards in Europe. Small numbers have recently bred in the Netherlands and possibly UK. Not yet on the British breeding list.",
+    "wildlife_value": "Glossy Ibises probe deeply into estuary mud for invertebrates unavailable to most other species. As expanding colonisers, they represent a changing ecological community in response to climate change.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "green",
+      "black",
+      "purple"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Dark, heron-sized bird with strongly downcurved bill. Iridescent chestnut, bronze and green in good light. Probes mud energetically. Flies with neck outstretched. An exciting find at Keyhaven.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Glossy_ibis.png",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 9,
+            "caption": "Glossy Ibis — iridescent dark plumage and strongly downcurved bill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snipe",
+    "common_names": [
+      "Snipe",
+      "Common Snipe"
+    ],
+    "latin_name": "Gallinago gallinago",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "Cryptically streaked brown wader almost invisible in vegetation. Key feature: extraordinarily long, straight bill (proportionally the longest of any British wader — about 7cm, nearly a third of body length). Bold golden-buff stripes on the back and a striped head. Usually explodes from underfoot with a harsh 'scaap!' call, zigzagging rapidly.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": true,
+    "weather_note": "Cold weather concentrates Snipe at unfrozen water margins, making them easier to observe. In hard frosts many move to coastal saltmarsh.",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh",
+      "wetland",
+      "estuary"
+    ],
+    "summary": "A master of camouflage — Snipe are almost impossible to spot in long vegetation until they explode from underfoot with a harsh 'scaap!' and erratic zigzag flight. Saltmarsh and the damp margins at Keyhaven hold Snipe year-round. The extraordinary bill — nearly a third of body length — can detect worms by touch.",
+    "full_description": "The Common Snipe (Gallinago gallinago) is one of Britain's most cryptic wading birds — a master of camouflage that can be standing right in front of you and remain invisible until it launches into the air. The plumage is a richly patterned mix of rufous-brown, black, chestnut and buff — perfectly matching dead vegetation and wet mud. The head has four bold buff-cream stripes running down the crown and face. The most remarkable feature is the bill: enormously long, straight, and extremely sensitive at the tip, with flexible nerve endings that allow the bird to detect worms, insect larvae and other invertebrates in soft mud by touch — without seeing them. Snipe probe deeply into wet soil and mud, jabbing the bill in repeatedly. When alarmed, they burst from cover with a loud 'scaap!' and immediately begin a rapid, erratic zigzag flight that makes them extremely difficult to follow. They breed on damp moorland and bog in northern Britain; in winter, birds from Scandinavia and Iceland join local birds on saltmarshes, wet grassland and estuary margins. Keyhaven's saltmarsh and damp ground hold Snipe year-round, with numbers highest in autumn and winter.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding bird and winter visitor. UK breeding population around 80,000 pairs, mainly upland. Declining due to loss of wet meadows. Status: Red (UK BoCC). Winter population boosted by Icelandic and Scandinavian birds.",
+    "wildlife_value": "Snipe are important predators of earthworms, insect larvae and other soil invertebrates in wet habitats. Their deep probing helps aerate and structure waterlogged soils. As cryptic ground birds, they are indicators of undisturbed saltmarsh and wet grassland quality.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "black",
+      "buff",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Extraordinarily cryptic streaked brown plumage — almost invisible in vegetation. Very long bill. Usually seen only when flushed — explodes with 'scaap!' and zigzag flight. Probes into soft mud at low tide and in damp saltmarsh.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Common_snipe_%28Gallinago_gallinago%29_2022.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 11,
+            "caption": "Common Snipe — cryptic streaked plumage and extraordinary long bill"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bar-tailed-godwit",
+    "common_names": [
+      "Bar-tailed Godwit"
+    ],
+    "latin_name": "Limosa lapponica",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Similar to Black-tailed Godwit but key differences: no white wing bar in flight (Black-tailed has a bold wing bar); tail barred brown-and-white (not black and white); slightly upturned pink bill; shorter legs. In flight also shows a white V on rump. Largely plain grey-brown in winter.",
+    "months_visible": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "peak_months": [
+      9,
+      10,
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "mudflat",
+      "estuary",
+      "coastal"
+    ],
+    "summary": "One of the world's great long-distance migrants — the Bar-tailed Godwit undertakes the longest non-stop flight of any bird, flying 12,000km from Alaska to New Zealand without stopping. The birds seen at Keyhaven in winter are from Arctic Russia, wintering on south coast estuaries after a gruelling Atlantic crossing.",
+    "full_description": "The Bar-tailed Godwit (Limosa lapponica) holds one of nature's most remarkable records: the longest non-stop bird migration ever recorded — a Bar-tailed Godwit tagged in Alaska (subspecies baueri) flew 12,854km non-stop to New Zealand, taking 11 days. The birds that winter at Keyhaven are of the European subspecies (L. l. lapponica), which breeds on the tundra of Arctic Norway and Russia and migrates to winter on western European estuaries — a journey of 4,000–5,000km. In winter plumage the Bar-tailed Godwit is a fairly plain grey-brown wader, distinguished from the similar Black-tailed Godwit by: no white wing bar in flight; a barred (not black) tail; shorter legs; a slightly upturned (not straight) bill; and a white V-shaped rump patch. In summer it transforms dramatically — the underparts flush deep brick-red. Bar-tailed Godwits feed by probing deeply in mud for ragworms and lugworms. They tend to prefer open, sandy or muddy estuaries rather than the deeper channels used by Black-tailed Godwit.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Non-breeding winter visitor from Arctic Norway and Russia. UK wintering population around 55,000 birds. Status: Amber (UK BoCC). Closely related Alaskan subspecies makes the longest non-stop migration of any bird.",
+    "wildlife_value": "Bar-tailed Godwits are important predators of deep-burrowing ragworms and lugworms on sandy estuaries. As long-distance Arctic migrants, they represent a critical link between the UK's estuaries and Arctic breeding grounds.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "peregrine"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "grey",
+      "white",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Non-breeding Adult",
+        "months_typical": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "Plain grey-brown with slightly upturned bill, shorter-legged than Black-tailed Godwit. No wing bar in flight. Probes sandy mud for deep-buried invertebrates. Often in flocks on open estuarine mudflat.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bar-tailed_Godwit.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Non-breeding Adult",
+            "month_taken": 10,
+            "caption": "Bar-tailed Godwit — slightly upturned bill; no white wing bar distinguishes it from Black-tailed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "buzzard",
+    "common_names": [
+      "Buzzard",
+      "Common Buzzard"
+    ],
+    "latin_name": "Buteo buteo",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Britain's most common large raptor. Broad, rounded wings with a short tail. Typically brown above with pale underparts and a pale breast band forming a pale 'U'. Highly variable — some birds very pale, others very dark. Soars on broad, slightly raised wings in a shallow V (dihedral). Mewing 'pee-oo' call.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow",
+      "woodland-edge"
+    ],
+    "summary": "Britain's most numerous bird of prey and a year-round presence at Milford. Buzzards are regularly seen soaring over the heathland, farmland and coastal scrub around the village on broad, rounded wings. Their mewing call — often compared to a cat — is one of the characteristic sounds of the Hampshire countryside.",
+    "full_description": "The Buzzard (Buteo buteo) is now Britain's most common and widespread large bird of prey, having recovered dramatically from persecution during the 20th century. It is a medium-to-large raptor with broad, rounded wings, a relatively short, rounded tail, and highly variable plumage — ranging from very pale (almost white below) to very dark brown, but typically brown above with a pale breast and a pale band across the belly. In flight the wings are held in a shallow V-shape (dihedral). Buzzards soar effortlessly on thermals, circling high above open countryside; they are expert soarers and can spend hours aloft. The call is a plaintive, mewing 'pee-oo' that drifts down from high overhead. Despite their size, Buzzards are not specialist bird hunters: they eat rabbits, voles, earthworms (in wet fields), carrion and beetles. Around Milford-on-Sea they are regularly seen soaring over Studland Common, the farmland behind the sea wall, and the wooded areas of Sharvells Copse. The expansion of the Buzzard across southern England over the last 30 years is one of the great conservation successes.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native resident. UK population has recovered from severe persecution to around 70,000–80,000 pairs — now Britain's most common large raptor. Status: Green (UK BoCC). Expanding southwards after decades of persecution reduced it to western strongholds.",
+    "wildlife_value": "Buzzards are important predators of rabbits, voles and other small mammals, helping regulate populations. They also consume significant quantities of earthworms and carrion, playing a scavenging role.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "white",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Broad rounded wings, short tail, variable brown plumage. Soars on thermals with wings held in a shallow V. Mewing 'pee-oo' call. Year-round over fields and coastal scrub at Milford.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 4,
+            "caption": "Common Buzzard — broad rounded wings held in characteristic shallow V when soaring"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yellow-wagtail",
+    "common_names": [
+      "Yellow Wagtail"
+    ],
+    "latin_name": "Motacilla flava",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Slim, long-tailed wagtail. Male: bright yellow underparts, olive-green back, grey-blue head with a yellow supercilium. Female: duller, paler yellow. Constantly wags tail. Calls a loud 'tsweep'. Usually seen in fields near cattle or on saltmarsh in spring and autumn passage.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      4,
+      5,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh",
+      "meadow",
+      "coastal"
+    ],
+    "summary": "A vivid yellow summer visitor, passing through Milford in spring and autumn on its way between West Africa and English meadows. The male's brilliant yellow plumage is unmistakable in spring. Yellow Wagtails have declined dramatically in Britain — seeing them on the Milford saltmarsh edge in August is special.",
+    "full_description": "The Yellow Wagtail (Motacilla flava) is one of the brightest and most beautiful small migrants to visit the British coast on passage. The male in spring is striking: vivid lemon-yellow underparts, olive-green back, and a grey-blue head with a yellow supercilium and throat — a colour combination that seems almost tropical. The female is duller, with paler yellow underparts. Like all wagtails it is slender and long-tailed, and constantly bobs its tail when walking. The call — a loud, upward-inflected 'tsweep' or 'tswee' — is often the first sign of birds overhead during migration. Yellow Wagtails breed on wet meadows, grazing marsh and farmland across lowland England, and winter in sub-Saharan Africa. In spring (April–May) they pass through on their way north to breed; in late summer (August–September) they move south again. The fields and saltmarsh edges around Milford and Keyhaven are classic Yellow Wagtail habitat on passage — birds feed around cattle and along tide margins, picking flies disturbed by grazing animals. The species has declined severely as a British breeding bird — down by nearly 70% since the 1970s — due to loss of wet meadow habitats.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Summer visitor and passage migrant. UK breeding population has declined severely — now around 15,000 pairs, down from historic highs. Status: Red (UK BoCC). Winters in West Africa.",
+    "wildlife_value": "Yellow Wagtails consume large quantities of flies, midges and small invertebrates on grazed grassland and saltmarsh edges. As insectivores dependent on wet meadows, their decline is an indicator of the loss of grazing marsh habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "yellow",
+      "green",
+      "grey",
+      "blue"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Brilliant yellow underparts, olive-green back, blue-grey head. Constantly wags tail. Feeds around cattle on fields and saltmarsh edges. Spring passage April–May; autumn passage August–September.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wiesenschafstelze.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 5,
+            "caption": "Male Yellow Wagtail — vivid yellow underparts, blue-grey head, long wagging tail"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "purple-loosestrife",
+    "common_names": [
+      "Purple Loosestrife"
+    ],
+    "latin_name": "Lythrum salicaria",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tall (1–2m), upright spikes of vivid magenta-purple flowers with 5–7 wrinkled petals. Square, reddish stems. Lance-shaped leaves in opposite pairs or whorls of three. Grows in dense stands at water margins, ditches and damp ground. Flowers July–September.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "reedbed"
+    ],
+    "summary": "One of the most spectacular wildflowers of wet habitats — tall spikes of vivid magenta-purple flowers dominating the banks of the Danes Stream and the ditches behind Keyhaven sea wall in July and August. A major nectar source for bumblebees, butterflies and other pollinators.",
+    "full_description": "Purple Loosestrife (Lythrum salicaria) is one of the most beautiful wildflowers of British wetlands — tall, upright spikes of vivid magenta-purple flowers that dominate the banks of rivers, ditches, fens and coastal freshwater margins from July to September. Plants can reach 2m tall, with square, slightly reddish stems and lance-shaped leaves in opposite pairs or whorls of three. The flowers are densely arranged on long spikes; each individual flower has 5–7 crinkled petals of deep magenta-purple. One of the plant's most interesting features is its 'tristylous' flower structure: there are three different flower forms, with stamens and styles of different lengths, which ensures cross-pollination between different plants. Purple Loosestrife is an excellent nectar source for bumblebees, butterflies (especially Peacock, Red Admiral and Small Tortoiseshell), hoverflies and other insects. Along Danes Stream and the freshwater ditches and drainage channels behind the Keyhaven sea wall, Purple Loosestrife forms dense, striking stands that colour the bankside purple in high summer. In North America (where it was introduced) it has become a serious invasive species, but in its native British range it is a valued component of wetland habitats.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to wetlands throughout Britain, widespread in England and Wales. Not threatened in its native range. An invasive species in North America but valued as a native wildflower in Europe.",
+    "wildlife_value": "Purple Loosestrife flowers are extremely rich in nectar and pollen, attracting a wide range of bees, butterflies and hoverflies. Important for bumblebees in mid-summer. Dense stands provide nesting cover and invertebrate habitat at water margins.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "red-admiral",
+      "peacock-butterfly",
+      "honey-bee"
+    ],
+    "food_source_for": [
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Tall (1–2m) upright spikes of vivid magenta-purple flowers. Covered with bumblebees and butterflies. One of the most spectacular wildflower displays at water margins. Square reddish stems.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Lythrum_salicaria_-_harilik_kukesaba.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 8,
+            "caption": "Purple Loosestrife in full flower — tall magenta spikes at a water margin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "water-mint",
+    "common_names": [
+      "Water Mint"
+    ],
+    "latin_name": "Mentha aquatica",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Round, fluffy lilac-pink flower heads at the top of reddish stems. Oval, toothed leaves on reddish stalks. Strongly and distinctly mint-scented — crush a leaf to confirm immediately. Grows in dense patches at water margins, ditches and wet ground.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "reedbed"
+    ],
+    "summary": "Crush a leaf and the intense fresh mint scent immediately identifies this plant. Water Mint grows along the banks of Danes Stream and the freshwater ditches at Keyhaven, filling the air with scent on warm summer days. It is the parent of many of our culinary mint varieties.",
+    "full_description": "Water Mint (Mentha aquatica) is the native wild mint of British wetlands, growing at the margins of streams, ditches, ponds and damp ground throughout the country. It is identified by its fluffy, rounded lilac-pink flower heads (more rounded than the cylindrical spikes of garden mints), its oval, toothed leaves with reddish stalks, and above all by its strongly minty smell — crushing even a small leaf releases a powerful, fresh, instantly recognisable mint scent. The stems are often reddish-purple. Plants grow 30–60cm tall in dense patches, spreading by creeping underground stems. Water Mint flowers from July to October, and the dense flower heads are heavily visited by bumblebees, honey bees, hoverflies and butterflies. Water Mint is the parent species (one of three parents) of the familiar culinary Peppermint (Mentha × piperita) and Spearmint. Along Danes Stream and the wet ditches and channels behind the Keyhaven sea wall, Water Mint grows in dense, aromatic stands, making summer walks along the stream particularly fragrant.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Common native of wetlands throughout the British Isles. Widespread in England and Wales. Not threatened. The parent species of Peppermint and Spearmint.",
+    "wildlife_value": "Water Mint flowers provide nectar for a wide range of pollinators including bumblebees, honey bees and hoverflies. Dense stands provide bankside cover for frogs, newts, voles and invertebrates. The scent may deter some invertebrate pests.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee",
+      "red-admiral"
+    ],
+    "food_source_for": [
+      "common-frog"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "pink",
+      "lilac"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "red",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Round lilac-pink flower heads on reddish stems. Strongly mint-scented — crush a leaf to confirm. Grows in dense patches at stream and ditch margins. Heavily visited by bees and butterflies.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mentha_aquatica_02.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 8,
+            "caption": "Water Mint in flower — lilac flower heads and intensely mint-scented leaves"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meadowsweet",
+    "common_names": [
+      "Meadowsweet"
+    ],
+    "latin_name": "Filipendula ulmaria",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Tall plant (1–1.5m) with dense, creamy-white frothy flower heads and pinnate leaves. The flowers have an intense, sweet almond-like fragrance. Leaves dark green above, whitish-downy beneath, with large terminal leaflet and smaller side leaflets. Grows at water margins and in damp meadows.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "reedbed",
+      "meadow"
+    ],
+    "summary": "One of the most sweetly fragrant of all British wildflowers. Meadowsweet's dense creamy-white flower heads fill the air with their almond-honey scent along Danes Stream in June and July. It was the original source of salicylic acid — the compound from which aspirin was later synthesised.",
+    "full_description": "Meadowsweet (Filipendula ulmaria) is one of the great pleasures of a summer walk beside a British stream or damp meadow. It is a tall, robust perennial (60–150cm) with pinnate leaves — dark, bright green on top and whitish and downy underneath — and spectacular, dense, frothy heads of tiny creamy-white flowers that appear in June and July. The flowers have an intense, sweet, complex fragrance described as almond-honey or vanilla — one of the most characteristic scents of the British summer and immediately recognisable once learned. Meadowsweet has a remarkable place in pharmaceutical history: it was one of the sources from which salicylate compounds were first isolated in the 19th century, and the drug we know as aspirin was named (as 'Aspirin') partly after the plant's old scientific name, Spiraea ulmaria. The scent that fills the air along Danes Stream at Keyhaven in June and July is largely from Meadowsweet growing on the stream banks and damp ground around the freshwater channels. The flowers attract a huge variety of insects and the plant is a traditional herbal remedy for fevers and headaches.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Common native of wet meadows, streamsides and fens throughout the British Isles. Widespread and not threatened. A traditional herbal plant used in medicine for centuries and historically important in the development of aspirin.",
+    "wildlife_value": "Meadowsweet flowers are visited by a very wide range of insects — bees, hoverflies, beetles and flies. Dense flower heads provide a platform for invertebrate communities. The fragrance-rich flowers are among the most insect-friendly of British wildflowers.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee",
+      "marmalade-hoverfly"
+    ],
+    "food_source_for": [
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "cream"
+    ],
+    "colour_leaf": [
+      "green",
+      "white"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Dense, frothy creamy-white flower heads on tall stems. Intensely sweet, almond-honey fragrance. Fills stream banks in June–July. Covered with insects.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/20140715Filipendula_ulmaria.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Meadowsweet in full flower — frothy creamy-white heads and sweet almond fragrance"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "water-crowfoot",
+    "common_names": [
+      "Water Crowfoot",
+      "Common Water-crowfoot"
+    ],
+    "latin_name": "Ranunculus aquatilis",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Aquatic plant. White flowers with five petals and a yellow centre floating on the water surface, looking like water buttercups. Submerged leaves finely divided like green threads; floating leaves (when present) broader and lobed. Forms white-flowered mats on the surface of streams and ditches in spring.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland"
+    ],
+    "summary": "An aquatic buttercup that carpets the surface of Danes Stream and the freshwater ditches at Keyhaven with white flowers in May and June. One of the most beautiful sights of spring — a sparkling white floral carpet over fast-flowing clear water. Essential habitat for invertebrates, fish and waterfowl.",
+    "full_description": "Water Crowfoot (Ranunculus aquatilis) is a delightful aquatic plant that transforms the surface of clear, flowing streams and ditches into a white floral carpet in spring. It is an aquatic member of the buttercup family, with five-petalled white flowers (each with a yellow centre) that float on the water surface on slender stalks. Below the surface, the stems bear hair-like, thread-fine submerged leaves that stream in the current — these are often visible as green, feathery masses under the water. In still water, broader, lobed floating leaves may also be produced. Water Crowfoot is a sensitive indicator of water quality: it requires clean, well-oxygenated water and disappears quickly from polluted or heavily shaded streams. Along Danes Stream at Milford-on-Sea, Water Crowfoot should be visible in May and June — the white flowers clustering on the water surface are one of the most charming wildflower spectacles of the freshwater stream habitats. The submerged stems provide habitat for aquatic invertebrates including mayfly larvae and water beetles, and the flowers are visited by hoverflies and small bees.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native aquatic plant of clean streams, ditches and ponds throughout the British Isles. A water-quality indicator species. Absent from polluted or heavily shaded watercourses. Several closely related species of water-crowfoot occur in Britain.",
+    "wildlife_value": "Water Crowfoot provides critical habitat for aquatic invertebrates — the submerged stems shelter mayfly larvae, water beetles, caddisfly larvae and other invertebrates that form the base of the freshwater food chain. Also provides cover for small fish and foraging habitat for Kingfisher.",
+    "pollinators_supported": [
+      "marmalade-hoverfly",
+      "honey-bee"
+    ],
+    "food_source_for": [
+      "mallard",
+      "kingfisher"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white",
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "White five-petalled flowers floating on water surface. Fine thread-like submerged leaves below. Forms white-flowered mats on streams in spring. Water quality indicator — only in clean water.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ranunculus_aquatilis_plant.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Common Water-crowfoot — white flowers floating on a clean stream in spring"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea-campion",
+    "common_names": [
+      "Sea Campion"
+    ],
+    "latin_name": "Silene uniflora",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Cushion-forming plant with white flowers that have five deeply notched petals giving them a frilled appearance. Each flower is backed by an inflated, bladder-like greenish-purple calyx. Grey-green waxy leaves. Grows on stable shingle and cliff tops above the strandline. Similar to Bladder Campion but lower-growing and more prostrate.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "shingle",
+      "coastal"
+    ],
+    "summary": "A delicate white-flowered plant that specialises in the harsh, unstable world of shingle beaches and coastal cliffs. Sea Campion's white cushions of flowers brighten the upper shingle at Hurst Spit and Milford beach in June and July — a specialist of the most exposed coastal habitats, able to tolerate salt spray and shifting stones.",
+    "full_description": "Sea Campion (Silene uniflora) is a charming, low-growing perennial that is one of the characteristic specialist plants of British coastal shingle and rocky cliff tops. It forms loose, sprawling cushions 10–40cm tall, with small, grey-green, waxy leaves and white flowers borne on branching stems. The flowers are distinctive: five petals, each deeply notched at the tip (giving them a frilled appearance), backed by an inflated, bladder-like calyx (the fused sepals) with purple veining — this balloon-like calyx is characteristic of the whole campion and catchfly family. Sea Campion grows on stable, established shingle beaches above the strandline, on coastal cliffs, and on rocky coastal ground — wherever the combination of good drainage, salt spray tolerance and freedom from competition from rank vegetation allows it to thrive. It cannot tolerate closed, competitive grassland. The upper shingle of Hurst Spit and the coastal banks around Milford-on-Sea provide typical habitat. The flowers are visited by bumblebees, day-flying moths and solitary bees. Sea Campion is closely related to Bladder Campion (Silene vulgaris) of inland grassland, but is lower-growing and more prostrate, with larger flowers and a preference for coastal substrates.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native coastal specialist, found on shingle beaches, sea cliffs and rocky coastal ground around most of the British Isles. More common on northern and western coasts. Not threatened, though coastal habitat loss affects some populations.",
+    "wildlife_value": "Sea Campion flowers are visited by bumblebees, day-flying moths and solitary bees. The seeds are eaten by small birds. As a specialist of exposed coastal habitats, it provides cover and structure in the otherwise sparse shingle habitat.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee"
+    ],
+    "food_source_for": [
+      "linnet"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "grey",
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green",
+      "grey"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "White flowers with deeply notched petals and inflated bladder-like calyx. Low, cushion-forming. Grows on upper shingle and coastal rocks above the strandline.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Silene_uniflora_-_Norrland_01.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Sea Campion — white cushion flowers on coastal shingle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea-kale",
+    "common_names": [
+      "Sea Kale",
+      "Seakale"
+    ],
+    "latin_name": "Crambe maritima",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large, spreading plant with huge, blue-grey, waxy, crinkled leaves (like large cabbage leaves but glaucous blue-grey and distinctly wrinkled). Abundant white flowers in flat-topped clusters. Grows on shingle above the strandline. Often forms large individual clumps. Very distinctive even without flowers.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "shingle",
+      "coastal"
+    ],
+    "summary": "One of Britain's most distinctive coastal plants — a large, spreading plant with blue-grey cabbage-like leaves that looks almost tropical when in flower. Sea Kale grows on the shingle at Hurst Spit and Milford, its flowers covered with butterflies and bumblebees. A declining species of undisturbed coastal shingle.",
+    "full_description": "Sea Kale (Crambe maritima) is one of the most visually striking plants of the British shingle beach. It is a large, spreading perennial that forms impressive clumps 60–90cm tall and wide, with enormous blue-grey, glaucous, deeply waxy leaves that are crinkled and lobed — resembling giant cabbage leaves but coated in a distinctive grey-blue wax. In May and June it produces abundant, flat-topped clusters of small white flowers that resemble broccoli heads or large Sweet Alyssum, and are strongly honey-scented. Sea Kale has deep, anchor-like root systems that reach 2m into the shingle, accessing moisture and nutrients inaccessible to shorter-rooted plants, and anchoring the plant against storm disturbance. The grey-blue waxy coating of the leaves is a classic coastal adaptation: it reflects strong sunlight and reduces water loss in the salt-laden, exposed environment. Sea Kale was first cultivated in Britain around 1800, when the blanched young shoots (forced by piling seaweed over the crowns in winter) were regarded as a vegetable delicacy — described as tasting like asparagus with hints of cabbage. It can still be found for sale at some specialist vegetable growers. The shingle of Hurst Spit and the beaches around Milford-on-Sea support Sea Kale, though disturbance by beach users and sea-level change threaten coastal populations.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native specialist of coastal shingle beaches; found on undisturbed shingle along the south and east coasts of England and Wales. Declining due to shingle disturbance, sea-level rise and coastal erosion. Priority species in Biodiversity Action Plans.",
+    "wildlife_value": "Sea Kale flowers are rich in nectar and visited by many insect species. As one of few plants able to colonise and persist on pure shingle, it provides structure and food resources for the otherwise sparse shingle invertebrate community. Deep roots help stabilise shingle.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee",
+      "red-admiral"
+    ],
+    "food_source_for": [
+      "linnet",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "white"
+    ],
+    "colour_leaf": [
+      "grey",
+      "blue",
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "grey",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Huge, blue-grey waxy crinkled leaves and abundant white flower clusters. Strongly honey-scented. One of the most striking plants on coastal shingle. Visited by many insects.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Crambe_Maritima_Estonia.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Sea Kale — blue-grey leaves and white flower heads on coastal shingle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blue-mussel",
+    "common_names": [
+      "Blue Mussel",
+      "Common Mussel"
+    ],
+    "latin_name": "Mytilus edulis",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Elongated, asymmetric blue-black shell, pointed at one end, wider at the other. Attached to rocks, groynes and other hard substrates by byssus threads (tough fibres). Often in dense clusters. Inside shell is pearly white and blue-purple. One of the most familiar shellfish on British coasts.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "estuary",
+      "rocky-shore"
+    ],
+    "summary": "The familiar blue-black shellfish of the shoreline, forming dense beds on rocks, groynes and harbour walls at Milford and Hurst Spit. Blue Mussels filter seawater for food and are themselves food for Oystercatchers, Herring Gulls, Eider and humans. One of the world's most economically important shellfish.",
+    "full_description": "The Blue Mussel (Mytilus edulis) is one of the most recognisable and familiar shellfish on British coasts. The shell is elongated and asymmetric — pointed at the narrow anterior end, broader and more rounded at the posterior — and typically 5–10cm long, though they can reach 14cm. The outer shell is blue-black, sometimes brownish, with fine concentric growth rings; the inner surface is pearly white with blue-purple iridescence. Mussels attach to rocks, harbour walls, groynes, rope and other hard substrates using byssus threads — tough, silk-like fibres produced by the foot. These threads are strong enough to hold the mussel in place even in heavy wave action. Mussels filter seawater for food: they draw water in through one siphon, filter out phytoplankton (microscopic algae) and organic particles using their gills, and expel filtered water through the other siphon. A single mussel can filter 10–15 litres of seawater per hour. This filter-feeding makes mussels enormously important for water quality. Dense mussel beds on Hurst Spit, Milford beach groynes and the walls of Keyhaven Harbour are a characteristic feature; they are preyed on by Oystercatchers, Herring Gulls, Turnstones and — in the Solent — Eider Ducks. Blue Mussels have been a human food source for at least 20,000 years and are now commercially farmed worldwide.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to the entire British coastline. Extremely abundant. Not threatened; heavily commercially harvested. Important component of intertidal ecology on all rocky and hard-substrate British shores.",
+    "wildlife_value": "Blue Mussel beds are among the most productive intertidal habitats: they filter huge volumes of seawater, improving water clarity; provide food for Oystercatcher, Herring Gull, Turnstone, Eider and shore crabs; and the interstices of the mussel bed shelter hundreds of species of smaller invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "oystercatcher",
+      "herring-gull",
+      "turnstone"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "blue",
+      "white",
+      "purple"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Blue-black elongated shells in dense clusters on rocks and hard surfaces. Attached by byssus threads. Filter feeds on phytoplankton. Prey for Oystercatchers and gulls. Common on Hurst Spit and harbour walls.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Miesmuscheln-2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Blue Mussels in a dense intertidal cluster — blue-black shells, attached by byssus threads"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shore-crab",
+    "common_names": [
+      "Shore Crab",
+      "European Green Crab",
+      "Common Shore Crab"
+    ],
+    "latin_name": "Carcinus maenas",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The most abundant crab on British shores. Carapace (shell) up to 9cm wide, typically dark green on top but highly variable — can be brown, orange or red underneath. Five teeth behind each eye along the carapace rim; three rounded lobes between the eyes. Aggressive and fast-moving when uncovered.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "estuary",
+      "mudflat",
+      "rocky-shore"
+    ],
+    "summary": "The most familiar crab of British shores — the aggressive, fast-scuttling crab found under every rock and in every rockpool at Milford. Shore Crabs are important predators and scavengers throughout the intertidal zone, eating almost anything. Their underside colour — green to orange to red — changes with age.",
+    "full_description": "The Shore Crab (Carcinus maenas) is Britain's most abundant and familiar crab — the species most people encounter when rockpooling or turning over boulders on the seashore. It is a stocky, tough-looking crab with a broad, roughly fan-shaped carapace up to 9cm wide. The colour is extremely variable: young crabs are typically mottled dark green on top (giving it the name 'European Green Crab' in America), but adults can be greenish, brownish or reddish on the upper surface, and the underside colour changes from green to orange to red as the crab matures. The carapace has five triangular teeth behind each eye along the rim — a useful ID feature — and three rounded lobes between the eyes. Shore Crabs are aggressive, opportunistic and adaptable predators and scavengers. They eat bivalves (mussels, cockles), worms, crustaceans, algae, carrion and almost anything else edible. They can tolerate an extraordinary range of salinities and temperatures, which has made them one of the world's most successful invasive species wherever they've been accidentally introduced. Within the Milford-on-Sea area, Shore Crabs are found throughout the intertidal zone — in the saltmarsh channels, under stones at Hurst Spit, on the beach and in Keyhaven Harbour — year-round.",
+    "danger_level": "mild",
+    "danger_note": "Shore Crabs will pinch if picked up — hold them from behind the shell to avoid the claws, or leave them undisturbed.",
+    "danger_type": "animal",
+    "native_info": "Native to European and North African coasts. Extremely abundant throughout British intertidal zone. One of the world's most successful invasive species when introduced outside its native range (to North America, Australia, South America, South Africa). Not threatened in native range.",
+    "wildlife_value": "Shore Crabs are keystone predators in the intertidal zone, regulating populations of mussels, cockles, worms and other invertebrates. They are themselves prey for seabirds (Herring Gull, Oystercatcher), Otters and various fish. Dead crabs are important carrion for strandline scavengers.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "herring-gull",
+      "oystercatcher"
+    ],
+    "depends_on": [],
+    "invasive_impact": "Highly invasive when introduced outside its native range — has devastated native shellfish and crab populations in North America and Australia. Not considered invasive in its native European range.",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "brown",
+      "orange",
+      "red"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Stocky, aggressive crab with broad carapace up to 9cm. Dark green to brown on top; orange or red underneath as it matures. Five teeth behind each eye. Fast-moving. Found under rocks and in saltmarsh channels year-round.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Carcinus_maenas.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Shore Crab — stocky, aggressive; five teeth behind each eye on the carapace rim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lugworm",
+    "common_names": [
+      "Lugworm",
+      "Common Lugworm"
+    ],
+    "latin_name": "Arenicola marina",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Rarely seen directly — identified by the coiled, spaghetti-like casts of sand and mud deposited above the burrow exit at the surface. The paired depression (head shaft) and the cast (tail shaft) indicate the U-shaped burrow below. Casts visible at low tide across sandy and muddy beaches.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "mudflat",
+      "sandy-shore",
+      "estuary"
+    ],
+    "summary": "The most important invertebrate of sandy beaches and mudflats — a fat, red worm that lives unseen below the surface, recycling sediment and providing the primary food source for Curlew, Bar-tailed Godwit, Redshank and many other waders. Identified by the coiled sand casts visible at low tide.",
+    "full_description": "The Lugworm (Arenicola marina) is arguably the most ecologically important animal of the British sandy beach and mudflat — the fundamental link between sediment organic matter and the wading birds that depend on it. The worm itself is rarely seen: it lives buried in a U-shaped burrow 20–40cm below the sediment surface, 10–30cm long, fat and segmented, reddish (due to haemoglobin) with bushy red gill tufts along its middle segments. What the birdwatcher sees at the surface are the characteristic sand casts — coils of reprocessed sediment extruded above the tail shaft, paired with a funnel-shaped depression above the head shaft — that dimple the surface of sandy beaches and mudflats in their thousands at low tide. The Lugworm eats by ingesting sediment at the head end and digesting the organic matter within it, excreting the cleaned sediment behind. This continuous processing of sediment (known as 'sediment reworking') aerates and cycles nutrients through the beach substrate, making Lugworm one of the most important 'ecosystem engineers' in coastal habitats. They are the primary food source for Curlew (which probes deep with its long curved bill), Bar-tailed Godwit and Redshank, and are also the most widely used sea-fishing bait in Britain. Lugworm casts are visible across the mudflat and sandy estuary margins at Keyhaven and Milford at every low tide.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and extremely abundant on sandy beaches and mudflats throughout British coasts. Widely harvested as fishing bait. One of the most biomass-rich invertebrates in British intertidal habitats. Not threatened.",
+    "wildlife_value": "Lugworms are the primary food source for numerous wading bird species — especially Curlew, Bar-tailed Godwit, Redshank and Knot. Their sediment-reworking is a critical ecological process that aerates beach sediment and recycles nutrients. Fundamental to the intertidal food web.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "curlew",
+      "redshank",
+      "bar-tailed-godwit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Lives buried in U-shaped burrow; almost never seen directly. Identified by coiled sand/mud casts at the surface, paired with a head-shaft depression. Casts visible across the mudflat at every low tide. Primary food for Curlew and godwits.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Arenicola_marina_2010.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 8,
+            "caption": "Common Lugworm — the worm itself rarely seen; identified by coiled casts on the beach surface"
+          }
+        ]
+      }
+    ]
   }
 ]
