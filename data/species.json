@@ -23905,5 +23905,2225 @@
         ]
       }
     ]
+  },
+  {
+    "id": "jack-snipe",
+    "common_names": [
+      "Jack Snipe"
+    ],
+    "latin_name": "Lymnocryptes minimus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "Much smaller than Common Snipe — roughly Starling-sized. Two bold golden stripes down the back (Common Snipe has one central stripe). Bill shorter proportionally. Crucially: when flushed it rises silently (no 'scaap!' call), flies a short distance low, and drops back into vegetation immediately. Bobs body up and down when feeding.",
+    "months_visible": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "peak_months": [
+      11,
+      12,
+      1
+    ],
+    "weather_flag": true,
+    "weather_note": "Cold weather forces birds to move to unfrozen saltmarsh and coastal wetlands where they are occasionally flushed.",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh",
+      "wetland"
+    ],
+    "summary": "Even more secretive than Common Snipe, and much rarer. Jack Snipe are occasionally flushed from the saltmarsh at Keyhaven in winter — they rise silently (no call), fly a short distance and drop back down immediately. Identifying one is a genuine prize for the coastal birder.",
+    "full_description": "The Jack Snipe (Lymnocryptes minimus) is the smallest wading bird in Britain and one of the hardest to detect. It is roughly Starling-sized — noticeably smaller than Common Snipe — and even more cryptically camouflaged, with richly patterned brown-and-gold plumage. Two golden stripes run down the back (Common Snipe has a single pale central crown stripe), and the tail is wedge-shaped, not fan-shaped. The bill is shorter than Common Snipe's, proportionally. The defining field character is behaviour when flushed: a Jack Snipe rises silently (no call), flies low and short — usually just 30–50m — and drops immediately back into the vegetation. This habit of flushing silently and close and landing again quickly means it is very easy to overlook. When feeding, it also has a characteristic habit of bobbing its body up and down rhythmically. Jack Snipe breed in northern Scandinavia and Russia and winter on coastal wetlands, marshes and saltmarsh across southern Britain. At Keyhaven, small numbers occur in winter in the saltmarsh vegetation and damp margins. Finding one is always exciting.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Non-breeding winter visitor to Britain. Breeds in Scandinavia and Russia. UK wintering population around 100,000 birds but very difficult to census. Status: Amber (UK BoCC).",
+    "wildlife_value": "Jack Snipe probe soft mud and saltmarsh sediment for small invertebrates and organic material. Their extremely secretive habits mean their ecological role is poorly studied, but they contribute to invertebrate regulation in saltmarsh habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "gold",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Tiny snipe with two golden back stripes. Rises silently when flushed, drops immediately back into cover. Bobs body when feeding. Almost never seen unless accidentally flushed from saltmarsh.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jack_snipe.png",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 12,
+            "caption": "Jack Snipe — tiny, cryptic, silent when flushed; two golden stripes down the back"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "green-sandpiper",
+    "common_names": [
+      "Green Sandpiper"
+    ],
+    "latin_name": "Tringa ochropus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Medium wader, dark above (almost black-brown with white spots) and brilliant white below — strong contrast. White rump forms a dazzling white patch in flight, very conspicuous. Call: a loud, liquid 'weet-wit-wit' given as it flies off, usually before you see it. Bobs rear body like Common Sandpiper.",
+    "months_visible": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "estuary",
+      "wetland",
+      "saltmarsh"
+    ],
+    "summary": "A striking black-and-white wader of freshwater margins, identified in flight by its dazzling white rump and loud 'weet-wit-wit' call. Green Sandpipers pass through and occasionally overwinter at the freshwater channels and ditches behind Keyhaven — a bird that often announces itself before you see it.",
+    "full_description": "The Green Sandpiper (Tringa ochropus) is a medium-sized wading bird that can appear surprisingly dark and almost black above at distance — much darker than the Common Sandpiper with which it shares habitat. The upperparts are very dark brown with white spotting; the underparts and rump are brilliant white, creating a striking contrast. This white rump is the most diagnostic feature: when the bird flies up (usually calling loudly), a dazzling white patch on the lower back and rump flashes like a beacon. The call — a loud, liquid, upward-inflected 'weet-wit-wit' — is typically the first indication of the bird's presence, given as it rises steeply and quickly from a ditch or stream edge. Unlike Common Sandpiper, the Green Sandpiper is primarily a bird of freshwater rather than tidal water, favouring drainage ditches, stream edges, freshwater pools and the freshwater channels inland from the sea wall. It is a passage migrant from Scandinavia and Finland, appearing from July onwards and often staying through to early spring. The freshwater ditches and channels at Keyhaven regularly attract Green Sandpipers.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Passage migrant and winter visitor from Scandinavia and Russia. Does not breed in Britain. UK overwintering numbers around 800 birds. Status: Amber (UK BoCC).",
+    "wildlife_value": "Green Sandpipers prey on aquatic invertebrates, small fish and tadpoles in freshwater margins, contributing to invertebrate regulation in ditches and channels.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "white",
+      "brown",
+      "green"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Very dark above, brilliant white below and rump. Usually identified by the dazzling white rump and loud 'weet-wit-wit' call as it flies up from a ditch. Bobs rear end. Freshwater ditches and channels.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Green-Sandpiper-Sandeep.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 8,
+            "caption": "Green Sandpiper — dark back contrasting with white rump and underparts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grasshopper-warbler",
+    "common_names": [
+      "Grasshopper Warbler",
+      "Common Grasshopper Warbler"
+    ],
+    "latin_name": "Locustella naevia",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "Almost always identified by song — a sustained, mechanical, insect-like reeling trill, endlessly repeated, that sounds exactly like a grasshopper or fishing reel: 'creeeeeeeeeeeee'. The bird turns its head while singing, causing the sound to appear to move (ventriloquism). If seen: small, streaky brown warbler with streaked breast and rounded tail.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      5,
+      6
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh",
+      "reedbed",
+      "wetland"
+    ],
+    "summary": "One of Britain's most elusive birds — almost never seen, but the extraordinary reeling grasshopper-like song is unmistakable. Grasshopper Warblers breed in the rough vegetation and scrub around Keyhaven. Hearing the endless mechanical trill on a warm May evening at the saltmarsh edge is a special experience.",
+    "full_description": "The Grasshopper Warbler (Locustella naevia) is one of the hardest birds in Britain to see, but one of the easiest to hear — its extraordinary song is impossible to mistake once learned. The bird itself is small and secretive, spending almost all its time crawling mouse-like through dense vegetation. It is olive-brown above with darker streaking, and the underparts are buff-white with some streaking, particularly on the breast and undertail. The tail is rounded, the bill thin and pointed. But it is the song that defines this bird: a sustained, unbroken, high-pitched reeling trill — identical in quality to a grasshopper's stridulation or a fishing reel — that can continue for minutes at a time, delivered from a stem or bush in semi-exposed position. The bird turns its head while singing, causing the volume to rise and fall as the sound is directed away and towards the observer — a classic ventriloquial quality. Males may sing from dusk through the night. Grasshopper Warblers arrive from West Africa in April and breed in rough grassland, scrub, young forestry, saltmarsh edges and coastal vegetation. The rough vegetation around Keyhaven's saltmarsh fringe and the scrub and reeds at the landward margin are typical breeding habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Summer visitor, breeding in rough grassland and scrub across much of Britain. UK breeding population around 14,000 males, declining. Status: Red (UK BoCC). Winters in sub-Saharan Africa.",
+    "wildlife_value": "Grasshopper Warblers consume small invertebrates including flies, beetles and small moths in dense vegetation. Their use of early-successional scrub habitats makes them indicators of habitat diversity.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "buff",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Small, streaky brown warbler, almost never seen. Identified by reeling, grasshopper-like song — sustained and mechanical, often at dusk. Mouse-like movement through dense vegetation.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grashoppsangare-070512.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Grasshopper Warbler singing — the reeling trill is far easier to hear than see this bird"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "song-thrush",
+    "common_names": [
+      "Song Thrush"
+    ],
+    "latin_name": "Turdus philomelos",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Brown above, warm buff-orange below with neat, arrow-shaped black spots. Smaller than Mistle Thrush, with a more upright stance and a warm orange-buff (not grey-white) breast. Song is distinctive and lovely: each phrase is repeated 2–4 times before moving to the next. The spotted breast is the key ID feature versus Robin (red breast) and Blackbird (no spots).",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "garden",
+      "hedgerow"
+    ],
+    "summary": "One of Britain's finest singers. The Song Thrush's repeated musical phrases carry across gardens and hedgerows at Milford from late winter onwards. Famous for its 'anvil' behaviour — using a stone to smash open snail shells. Has declined severely as a British bird, making any sighting worth savouring.",
+    "full_description": "The Song Thrush (Turdus philomelos) is one of Britain's most celebrated songbirds — a brown-backed, spotted-breasted thrush with a warm buff-orange chest and a song of extraordinary richness and variety. The song is diagnostic: each phrase or motif is repeated two to four times before moving to a new phrase, giving it a bold, declamatory, musical quality quite distinct from the more hurried Blackbird or the scratchy Blackcap. Song Thrushes begin singing in late January or early February, and their song from rooftops and tree tops is one of the first signs of approaching spring. They are also famous for their 'anvil' behaviour: they carry snails to a favourite stone and smash the shell against it to extract the animal — evidence of anvil use (broken shells and a suitable stone) can often be found in gardens. Song Thrushes eat earthworms, snails, berries and invertebrates. They were once one of Britain's most abundant garden birds but have declined severely — by around 50% since 1970 — due to habitat intensification and reduction in earthworm availability. The hedgerows, gardens and scrub around Milford-on-Sea provide suitable habitat, and the species is resident year-round, with numbers supplemented by continental visitors in winter.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding resident and winter visitor. UK breeding population has declined by over 50% since 1970. Status: Red (UK BoCC). One of the priority species for farmland and garden bird conservation.",
+    "wildlife_value": "Song Thrushes are important predators of snails and earthworms, helping regulate invertebrate populations. Anvil sites create micro-habitat features. Their beautiful song is of high value for human wellbeing and environmental quality perception.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "orange",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Brown above, buff-orange with arrow-shaped spots below. Upright stance. Sings from prominent perch — each phrase repeated 2–4 times. Smashes snails on a stone anvil. Garden hedgerows and scrub year-round.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_%28Turdus_philomelos%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 4,
+            "caption": "Song Thrush — brown back, spotted orange-buff breast, often perches prominently to sing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greenfinch",
+    "common_names": [
+      "Greenfinch",
+      "European Greenfinch"
+    ],
+    "latin_name": "Chloris chloris",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Stocky finch with a heavy bill. Male: bright yellow-green with yellow wing patches and sides to tail, visible in flight. Female: duller, streaky olive-brown with yellow wing and tail patches. Call: a wheezy, nasal 'dzhweee' and twittering. Yellow wing flashes in flight are the best feature.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "garden",
+      "hedgerow",
+      "woodland-edge"
+    ],
+    "summary": "A bright, stocky finch of gardens and hedgerows. Greenfinches were once abundant but have crashed in numbers since 2005 due to the disease trichomonosis. The yellow-green male is a handsome bird; seeing one at a seed feeder is no longer the everyday sight it once was.",
+    "full_description": "The Greenfinch (Chloris chloris) is a chunky, large-billed finch that was once one of the most abundant garden birds in Britain but has suffered a catastrophic decline since 2005. The male is a striking bird: predominantly bright yellow-green with vivid yellow patches on the wings and sides of the tail that flash conspicuously in flight. The heavy, cone-shaped bill is pale pink-horn — powerful enough to crack open large seeds and even olive stones. The female is olive-brown with the same yellow wing and tail patches. The call is a characteristic, wheezy, drawn-out 'dzhweee'. Greenfinches feed mainly on large seeds — sunflower seeds are a favourite at garden feeders — and also eat berries and buds. The severe population decline since 2005 is attributed to a finch-specific form of trichomonosis, a parasitic disease spread at bird feeders through contaminated food and water. The UK Greenfinch population has fallen by over 60% in less than 20 years. Milford's gardens and hedgerows hold Greenfinches year-round, but in far lower numbers than historically. Keeping bird feeders and birdbaths clean is important to prevent disease spread.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native breeding resident. UK breeding population has crashed by over 60% since 2005 due to trichomonosis. Status: Red (UK BoCC) — a dramatic change from formerly common garden bird. Present year-round in gardens and scrub throughout Britain.",
+    "wildlife_value": "Greenfinches eat large seeds including those of thistles, yew, rose hips and sunflowers, helping disperse seeds. Heavy-billed finches fill an important niche extracting large seeds that smaller finches cannot open.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "yellow",
+      "brown",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Bright yellow-green with yellow wing and tail flashes. Heavy pale bill. Wheezy 'dzhweee' call. Far less common than it once was — please keep feeders clean to prevent trichomonosis spread.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Chloris_chloris_%28profile%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 4,
+            "caption": "Male Greenfinch — bright yellow-green plumage and yellow wing patches"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "heather",
+    "common_names": [
+      "Heather",
+      "Ling",
+      "Common Heather"
+    ],
+    "latin_name": "Calluna vulgaris",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Low-growing, wiry, evergreen shrub covering heathland. Tiny, scale-like leaves in four rows along the stems. Masses of tiny pale pink-purple flower bells from August–September. The dominant plant of Studland Common and the heath behind Milford. Flowers slightly smaller and paler than Bell Heather.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow"
+    ],
+    "summary": "The defining plant of British heathland — carpeting Studland Common and the coastal heathland behind Milford with pink-purple in late summer. Heather provides food for bumblebees, nesting cover for Dartford Warbler and Stonechat, and is the basis of heather honey.",
+    "full_description": "Heather (Calluna vulgaris), also called Ling, is the defining plant of British heathland — the plant that gives heaths their character, colour and name. It is a low-growing, wiry, evergreen subshrub, typically 20–50cm tall, with tiny, scale-like, overlapping leaves pressed closely against the stems in four rows. From August to September it produces masses of tiny, pale pink-purple flower bells that transform heathland into sheets of colour. The flowers are technically tiny and individually subtle — it is the sheer density that creates the visual impact. Calluna can be distinguished from the Bell Heathers (Erica species) by its smaller flowers and the way the petal-like sepals are larger than the actual petals. Heather grows only on acid, low-nutrient soils — the acidic sandy soils of the coastal heathlands at Studland Common and the heath behind Milford provide ideal conditions. It is a dominant plant on these habitats and provides food (nectar and pollen) for bumblebees, food (young shoots) for Dartford Warbler and Stonechat, and nesting cover for these and other heathland birds. Heather honey — collected by honeybees from heathland — is one of the most prized and distinctive honeys in Britain.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to heathland, moorland and bogs across the British Isles. Dominant on acid soils; intolerant of lime. Widespread but the heathland habitats it dominates are threatened by development, scrub encroachment and nitrogen deposition.",
+    "wildlife_value": "Heather is one of the most important plants for heathland biodiversity: its flowers provide nectar for bumblebees, honey bees and butterflies; its stems shelter invertebrates; it provides food for grazing animals; and it is a critical structural plant for heathland birds such as Dartford Warbler, Nightjar and Stonechat.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee",
+      "common-blue"
+    ],
+    "food_source_for": [
+      "linnet"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "purple"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "brown",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          8,
+          9,
+          10
+        ],
+        "description": "Masses of tiny pale pink-purple flower bells covering the heathland. The spectacle of Studland Common in late August. Covered with bumblebees. Wiry green stems and scale-like leaves visible year-round.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/CallunaVulgaris.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 8,
+            "caption": "Common Heather in full bloom — pale pink-purple carpets on coastal heathland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bell-heather",
+    "common_names": [
+      "Bell Heather"
+    ],
+    "latin_name": "Erica cinerea",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Similar to Common Heather but flowers are brighter, deeper purple-magenta and bell-shaped (larger than Calluna's flowers). Flowers earlier (July–August rather than August–September). Leaves in whorls of three. Often grows alongside Common Heather on the same heathland but prefers slightly drier spots.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow"
+    ],
+    "summary": "The brighter, deeper-purple cousin of Common Heather, flowering earlier in July–August. Bell Heather's vivid magenta-purple bells are richer in colour than Calluna's paler pink. It grows on the drier parts of Studland Common alongside Common Heather, creating a two-tone purple patchwork across the heath.",
+    "full_description": "Bell Heather (Erica cinerea) grows alongside Common Heather on British heathlands but is easily distinguished by its more vivid, deeper purple-magenta flowers and its earlier flowering season. The individual flowers are distinctly bell-shaped — larger and more urn-shaped than the tiny flowers of Calluna vulgaris — and arranged in dense clusters on the branching stems. The colour is a striking, saturated magenta-purple, noticeably richer than the pale lilac-pink of Common Heather. Bell Heather flowers from July to September, beginning about a month earlier than Common Heather in most locations. The leaves are tiny and needle-like, arranged in whorls of three. Bell Heather prefers the drier, well-drained parts of heathland — often the top of banks, south-facing slopes or areas of thin, sandy soil — while Common Heather may be more tolerant of moister conditions. On Studland Common and the coastal heath behind Milford, Bell Heather and Common Heather grow side by side, with Bell Heather's brighter purple providing colour from mid-July while Common Heather takes over through August and September, creating a rolling succession of heathland colour.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to heathlands across the British Isles, especially on acid, well-drained sandy soils. Common throughout southern England and Wales. Closely associated with Calluna vulgaris in heathland communities.",
+    "wildlife_value": "Bell Heather flowers are visited by bumblebees and honey bees. Its earlier flowering provides nectar at a time when Calluna is not yet in bloom, extending the heathland nectar season. Structural plant of heathland communities.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee"
+    ],
+    "food_source_for": [
+      "linnet"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "purple",
+      "pink"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "brown",
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Vivid magenta-purple bell-shaped flowers, richer in colour than Common Heather. Flowers July–August. Prefers drier heathland. Grows alongside Calluna on Studland Common.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bell_Heather_-_geograph.org.uk_-_493968.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 7,
+            "caption": "Bell Heather in full flower — vivid magenta-purple bells on coastal heathland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gorse",
+    "common_names": [
+      "Gorse",
+      "Common Gorse",
+      "Furze",
+      "Whin"
+    ],
+    "latin_name": "Ulex europaeus",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Dense, spiny shrub with vivid golden-yellow pea flowers. Stems and branches tipped with sharp spines. Green in colour year-round. Flowers mainly February–June but can flower at any time of year — 'when gorse is out of bloom, kissing is out of season'. Coconut-vanilla scent on warm days.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow",
+      "woodland-edge"
+    ],
+    "summary": "A blazing splash of gold on the coastal heath and scrub at Milford year-round but most spectacular in spring. Gorse is armed with fierce spines but produces abundant golden flowers with a sweet coconut scent. It provides nesting cover for Stonechat and Dartford Warbler and is one of the most structurally important shrubs of coastal scrub.",
+    "full_description": "Gorse (Ulex europaeus) is one of the most visually striking and ecologically important shrubs of British heathland, coastal scrub and rough ground. It forms dense, impenetrable bushes of branching, spiny green stems, 1–3m tall, armed with sharp spines up to 3cm long. The 'leaves' are mostly reduced to spines in the adult plant. The flowers are vivid, unmistakable golden-yellow, pea-shaped (the characteristic shape of the Leguminosae family), and wonderfully scented with a sweet coconut-vanilla fragrance on warm, still days. The traditional saying 'when gorse is out of bloom, kissing is out of season' captures the reality that Gorse can be found in flower at almost any month of the year, though it peaks spectacularly in March–May. After flowering, the pods ripen and crack open with an audible 'pop' in hot weather, scattering seeds. Gorse is nitrogen-fixing (has nodules that fix atmospheric nitrogen), making it an important pioneer on poor soils. The dense, spiny thickets provide perfect nesting cover for Stonechat, Dartford Warbler and Linnet. Gorse scrub on the common land and coastal heath at Milford and Studland provides some of the most important habitat structure for birds in the area.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to western Europe, very common in Britain. Widespread on heathland, rough grassland, clifftops and coastal scrub. Not threatened. Nitrogen-fixing pioneer that can colonise bare, poor soils.",
+    "wildlife_value": "Gorse is one of the most important shrubs for heathland and coastal scrub wildlife: the dense, spiny thickets provide secure nest sites for Stonechat, Linnet and Dartford Warbler; flowers provide nectar for bumblebees and other pollinators from early spring; pods and seeds provide food for finches.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee"
+    ],
+    "food_source_for": [
+      "linnet",
+      "goldfinch"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "yellow"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Vivid golden-yellow pea flowers on spiny green stems. Sweet coconut scent on warm days. Can flower year-round; peaks March–May. Dense spiny thickets provide nesting cover for Stonechat and Linnet.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ulex_europaeus_Mynydd_Carningli_flowers.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 4,
+            "caption": "Common Gorse in full bloom — blazing golden-yellow with sweet coconut scent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "emperor-dragonfly",
+    "common_names": [
+      "Emperor Dragonfly"
+    ],
+    "latin_name": "Anax imperator",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest dragonfly. Male: brilliant sky-blue abdomen with a black central stripe. Female: green abdomen with a black stripe. Both have a green thorax. Powerful, direct, patrolling flight low over water. Too large to confuse with anything else.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "estuary"
+    ],
+    "summary": "Britain's largest and most spectacular dragonfly — a sky-blue giant that patrols ponds and ditches with powerful, direct flight. The Emperor Dragonfly is unmistakable in size and colour, and the warm ponds and drainage channels behind Keyhaven provide ideal hunting territory in summer.",
+    "full_description": "The Emperor Dragonfly (Anax imperator) is Britain's largest resident dragonfly, with a wingspan up to 11cm and a body length of 10cm. The male is one of the most spectacular insects in Britain: a vivid, brilliant sky-blue abdomen with a black median stripe running its length, combined with a bold apple-green thorax, make it unmistakable. The female is similar in size but predominantly green. The wings of both are clear and unspotted. Emperor Dragonflies fly strongly and directly, patrolling territories over ponds, ditches, lakes and slow rivers with powerful, hawk-like flight. Males are highly territorial, hovering to investigate intruders and pursuing rivals. They are aerial predators, catching smaller insects — including other dragonflies, damselflies, large flies and even small butterflies — in flight. The larval stage (nymph) lives underwater for 1–2 years, being an active predator of aquatic invertebrates, tadpoles and small fish. Emperor Dragonflies have expanded their range northwards in Britain as a result of climate warming, and are now regularly recorded at suitable freshwater habitats throughout southern England. The drainage channels, ponds and freshwater pools behind Keyhaven sea wall provide ideal Emperor Dragonfly habitat in June and July.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; increasing and expanding northwards as a result of climate warming. Now common throughout southern and central England. Status: not threatened.",
+    "wildlife_value": "Emperor Dragonflies are apex predators of the freshwater airspace and aquatic environment, consuming large numbers of smaller insects as adults and aquatic invertebrates as nymphs. Important indicators of good-quality, warm, unpolluted freshwater habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "hobby"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "green",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Huge dragonfly, males brilliant sky-blue with black stripe, females green. Powerful direct patrol flight over water. Britain's largest dragonfly — cannot be confused with any other species.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Anax_imperator_qtl2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Male Emperor Dragonfly — sky-blue abdomen with black stripe; Britain's largest dragonfly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-darter",
+    "common_names": [
+      "Common Darter"
+    ],
+    "latin_name": "Sympetrum striolatum",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Small, slim dragonfly. Male: bright red-orange abdomen. Female and immature: yellow-brown abdomen. Black and yellow legs (leg colour distinguishes it from similar Ruddy Darter, which has all-black legs). Perches on posts, stones and bare ground and makes short 'darter' flights to catch insects or chase rivals.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland",
+      "coastal",
+      "meadow"
+    ],
+    "summary": "The most widespread and abundant dragonfly in Britain, on the wing well into autumn. Male Common Darters are vivid red, perching prominently on posts and rocks and making short hunting flights. One of the last dragonflies to be seen at Keyhaven — still flying in October when most other species have gone.",
+    "full_description": "The Common Darter (Sympetrum striolatum) is Britain's most abundant and familiar dragonfly, found at a wider range of water bodies and for longer in the season than almost any other species. It is a slim, medium-small dragonfly with a characteristic 'darter' hunting style: perching motionless on a prominent object (fence post, rock, bare earth, even a person's clothing) and making short, rapid flights to intercept passing insects or chase rivals. The male in maturity is vivid brick-red to orange-red on the abdomen. The female and immature male are yellow-brown. Both sexes have black-and-yellow striped legs — a useful distinction from the very similar Ruddy Darter, which has all-black legs. Common Darters fly from June onwards but numbers peak in August–October, when they can be seen far from water, warming themselves in sheltered sunny spots. They continue flying later in the year than most other dragonflies — sometimes into November in mild autumns. The ditches, ponds and freshwater margins at Keyhaven, and the coastal grassland and scrub at Milford, provide ideal Common Darter habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Very common native; our most abundant dragonfly. Widespread throughout Britain. Numbers boosted in some years by immigration from continental Europe. Not threatened.",
+    "wildlife_value": "Common Darters consume large numbers of small flying insects — midges, flies, small moths. As abundant aerial predators, they contribute significantly to insect population control near freshwater habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "hobby",
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "red",
+      "orange",
+      "yellow",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Vivid red abdomen, black-and-yellow legs. Perches prominently and makes short hunting dashes. Very common from August–October. Often seen basking on fence posts and bare ground near water.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sympetrum_striolatum_3%28loz%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 9,
+            "caption": "Male Common Darter — vivid red abdomen; the most common and late-flying British dragonfly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "azure-damselfly",
+    "common_names": [
+      "Azure Damselfly"
+    ],
+    "latin_name": "Coenagrion puella",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "Small, slender damselfly. Male: bright sky-blue with black markings. Key feature: segment 2 of the abdomen has a U-shaped or 'goblet'-shaped black mark (not a thick band). Female: blue-green or blue with more extensive black. Requires close observation to separate from similar Common Blue Damselfly. Rests with wings folded along body.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "wetland"
+    ],
+    "summary": "One of the most common and beautiful of Britain's small damselflies. Sky-blue males flutter low over the freshwater ponds and ditches at Keyhaven in June and July. Often resting with wings folded along the abdomen. A damselfly requires patience and a hand lens to identify precisely from its near-identical relatives.",
+    "full_description": "The Azure Damselfly (Coenagrion puella) is one of the most widespread and familiar damselflies in Britain. The male is a delicate sky-blue with black markings — the classic 'blue damselfly' that most people picture when they think of these insects. It is very similar to the Common Blue Damselfly (Enallagma cyathigerum), and close examination of the pattern on segment 2 (the second abdominal segment from the base) is needed to distinguish them reliably: Azure has a distinctive U-shaped or 'goblet' mark; Common Blue has a 'drumstick' or 'lollipop' mark. The female Azure is blue-green or predominantly black above. Like all damselflies (as opposed to dragonflies), it rests with its wings folded back along the body, not spread horizontally. Azure Damselflies are found at ponds, ditches, slow streams and marshy ground throughout Britain, flying from May to August. They hunt small flying insects — particularly midges and gnats — catching them in flight with their legs. The freshwater ponds and drainage ditches behind Keyhaven sea wall, and the margins of Sturt Pond, provide ideal habitat for Azure Damselflies.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Very common native; one of the most abundant British damselflies. Widespread throughout England and Wales. Not threatened.",
+    "wildlife_value": "Azure Damselflies consume large numbers of small flying insects including midges and gnats, helping regulate populations near freshwater. As nymphs, they prey on aquatic invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "hobby"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "black",
+      "green"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult Male",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Bright sky-blue with black markings, wings folded along body at rest. Flutters low over water. Segment 2 has a U-shaped black mark (cf. Common Blue Damselfly's 'lollipop'). Abundant at freshwater ponds and ditches in June–July.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Coenagrion_puella_LC0315.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult Male",
+            "month_taken": 6,
+            "caption": "Male Azure Damselfly — sky-blue with black markings, wings folded along body"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "white-tailed-bumblebee",
+    "common_names": [
+      "White-tailed Bumblebee"
+    ],
+    "latin_name": "Bombus lucorum",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Black with two yellow bands (one on thorax, one on abdomen) and a clean white tail. Very similar to Buff-tailed Bumblebee (which has a buff rather than white tail). Queens are larger; workers and males smaller. One of the most common bumblebees at coastal flowers.",
+    "months_visible": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "meadow",
+      "garden",
+      "saltmarsh"
+    ],
+    "summary": "One of the most common bumblebees in Britain, with a clean white tail rather than the buff tail of its near-twin. White-tailed Bumblebees are abundant on the coastal flowers and heathland of the Milford area — a key pollinator of wildflowers from early spring through to autumn.",
+    "full_description": "The White-tailed Bumblebee (Bombus lucorum) is one of Britain's most common and widespread bumblebees, easily confused with its close relative the Buff-tailed Bumblebee (Bombus terrestris). Both species have a similar pattern — black with two yellow bands and a pale tail — but the White-tailed has a truly white tail (not buff or dirty cream), though this can be hard to judge without a comparison. Colonies are founded by queens in early spring (from February onwards) after they emerge from winter hibernation, establishing nests in underground cavities, often in old mouse holes or compost heaps. Workers are smaller than queens and collect pollen and nectar for the growing colony. White-tailed Bumblebees are important pollinators of a wide range of wild and garden plants. In the coastal zone around Milford, they visit Sea Lavender, Sea Holly, Heather, Gorse, Bramble, Red Clover and many other species. They are one of the most frequently encountered bumblebees on the saltmarsh edge and coastal heathland. The Bombus lucorum complex actually includes several very similar sibling species (B. lucorum, B. cryptarum, B. magnus) that are virtually indistinguishable without DNA analysis.",
+    "danger_level": "mild",
+    "danger_note": "Bumblebees can sting if handled roughly or if the nest is disturbed — they are generally docile in the open. Never disturb a bumblebee nest.",
+    "danger_type": "sting",
+    "native_info": "Native; one of Britain's most common bumblebees. Widespread throughout the British Isles. Status: not threatened, though bumblebee diversity generally is declining.",
+    "wildlife_value": "White-tailed Bumblebees are important pollinators of a wide range of wildflowers and crops. As generalist foragers with long flight seasons, they contribute significantly to the pollination of coastal wildflowers including Heather, Sea Lavender and Sea Aster.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "yellow",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Worker/Queen",
+        "months_typical": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Black with two yellow bands and a clean white tail. Queens large; workers smaller. Visits a wide range of flowers. Common on coastal heathland and saltmarsh edges from early spring through autumn.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bombus_lucorum_-_Centaurea_scabiosa_-_Keila.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Worker/Queen",
+            "month_taken": 7,
+            "caption": "White-tailed Bumblebee — clean white tail; two yellow bands on black body"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gatekeeper",
+    "common_names": [
+      "Gatekeeper",
+      "Hedge Brown"
+    ],
+    "latin_name": "Pyronia tithonus",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Orange-brown butterfly with large brown eye-spots on the forewings, each bearing two white pupils (Meadow Brown has only one pupil in the eye-spot). Male has a patch of scent scales (androconia) on the forewing. Smaller than Meadow Brown. Prefers hedgerows and scrub edges, perching on bramble flowers.",
+    "months_visible": [
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "coastal",
+      "meadow"
+    ],
+    "summary": "A warm orange butterfly of hedgerows and scrub edges, perching conspicuously on bramble and other flowers in July and August. The Gatekeeper is expanding northwards in Britain as the climate warms. Two white pupils in the eye-spot distinguish it from the similar Meadow Brown.",
+    "full_description": "The Gatekeeper (Pyronia tithonus) is a medium-sized butterfly of warm, sheltered hedgerows, scrub edges and woodland margins, its name derived from its habit of perching in gaps in hedges and on gates — the 'gateway' between habitats — basking in the sun. The wings are a warm orange-brown, with the upperwings orange with brown borders, and the forewing bearing a large, dark eye-spot with two white pupils (the double pupil immediately distinguishes it from the Meadow Brown, which has a single pupil). The male has a band of scent scales (androconia) crossing the forewing that is absent in females. Gatekeepers are fond of basking openly on bramble flowers and blackthorn, and they are enthusiastic nectar feeders — bramble, marjoram and ragwort are favourite sources. The caterpillars feed on grasses (fine-leaved species such as fescues and bents). Gatekeepers fly in a single generation from mid-July to early September, with peak numbers in late July–early August. Like many southern butterflies, the Gatekeeper has been expanding northwards in Britain over recent decades, likely in response to warming temperatures. The coastal hedgerows, scrub and bramble-covered banks at Milford-on-Sea provide excellent Gatekeeper habitat.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; widespread and common in southern England and Wales. Expanding northwards with climate change. Not threatened. Status: not of conservation concern.",
+    "wildlife_value": "Gatekeepers are important nectar feeders that contribute to wildflower pollination in hedgerow and scrub habitats. Their caterpillars feed on grasses that form the base of coastal grassland food chains.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "brown",
+      "white",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Warm orange-brown; two white pupils in the forewing eye-spot (cf. single pupil in Meadow Brown). Perches openly on bramble and sunny hedge tops. Peak July–August.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gatekeeper_%28Pyronia_tithonus%29_male_2.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Male Gatekeeper butterfly — two white pupils in eye-spot distinguish it from Meadow Brown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brown-long-eared-bat",
+    "common_names": [
+      "Brown Long-eared Bat"
+    ],
+    "latin_name": "Plecotus auritus",
+    "type": "mammal",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The enormous ears — nearly as long as the body — are unmistakable. When roosting, the ears are folded under the wings (leaving only the short goat-like tragus visible). In flight, the large ears are held forward. Slow, fluttery flight close to vegetation. Brown above, paler below.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "garden",
+      "hedgerow"
+    ],
+    "summary": "Britain's third most common bat, identifiable by its extraordinary ears — nearly as long as its body. Brown Long-eared Bats hunt moths close to vegetation in the gardens, hedgerows and woods around Milford, using their huge ears to listen for the rustling of roosting moths on leaves.",
+    "full_description": "The Brown Long-eared Bat (Plecotus auritus) is immediately identifiable by its extraordinary ears — at 3–4cm long, they are nearly as long as the body, giving the bat an almost otherworldly appearance. In flight the ears are held forward, cupped like satellite dishes; when roosting, they are folded carefully under the wings, with only the short, goat-like tragus (the small secondary flap in front of the ear) visible. Brown Long-eared Bats are medium-sized, with a wingspan of 25–30cm. The fur is brown above and pale buff below. They are relatively slow fliers and echolocate at low volumes — they rely heavily on passive listening to hunt, detecting the sounds made by moths resting on leaves (known as 'gleaning'). Their echolocation calls are very quiet, making them difficult to detect with a bat detector at range. Brown Long-eared Bats roost in old buildings (particularly churches and barns), mature trees and bat boxes. They are highly dependent on old buildings for roost sites, which makes them vulnerable to building renovations. Around Milford-on-Sea, they roost in roof spaces of older houses and forage in the gardens, churchyard, hedgerows and woodland edges of the village — flying close to the vegetation while hunting moths, lacewings and other insects.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; Britain's third most common bat. Widespread throughout England and Wales. Status: not threatened but vulnerable to roost disturbance. All British bats and their roosts are fully protected under the Wildlife & Countryside Act.",
+    "wildlife_value": "Brown Long-eared Bats consume large numbers of moths, lacewings and other insects in and around woodland and gardens. As specialist moth hunters using passive listening, they fill an ecological niche different from the aerial-hawking Pipistrelles.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "buff"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Enormous ears nearly as long as body, held forward in flight. Slow, fluttery flight close to vegetation — very different from fast-flying Pipistrelle. Roosts in old buildings and trees.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Plecotus_auritus_2013-2_%28cropped%29.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Brown Long-eared Bat — the enormous ears are unmistakable; nearly as long as the body"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "limpet",
+    "common_names": [
+      "Limpet",
+      "Common Limpet"
+    ],
+    "latin_name": "Patella vulgata",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Conical, ribbed shell — like a low, rounded volcano shape. Shell brownish-grey, ribbed. Attached firmly to rocks; impossible to remove without a tool if the animal is alert. Found on rocky shores and harbour walls throughout the intertidal zone. One of the most abundant animals on British rocky shores.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "rocky-shore",
+      "coastal"
+    ],
+    "summary": "The conical, grey-brown shell clamped to every rock at Hurst Spit and Milford beach. Limpets are among the most tenacious animals in Britain — the muscular foot can exert a clamping force of 75kg per square centimetre. They graze algae from rock surfaces at night and are a keystone species of rocky shore ecology.",
+    "full_description": "The Common Limpet (Patella vulgata) is one of the most characteristic animals of the rocky British shore — the conical grey-brown shells are clamped to every rock surface at Hurst Spit and Milford beach. The shell is a low, rounded cone, typically 4–7cm across, with radiating ribs and a brownish-grey exterior (often encrusted with algae). The animal inside has a powerful muscular foot with which it clamps itself to the rock with extraordinary force — a large limpet can resist a clamping force of 75kg per square centimetre, which is why attempting to knock one off its position once it has detected vibration is nearly impossible. At high tide and at night, limpets move slowly across the rock surface to graze algae (microscopic algae that form a film on the rock), using a rasping tongue (radula) harder than human tooth enamel. Each limpet usually returns to the same 'home scar' — a slight depression worn into the rock over years that perfectly fits the shell rim — by following chemical trails. Limpets are important grazers that maintain rock surfaces in a relatively bare state; if limpets are removed from a shore, the rocks quickly become overgrown with algae and then colonised by barnacles and other organisms. They are a true keystone species of the rocky intertidal zone.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Extremely abundant native on all rocky shores around the British Isles. One of the most common intertidal animals in Britain. Not threatened.",
+    "wildlife_value": "Limpets are keystone grazers on rocky shores, maintaining rocky surfaces free of algae and thereby influencing the entire intertidal community structure. They are prey for Oystercatcher, Herring Gull and Purple Sandpiper. The home scars create microhabitat features used by other small invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "oystercatcher",
+      "herring-gull"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "brown",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Conical ribbed shell, firmly clamped to rock. Impossible to dislodge if alert. Moves at night to graze algae; returns to exact home scar. On every rocky surface at Hurst Spit and harbour walls.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Common_limpets1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Limpets clamped to rock — the most characteristic animal of the British rocky shore"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-periwinkle",
+    "common_names": [
+      "Common Periwinkle",
+      "Winkle"
+    ],
+    "latin_name": "Littorina littorea",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Rounded, conical, grey-black spiral shell, 2–4cm high. Smooth or finely ridged. Much more rounded than Whelk; larger than Flat Periwinkle. Abundant on rocky shores, salt-marsh rocks and harbour walls. Comes in various shades of grey-black. The classic 'winkle'.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "rocky-shore",
+      "coastal",
+      "estuary"
+    ],
+    "summary": "The 'winkle' of the British seaside — a round, grey-black shell found on every rocky surface from Hurst Spit to the harbour walls. Common Periwinkles are abundant grazers of algae and have been eaten as seafood in Britain for thousands of years. A familiar and important part of the shore fauna.",
+    "full_description": "The Common Periwinkle (Littorina littorea) is the archetypal British seaside shellfish — the 'winkle' sold at seaside stalls for centuries, and one of the most abundant animals on rocky and mixed shores around the coast. The shell is a neat, rounded, conical spiral, 2–4cm tall, dark grey to almost black in colour (varying to brown in some individuals), with a smooth or slightly ridged surface and a deep, rounded opening (aperture). Unlike the taller, more pointed Whelk shell, the Periwinkle is noticeably rounded and compact. Periwinkles graze algae (particularly green algae and diatoms) from rock surfaces, using a rasping radula, and can tolerate both full salinity and quite brackish water, making them abundant in estuaries as well as open coasts. They can also survive extended periods out of water by closing the shell with a tough operculum (trapdoor). Common Periwinkles are found throughout the intertidal zone at Hurst Spit, on harbour walls at Keyhaven, and on all rocky coastal surfaces around Milford. They have been collected for food since at least the Bronze Age in Britain.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Extremely abundant native on all rocky and mixed shores around Britain. One of the most common intertidal molluscs. Commercially harvested as seafood. Not threatened.",
+    "wildlife_value": "Common Periwinkles are important algal grazers on rocky shores, helping maintain the balance between bare rock and algal cover. They are prey for Oystercatcher, Herring Gull, Turnstone and various fish. The empty shells provide homes for Hermit Crabs.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "oystercatcher",
+      "herring-gull",
+      "turnstone"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "grey",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Rounded grey-black spiral shell, 2–4cm. Abundant on rocky surfaces, harbour walls and saltmarsh rocks. Grazes algae. The classic 'winkle'.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sea_snail%2C_underneath%2C_full_view.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Periwinkle — rounded grey-black shell, the classic winkle of the British coast"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "razor-shell",
+    "common_names": [
+      "Razor Shell",
+      "Razor Clam",
+      "Pod Razor Shell"
+    ],
+    "latin_name": "Ensis leei",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable: long, narrow, straight or slightly curved shell, 12–20cm, shaped exactly like a cut-throat razor. Greenish-white to brown, with a smooth surface. Empty shells very common on the strandline at Milford beach. Live animals burrow rapidly into sand and are rarely seen.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "sandy-shore",
+      "coastal"
+    ],
+    "summary": "The unmistakable long, narrow shell of the strandline — empty shells of Razor Clams are one of the most characteristic sights washed up on Milford beach. The living animal lives buried vertically in clean sand and can burrow at astonishing speed when disturbed.",
+    "full_description": "The Razor Shell (Ensis leei) is named for its extraordinary shape: the elongated, parallel-sided shell, 12–20cm long, bears an unmistakable resemblance to a cut-throat razor — hence the common name. The shell is smooth, relatively thin, and pale greenish-white to brown, often with a shiny periostracum (outer layer) intact on fresh specimens. Empty shells are very commonly found washed up on sandy beaches; they are one of the most characteristic strandline features of Milford beach. The living animal burrows deep into clean, well-oxygenated sand in the lower intertidal and subtidal zones, orientating itself vertically with the siphons reaching to the surface to filter feed on phytoplankton. When disturbed (e.g. by a vibration from footsteps), the animal can retract into its burrow with astonishing speed — a muscular foot is extended into the sand to anchor the animal and the body contracts rapidly to pull it down. They can burrow to over 50cm deep within seconds. Razor Shells are commercially harvested for food in some areas; the method of 'pouring salt onto the burrow opening' causes the animal to emerge (mistaking the salt concentration for the tidal water receding) and is used for both bait collection and commercial harvest.",
+    "danger_level": "mild",
+    "danger_note": "The shell edges are extremely sharp — the cut edges can cause deep cuts. Handle with care, or wear gloves. The name 'razor shell' is well-earned.",
+    "danger_type": "sharp",
+    "native_info": "Native; common on clean sandy beaches around Britain, particularly on the lower shore and in shallow subtidal areas. Not threatened. Commercially harvested in some areas.",
+    "wildlife_value": "Razor Shells are filter feeders that process phytoplankton from the water column, contributing to water clarity. Their burrows aerate the sediment. Eaten by Oystercatcher, starfish, flatfish and otters where present.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "oystercatcher"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "green",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Long, narrow, razor-shaped shell, 12–20cm. Empty shells common on strandline. Living animals buried vertically in sand; burrow at speed when disturbed. Sharp edges — handle with care.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ensis_directus.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Razor Shell — long, narrow, razor-shaped shell; very sharp edges"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-whelk",
+    "common_names": [
+      "Common Whelk",
+      "Whelk"
+    ],
+    "latin_name": "Buccinum undatum",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Large, robust, pointed spiral shell, 6–12cm, with wavy ridges crossing the whorls (hence 'undatum' — wavy). Sandy-cream to pale brown. Much larger than Periwinkle. The empty shells are often used by large Hermit Crabs. Found washed up on beaches and in shallow water.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "sandy-shore",
+      "estuary"
+    ],
+    "summary": "The large, pointed spiral shell found washed up on Milford beach — a classic British seafood shellfish and one of the most familiar large shells of the shore. Empty Whelk shells are often occupied by Hermit Crabs. The Common Whelk is a predator and scavenger of the seabed.",
+    "full_description": "The Common Whelk (Buccinum undatum) is one of Britain's largest intertidal and shallow-subtidal snails, with a shell 6–12cm tall — far larger than the Common Periwinkle. The shell is a tall, pointed spiral with rounded whorls crossed by wavy, undulating ridges (from which the species name undatum — 'wavy' — derives). The colour is sandy-cream to pale brown, often with growth lines. Whelks are carnivorous predators and scavengers — they drill through the shells of other bivalves using a hardened radula (tongue) or a toothed proboscis, and also feed on carrion. Empty Whelk shells are familiar on beaches and are commonly occupied by large Hermit Crabs (Pagurus bernhardus). The familiar 'egg masses' of Common Whelks — parchment-like clusters of white, coin-shaped egg capsules, often found washed up on beaches, looking like a ball of old bubble wrap — are one of the characteristic strandline objects on south coast beaches. Common Whelks live subtidally and in the lower intertidal zone, so the live animals are not often seen, but their shells are a constant feature of the Milford strandline.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; common around all British coasts in subtidal and lower intertidal habitats. Commercially harvested for seafood throughout Britain. Whelk meat is a traditional British seaside food.",
+    "wildlife_value": "Whelks are important predators of bivalves on the seabed, helping regulate mussel and cockle populations. Their empty shells provide homes for Hermit Crabs, which in turn are important prey for Octopus, various fish and larger wading birds.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "herring-gull"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "brown",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Large, pointed, wavy-ribbed spiral shell 6–12cm. Sandy-cream to brown. Empty shells often occupied by large Hermit Crabs. Egg masses (bubble-wrap-like clusters) found on strandline in winter.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Buccinum_undatum.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Whelk — large pointed spiral shell with wavy ridges"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-prawn",
+    "common_names": [
+      "Common Prawn"
+    ],
+    "latin_name": "Palaemon serratus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Translucent body with brownish or reddish striping and spots. Long antennae. Rostrum (pointed projection between the eyes) is long, serrated and curves upward slightly. Much larger than a Shrimp (which is plain and smaller). Found in rockpools, seaweed and estuarine channels.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "coastal",
+      "estuary",
+      "rocky-shore"
+    ],
+    "summary": "The familiar prawn of rockpools and shallow coastal water — a translucent crustacean with distinctive striping, long antennae and a sawtooth beak between the eyes. Common Prawns occur in the rockpools and sheltered channels at Hurst Spit and Keyhaven Harbour, often in large shoals.",
+    "full_description": "The Common Prawn (Palaemon serratus) is the familiar prawn of British rock pools and shallow coastal water — the species most people think of when they imagine 'a prawn'. It is a medium-sized shrimp-like crustacean, typically 5–8cm long, with a largely translucent body marked with brownish-orange stripes and spots on the abdomen, and long, banded antennae. The most diagnostic feature is the rostrum — a long, serrated projection pointing forward between the eyes, which curves upward slightly near the tip. This is longer and more strongly toothed than in the Brown Shrimp (which has a much shorter rostrum). Common Prawns are omnivorous, feeding on algae, detritus and small invertebrates. They are highly active and swim rapidly when disturbed, using powerful tail-flick jumps to escape backwards. In summer they often occur in dense shoals in pools and channels, and are easily caught in rockpooling nets. In the sheltered channels and harbour at Keyhaven, and in the rockpools and crevices of Hurst Spit, Common Prawns are abundant from spring through autumn. They are an important food source for bass, mullet and wading birds, and are commercially harvested for food.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; very common in rockpools and shallow coastal water around all British coasts. Not threatened. Commercially fished for seafood.",
+    "wildlife_value": "Common Prawns are important mid-level predators and scavengers in shallow coastal food webs, consuming algae and invertebrate detritus and in turn being eaten by fish, wading birds and seabirds. They process organic material in rockpools and channels.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "herring-gull",
+      "oystercatcher"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "white",
+      "brown",
+      "orange",
+      "red"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Translucent body with brownish-orange striping. Long antennae. Upturned serrated rostrum between eyes. Often in shoals in rockpools and channels. Swims rapidly when disturbed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Palaemon_serratus_Croazia.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Prawn — translucent body with orange-brown markings and long serrated rostrum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ragworm",
+    "common_names": [
+      "Ragworm",
+      "Harbour Ragworm",
+      "Common Ragworm"
+    ],
+    "latin_name": "Hediste diversicolor",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Iridescent, segmented marine worm, typically 5–20cm long. Greenish or reddish-brown, each segment bearing a paddle-like lobe (parapodium) on each side with bristles, giving a 'ragged' appearance. A visible blood-vessel runs down the dorsal surface. Found by digging in estuary mud and fine sand. Can bite if handled.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "mudflat",
+      "estuary",
+      "sandy-shore"
+    ],
+    "summary": "The iridescent green-brown worm of the estuary mud — the most important food item for Redshank, Grey Plover, Greenshank and many other waders at Keyhaven. Ragworms live in burrows in the upper estuarine sediment and are revealed at low tide when waders probe for them. The most commonly used sea-fishing bait in Britain.",
+    "full_description": "The Ragworm (Hediste diversicolor) is one of the most ecologically important invertebrates of British estuaries. It is a polychaete (bristle worm) — a segmented worm with a row of paddle-like lobes (parapodia) bearing tufts of bristles (chaetae) along each side, giving it a distinctly 'ragged' appearance that is the origin of its name. Adults are typically 5–20cm long but occasionally reach 30cm. The colour is iridescent greenish-brown, often with a reddish tinge, and a distinct red dorsal blood vessel is visible along the length of the body. Ragworms live in mucus-lined burrows in the upper layers of estuarine mud and sand, feeding on detritus, algae and small organisms. They are a major food source for Redshank, Greenshank, Grey Plover, Little Egret and many other wading birds that probe the upper mud. On a mudflat at Keyhaven or along the saltmarsh channels, the probing bills of Redshank and Greenshank are often extracting ragworms. Ragworms can be seen on the surface at night, and during their remarkable annual mass spawning (nuptial swarming) they swim to the surface in huge numbers at night, often in October–November. They are by far the most commonly used sea-fishing bait in Britain. Handle with care as they can deliver a surprisingly sharp bite.",
+    "danger_level": "mild",
+    "danger_note": "Ragworms can bite sharply with their eversible jaws — handle with care if digging for fishing bait, and avoid placing fingers near the head end of a large worm.",
+    "danger_type": "animal",
+    "native_info": "Native; extremely abundant in estuarine mud and sand throughout the British Isles. One of the most biomass-rich invertebrates of the upper estuary. Not threatened. Heavily harvested for fishing bait.",
+    "wildlife_value": "Ragworms are a cornerstone of estuarine food webs — a primary food source for Redshank, Greenshank, Grey Plover, Dunlin, Little Egret, flatfish and many other species. Their burrowing aerates sediment. Fundamental to the ecology of mudflat and estuary habitats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "redshank",
+      "greenshank",
+      "little-egret"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "brown",
+      "red"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Iridescent greenish-brown segmented worm with paddle-like lobes and bristles. Lives in burrows in upper estuary mud. Extracted by waders probing the mudflat. Can bite — handle with care.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nereis_diversicolor_1.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Ragworm — iridescent segmented worm of estuary mud; primary food for wading birds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sandhopper",
+    "common_names": [
+      "Sandhopper",
+      "Sand Flea"
+    ],
+    "latin_name": "Talitrus saltator",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Small (1–2cm), laterally flattened crustacean (amphipod). Pale grey to brown, with a curved, shrimp-like body. Revealed in huge numbers when strandline seaweed or driftwood is turned over — they leap in all directions when disturbed (hence 'sandhopper'). The most visible sign of strandline life.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "sandy-shore",
+      "coastal",
+      "shingle"
+    ],
+    "summary": "Lift any piece of rotting seaweed on the strandline at Milford and dozens — possibly hundreds — of Sandhoppers will leap in all directions. These tiny amphipod crustaceans are the dominant recyclers of the strandline, breaking down washed-up organic matter and forming the base of the beach food chain.",
+    "full_description": "The Sandhopper (Talitrus saltator) is a small amphipod crustacean — a laterally flattened, shrimp-like animal, 1–2cm long, pale grey to sandy-brown in colour. It lives in burrows in damp sand and beneath rotting seaweed, driftwood and organic debris in the upper strandline zone — the band of material deposited by the highest tides. When this debris is disturbed, Sandhoppers emerge and leap energetically in all directions using their powerful hind legs — the 'hopping' behaviour that gives them their name. Sandhoppers are highly abundant; a square metre of strandline seaweed may conceal thousands of individuals. They feed primarily on rotting organic material — decomposing seaweed (particularly kelp), dead animals and plant debris — making them one of the primary recyclers of the strandline. They emerge at night to feed and return to damp burrows before dawn to avoid desiccation. Their remarkable navigation ability has been widely studied: Sandhoppers use the position of the sun and moon to navigate back to the appropriate zone on the beach (neither too dry nor too wet). At Milford beach and along the strandline at Hurst Spit, Sandhoppers are present in huge numbers and are food for Turnstones, Ringed Plovers and various other shorebirds that systematically search the strandline.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native; extremely abundant on all sandy and shingle beaches around the British Isles. One of the most numerous coastal invertebrates. Not threatened.",
+    "wildlife_value": "Sandhoppers are fundamental decomposers on the strandline — without them, washed-up organic material would accumulate and not be broken down. They are a primary food source for strandline-feeding birds (Turnstone, Ringed Plover, Sanderling) and small mammals. Key link between marine and terrestrial food chains.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "turnstone",
+      "ringed-plover"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "brown",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Small (1–2cm), laterally flattened. Abundant under strandline seaweed and debris — leap energetically when disturbed. Primary recyclers of organic strandline material. Food for Turnstones and Ringed Plovers.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Talitrus_saltator_2c.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Sandhopper — small laterally-flattened amphipod; abundant under strandline seaweed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "annual-sea-blite",
+    "common_names": [
+      "Annual Sea-blite",
+      "Shrubby Sea-blite"
+    ],
+    "latin_name": "Suaeda maritima",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Small, succulent annual (5–40cm) with cylindrical, fleshy, pointed pale green to red-purple leaves. Grows in the bare lower saltmarsh, often alongside Glasswort but slightly higher up. Leaves round in cross-section — like tiny green sausages. Flowers tiny and inconspicuous.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      8,
+      9,
+      10
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh",
+      "mudflat"
+    ],
+    "summary": "A small succulent annual of the lower saltmarsh, growing alongside Common Glasswort on the bare mud. Annual Sea-blite is a specialist of the most challenging coastal conditions — twice-daily tidal flooding, high salt concentrations and waterlogged, anaerobic sediment. Turns reddish-purple in autumn.",
+    "full_description": "Annual Sea-blite (Suaeda maritima) is a small, inconspicuous but ecologically important annual plant of the lower saltmarsh, one of the few plants able to colonise the bare, saline mud alongside Common Glasswort. It grows 5–40cm tall with cylindrical, fleshy, pale green leaves that are rounded in cross-section — like tiny, slightly curved sausages — and a branching, rather straggling habit. Like Glasswort, it accumulates salt in its succulent tissues. The flowers are tiny and green, embedded in the leaf axils. In autumn, plants often develop reddish or purple tints before dying back. Annual Sea-blite is an annual, completing its life cycle in one season and germinating from seed each spring. It is a pioneer of the lowest saltmarsh zones, often appearing on freshly deposited mud among Glasswort plants. The two plants together (Glasswort and Sea-blite) form the pioneering vanguard of saltmarsh colonisation — stabilising mud and beginning the slow process of building new land. At Keyhaven, Annual Sea-blite is present in the lower saltmarsh communities throughout the summer and autumn.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native annual of saltmarshes around the British Isles. Common on all British saltmarshes on the south and east coasts. Not threatened as a species, though saltmarsh habitat overall is declining.",
+    "wildlife_value": "Annual Sea-blite is a pioneer saltmarsh annual that helps stabilise new mud alongside Glasswort. Its seeds are eaten by Brent Geese and finches in autumn. Contributes to the structural diversity of the lower saltmarsh community.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "linnet",
+      "reed-bunting"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green"
+    ],
+    "colour_leaf": [
+      "green",
+      "red",
+      "purple"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [
+      "green",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Growing",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Small succulent annual with cylindrical fleshy pale-green to reddish-purple leaves. Lower saltmarsh alongside Glasswort. Turns reddish in autumn before dying back.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Suaeda_maritima_01_by_Line1.JPG",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Growing",
+            "month_taken": 9,
+            "caption": "Annual Sea-blite — fleshy cylindrical leaves on the lower saltmarsh"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea-arrowgrass",
+    "common_names": [
+      "Sea Arrowgrass"
+    ],
+    "latin_name": "Triglochin maritima",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Grass-like plant with tall, upright, narrow leaves (semi-cylindrical and fleshy) and tall flower spikes bearing small brown-green flowers in a long, narrow spike. Leaves semi-cylindrical in cross-section. Common in the upper saltmarsh — looks like a grass but is not a grass. Flowers June–August.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "saltmarsh"
+    ],
+    "summary": "A common but easily overlooked plant of the upper saltmarsh, resembling a grass but belonging to a different plant family. Sea Arrowgrass is a characteristic species of the Keyhaven saltmarsh, its slender spikes adding texture to the mid-marsh vegetation. Notable for being toxic if eaten in quantity.",
+    "full_description": "Sea Arrowgrass (Triglochin maritima) is a common plant of the mid- and upper saltmarsh that is frequently overlooked as 'just a grass' — but it is not a grass at all, belonging instead to the family Juncaginaceae. It has narrow, semi-cylindrical, fleshy, upright leaves (not flat like a true grass) and grows 15–50cm tall. The flower spike is tall and slender, bearing numerous tiny flowers with brownish-green tepals pressed close to the stem, followed by elongated fruits. It tolerates regular tidal flooding and high salt concentrations. Sea Arrowgrass is a characteristic species of British saltmarshes, typically growing in the mid-marsh zone above the Glasswort and Sea-blite levels, alongside Sea Purslane, Saltmarsh Grass and the lower reaches of Sea Lavender. At Keyhaven Marshes, it forms part of the mid-marsh vegetation community. Notably, Sea Arrowgrass contains hydrocyanic acid (prussic acid) and can be toxic to livestock if grazed in large amounts — cattle and sheep can be harmed by grazing stress-damaged plants. This is rarely an issue at Keyhaven as livestock are not grazed on the saltmarsh.",
+    "danger_level": "mild",
+    "danger_note": "Sea Arrowgrass contains hydrocyanic acid and is toxic to livestock if grazed in large quantities, particularly when the plant is stressed. Not a hazard to humans under normal circumstances — do not eat.",
+    "danger_type": "toxic",
+    "native_info": "Native to saltmarshes around the British Isles, widespread and common on all British coasts. Not threatened.",
+    "wildlife_value": "Sea Arrowgrass is a characteristic saltmarsh species contributing to the structural diversity of the mid-marsh community. Its seeds are eaten by wildfowl, particularly Teal and Wigeon, and it provides food for saltmarsh invertebrates.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "teal",
+      "wigeon"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green",
+      "brown"
+    ],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "green",
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Growing and Flowering",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Upright, grass-like plant with semi-cylindrical fleshy leaves and narrow flower spikes. Common in upper saltmarsh. Not actually a grass — leaves are round in cross-section. Flowers June–August.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stranddreizack.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Growing and Flowering",
+            "month_taken": 8,
+            "caption": "Sea Arrowgrass — grass-like saltmarsh plant with narrow flower spike; common at Keyhaven"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea-rocket",
+    "common_names": [
+      "Sea Rocket"
+    ],
+    "latin_name": "Cakile maritima",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Fleshy, succulent-looking annual with divided blue-green leaves and small lilac-pink to white four-petalled flowers. Grows just above the strandline on sandy beaches and shingle. Looks somewhat like a succulent version of a garden rocket. Fruits are distinctive — two-lobed, bobbin-shaped seed pods.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "shingle",
+      "sandy-shore",
+      "coastal"
+    ],
+    "summary": "A cheerful pink-flowered annual that pushes up through the sand and shingle at Milford beach from July onwards. Sea Rocket is a specialist of the drift line — it germinates in the organic-rich wrack deposited by the tide. Hardy enough to survive salt spray and shifting substrate, it's one of the first plants to colonise new sand.",
+    "full_description": "Sea Rocket (Cakile maritima) is a charming annual of sandy beaches and stable shingle, pushing up bright lilac-pink or white flowers from the sand and shingle just above the strandline each summer. It is a member of the cabbage family (Brassicaceae) with somewhat succulent, deeply divided blue-green leaves and clusters of small four-petalled flowers typical of the family. The plant is typically 15–40cm tall, spreading and branching. The seeds are contained in distinctive two-lobed, bobbin-shaped pods that are adapted for dispersal by sea — the pods float and can survive salt water immersion, washing up on beaches to germinate the following year. Sea Rocket colonises the organic-rich material at the drift line — the wrack of seaweed, driftwood and organic debris deposited by the highest tides. It is a pioneer species, one of the first plants able to establish on newly deposited sand and fine shingle, where its decaying autumn growth adds nutrients for subsequent colonisers. The flowers are visited by bees and hoverflies. At Milford beach and along the high-tide strandline at Hurst Spit, Sea Rocket appears from July and can form dense patches through to October.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native annual of sandy beaches and shingle throughout southern Britain. Pioneer species of drift-line habitats. Not threatened, though shingle beach habitats face increasing pressure from sea-level rise and coastal erosion.",
+    "wildlife_value": "Sea Rocket is a pioneer plant that initiates colonisation of bare sand and shingle above the strandline. Its flowers provide nectar for bees and hoverflies. Seeds eaten by Linnet and other finches. Adds nutrients to the strandline ecosystem through decomposition.",
+    "pollinators_supported": [
+      "buff-tailed-bumblebee",
+      "honey-bee",
+      "marmalade-hoverfly"
+    ],
+    "food_source_for": [
+      "linnet"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "lilac",
+      "white"
+    ],
+    "colour_leaf": [
+      "green",
+      "blue"
+    ],
+    "colour_berry_fruit": [
+      "green",
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "green"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Flowering",
+        "months_typical": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Fleshy blue-green leaves with lilac-pink four-petalled flowers just above the strandline. Bobbin-shaped two-lobed seed pods. Pioneer of sandy beaches and shingle. Flowers July–September.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cakile_maritima_Rad%C3%A8s_beach.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Flowering",
+            "month_taken": 8,
+            "caption": "Sea Rocket — lilac-pink flowers on the strandline of a sandy beach"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sea-beet",
+    "common_names": [
+      "Sea Beet",
+      "Wild Beet",
+      "Sea Spinach"
+    ],
+    "latin_name": "Beta vulgaris subsp. maritima",
+    "type": "plant",
+    "native_status": "native",
+    "confidence_to_id": "medium",
+    "confidence_note": "Sprawling perennial with large, dark green, shiny, leathery triangular-to-oval leaves, often tinged red at the edges. Grows on the upper strandline, sea walls and shingle above the high-tide mark. Flowering stems tall (up to 1m) with tiny green flowers. The wild ancestor of beetroot and spinach.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "peak_months": [
+      7,
+      8,
+      9
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "locations": [
+      "milford-on-sea"
+    ],
+    "habitat_tags": [
+      "shingle",
+      "coastal"
+    ],
+    "summary": "The wild ancestor of beetroot, sugar beet, Swiss chard and spinach — a sprawling, dark-leaved plant of sea walls and upper strandlines at Milford and Hurst Spit. Sea Beet is edible (leaves used as spinach), tough enough to tolerate salt spray and flooding, and one of the most ecologically important plants of the coastal fringe.",
+    "full_description": "Sea Beet (Beta vulgaris subsp. maritima) is a robust, sprawling perennial of the upper strandline, sea walls, shingle ridges and coastal cliffs — the wild ancestor of an extraordinary range of cultivated vegetables: beetroot, sugar beet, Swiss chard, perpetual spinach and garden beet are all derived from this one wild coastal plant. It grows 30–80cm tall (or sprawling over a wide area), with large, dark green, shiny, leathery leaves — the lower leaves broadly triangular with a heart-shaped base, the upper leaves narrower. The leaves often have reddish tinges, particularly towards the edges. The flowering stems are tall, branching and rather untidy, bearing tiny green wind-pollinated flowers. Sea Beet is a remarkably tough plant, tolerating salt spray, occasional tidal flooding, drought and poor soils. It grows on the upper strandline, sea walls, shingle ridges and coastal cliffs. The leaves are edible and have a pleasant, slightly salty flavour similar to spinach — they can be eaten raw or cooked. At Milford-on-Sea, Sea Beet grows along the sea wall, on the shingle ridges and upper beach areas, and is one of the characteristic plants of the coastal fringe.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native perennial of coastal habitats throughout southern and eastern England. Widespread on all British coasts. The ancestor of all cultivated beet and chard. Not threatened.",
+    "wildlife_value": "Sea Beet provides cover and food on the otherwise exposed upper strandline. Its leaves are eaten by various invertebrates and the seeds by finches and buntings. As a robust pioneer, it contributes to the colonisation of shingle and the development of upper coastal vegetation communities.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "linnet",
+      "reed-bunting"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "green"
+    ],
+    "colour_leaf": [
+      "green",
+      "red"
+    ],
+    "colour_berry_fruit": [
+      "green",
+      "brown"
+    ],
+    "colour_bark_stem": [
+      "green",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Growing and Flowering",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Sprawling perennial with large dark shiny leaves, often reddish-tinged. Grows on sea walls and upper strandline. Leaves edible (like spinach). Wild ancestor of beetroot and Swiss chard.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Beta_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-167.jpg",
+            "credit": "Wikimedia Commons",
+            "licence": "CC-BY-SA",
+            "life_stage": "Growing and Flowering",
+            "month_taken": 8,
+            "caption": "Sea Beet — dark shiny leaves on coastal shingle; wild ancestor of beetroot and spinach"
+          }
+        ]
+      }
+    ]
   }
 ]
