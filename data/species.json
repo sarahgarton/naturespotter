@@ -17493,5 +17493,2887 @@
     "verified": true,
     "date_added": "2026-05-30",
     "featured": true
+  },
+  {
+    "id": "house-sparrow",
+    "common_names": [
+      "House Sparrow"
+    ],
+    "latin_name": "Passer domesticus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Males have a grey crown, chestnut-brown nape and black bib; females are plain sandy-brown with a pale stripe behind the eye and no bib. Always in noisy, chattering groups.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "scrub",
+      "garden",
+      "urban-edge",
+      "farmland"
+    ],
+    "summary": "A noisy, sociable little bird that almost always turns up in a chattering gang rather than alone. Once one of Britain's most common birds, it has declined sharply and is now on the conservation Red List.",
+    "full_description": "The House Sparrow (Passer domesticus) is a compact, big-headed finch-like bird about 15cm long. The male has a grey crown, chestnut-brown patch running back from the eye, black bib (larger in more dominant males), and streaky brown back. The female and juveniles are much plainer — sandy-brown all over with a pale buff stripe behind the eye and darker streaking on the back, and no black bib. House Sparrows are almost never seen alone: they live in noisy, gossiping colonies, feeding, dust-bathing, and roosting together in dense hedges or under eaves.\n\nDespite being one of the most familiar birds in Britain for centuries, House Sparrow numbers have fallen by around 70% since the 1970s, and it is now Red-listed as a bird of conservation concern. The causes are debated but likely include loss of nesting sites in modern buildings, fewer garden insects to feed chicks, and changes in farming. Colonies that do survive tend to be resilient once established — a good hedge or scrubby corner with insects, seeds, and thick cover can support a thriving group for years.\n\nAt Old Down, House Sparrows favour the thick hedgerows and scrubby margins around the site, particularly where bramble and hawthorn provide dense cover for nesting and refuge from Sparrowhawks. Listen for the constant cheerful chirruping and chattering — a House Sparrow colony is rarely quiet. Children can look for their dust-bathing 'scrapes' — shallow bowls of bare earth where sparrows fluff dust through their feathers to control parasites.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and historically abundant throughout the UK, closely associated with human settlement for thousands of years. Now Red-listed due to a severe long-term population decline, though it remains widespread.",
+    "wildlife_value": "Feeds chicks almost entirely on insects and spiders in the breeding season, making good invertebrate-rich habitat essential. Seeds and scraps form the adult diet outside the breeding season. Nest sites in dense hedges and building crevices are also used by other small birds once vacated.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "kestrel"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "grey",
+      "black",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Grey crown, chestnut-brown band from the eye to the nape, black bib on the throat and upper breast (bigger in dominant, older males), streaky brown-and-black back, and a stout grey-brown bill (black in the breeding season, yellowish in winter).",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/House_sparrow_%28Passer_domesticus%29_male_2.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult male",
+            "month_taken": 4,
+            "caption": "House Sparrow male — grey crown, chestnut nape, black bib"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult female",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Plain sandy-brown overall with a pale buff stripe behind the eye, streaked darker on the back and wings, and no black bib. Juveniles resemble the female. Told apart from other 'little brown birds' by the stout bill and constant chattering flock behaviour.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/House_sparrow_%28Passer_domesticus%29_female_Reunion.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult female",
+            "month_taken": 5,
+            "caption": "House Sparrow female — plain sandy-brown, pale stripe behind the eye"
+          }
+        ]
+      },
+      {
+        "stage_name": "Chick and juvenile",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "2–5 broods a year are common. Chicks fledge after about 15 days and are fed almost entirely on insects. Juveniles look like washed-out females and beg noisily from parents in family parties well after fledging.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "tree-sparrow",
+        "similarity_note": "Closely related sparrow, scarcer in southern England",
+        "key_difference": "Tree Sparrow has a solid chestnut-brown (not grey) crown, a neat black cheek spot on an otherwise white face, and both sexes look alike. House Sparrow males have a grey crown and no cheek spot.",
+        "time_of_year_note": "Both present year-round where they occur",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "dunnock",
+        "similarity_note": "Often confused with a female House Sparrow at a glance",
+        "key_difference": "Dunnock is slate-grey on the head and breast with a thin, needle-like insect-eating bill, and shuffles quietly and alone at the base of hedges rather than chattering in a flock.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/House_sparrow_%28Passer_domesticus%29_male_2.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult male",
+        "month_taken": 4,
+        "caption": "House Sparrow male — grey crown, chestnut nape, black bib"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/House_sparrow_%28Passer_domesticus%29_female_Reunion.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult female",
+        "month_taken": 5,
+        "caption": "House Sparrow female — plain sandy-brown, pale stripe behind the eye"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "bullfinch",
+    "common_names": [
+      "Bullfinch",
+      "Eurasian Bullfinch"
+    ],
+    "latin_name": "Pyrrhula pyrrhula",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The male's vivid rose-pink breast, jet-black cap and flashing white rump in flight are unmistakable. Shy and quiet, so often heard (a soft, low 'peu' whistle) before it is seen.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "field-edge"
+    ],
+    "summary": "A shy, secretive finch that hides in dense hedges — the male's rose-pink breast and jet-black cap are stunning when finally glimpsed. Easiest to spot in winter when bare hedges give fewer places to hide.",
+    "full_description": "The Bullfinch (Pyrrhula pyrrhula) is one of Britain's most beautiful finches but also one of the shyest. The male has a rose-pink breast and cheeks, a glossy black cap and face, blue-grey back, and a brilliant white rump that flashes conspicuously as the bird flies away from you — often the only clear view you get. The female shares the same pattern but in muted grey-buff tones instead of pink. Both sexes have a distinctive stubby, rounded black bill adapted for eating buds and seeds, and a soft, low, disyllabic 'peu' whistle is often the first clue a Bullfinch is nearby, well before it is seen.\n\nBullfinches were once persecuted by fruit growers because they strip the flower buds from fruit trees in late winter and early spring, feeding on the developing embryo inside each bud — a single bird can remove a large number of buds from an orchard tree in a day when little other food is available. This reputation earned them a bad name historically, though numbers have actually declined significantly in farmland over recent decades, and they are now an Amber-listed species of conservation concern, largely dependent on unmanaged hedgerows and scrub.\n\nAt Old Down, Bullfinches favour the denser, taller hedgerows and blackthorn scrub around the chalk grassland, where they feed on the seeds of dock, bramble, and ash keys as well as buds. They are genuinely secretive birds, usually staying low and well hidden in cover, so winter — when hedges are bare of leaves — is by far the best time to catch a clear view of this gorgeous finch.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident throughout the UK, though scarcer and more local than most garden finches. Strongly associated with mature hedgerows, woodland edge and scrub; has declined on intensively managed farmland.",
+    "wildlife_value": "Feeds on tree and shrub buds, seeds of bramble, dock, ash and nettle, and some insects for chicks. A good indicator of well-managed, structurally diverse hedgerows with mature shrubs left to flower and seed.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "pink",
+      "black",
+      "grey",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Vivid rose-pink breast and cheeks, glossy black cap and face, blue-grey back, black wings with a pale wing-bar, and a brilliant white rump that shows clearly in flight. Stubby black bill built for crushing buds and seeds.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Eurasian_bullfinch_%28Pyrrhula_pyrrhula_europaea%29_male_Drenthe.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult male",
+            "month_taken": 1,
+            "caption": "Bullfinch male — vivid rose-pink breast, black cap, white rump"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult female",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Same pattern as the male — black cap, white rump — but in soft grey-buff tones instead of pink. Told apart from other finches by the black cap, stubby bill, and white rump.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pyrrhula_pyrrhula_couple_%28male_below%2C_female_above%29_on_a_tree_01.jpg",
+            "credit": "Sniiiif / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Pair",
+            "month_taken": 2,
+            "caption": "Bullfinch pair — pink-breasted male below, buff-brown female above"
+          }
+        ]
+      },
+      {
+        "stage_name": "Chick and juvenile",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "2 broods typical, nest is a flimsy twig-and-moss platform hidden deep in a hedge or conifer. Juveniles resemble the female but lack the black cap until their first autumn moult.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "chaffinch",
+        "similarity_note": "Both are colourful, pink-breasted finches of hedgerows",
+        "key_difference": "Chaffinch has a much paler, dusky-pink breast, a blue-grey (not black) cap, and bold white wing-bars and outer tail feathers. It lacks the Bullfinch's black face and white rump.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "greenfinch",
+        "similarity_note": "Both are chunky, seed-eating finches with a stout bill",
+        "key_difference": "Greenfinch is olive-green with yellow flashes in the wings and tail, not pink and black, and is far more likely to be at a garden feeder than deep in a hedge.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Eurasian_bullfinch_%28Pyrrhula_pyrrhula_europaea%29_male_Drenthe.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult male",
+        "month_taken": 1,
+        "caption": "Bullfinch male — vivid rose-pink breast, black cap, white rump"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pyrrhula_pyrrhula_couple_%28male_below%2C_female_above%29_on_a_tree_01.jpg",
+        "credit": "Sniiiif / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Pair",
+        "month_taken": 2,
+        "caption": "Bullfinch pair — pink-breasted male below, buff-brown female above"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "starling",
+    "common_names": [
+      "Starling",
+      "Common Starling",
+      "European Starling"
+    ],
+    "latin_name": "Sturnus vulgaris",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Looks black at a distance but shimmers with green and purple iridescence up close, and is covered in pale spots in fresh winter plumage. Short tail, long pointed bill, and a whirring, direct flight are good clues even at range.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "farmland",
+      "field-edge",
+      "hedgerow",
+      "garden",
+      "urban-edge"
+    ],
+    "summary": "A glossy, spangled bird famous for its extraordinary aerial murmurations — thousands of Starlings twisting and swirling together at dusk, especially in autumn and winter. Also a remarkable mimic, weaving other birds' calls into its own scratchy song.",
+    "full_description": "The Starling (Sturnus vulgaris) looks like an unremarkable black bird from a distance, but a close view reveals plumage that shimmers with iridescent green and purple, especially on the head and back. In fresh winter plumage the whole bird is covered in bold cream-white spots, which gradually wear away over the winter so that by the height of the breeding season in late spring the bird looks almost uniformly glossy black. It has a short tail, a long, sharply pointed bill (yellow in summer, dark in winter), and a distinctive fast, direct, whirring flight on triangular wings, quite different from the fluttering, undulating flight of a blackbird.\n\nStarlings are famous for murmurations — vast, swirling flocks that gather at dusk in autumn and winter, sometimes tens of thousands of birds strong, twisting and pulsing through the sky in shapes before dropping suddenly into a communal roost. The behaviour is thought to help confuse predators such as Sparrowhawks and Peregrine Falcons, and to share information about good feeding areas. Starlings are also gifted mimics, weaving fragments of other birds' calls, car alarms, and mechanical sounds into their scratchy, wheezy, clicking song, often delivered from a rooftop or treetop perch with wings held slightly open.\n\nAt Old Down, Starlings feed in tight, fast-moving flocks on the short chalk turf and adjoining farmland, probing the ground with that long bill for leatherjackets (cranefly larvae) and other soil invertebrates. Winter numbers are boosted by migrants arriving from Scandinavia, Russia and eastern Europe, and small evening murmurations can sometimes be seen over the site before the flock heads off to roost. Despite still being a familiar garden bird, the UK breeding population has fallen sharply since the 1980s and Starling is now Red-listed.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident and breeding throughout the UK, with numbers swelled in autumn and winter by continental migrants. Once superabundant, but the UK breeding population has declined by more than 80% since the 1960s, and it is now Red-listed.",
+    "wildlife_value": "An important predator of soil invertebrates, especially leatherjackets and other cranefly larvae, which it finds by probing short turf with its bill. Nests in tree holes and building cavities, competing with other hole-nesters such as Great Spotted Woodpecker.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk",
+      "kestrel"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "green",
+      "purple",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult (winter)",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Fresh autumn plumage is densely covered in bold cream-white spots on a glossy black base, with a dark bill. This is the classic 'starling' look most people picture.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Starling_%28Sturnus_vulgaris%29_-_geograph.org.uk_-_657263.jpg",
+            "credit": "Christine Matthews / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Adult (winter)",
+            "month_taken": 11,
+            "caption": "Adult Starling in fresh winter plumage — heavily spangled with white spots"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult (summer)",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "By the breeding season the pale spots have worn away, leaving the plumage looking almost solid glossy black with strong green-purple iridescence, and the bill turns bright yellow.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Adult_European_Starling._Sturnus_vulgaris_-_Flickr_-_gailhampshire.jpg",
+            "credit": "gailhampshire / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Adult (summer)",
+            "month_taken": 5,
+            "caption": "Adult Starling in summer plumage — glossy black with green-purple iridescence"
+          }
+        ]
+      },
+      {
+        "stage_name": "Chick and juvenile",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Nests in tree holes, building cavities and nest boxes. Juveniles are drab grey-brown all over with a pale throat and dark bill — easily mistaken for a different species until they moult into blotchy immature plumage in late summer.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "blackbird",
+        "similarity_note": "Both are common medium-sized black garden and farmland birds",
+        "key_difference": "Blackbird has a longer tail, slower fluttering flight, and hops rather than the Starling's confident upright walk. Male Blackbird has a bright orange-yellow bill and no iridescence or spotting; Starling has a shorter tail and a whirring, direct flight.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Starling_%28Sturnus_vulgaris%29_-_geograph.org.uk_-_657263.jpg",
+        "credit": "Christine Matthews / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Adult (winter)",
+        "month_taken": 11,
+        "caption": "Adult Starling in fresh winter plumage — heavily spangled with white spots"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Adult_European_Starling._Sturnus_vulgaris_-_Flickr_-_gailhampshire.jpg",
+        "credit": "gailhampshire / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult (summer)",
+        "month_taken": 5,
+        "caption": "Adult Starling in summer plumage — glossy black with green-purple iridescence"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "greenfinch",
+    "common_names": [
+      "Greenfinch",
+      "European Greenfinch"
+    ],
+    "latin_name": "Chloris chloris",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "A chunky, olive-green finch with a heavy pale bill and bright yellow flashes in the wings and tail, especially obvious in flight. Song includes a distinctive nasal, wheezy 'dzweee'.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "garden",
+      "scrub",
+      "farmland"
+    ],
+    "summary": "A chunky olive-green finch with a heavy seed-cracking bill and flashes of bright yellow in the wings and tail. Once one of Britain's commonest garden finches, it has suffered a serious decline due to a parasitic disease spread at bird feeders.",
+    "full_description": "The Greenfinch (Chloris chloris) is a stocky, big-headed finch, olive-green above and yellowish-green below, with a thick, pale, conical bill perfectly shaped for cracking open seeds. In flight, and often when perched, bright yellow patches flash in the wings and at the base of the tail — a good feature for picking it out from other finches at a distance. Females and juveniles are duller and browner than the male but show the same yellow flashes. The song is a distinctive, slightly wheezy, nasal 'dzweee', often delivered from a high perch or during a slow, exaggerated, bat-like display flight over the breeding territory.\n\nGreenfinches were once among the most familiar visitors to British garden bird feeders, but the population has more than halved since the mid-2000s due to trichomonosis, a parasitic disease spread between birds at shared feeding stations and contaminated water. Regularly cleaning feeders and bird baths, and occasionally moving feeder positions, helps reduce transmission. Despite the decline, Greenfinch remains a widespread bird of hedgerows, scrub, and woodland edge as well as gardens.\n\nAt Old Down, Greenfinches favour the taller hedgerows and scrubby margins of the chalk grassland, where they feed on the seeds of thistles, dock, and other coarse wildflowers as well as tree seeds such as yew and hawthorn. Outside the breeding season they often form loose flocks with other finches, moving between good seed sources across the site.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Resident and widespread throughout the UK in hedgerows, scrub, woodland edge and gardens. Numbers have declined sharply since around 2006 due to the spread of trichomonosis, and the species is now Red-listed.",
+    "wildlife_value": "An important seed-eater, feeding on the seeds of thistles, dock, bramble, and various trees including yew and hawthorn, helping disperse some of these plants. A frequent garden feeder visitor, though good hygiene at feeders is important to limit disease spread.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "green",
+      "yellow",
+      "olive"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult male",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Rich olive-green overall with a stout, pale pinkish-grey bill and bright yellow patches in the wings and at the base of the tail, most obvious in flight.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_greenfinch_%28Chloris_chloris_voousi%29_male.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult male",
+            "month_taken": 4,
+            "caption": "Greenfinch male — olive-green with bright yellow wing and tail flashes"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Greenfinch_-_Chloris_chloris_-_Male.jpg",
+            "credit": "caroline legg / Wikimedia Commons",
+            "licence": "CC BY 4.0",
+            "life_stage": "Adult male",
+            "month_taken": 5,
+            "caption": "Greenfinch male showing the stout, pale, seed-cracking bill"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult female and juvenile",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Duller, greyer-brown than the male with less extensive yellow, and some streaking on the back. Juveniles are streakier still. The stout pale bill remains a good identification feature at any age.",
+        "photos": []
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "goldfinch",
+        "similarity_note": "Both are colourful finches often seen together at feeders",
+        "key_difference": "Goldfinch has a red-and-white face patch and black-and-yellow wings, quite different from the plain olive-green Greenfinch head. Goldfinch is also more slender with a finer bill for teasel and thistle seeds.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "house-sparrow",
+        "similarity_note": "A female Greenfinch can look superficially like a dull sparrow",
+        "key_difference": "Even dull female Greenfinches show a hint of yellow in the wing and tail, and have a more sharply pointed, conical bill than the House Sparrow's stubbier one.",
+        "time_of_year_note": "Both present year-round",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_greenfinch_%28Chloris_chloris_voousi%29_male.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult male",
+        "month_taken": 4,
+        "caption": "Greenfinch male — olive-green with bright yellow wing and tail flashes"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Greenfinch_-_Chloris_chloris_-_Male.jpg",
+        "credit": "caroline legg / Wikimedia Commons",
+        "licence": "CC BY 4.0",
+        "life_stage": "Adult male",
+        "month_taken": 5,
+        "caption": "Greenfinch male showing the stout, pale, seed-cracking bill"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "redwing",
+    "common_names": [
+      "Redwing"
+    ],
+    "latin_name": "Turdus iliacus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Told apart from Song Thrush by the bold cream stripe above the eye (supercilium), rusty-red flanks and underwing, and smaller size. Usually seen in flocks, often with Fieldfares, and only present in winter.",
+    "months_visible": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "peak_months": [
+      11,
+      12,
+      1
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "farmland",
+      "field-edge",
+      "woodland-edge"
+    ],
+    "summary": "Britain's smallest thrush and a true winter visitor, arriving in October from Iceland and Scandinavia to strip hedgerows of berries. Look for the cream eyebrow stripe and warm rusty-red flanks, often in flocks with Fieldfares.",
+    "full_description": "The Redwing (Turdus iliacus) is the smallest thrush seen in Britain, a little smaller and daintier than the familiar Song Thrush. It shares a similar spotted breast but is readily told apart by a bold cream-white stripe above the eye (the supercilium), a pale stripe below the cheek, and warm rusty-red flanks and underwing that flash conspicuously in flight — the feature that gives the bird its name. Redwings do not breed in southern England; the birds seen at Old Down are winter visitors that have migrated from breeding grounds in Iceland, Scandinavia and Russia, arriving on the east and north coasts in large overnight flights from October onwards, often calling with a thin, high-pitched 'seeee' as they pass over in the dark.\n\nOnce they arrive, Redwings roam the countryside in flocks, often alongside the larger, greyer Fieldfare, searching hedgerows and fields for berries and soil invertebrates. Hawthorn, holly, and other berry-laden hedges are stripped systematically as the flock moves through, and in hard winter weather Redwings will also visit gardens and orchards for windfall apples and other fruit when their usual food is scarce or frozen.\n\nAt Old Down, look for mixed flocks of Redwings and Fieldfares working along the hedgerows and open grassland edges from late autumn through winter, particularly after a good hawthorn and holly berry crop. Their thin, high 'seeee' contact calls, often heard from birds flying over after dark during migration, are a distinctive and evocative sound of the autumn night sky in Britain.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "A winter visitor to the whole of the UK from Iceland and continental Scandinavia/Russia; a very small number of pairs breed in northern Scotland. Present in Britain only from around October to March.",
+    "wildlife_value": "An important consumer of hedgerow berries in autumn and winter, helping disperse seeds of hawthorn, holly and other shrubs. Also feeds on soil invertebrates such as earthworms in mild weather, switching to fruit when the ground freezes.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "sparrowhawk"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "red",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult (winter visitor)",
+        "months_typical": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "description": "Brown above, boldly spotted below like other thrushes, but smaller and daintier with a bold cream supercilium above the eye and warm rusty-red flanks and underwing, obvious in flight. Only present in the UK outside the breeding season.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Redwing_%28Turdus_iliacus_coburni%29_Myrar.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult",
+            "month_taken": 3,
+            "caption": "Redwing — cream supercilium (eyebrow stripe) and rusty-red flanks"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Redwing_Turdus_iliacus.jpg",
+            "credit": "Andreas Trepte / Wikimedia Commons",
+            "licence": "CC BY-SA 2.5",
+            "life_stage": "Adult",
+            "month_taken": 11,
+            "caption": "Redwing — Britain's smallest thrush, a winter visitor from the north"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "song-thrush",
+        "similarity_note": "Both are spotted brown thrushes seen through the colder months",
+        "key_difference": "Song Thrush is present year-round (not just winter), lacks the cream eyebrow stripe and rusty-red flanks, and is warmer buff-brown with neater, more evenly spaced spots.",
+        "time_of_year_note": "Redwing only present October–March; Song Thrush present all year",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "fieldfare",
+        "similarity_note": "Frequently flocks together with Redwing in winter",
+        "key_difference": "Fieldfare is noticeably larger with a grey head and rump, chestnut-brown back, and yellowish spotted breast — lacks the Redwing's cream eyebrow stripe and rusty flanks.",
+        "time_of_year_note": "Both present October–March",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Redwing_%28Turdus_iliacus_coburni%29_Myrar.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 3,
+        "caption": "Redwing — cream supercilium (eyebrow stripe) and rusty-red flanks"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Redwing_Turdus_iliacus.jpg",
+        "credit": "Andreas Trepte / Wikimedia Commons",
+        "licence": "CC BY-SA 2.5",
+        "life_stage": "Adult",
+        "month_taken": 11,
+        "caption": "Redwing — Britain's smallest thrush, a winter visitor from the north"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "swift",
+    "common_names": [
+      "Swift",
+      "Common Swift"
+    ],
+    "latin_name": "Apus apus",
+    "type": "bird",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Told apart from Swallows and House Martins by its all-dark, sooty-brown plumage, longer scythe-shaped wings, shorter forked tail, and screaming calls in fast, wheeling 'screaming parties' around rooftops.",
+    "months_visible": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      5,
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "urban-edge",
+      "farmland",
+      "open-countryside"
+    ],
+    "summary": "A screaming, scythe-winged flier that spends almost its entire life in the air — eating, sleeping and even mating on the wing. Arrives from Africa in late April and is gone again by August, one of the shortest and most spectacular visits of any British bird.",
+    "full_description": "The Swift (Apus apus) is one of the most extraordinary birds to visit Britain. Sooty-brown all over (looking black against the sky) with long, narrow, curved wings shaped like a scythe or a boomerang, and a short forked tail, it spends almost the whole of its life airborne — feeding on airborne insects, drinking on the wing by skimming over water, and even sleeping in flight by shutting down half its brain at a time. Non-breeding young Swifts may stay continuously airborne for up to ten months without ever landing. Only the need to nest and incubate eggs brings an adult Swift down to a solid surface at all.\n\nSwifts arrive in Britain remarkably late, usually from late April, having spent the winter over central and southern Africa, and they leave again as early as late July or August — one of the shortest stays of any British migrant bird, giving rise to the old country saying that summer 'arrives with the Swifts and leaves with them too'. On warm evenings, look and listen for 'screaming parties' — tight, fast-wheeling groups of Swifts chasing each other around rooftops at high speed with piercing screaming calls, a classic sound and sight of the British summer sky. Swifts nest almost exclusively in small gaps and crevices in old buildings, and the loss of these nest sites during renovation and new-build construction is a major cause of the species' recent decline; it is now Red-listed.\n\nAt Old Down, Swifts are seen hawking for insects high over the open chalk grassland and woodland edge on warm days, sometimes dropping low to feed just above the vegetation in cool or overcast weather when insects fly lower. They do not nest on the open site itself but commute out from nesting colonies in nearby village and town buildings to feed over the richer insect-hunting grounds here — a reminder that even a bird rarely seen perched depends on a network of habitats across the wider landscape.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "A summer breeding visitor to the whole of the UK, present only from around late April to August before returning to winter in Africa. Now Red-listed due to a steep decline linked to loss of nest sites in buildings.",
+    "wildlife_value": "Feeds entirely on airborne insects and spiders caught in flight, consuming huge numbers over a breeding season and helping to naturally control flying insect populations. Depends on cavities in old buildings for nesting, so is a strong indicator of traditional building stock being retained.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult (summer visitor)",
+        "months_typical": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Sooty-brown all over, appearing black against the sky, with long scythe-shaped wings, a short forked tail, and a small pale patch under the chin visible only at close range. Flies with fast, flickering wingbeats interspersed with long glides, and gives piercing screaming calls in groups.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Common_Swift_Apus_apus.jpg",
+            "credit": "AlexeySokolov1971 / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult (flight)",
+            "month_taken": 6,
+            "caption": "Common Swift in flight — scythe-shaped wings, forked tail, all-dark plumage"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apus_apus_flock_flying_1.jpg",
+            "credit": "Keta / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Adult (screaming party)",
+            "month_taken": 7,
+            "caption": "A 'screaming party' of Swifts wheeling around rooftops in summer"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "swallow",
+        "similarity_note": "Often confused as 'the same bird' — both are aerial insect-hunters of summer",
+        "key_difference": "Swallow has a red throat, pale underparts, and long streaming tail-streamers, and is not closely related to Swift despite the superficial similarity — Swifts are more closely related to hummingbirds than to swallows and martins.",
+        "time_of_year_note": "Both present April–September/October",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "house-martin",
+        "similarity_note": "Another aerial feeder often seen alongside Swifts over villages",
+        "key_difference": "House Martin is smaller, with a bright white rump and white underparts, a shorter and less deeply forked tail, and a fluttering rather than scything flight action.",
+        "time_of_year_note": "Both present April–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Common_Swift_Apus_apus.jpg",
+        "credit": "AlexeySokolov1971 / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult (flight)",
+        "month_taken": 6,
+        "caption": "Common Swift in flight — scythe-shaped wings, forked tail, all-dark plumage"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apus_apus_flock_flying_1.jpg",
+        "credit": "Keta / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Adult (screaming party)",
+        "month_taken": 7,
+        "caption": "A 'screaming party' of Swifts wheeling around rooftops in summer"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "small-heath",
+    "common_names": [
+      "Small Heath"
+    ],
+    "latin_name": "Coenonympha pamphilus",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Small, pale orange-brown, and always rests with its wings closed showing a single small eyespot near the forewing tip — it never basks with wings open like most other browns. Low, weak, bobbing flight close to the ground.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": true,
+    "weather_note": "Flies only in warm sunshine and drops immediately into the grass on a cloudy spell, vanishing from view almost instantly thanks to its camouflaged underside.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "short-turf",
+      "meadow",
+      "sunny-slopes"
+    ],
+    "summary": "A small, pale orange-brown butterfly of short, sunny grassland that never sits with its wings open — always closed, showing a single tell-tale eyespot. Easy to overlook thanks to its weak, low flight and habit of vanishing into the turf.",
+    "full_description": "The Small Heath (Coenonympha pamphilus) is one of Britain's smallest and least conspicuous butterflies, with a wingspan of only around 3–3.5cm. It is pale orange-brown with a greyish underside to the hindwing, and — unusually for a British butterfly — it never basks with its wings open. It always perches with wings closed, showing a single small black eyespot with a white centre near the tip of the forewing. This eyespot is thought to distract predators into attacking a wingtip rather than the vulnerable body.\n\nThe flight is weak, low, and bobbing, rarely rising more than a few centimetres above the grass, and the butterfly drops out of sight the instant the sun goes behind a cloud, its mottled underside blending perfectly with dry grass stems. This combination of small size, low flight, and instant camouflage means Small Heaths are very easy to overlook even where they are common — patient, close-focus looking at short turf on a sunny day is the best way to find them. Caterpillars feed on fine grasses, including fescues and meadow-grasses, and the species usually produces two broods in southern England, giving adults on the wing from May right through to September.\n\nAt Old Down, Small Heath favours the shortest, most closely grazed and driest areas of chalk grassland, where fine grasses grow low and warm quickly in the sun. It is often overlooked in favour of showier chalk grassland butterflies like the Chalkhill Blue, but a careful search of the shortest turf on a warm day will usually turn up several individuals bobbing weakly between grass stems.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and widespread throughout the UK, though it has declined in some intensively farmed lowland areas. Strongly associated with short, unimproved grassland, including chalk grassland, heathland and coastal turf.",
+    "wildlife_value": "Caterpillars feed on fine grasses in short turf, part of the invertebrate food web supporting insectivorous birds and other predators. A good indicator of well-managed, unimproved short grassland rather than rank, overgrown swards.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "brown",
+      "grey"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Small, pale, dome-shaped eggs are laid singly on fine grass blades in short turf.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          4
+        ],
+        "description": "Green, well camouflaged among fine grass, feeding on fescues and meadow-grasses. Overwinters as a partly grown caterpillar, resuming feeding and growth in spring.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Pale orange-brown with a grey-brown underside to the hindwing; always rests with wings closed showing a single eyespot near the forewing tip. Two broods in southern England give a long flight season from May to September with peaks in June and August.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Small_heath_%28Coenonympha_pamphilus%29_P.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Small Heath — always rests with wings closed, showing a single eyespot"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Coenonympha_pamphilus_-_Kulna.jpg",
+            "credit": "Ivar Leidus / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Small Heath resting low in short grassland"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "meadow-brown",
+        "similarity_note": "Both are brown grassland butterflies of chalk grassland",
+        "key_difference": "Meadow Brown is considerably larger and darker, with a much bigger, more obvious double-pupilled eyespot, and often basks with wings partly open, unlike the Small Heath's closed-wing habit.",
+        "time_of_year_note": "Both fly June to September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Small_heath_%28Coenonympha_pamphilus%29_P.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Small Heath — always rests with wings closed, showing a single eyespot"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Coenonympha_pamphilus_-_Kulna.jpg",
+        "credit": "Ivar Leidus / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Small Heath resting low in short grassland"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "silver-washed-fritillary",
+    "common_names": [
+      "Silver-washed Fritillary"
+    ],
+    "latin_name": "Argynnis paphia",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Britain's largest fritillary — big, powerful, deep orange with black markings, and a strong gliding flight. The underside shows distinctive streaky silver-green 'washes' rather than the discrete silver spots of other fritillaries.",
+    "months_visible": [
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      7
+    ],
+    "weather_flag": true,
+    "weather_note": "A strong-flying, sun-loving species that is most active and most easily seen on warm, sunny days, especially along sheltered, sunlit woodland rides.",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "woodland-edge",
+      "dappled-shade",
+      "scrub"
+    ],
+    "summary": "Britain's largest and most powerful fritillary, a big, deep-orange butterfly of sunny woodland rides with a strong, gliding flight. Named for the streaky silver-green markings washed across the underside of the wings.",
+    "full_description": "The Silver-washed Fritillary (Argynnis paphia) is the largest fritillary butterfly found in Britain, with a wingspan that can exceed 7cm. The upperside is a rich, deep orange marked with bold black spots and streaks, while the underside — particularly on the hindwing — is washed with streaky, iridescent silvery-green bands rather than the neat, separate silver spots seen in most other fritillaries, giving the species its name. The flight is powerful and confident, with long, effortless glides between wingbeats, quite different from the flappier flight of smaller fritillaries and browns. Males perform an extraordinary courtship display, looping repeatedly over and under a following female in a spiralling flight while releasing scent from special scales on the forewing.\n\nThe life cycle has an unusual twist: females do not lay eggs directly on the caterpillar foodplant (Common Dog-violet) but instead lay singly in crevices in the bark of trees, often several metres up, close to violets growing on the shaded woodland floor below. The tiny caterpillar hatches, eats its eggshell, and immediately goes into hibernation in the bark crevice for the winter without feeding at all, only descending to find violets to eat the following spring. This strategy is thought to reduce the risk of eggs or young caterpillars being found among leaf litter by predators and parasites over winter.\n\nAt Old Down, Silver-washed Fritillaries are seen gliding along sunny, sheltered woodland rides and the woodland edge bordering the chalk grassland in high summer, often nectaring on bramble blossom and thistles. Their large size, confident gliding flight and deep orange colour make them one of the most impressive and unmistakable butterflies of the site's woodland edges in July.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to England and Wales, strongly associated with sunny rides and glades in broadleaved woodland, particularly where Common Dog-violet grows in dappled shade. Has recovered well in recent decades in some regions after earlier declines.",
+    "wildlife_value": "Adults are important pollinators of bramble blossom and other summer flowers along woodland rides. Caterpillars depend entirely on Common Dog-violet, so good populations of violets in dappled woodland-floor light are essential for the species' survival at a site.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "orange",
+      "black",
+      "silver",
+      "green"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          8
+        ],
+        "description": "Laid singly in bark crevices of trees, often well above ground level, near violets growing below rather than directly on the foodplant.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          4,
+          5,
+          3
+        ],
+        "description": "Dark, spiny caterpillar that hatches in late summer, hibernates immediately without feeding, and only descends from the bark to find and feed on Common Dog-violet the following spring.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Large, deep orange with bold black markings above; underside washed with streaky silver-green bands. Strong, gliding flight along sunny woodland rides, peaking in July.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Silver-washed_fritillary_butterfly_%28Argynnis_paphia%29_male_3.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult (upperside)",
+            "month_taken": 7,
+            "caption": "Silver-washed Fritillary male — large, deep orange with black markings"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Silver-washed_fritillary_%28Argynnis_paphia%29_male_underside.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult (underside)",
+            "month_taken": 7,
+            "caption": "Silver-washed Fritillary underside — the streaky silver 'wash' that gives the species its name"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "dark-green-fritillary",
+        "similarity_note": "Another large orange fritillary, though more a grassland than woodland species",
+        "key_difference": "Dark Green Fritillary has green (not silver) undersides and is more typical of open grassland and coastal slopes rather than woodland rides; Silver-washed is larger with the distinctive streaky silver wash.",
+        "time_of_year_note": "Both fly June to August",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "comma-butterfly",
+        "similarity_note": "Both are orange woodland-edge butterflies of similar size",
+        "key_difference": "Comma has deeply ragged, jagged wing edges and a small white comma-shaped mark on the dark underside, quite unlike the fritillary's smooth wing outline and silver-washed underside.",
+        "time_of_year_note": "Both can be seen in summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Silver-washed_fritillary_butterfly_%28Argynnis_paphia%29_male_3.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult (upperside)",
+        "month_taken": 7,
+        "caption": "Silver-washed Fritillary male — large, deep orange with black markings"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Silver-washed_fritillary_%28Argynnis_paphia%29_male_underside.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult (underside)",
+        "month_taken": 7,
+        "caption": "Silver-washed Fritillary underside — the streaky silver 'wash' that gives the species its name"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "chalkhill-blue",
+    "common_names": [
+      "Chalkhill Blue"
+    ],
+    "latin_name": "Lysandra coridon",
+    "type": "butterfly",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Males are a distinctive pale, silvery powder-blue — paler than any other British blue butterfly. Females are brown with orange spots along the wing edge, similar to other female blues, so check the male's colour and the chalk grassland habitat.",
+    "months_visible": [
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "Flies only in warm, sunny weather; large numbers can be on the wing together on a hot August afternoon but almost none visible on a dull day.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "short-turf",
+      "sunny-slopes"
+    ],
+    "summary": "A chalk grassland specialist and the palest blue butterfly in Britain — males are a distinctive silvery powder-blue, quite different from the richer blue of other species. A perfect, iconic sighting for Old Down's chalk downland.",
+    "full_description": "The Chalkhill Blue (Lysandra coridon) is one of the most characteristic and beautiful butterflies of southern English chalk grassland, and its pale, almost silvery powder-blue male upperside is unlike any other blue butterfly found in Britain — distinctly paler than the richer blue of the Common Blue or Adonis Blue. Females are chocolate-brown with a neat row of orange spots along the edge of each wing, similar in general pattern to other female blues, so habitat and the colour of accompanying males are the best clues to identification. Both sexes have a chequered black-and-white fringe to the wings.\n\nChalkhill Blue caterpillars feed exclusively on Horseshoe Vetch, a low-growing yellow-flowered plant restricted almost entirely to chalk and limestone grassland, which is why the butterfly itself is such a strong indicator of good, unimproved downland. Like several other blue butterflies, the caterpillars have a mutualistic relationship with ants: they produce a sugary secretion from a special gland that ants collect as food, and in return the ants guard the caterpillars from predators and parasites, sometimes even carrying them into their nest overnight for protection.\n\nAt Old Down, Chalkhill Blues are one of the signature species of high summer on the chalk grassland, appearing in good numbers on warm days in August where Horseshoe Vetch grows in short, sheep- or rabbit-grazed turf on the sunniest slopes. Watching a group of pale powder-blue males gathered at a damp patch of ground (a behaviour called 'mud-puddling', where they take up salts and minerals) is one of the most memorable sights the site's chalk grassland has to offer, and a strong sign that the grassland here is being managed well.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to England, almost entirely restricted to chalk and limestone grassland in southern and eastern England, where its caterpillar foodplant Horseshoe Vetch grows. A good indicator of high-quality, well-grazed downland.",
+    "wildlife_value": "Adults are important pollinators of late-summer chalk grassland wildflowers such as knapweed and scabious. Caterpillars have a close mutualistic relationship with ants, which protect them in exchange for a sugary secretion, and depend entirely on Horseshoe Vetch.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "blue",
+      "brown",
+      "orange",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          8,
+          9
+        ],
+        "description": "Laid singly on or near Horseshoe Vetch leaves. Overwinters as an egg, unusual among the British blues, hatching the following spring.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Green and well camouflaged on Horseshoe Vetch, tended and protected by ants attracted to a sugary secretion the caterpillar produces.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Male is a distinctive pale, silvery powder-blue above; female is chocolate-brown with orange spots along the wing edges. A single generation flies from late July to September, peaking in August, often in large numbers on good chalk grassland.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lysandra_coridon_%28Chalkhill_blue_butterfly%29_male_worn.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult male",
+            "month_taken": 8,
+            "caption": "Chalkhill Blue male — pale silvery-blue upperside, unique among British blues"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Mating pair",
+            "month_taken": 8,
+            "caption": "Chalkhill Blue pair mating — pale blue male, brown female"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "common-blue",
+        "similarity_note": "The most likely confusion species — both are blue butterflies of chalk grassland",
+        "key_difference": "Common Blue males are a richer, deeper violet-blue than the pale, silvery Chalkhill Blue, and Common Blue flies earlier in the summer with an additional spring/early-summer generation, while Chalkhill Blue is single-brooded and flies later, from late July.",
+        "time_of_year_note": "Common Blue flies April–September; Chalkhill Blue only late July–September",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "adonis-blue",
+        "similarity_note": "Another chalk grassland blue, sometimes found at the same sites",
+        "key_difference": "Adonis Blue male is a much more vivid, electric sky-blue than the pale Chalkhill Blue, with fine black lines crossing the white wing-fringe (absent or much less distinct in Chalkhill Blue).",
+        "time_of_year_note": "Adonis Blue flies May–June and August–September; Chalkhill Blue only late July–September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lysandra_coridon_%28Chalkhill_blue_butterfly%29_male_worn.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult male",
+        "month_taken": 8,
+        "caption": "Chalkhill Blue male — pale silvery-blue upperside, unique among British blues"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chalkhill_blue_butterflies_%28Polyommatus_coridon%29_mating_1.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Mating pair",
+        "month_taken": 8,
+        "caption": "Chalkhill Blue pair mating — pale blue male, brown female"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "cinnabar",
+    "common_names": [
+      "Cinnabar Moth",
+      "Cinnabar"
+    ],
+    "latin_name": "Tyria jacobaeae",
+    "type": "moth",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "Unmistakable — glossy charcoal-black wings with two bold red streaks and a red patch, flies confidently by day. The bold yellow-and-black striped caterpillars, usually in groups on ragwort, are equally easy to identify.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      8
+    ],
+    "weather_flag": true,
+    "weather_note": "A day-flying moth that is most active and easiest to see on warm, sunny days, though it will also fly briefly at dusk.",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "sunny-slopes",
+      "disturbed-ground"
+    ],
+    "summary": "A striking black-and-red day-flying moth whose bold yellow-and-black striped caterpillars are a familiar sight stripping ragwort plants bare in late summer. Both stages advertise their foul taste with vivid warning colours.",
+    "full_description": "The Cinnabar Moth (Tyria jacobaeae) is one of Britain's most distinctive and easily recognised moths, and one of relatively few that fly confidently in daylight. The wings are glossy charcoal-black marked with two bold crimson-red streaks along the leading edge of each forewing and a red patch near the tip, with the hindwings almost entirely red edged in black. This striking red-and-black colouring is a warning to predators (aposematism): both the adult moth and its caterpillar sequester toxic pyrrolizidine alkaloids from their foodplant, ragwort, making them foul-tasting and mildly poisonous, so birds quickly learn to avoid them.\n\nThe caterpillar is, if anything, even more recognisable than the adult — boldly banded in orange-yellow and black, and usually found feeding in conspicuous groups on Common Ragwort in late summer. A group of caterpillars can strip a ragwort plant completely bare of leaves and flowers within days, sometimes moving on to a neighbouring plant when food runs out. Because ragwort is toxic to grazing livestock (particularly horses), the Cinnabar Moth is sometimes seen as a natural, welcome form of biological control in fields where the plant is a genuine concern, although ragwort is also an extremely valuable native wildflower for a huge range of other pollinating insects and should not be indiscriminately removed.\n\nAt Old Down, Cinnabar Moths and their caterpillars are closely tied to the ragwort growing on disturbed ground and grassland margins around the site. Adults fly from late May through summer, while the unmistakable striped caterpillars are one of the easiest and most rewarding invertebrates for children to find here in July and August — a quick scan of any patch of flowering ragwort will often turn up several.",
+    "danger_level": "low",
+    "danger_note": "Both the caterpillar and adult moth contain toxic alkaloids absorbed from ragwort and are mildly poisonous if eaten, but are completely harmless to touch or handle. They cannot sting or bite.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native and widespread throughout the UK wherever its foodplant, Common Ragwort, grows in reasonable quantity — grassland, waste ground, road verges, and field margins.",
+    "wildlife_value": "Both adult and caterpillar are chemically defended and rarely eaten by birds, but the moth is an important pollinator of grassland flowers, and the caterpillars are food for a small number of specialist predators and parasitoid wasps that can tolerate the toxins. Entirely dependent on ragwort as a caterpillar foodplant.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [
+      "ragwort"
+    ],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Egg",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "Yellow eggs are laid in batches of 30–60 on the underside of ragwort leaves, hatching within 1–2 weeks.",
+        "photos": []
+      },
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Bold orange-yellow and black banded caterpillar, usually found feeding gregariously in groups on ragwort. Can strip a plant of leaves and flowers within days. Fully toxic like the adult thanks to alkaloids absorbed from the foodplant.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Caterpillar_of_the_Cinnabar_moth_%28Tyria_jacobaeae%29_-_geograph.org.uk_-_913180.jpg",
+            "credit": "David Hawgood / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Caterpillar",
+            "month_taken": 8,
+            "caption": "Cinnabar Moth caterpillar — bold yellow-and-black stripes on ragwort"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tyria_jacobaeae_caterpillar_%286029382513%29.jpg",
+            "credit": "David Short / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Caterpillar",
+            "month_taken": 7,
+            "caption": "Cinnabar caterpillars often strip a ragwort plant almost bare in a group"
+          }
+        ]
+      },
+      {
+        "stage_name": "Pupa",
+        "months_typical": [
+          9,
+          10,
+          4
+        ],
+        "description": "Pupates in a cocoon in leaf litter or just below the soil surface, usually overwintering as a pupa before emerging as an adult the following late spring.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Glossy black wings with red streaks and a red hindwing; flies confidently by day as well as at dusk. Unmistakable among British moths.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tyria_jacobaeae_qtl1.jpg",
+            "credit": "Quartl / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Cinnabar Moth — glossy black wings with red streaks and hindwing patch"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tyria_jacobaeae_on_ragwort.jpg",
+            "credit": "Mikfoz / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Cinnabar Moth resting on ragwort, its caterpillar's foodplant"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "six-spot-burnet",
+        "similarity_note": "Another red-and-black day-flying, chemically defended moth of similar habitats",
+        "key_difference": "Six-spot Burnet has metallic blue-green forewings with six distinct red spots, quite different from the Cinnabar's charcoal-black wings with red streaks and an all-red hindwing.",
+        "time_of_year_note": "Cinnabar flies May–August; Six-spot Burnet flies June–August",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tyria_jacobaeae_qtl1.jpg",
+        "credit": "Quartl / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Cinnabar Moth — glossy black wings with red streaks and hindwing patch"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tyria_jacobaeae_on_ragwort.jpg",
+        "credit": "Mikfoz / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Cinnabar Moth resting on ragwort, its caterpillar's foodplant"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Caterpillar_of_the_Cinnabar_moth_%28Tyria_jacobaeae%29_-_geograph.org.uk_-_913180.jpg",
+        "credit": "David Hawgood / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Caterpillar",
+        "month_taken": 8,
+        "caption": "Cinnabar Moth caterpillar — bold yellow-and-black stripes on ragwort"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tyria_jacobaeae_caterpillar_%286029382513%29.jpg",
+        "credit": "David Short / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Caterpillar",
+        "month_taken": 7,
+        "caption": "Cinnabar caterpillars often strip a ragwort plant almost bare in a group"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "common-wainscot",
+    "common_names": [
+      "Common Wainscot"
+    ],
+    "latin_name": "Mythimna pallens",
+    "type": "moth",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "A plain, straw-coloured moth with a slim, tapering wing shape and a fine pale streak running along the centre of each forewing. One of several similar 'wainscot' moths named for grasses, so check the plain unmarked wings and pale streak carefully.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "meadow",
+      "chalk-grassland",
+      "field-edge",
+      "roadside"
+    ],
+    "summary": "A plain, straw-coloured night-flying moth of grassy places, named for the way its slim, tapering shape and pale stripe resemble a piece of wood panelling. Common and easily overlooked, but a genuine grassland specialist.",
+    "full_description": "The Common Wainscot (Mythimna pallens) is a plain but neatly marked moth, straw-yellow to pale buff in colour with a fine, pale, slightly darker-edged streak running lengthways along the centre of each forewing. The wings are held in a slim, elongated, tapering triangle at rest, quite different from the broader, rounder shape of many other moths — a shape and colouring reminiscent of dried grass stems, which gives excellent camouflage among the tall grassland vegetation where it lives. 'Wainscot' refers to wood panelling, a name given to this and related species because their streaky, straw-toned pattern was thought to resemble grain in wood panelling.\n\nThis is one of the commonest of Britain's many grass-feeding 'wainscot' moths, and one of the easier ones to identify thanks to its plain, largely unmarked wings and pale central streak — several related wainscot species have additional dots or marks that need closer comparison. The caterpillars feed low down on a wide range of coarse grasses, including cock's-foot and various meadow-grasses, usually hidden by day and feeding at night, making them rarely seen even where common.\n\nAt Old Down, Common Wainscot is a night-flying moth of the tussocky, unmown grassland margins and chalk grassland turf, readily attracted to light traps used for moth surveys on warm summer nights. Though rarely seen by day, its presence — usually confirmed through moth trapping — is a good sign of a healthy population of the coarse grasses its caterpillars depend on.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout lowland Britain wherever coarse grasses grow, including grassland, field margins, roadside verges and gardens.",
+    "wildlife_value": "Caterpillars feed on a range of common grasses, contributing to the invertebrate food web. Adults are nocturnal and are eaten by bats and night-hunting birds; caterpillars and pupae are taken by ground-feeding birds and small mammals.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "pipistrelle-bat"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "cream",
+      "yellow",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          9,
+          10,
+          11,
+          12,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "description": "Pale greyish-brown, feeding low down on the stems and leaves of coarse grasses at night. Overwinters as a partly grown caterpillar, resuming feeding in spring before pupating.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Straw-yellow to pale buff forewings with a fine pale central streak, held in a slim tapering shape at rest. Flies at night and is attracted to light. Usually two broods, giving adults from June to September.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/%282199%29_Common_Wainscot_%28Mythimna_pallens%29_%283747946137%29.jpg",
+            "credit": "Ben Sale / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Wainscot — straw-coloured forewings with a pale central streak"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mythimna_pallens_%2828019308542%29.jpg",
+            "credit": "Ben Sale / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Common Wainscot at rest, wings folded in a slim, tapering shape"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "shoulder-striped-wainscot",
+        "similarity_note": "One of several similar grass-feeding wainscot moths",
+        "key_difference": "Several related wainscots have additional dark dots or stronger streaking on the forewing; Common Wainscot is comparatively plain with just the single pale central streak, making it one of the more straightforward wainscots to identify.",
+        "time_of_year_note": "Most wainscot species fly in mid-to-late summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/%282199%29_Common_Wainscot_%28Mythimna_pallens%29_%283747946137%29.jpg",
+        "credit": "Ben Sale / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Common Wainscot — straw-coloured forewings with a pale central streak"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mythimna_pallens_%2828019308542%29.jpg",
+        "credit": "Ben Sale / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Common Wainscot at rest, wings folded in a slim, tapering shape"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "grey-dagger",
+    "common_names": [
+      "Grey Dagger"
+    ],
+    "latin_name": "Acronicta psi",
+    "type": "moth",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "The adult moth is genuinely almost identical to the closely related Dark Dagger and cannot be told apart reliably without examining fine details or genetics — most moth recorders log sightings as 'Grey/Dark Dagger agg.' unless the caterpillar is found. The caterpillar, black with a yellow side-stripe and a raised black hump, is much easier to identify.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland-edge",
+      "hedgerow",
+      "garden",
+      "scrub"
+    ],
+    "summary": "A mottled grey moth named for the fine, dagger-shaped black markings on its forewings — but its striking black-and-yellow caterpillar with a distinctive hump is far easier to identify than the adult, which is a near-perfect match for the similar Dark Dagger.",
+    "full_description": "The Grey Dagger (Acronicta psi) is a variably mottled grey moth, its forewings marked with fine black streaks including short, dagger-shaped marks that give the species its name (the Latin species name 'psi' refers to the Greek letter that some of the markings resemble). It is a good example of a British moth where the adult stage presents a genuine identification puzzle even for experienced naturalists: the Grey Dagger is virtually indistinguishable from the closely related Dark Dagger by sight alone, and the two species are usually only reliably separated by examining the caterpillar, the underlying wing colour beneath the scales, or genetic testing. For this reason, adult sightings are often recorded simply as 'Grey/Dark Dagger' unless a caterpillar has confirmed which species is present.\n\nThe caterpillar removes all doubt. It is one of the most striking of British moth larvae — jet black along most of its length with a bold, broken yellow stripe running down each side, a prominent raised black hump on the back near the front, and a fine reddish tuft further back. It feeds openly on the leaves of a wide range of trees and shrubs, including hawthorn, blackthorn, birch and various fruit trees, and its bold pattern and unmistakable silhouette make it a genuine highlight for children hunting for caterpillars in late summer.\n\nAt Old Down, Grey Dagger caterpillars can be found from July into September feeding openly on hawthorn and blackthorn in the hedgerows around the chalk grassland — a good example of how, in moths, the caterpillar is sometimes a far more useful and rewarding identification target than the adult.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout the UK wherever its broadleaved tree and shrub foodplants grow, including hedgerows, woodland edge, scrub and gardens.",
+    "wildlife_value": "Caterpillars feed on a wide range of native trees and shrubs, forming part of the food supply for insectivorous birds feeding chicks in summer. Adults are nocturnal and provide food for bats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "pipistrelle-bat",
+      "blue-tit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "grey",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Unmistakable: black with a broken yellow side-stripe, a prominent raised black hump near the front of the body, and a fine reddish tuft further back. Feeds openly by day on hawthorn, blackthorn, birch and other trees and shrubs.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Grey_Dagger_Caterpillar_%28Acronicta_psi%29_-_geograph.org.uk_-_1508910.jpg",
+            "credit": "Simon Carey / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Caterpillar",
+            "month_taken": 8,
+            "caption": "Grey Dagger caterpillar — black with a yellow stripe and a prominent hump"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Mottled grey forewings marked with fine black streaks, including short dagger-shaped marks. Virtually identical to the Dark Dagger and usually only safely told apart by the caterpillar. Flies at night and comes to light.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Grey_dagger_%28Acronicta_psi%29.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult",
+            "month_taken": 6,
+            "caption": "Grey Dagger — mottled grey forewings with fine black dagger-shaped marks"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "dark-dagger",
+        "similarity_note": "Adults are essentially identical and cannot be reliably separated on sight",
+        "key_difference": "The two species are usually distinguished only by the caterpillar (Dark Dagger's has a red rather than yellow stripe and lacks the prominent hump) or by genetic and dissection methods. Adult sightings are commonly recorded as 'Grey/Dark Dagger agg.'",
+        "time_of_year_note": "Both fly May to September",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Grey_dagger_%28Acronicta_psi%29.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Grey Dagger — mottled grey forewings with fine black dagger-shaped marks"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Grey_Dagger_Caterpillar_%28Acronicta_psi%29_-_geograph.org.uk_-_1508910.jpg",
+        "credit": "Simon Carey / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Caterpillar",
+        "month_taken": 8,
+        "caption": "Grey Dagger caterpillar — black with a yellow stripe and a prominent hump"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "mouse-moth",
+    "common_names": [
+      "Mouse Moth"
+    ],
+    "latin_name": "Amphipyra tragopoginis",
+    "type": "moth",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Named for its uniform dark brown, mouse-like colouring and its habit of scurrying rather than flying away when disturbed by day, hiding in low crevices. Smooth, glossy wings with faint darker kidney-shaped marks help confirm the identification.",
+    "months_visible": [
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "garden",
+      "woodland-edge",
+      "scrub"
+    ],
+    "summary": "A smooth, uniform dark-brown moth that behaves like its name suggests — when disturbed in a daytime hiding place it scurries away on foot rather than flying, exactly like a small mouse.",
+    "full_description": "The Mouse Moth (Amphipyra tragopoginis) is named for both its colouring and its behaviour. The wings are a smooth, glossy, uniform dark brown with only faint, darker kidney-shaped markings, giving an overall drab appearance quite unlike the boldly patterned wings of many other moths. More distinctive still is its behaviour when found resting in a sheltered daytime hiding spot, such as under loose bark, in a shed, or among dense vegetation: rather than flying off, a disturbed Mouse Moth typically scurries rapidly away on foot with a low, scuttling gait remarkably reminiscent of a small mouse, which is exactly how the species earns its common name.\n\nThe caterpillars are much less conspicuous than the boldly marked larvae of many other moths in this family, feeding at night on a wide range of herbaceous plants including docks, goosefoot, and various garden and hedgerow plants, and hiding by day low down among the vegetation or in the soil surface litter. Adults fly at night in late summer and are readily attracted to light traps, but by day they are much more likely to be found at rest in a sheltered crevice than seen in flight.\n\nAt Old Down, Mouse Moths are found in the dense hedgerows, scrub, and sheltered vegetation margins around the chalk grassland, where their nondescript caterpillars feed unnoticed on the wide range of coarse herbaceous plants growing in these areas. It is a good example of a moth better known through its distinctive scurrying escape behaviour than through any striking pattern on its wings.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and common throughout lowland Britain in hedgerows, gardens, woodland edge and other sheltered vegetated habitats.",
+    "wildlife_value": "Caterpillars feed on a wide range of common herbaceous plants, forming part of the invertebrate food web. Adults are nocturnal and provide food for bats and other night-hunting predators.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "pipistrelle-bat"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Caterpillar",
+        "months_typical": [
+          5,
+          6,
+          7
+        ],
+        "description": "Plain green or brownish, feeding at night on a wide range of low-growing herbaceous plants including docks and goosefoot, hiding low down by day.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          7,
+          8,
+          9
+        ],
+        "description": "Smooth, glossy, uniform dark brown wings with only faint kidney-shaped markings. When disturbed at a daytime resting place it typically scurries away on foot rather than flying, a distinctive mouse-like behaviour. Flies at night and comes to light.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%282299%29_Mouse_Moth_%28Amphipyra_tragopoginis%29_%2814601301377%29.jpg",
+            "credit": "Ben Sale / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Adult",
+            "month_taken": 8,
+            "caption": "Mouse Moth at rest — smooth, uniform dark brown, low, streamlined profile"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mouse_Moth_%28Amphipyra_tragopoginis%29_-_geograph.org.uk_-_1140023.jpg",
+            "credit": "Stan Campbell / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Adult",
+            "month_taken": 8,
+            "caption": "Mouse Moth showing its faintly kidney-shaped wing marks"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "uncertain-moth",
+        "similarity_note": "Another plain brown night-flying moth of similar habitats",
+        "key_difference": "The Uncertain and related Rustic moths have a slightly more mottled, less glossy wing surface and lack the Mouse Moth's very smooth uniform sheen and distinctive scurrying escape behaviour.",
+        "time_of_year_note": "Both fly in mid-to-late summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%282299%29_Mouse_Moth_%28Amphipyra_tragopoginis%29_%2814601301377%29.jpg",
+        "credit": "Ben Sale / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult",
+        "month_taken": 8,
+        "caption": "Mouse Moth at rest — smooth, uniform dark brown, low, streamlined profile"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mouse_Moth_%28Amphipyra_tragopoginis%29_-_geograph.org.uk_-_1140023.jpg",
+        "credit": "Stan Campbell / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Adult",
+        "month_taken": 8,
+        "caption": "Mouse Moth showing its faintly kidney-shaped wing marks"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "large-garden-bumblebee",
+    "common_names": [
+      "Large Garden Bumblebee"
+    ],
+    "latin_name": "Bombus ruderatus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "hard",
+    "confidence_note": "One of Britain's largest bumblebees, with an unusually long body and by far the longest tongue of any UK bumblebee, adapted for deep tubular flowers. Easily confused with the commoner Garden Bumblebee (Bombus hortorum) and needs a careful look at face shape and body proportions; a dark, all-black form also occurs.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "wildflower-meadow",
+      "hedgerow"
+    ],
+    "summary": "One of Britain's largest and scarcest bumblebees, with the longest tongue of any UK species — built for reaching deep into long tubular flowers like red clover that shorter-tongued bees cannot use. A conservation priority species found on good, flower-rich chalk grassland.",
+    "full_description": "The Large Garden Bumblebee (Bombus ruderatus) is one of the biggest bumblebees found in Britain, noticeably long-bodied compared to most other species, with black-and-yellow banding (a pale yellow collar band, a central yellow band, and a white tail) similar in general pattern to the commoner Garden Bumblebee, though an all-black form with no yellow bands also occurs and can only be told apart from other dark bumblebees by an expert. Its most remarkable feature is its extremely long tongue — the longest of any British bumblebee — which allows it to reach deep into the long, tubular flowers of plants such as red clover and comfrey that are too deep for most other bumblebee species to feed from efficiently.\n\nThis specialisation comes at a cost: because Large Garden Bumblebees rely so heavily on flower-rich grassland with plenty of deep tubular flowers, the huge decline in traditional flower-rich hay meadows and unimproved grassland across Britain during the twentieth century hit this species particularly hard, and it is now a national conservation priority, considered nationally scarce and largely confined to the least intensively farmed pockets of countryside, particularly in southern England. Its presence at a site is a strong signal of genuinely good-quality, flower-rich habitat rather than the more generalist grassland many commoner bumblebees can tolerate.\n\nAt Old Down, the chalk grassland's rich mix of clovers, vetches and other deep-flowered legumes provides exactly the kind of habitat this scarce bumblebee needs. Spotting one requires a careful look — checking the length of the tongue extended into a flower and the overall size and body proportions compared to the commoner bumblebees nearby — but finding a Large Garden Bumblebee here is a genuine sign that the site's grassland management is benefiting some of Britain's most specialised and vulnerable pollinators.",
+    "danger_level": "low",
+    "danger_note": "Female bumblebees can sting if handled roughly or if their nest is disturbed, but are not aggressive when foraging on flowers. The sting is not barbed, so (unlike a honeybee) the bee is not harmed by stinging, but stings are still rare unless provoked.",
+    "danger_type": "sting",
+    "native_info": "Native to the UK but now nationally scarce, with a scattered and declining distribution concentrated in flower-rich grassland in southern England. Listed as a conservation priority species due to long-term decline linked to loss of traditional hay meadows.",
+    "wildlife_value": "An important pollinator, especially valuable for long-tubed flowers such as red clover and comfrey that shorter-tongued bees struggle to reach, helping set seed in these plants. Its presence indicates flower-rich grassland of high conservation value.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "yellow",
+      "white"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Queen",
+        "months_typical": [
+          4,
+          5
+        ],
+        "description": "Emerges from hibernation in spring to found a new colony, usually in an underground cavity such as an old rodent burrow. Larger than the workers, with the same long-bodied shape and exceptionally long tongue.",
+        "photos": []
+      },
+      {
+        "stage_name": "Worker",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Smaller than the queen but sharing the same distinctive long body and very long tongue. Forages on deep tubular flowers such as red clover, comfrey and vetches, often reaching much further into a flower than other bumblebee species can manage.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Apidae_-_Bombus_ruderatus.JPG",
+            "credit": "Hectonichus / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Adult worker",
+            "month_taken": 6,
+            "caption": "Large Garden Bumblebee — long body, long tongue, on a tubular flower"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hibiscus_syriacus_Bombus_ruderatus_1_Luc_Viatour.jpg",
+            "credit": "Luc Viatour / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Adult worker",
+            "month_taken": 7,
+            "caption": "Large Garden Bumblebee foraging — note the notably long tongue"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "garden-bumblebee",
+        "similarity_note": "The most likely confusion species, with an almost identical banding pattern",
+        "key_difference": "Garden Bumblebee (Bombus hortorum) is more common and slightly smaller with a more triangular face; Large Garden Bumblebee is bigger and longer-bodied with an even longer tongue, but the two genuinely require careful, expert comparison to separate with confidence.",
+        "time_of_year_note": "Both fly April to September",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "buff-tailed-bumblebee",
+        "similarity_note": "A much commoner bumblebee found in the same grassland",
+        "key_difference": "Buff-tailed Bumblebee is shorter and stockier with a buff (not white) tail in the queen, and a noticeably shorter tongue suited to more open flowers rather than deep tubular ones.",
+        "time_of_year_note": "Both fly through spring and summer",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Apidae_-_Bombus_ruderatus.JPG",
+        "credit": "Hectonichus / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Adult worker",
+        "month_taken": 6,
+        "caption": "Large Garden Bumblebee — long body, long tongue, on a tubular flower"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hibiscus_syriacus_Bombus_ruderatus_1_Luc_Viatour.jpg",
+        "credit": "Luc Viatour / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Adult worker",
+        "month_taken": 7,
+        "caption": "Large Garden Bumblebee foraging — note the notably long tongue"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "red-tailed-cuckoo-bee",
+    "common_names": [
+      "Red-tailed Cuckoo Bee",
+      "Red-tailed Bumblebee Cuckoo"
+    ],
+    "latin_name": "Bombus rupestris",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "Superficially resembles the common Red-tailed Bumblebee but has smoky, dark-tinted wings, a less densely furry, slightly shinier body, and no pollen baskets on the hind legs (cuckoo bees never collect pollen). Yellow side-tufts of hair on the red tail are another good clue.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "hedgerow",
+      "scrub"
+    ],
+    "summary": "A brood-parasite bumblebee that never builds its own nest or collects pollen — instead the female sneaks into a Red-tailed Bumblebee's nest, kills or subdues the resident queen, and tricks the workers into raising her own young.",
+    "full_description": "The Red-tailed Cuckoo Bee (Bombus rupestris) looks at first glance like a fairly ordinary black-bodied, red-tailed bumblebee, but it lives an entirely different lifestyle from a true bumblebee. It is a brood parasite — sometimes called a 'cuckoo bumblebee' for the obvious parallel with the cuckoo bird — that never builds its own nest, never forages for pollen to feed young, and has no worker caste of its own. Instead, a mated female Red-tailed Cuckoo Bee seeks out an established nest of the common Red-tailed Bumblebee (Bombus lapidarius), fights her way in, and either kills the resident queen outright or subdues and dominates her, before laying her own eggs and using pheromones and aggression to force the host colony's workers to raise the cuckoo's offspring instead of their own.\n\nBecause it never needs to collect pollen, the female Red-tailed Cuckoo Bee lacks the pollen baskets (the smooth, shiny, hair-fringed patch on the hind leg used to carry pollen home) that all true worker and queen bumblebees possess — a useful identification feature if a good close view is possible. The wings also tend to look darker and smokier than a true Red-tailed Bumblebee's, and the body is slightly less densely hairy, giving it a somewhat sleeker, shinier appearance overall, with tufts of yellowish hair often visible at the sides of the otherwise red tail.\n\nAt Old Down, Red-tailed Cuckoo Bees can be found nectaring on chalk grassland flowers such as knapweed, scabious and thistles wherever their host, the Red-tailed Bumblebee, is common, since a healthy population of the host species is essential for the cuckoo bee to persist at all. It is a wonderful example for children of how nature is full of surprising relationships — not every bee that looks like a bumblebee lives like one.",
+    "danger_level": "low",
+    "danger_note": "Females can sting if handled, but like other bumblebees are not aggressive towards people and rarely sting unless directly provoked.",
+    "danger_type": "sting",
+    "native_info": "Native to the UK, found wherever its host species, the Red-tailed Bumblebee, is common — grassland, hedgerows, gardens and scrub across most of Britain.",
+    "wildlife_value": "As an adult, an effective pollinator of grassland flowers such as knapweed and scabious. As a brood parasite, entirely dependent on healthy populations of its host, the Red-tailed Bumblebee, making it a species that indicates a well-functioning wider bumblebee community rather than being a threat to it.",
+    "pollinators_supported": [],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "black",
+      "red",
+      "orange"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult female",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Black body with a red-orange tail, smoky dark-tinted wings, and no pollen baskets on the hind legs (a key clue that it is a cuckoo species). Emerges later in the season than true bumblebee queens, once host colonies are well established.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bombus_rupestris_-_Centaurea_scabiosa_-_Keila2.jpg",
+            "credit": "Ivar Leidus / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult female",
+            "month_taken": 7,
+            "caption": "Red-tailed Cuckoo Bee — dark smoky wings and a red-orange tail"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bombus_rupestris_-_Trifolium_pratense_-_Keila.jpg",
+            "credit": "Ivar Leidus / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult female",
+            "month_taken": 7,
+            "caption": "Red-tailed Cuckoo Bee nectaring on red clover"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "red-tailed-bumblebee",
+        "similarity_note": "Its host species and the most likely confusion — very similar black-and-red colouring",
+        "key_difference": "True Red-tailed Bumblebee workers and queens have clear pollen baskets on the hind legs, denser fur, and clear (not smoky) wings; the cuckoo species lacks pollen baskets entirely and has darker, smokier wings.",
+        "time_of_year_note": "Red-tailed Bumblebee flies March–October; cuckoo females mainly seen June–September once host nests are established",
+        "danger_level": "low"
+      },
+      {
+        "species_slug": "buff-tailed-bumblebee",
+        "similarity_note": "A common true bumblebee found in the same grassland",
+        "key_difference": "Buff-tailed Bumblebee has a buff-white (not red) tail and clear pollen baskets, quite different from the Red-tailed Cuckoo Bee's red tail and pollen-basket-free legs.",
+        "time_of_year_note": "Both fly through summer",
+        "danger_level": "low"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bombus_rupestris_-_Centaurea_scabiosa_-_Keila2.jpg",
+        "credit": "Ivar Leidus / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult female",
+        "month_taken": 7,
+        "caption": "Red-tailed Cuckoo Bee — dark smoky wings and a red-orange tail"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bombus_rupestris_-_Trifolium_pratense_-_Keila.jpg",
+        "credit": "Ivar Leidus / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult female",
+        "month_taken": 7,
+        "caption": "Red-tailed Cuckoo Bee nectaring on red clover"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "woundwort-shieldbug",
+    "common_names": [
+      "Woundwort Shieldbug"
+    ],
+    "latin_name": "Eysarcoris venustissimus",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "A small, neatly shield-shaped bug in bronzy-green with darker mottling, usually found sitting on or near Hedge Woundwort, its main foodplant, which gives an important habitat clue when confirming the identification.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "hedgerow",
+      "woodland-edge",
+      "scrub",
+      "path-side"
+    ],
+    "summary": "A small, neat, bronze-green shieldbug that lives almost entirely on Hedge Woundwort, the plant that gives it its name. Like all shieldbugs, it releases a defensive smell if handled, earning the family the nickname 'stink bugs'.",
+    "full_description": "The Woundwort Shieldbug (Eysarcoris venustissimus, sometimes placed in the genus Stagonomus) is a small shieldbug, around 6–8mm long, with a neat, classic shield-shaped outline and a bronzy-green body finely mottled with darker patches. Like other shieldbugs, it belongs to the true bug order Hemiptera and feeds by piercing plant tissue with a needle-like mouthpart (a rostrum) and sucking up sap, rather than chewing leaves like a caterpillar. Its common name comes from its close association with Hedge Woundwort (Stachys sylvatica), a common hedgerow and woodland-edge plant with dark maroon flowers and a distinctive, slightly unpleasant smell when its leaves are crushed, which is both the main foodplant and favourite hiding place for this shieldbug.\n\nLike all true shieldbugs, the Woundwort Shieldbug has scent glands that release a sharp, unpleasant odour if the bug is handled or feels threatened — the reason the whole group is sometimes nicknamed 'stink bugs' in other parts of the world. This is a purely defensive mechanism against predators and is completely harmless to people; at most it is simply an unpleasant smell on the fingers, easily washed off. Immature nymphs look quite different from the adult, being rounder in outline with a more strongly contrasting pattern of pale and dark patches, gradually developing wings and the neat adult shield shape after several moults over the summer.\n\nAt Old Down, Woundwort Shieldbugs can be found on and around patches of Hedge Woundwort growing in the dappled shade of hedgerows and woodland-edge paths bordering the chalk grassland. A gentle search of woundwort leaves and flower spikes, particularly checking the undersides of leaves, is the best way for children to find both adults and the more unusually patterned nymphs.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native and widespread across England and Wales wherever Hedge Woundwort grows, in hedgerows, woodland edges and shady field margins.",
+    "wildlife_value": "Feeds by piercing and sucking sap from Hedge Woundwort and related plants. Both nymphs and adults are food for insectivorous birds, spiders and other predators, forming part of the wider hedgerow food web.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit",
+      "spider"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "bronze",
+      "green",
+      "brown"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Nymph",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Rounder in outline than the adult, with a more strongly contrasting pattern of pale and dark patches and no fully developed wings. Passes through several moults over the summer before reaching adult form.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Stagonomus_venustissimus_%28Pentatomidae%29_-_%28nymph%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_2.jpg",
+            "credit": "B. Schoenmakers / Wikimedia Commons",
+            "licence": "CC BY 3.0",
+            "life_stage": "Nymph",
+            "month_taken": 6,
+            "caption": "Woundwort Shieldbug nymph — rounder and more patterned than the adult"
+          }
+        ]
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Neat, classic shield shape, bronzy-green finely mottled with darker patches, around 6–8mm long. Found on or close to Hedge Woundwort. Releases a defensive smell if handled, harmless to people.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%28MHNT%29_Eysarcoris_venustissimus_on_Alchemilla_mollis.jpg",
+            "credit": "Didier Descouens / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult",
+            "month_taken": 7,
+            "caption": "Woundwort Shieldbug — small bronze-and-green shield shape"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "hairy-shieldbug",
+        "similarity_note": "Another small shieldbug of hedgerows and woodland edge",
+        "key_difference": "Hairy Shieldbug (Sloe Bug) is noticeably furrier in appearance with visibly hairy edges to the body, and is more strongly associated with blackthorn than with Hedge Woundwort.",
+        "time_of_year_note": "Both active spring to autumn",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%28MHNT%29_Eysarcoris_venustissimus_on_Alchemilla_mollis.jpg",
+        "credit": "Didier Descouens / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 7,
+        "caption": "Woundwort Shieldbug — small bronze-and-green shield shape"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Stagonomus_venustissimus_%28Pentatomidae%29_-_%28nymph%29%2C_Elst_%28Gld%29%2C_the_Netherlands_-_2.jpg",
+        "credit": "B. Schoenmakers / Wikimedia Commons",
+        "licence": "CC BY 3.0",
+        "life_stage": "Nymph",
+        "month_taken": 6,
+        "caption": "Woundwort Shieldbug nymph — rounder and more patterned than the adult"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "labyrinth-spider",
+    "common_names": [
+      "Labyrinth Spider"
+    ],
+    "latin_name": "Agelena labyrinthica",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "The spider itself needs a careful look at its brown-and-cream striped legs and body, but its web is completely unmistakable — a large, flat sheet of silk in grass or scrub tapering into a deep funnel retreat, spectacular when picked out by dew or morning mist.",
+    "months_visible": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "peak_months": [
+      7,
+      8
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "scrub",
+      "meadow",
+      "sunny-slopes"
+    ],
+    "summary": "One of Britain's largest and most impressive web-builders — a funnel-web spider whose huge, flat sheet web tapering into a silk tunnel becomes spectacularly visible when picked out by morning dew, especially across chalk grassland scrub in late summer.",
+    "full_description": "The Labyrinth Spider (Agelena labyrinthica) is one of Britain's largest and most striking funnel-web spiders, with a brown body marked with pale chevron patterns and distinctive banded, striped legs. Females can reach up to 2cm in body length, making this one of the bigger spiders regularly found in grassland and scrub. But it is not the spider itself that most people notice first — it is the extraordinary web. Rather than the classic circular orb web most people picture when they think of a spider's web, the Labyrinth Spider spins a large, flat, densely woven horizontal sheet of silk draped over low vegetation such as gorse, bramble or long grass, which narrows at one end into a deep, tubular silk funnel or tunnel leading down into dense cover.\n\nThe spider waits, usually hidden just inside the mouth of the funnel, for a flying or jumping insect to land on the sheet. It detects the vibrations of the struggling prey through the silk, dashes out at extraordinary speed to bite and subdue it, then drags the prey back into the funnel to feed in safety, away from its own predators. These webs are largely invisible in dry conditions but become spectacularly obvious on a dewy or misty summer morning, when hundreds of tiny water droplets caught on the silk sheet reveal the full size and structure of the funnel and its labyrinth-like layers — a genuinely magical sight for children exploring chalk grassland scrub early in the day, and the source of both the spider's common and scientific names.\n\nAt Old Down, Labyrinth Spider webs are a highlight of the chalk grassland's scrubby, gorse- and bramble-dotted slopes in high summer. A dewy morning walk in July or August, checking low scrub and long grass for the tell-tale glistening sheet-and-funnel structure, is one of the best wildlife-watching activities the site offers — and once a web is found, patiently watching the funnel entrance often reveals the spider herself waiting just out of sight.",
+    "danger_level": "none",
+    "danger_note": "Completely harmless to people. Like all UK spiders it could technically bite in self-defence if trapped against skin, but its fangs cannot easily pierce human skin and there is no venom risk to people.",
+    "danger_type": "",
+    "native_info": "Native and widespread across southern and central England and Wales, most abundant on unimproved chalk and limestone grassland, heathland and coastal scrub with plenty of low vegetation to anchor its large sheet webs.",
+    "wildlife_value": "An effective predator of flying and jumping grassland insects, helping regulate invertebrate populations. Its large webs and the spider itself are, in turn, food for birds and other predators; a good example for children of a mid-level predator in the grassland food web.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "cream",
+      "black"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Juvenile",
+        "months_typical": [
+          4,
+          5,
+          6
+        ],
+        "description": "Spiderlings hatch from an egg sac in spring and grow through several moults over the summer, building progressively larger sheet-and-funnel webs as they mature.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "description": "Brown body with pale chevron markings and clearly banded legs, up to about 2cm long in females (males are smaller). Builds the large, flat sheet web tapering to a funnel retreat that is the species' most recognisable feature. Mating and egg-laying occur in autumn, after which adults die with the first hard frosts.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult female",
+            "month_taken": 7,
+            "caption": "Labyrinth Spider female sitting at the mouth of her funnel web"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Labyrinth_Spider_web%2C_Hindhead_Common_03.jpg",
+            "credit": "Simon Burchell / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Web",
+            "month_taken": 8,
+            "caption": "A dew-covered Labyrinth Spider sheet-and-funnel web in grassland"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "garden-spider",
+        "similarity_note": "Both are large, common late-summer spiders of grassland and scrub",
+        "key_difference": "Garden Spider builds a classic circular orb web and has a rounded body with a pale cross-shaped mark, quite different from the Labyrinth Spider's flat sheet-and-funnel web and elongated, banded-legged body.",
+        "time_of_year_note": "Both most conspicuous July to October",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult female",
+        "month_taken": 7,
+        "caption": "Labyrinth Spider female sitting at the mouth of her funnel web"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Labyrinth_Spider_web%2C_Hindhead_Common_03.jpg",
+        "credit": "Simon Burchell / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Web",
+        "month_taken": 8,
+        "caption": "A dew-covered Labyrinth Spider sheet-and-funnel web in grassland"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "nursery-web-spider",
+    "common_names": [
+      "Nursery-web Spider"
+    ],
+    "latin_name": "Pisaura mirabilis",
+    "type": "other-invertebrate",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "A slim, long-legged brown spider with a pale stripe down the centre of the body, usually seen basking on vegetation with legs held forward in pairs rather than sitting in a web. A female carrying a large round white egg sac in her jaws, or guarding a silk 'nursery tent', confirms the identification instantly.",
+    "months_visible": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "peak_months": [
+      6,
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "meadow",
+      "hedgerow",
+      "scrub",
+      "path-side"
+    ],
+    "summary": "A remarkable spider that hunts on foot rather than in a web, yet devotes enormous care to its young — the female carries her large round egg sac everywhere in her jaws, then builds a silk 'nursery tent' and stands guard over the spiderlings until they disperse.",
+    "full_description": "The Nursery-web Spider (Pisaura mirabilis) is a slim, long-legged, athletic spider, greyish-brown with a pale, often cream or yellowish stripe running down the centre of its back. Unlike web-building spiders such as the Garden Spider or Labyrinth Spider, it is a free-hunting spider that stalks and pounces on prey directly, and is most often seen basking on sunlit leaves or low vegetation with its front two pairs of legs held together and stretched forward — a resting posture that makes it look longer and slimmer than it really is.\n\nThe species' remarkable parental behaviour gives it its common name. After mating, the female wraps her eggs in a large, round, papery silk sac and carries it everywhere she goes, gripped firmly in her jaws (chelicerae) and held slightly beneath her body — a considerable physical burden she maintains for around three weeks until the eggs are ready to hatch. Just before hatching, she attaches the sac to vegetation and spins an elaborate three-dimensional silk tent or 'nursery web' around it, inside which the spiderlings hatch and spend their first few days. The female stands guard on or near the tent, fiercely defending her young from predators until they are ready to disperse and fend for themselves — an unusually devoted level of maternal care for a spider. Males also have a striking behaviour of their own: before mating, a male presents the female with a silk-wrapped 'nuptial gift', often a captured fly, to improve his chances of being accepted rather than eaten.\n\nAt Old Down, Nursery-web Spiders are common on the chalk grassland and along scrubby, sunny path-side vegetation through summer. Watching for a female carrying her conspicuous round white egg sac, or spotting the distinctive silk tent draped over a bramble or grass tussock later in the season, is a wonderful chance for children to see genuine parental care in an invertebrate up close.",
+    "danger_level": "none",
+    "danger_note": "Completely harmless to people. It hunts on foot rather than biting defensively, and its fangs cannot easily pierce human skin.",
+    "danger_type": "",
+    "native_info": "Native and common throughout England, Wales and southern Scotland in grassland, hedgerows, scrub and woodland edge with plenty of low vegetation for basking and hunting.",
+    "wildlife_value": "An active hunter of small flying and crawling insects, helping regulate invertebrate numbers in grassland and scrub. In turn, adults, egg sacs and spiderlings are food for birds and other predators.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "blue-tit"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [
+      "brown",
+      "grey",
+      "cream"
+    ],
+    "life_stages": [
+      {
+        "stage_name": "Adult female with egg sac",
+        "months_typical": [
+          6,
+          7
+        ],
+        "description": "Carries a large, round, papery white egg sac gripped in her jaws and held beneath her body for around three weeks before hatching, defending it fiercely if disturbed.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pisaura-mirabilis-carrying-egg-sac.jpg",
+            "credit": "Jan Frode Haugseth / Wikimedia Commons",
+            "licence": "CC BY 3.0",
+            "life_stage": "Female carrying egg sac",
+            "month_taken": 6,
+            "caption": "Female Nursery-web Spider carrying her large round egg sac in her jaws"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nursery_Web_Spider_carrying_its_egg-sac_%289164555045%29.jpg",
+            "credit": "Line Sabroe / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Female carrying egg sac",
+            "month_taken": 6,
+            "caption": "Close view of a female carrying her silk-wrapped egg sac beneath her body"
+          }
+        ]
+      },
+      {
+        "stage_name": "Spiderlings in nursery tent",
+        "months_typical": [
+          7,
+          8
+        ],
+        "description": "Just before hatching, the female spins an elaborate silk tent around the attached egg sac. Spiderlings hatch and remain inside this 'nursery web' for their first few days, guarded closely by the female, before dispersing to hunt independently.",
+        "photos": []
+      },
+      {
+        "stage_name": "Adult",
+        "months_typical": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Slim, long-legged, greyish-brown with a pale central stripe down the back. Hunts actively on foot rather than building a prey-catching web, often seen basking with the front legs held forward in pairs.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nursery_web_spider_%28Pisaura_mirabilis%29_2.jpg",
+            "credit": "Charles J. Sharp / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Adult female",
+            "month_taken": 6,
+            "caption": "Nursery-web Spider — slim brown body with a pale central stripe"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "wolf-spider",
+        "similarity_note": "Another free-hunting, non-web-building spider of grassland",
+        "key_difference": "Wolf spiders are generally stockier and more mottled/patterned than the slim, striped Nursery-web Spider, and female wolf spiders carry their egg sac attached to the rear of the abdomen rather than in the jaws, and carry newly hatched spiderlings riding on their back — a very different behaviour from the Nursery-web Spider's silk tent.",
+        "time_of_year_note": "Both active spring to autumn",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nursery_web_spider_%28Pisaura_mirabilis%29_2.jpg",
+        "credit": "Charles J. Sharp / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult female",
+        "month_taken": 6,
+        "caption": "Nursery-web Spider — slim brown body with a pale central stripe"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pisaura-mirabilis-carrying-egg-sac.jpg",
+        "credit": "Jan Frode Haugseth / Wikimedia Commons",
+        "licence": "CC BY 3.0",
+        "life_stage": "Female carrying egg sac",
+        "month_taken": 6,
+        "caption": "Female Nursery-web Spider carrying her large round egg sac in her jaws"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nursery_Web_Spider_carrying_its_egg-sac_%289164555045%29.jpg",
+        "credit": "Line Sabroe / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Female carrying egg sac",
+        "month_taken": 6,
+        "caption": "Close view of a female carrying her silk-wrapped egg sac beneath her body"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "yew",
+    "common_names": [
+      "Yew",
+      "Common Yew",
+      "English Yew"
+    ],
+    "latin_name": "Taxus baccata",
+    "type": "tree-shrub",
+    "native_status": "native",
+    "confidence_to_id": "easy",
+    "confidence_note": "A dense, dark evergreen conifer with flat, short, dark green needles arranged in two rows, reddish flaking bark, and (on female trees) bright red, fleshy, cup-shaped berries in autumn. No other common British tree looks quite like it.",
+    "months_visible": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "peak_months": [
+      10,
+      11
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": true,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "woodland",
+      "chalk-woodland",
+      "woodland-edge",
+      "hedgerow"
+    ],
+    "summary": "A dense, dark evergreen conifer, deeply linked to churchyards and ancient sites, and famous for both its extraordinary longevity and its serious toxicity — one of very few British trees where almost every part is genuinely dangerous if eaten.",
+    "full_description": "Yew (Taxus baccata) is a slow-growing, long-lived evergreen conifer with a dense, dark green canopy that stays clothed in foliage all year round, casting deep, heavy shade beneath it where little else can grow. The needles are short, flat, and dark glossy green above with a paler underside, arranged in two neat rows along the twig, quite different from the rounder, prickly needles of pine or spruce. The bark is thin, reddish-brown to purplish, and flakes away in small, papery scales, often revealing patches of paler wood beneath — mature trees can develop wonderfully gnarled, fluted, and hollow trunks over time.\n\nYew is exceptionally long-lived; some ancient churchyard yews in Britain are estimated to be well over a thousand years old, and a handful may even predate the churches built beside them, suggesting the tree itself was already considered a sacred or significant site in pre-Christian times. Yews are usually either male or female (dioecious): male trees produce small clusters of yellow pollen cones in late winter and early spring, while female trees, if pollinated, produce distinctive fleshy, bright-red, cup-shaped structures called arils in autumn, each containing a single hard, dark seed. Confusingly, the soft red aril flesh is the one part of the whole tree that is not poisonous and is eaten safely by birds such as thrushes, which help disperse the seeds — but the hard seed inside the aril is highly toxic, along with the needles, bark, and wood of the entire tree, all of which contain dangerous taxine alkaloids that can affect the heart if eaten in any quantity. For this reason, Yew is one of the very few British native trees that genuinely needs a clear, calm safety conversation with children: admire it, but never chew, suck, or eat any part of it, including the tempting-looking red berries — always spit out and discard the hard seed even if the surrounding red flesh has been tasted.\n\nAt Old Down, ancient and more recently planted Yew trees form a distinctive, dark, evergreen presence within the woodland and along boundary hedgerows, historically linked to the wider chalk downland landscape's association with old churchyards, boundary markers and ancient trackways across southern England. Its dense evergreen cover provides valuable year-round shelter and nesting sites for birds even in the depths of winter when deciduous trees stand bare.",
+    "danger_level": "toxic",
+    "danger_note": "Highly toxic. The needles, bark, wood and especially the hard seed inside each red berry contain taxine alkaloids that can be dangerous to the heart if eaten, even in fairly small amounts — this is one of the most poisonous common trees in Britain and has caused serious poisoning in both people and livestock. The soft red berry flesh (aril) itself is not toxic and is safely eaten by birds, but the seed inside definitely is: teach children to look but never taste any part of this tree, and to spit out the hard central seed immediately if red flesh is ever put in the mouth. Seek urgent medical help if any part of the plant, especially a seed, is swallowed.",
+    "danger_type": "toxic-if-eaten",
+    "native_info": "Native throughout the UK, especially associated with chalk and limestone soils in southern England, and iconic in churchyards, hedgerows and ancient woodland. Many of Britain's oldest living trees are Yews.",
+    "wildlife_value": "Dense evergreen cover provides valuable year-round shelter and nesting sites for birds, especially in winter when other trees are bare. The red aril flesh is an important autumn and winter food source for thrushes and other birds, which disperse the toxic seed unharmed through their gut without digesting it. Ancient hollow yews also provide roosting cavities for bats.",
+    "pollinators_supported": [],
+    "food_source_for": [
+      "redwing",
+      "blackbird"
+    ],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [],
+    "colour_leaf": [
+      "green"
+    ],
+    "colour_berry_fruit": [
+      "red"
+    ],
+    "colour_bark_stem": [
+      "brown",
+      "red"
+    ],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Pollen cones (male trees)",
+        "months_typical": [
+          2,
+          3
+        ],
+        "description": "Small, rounded, pale yellow pollen cones form in leaf axils on male trees in late winter, releasing clouds of fine yellow pollen carried on the wind to female trees.",
+        "photos": []
+      },
+      {
+        "stage_name": "Berries / arils (female trees)",
+        "months_typical": [
+          9,
+          10,
+          11
+        ],
+        "description": "Bright red, soft, cup-shaped fleshy structures (arils) develop on female trees in autumn, each open at the tip to reveal a single hard, dark, highly toxic seed. The red flesh is eaten safely by birds; the seed is not.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fruit_of_the_yew_-_geograph.org.uk_-_1036026.jpg",
+            "credit": "Jonathan Billinger / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Berries (arils)",
+            "month_taken": 10,
+            "caption": "Yew arils — the only non-toxic part of the tree, but the seed inside is highly poisonous"
+          }
+        ]
+      },
+      {
+        "stage_name": "Mature tree",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Dense, dark evergreen canopy present year-round, with flat two-ranked needles and flaking reddish-brown bark. Very slow-growing but exceptionally long-lived, with the oldest British specimens estimated at over a thousand years old.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Taxus_baccata_Lviv.JPG",
+            "credit": "Mykola Swarnyk / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Whole tree",
+            "month_taken": 8,
+            "caption": "Mature Yew tree — dense, dark evergreen canopy"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Taxus_baccata_bark_Siemianowice.jpg",
+            "credit": "Adrian Tync / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Bark",
+            "month_taken": 9,
+            "caption": "Yew bark — reddish-brown, flaking in thin scales"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "holly",
+        "similarity_note": "Both are dense, dark evergreen trees/shrubs with red berries in a British hedgerow or woodland",
+        "key_difference": "Holly has glossy, spiny-edged broad leaves quite unlike Yew's soft, flat, needle-like leaves, and Holly's red berries (also toxic, but less severely so) are borne differently, in small clusters rather than as single arils each holding one large exposed seed.",
+        "time_of_year_note": "Both evergreen year-round; both berry in autumn/winter",
+        "danger_level": "caution"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Taxus_baccata_Lviv.JPG",
+        "credit": "Mykola Swarnyk / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Whole tree",
+        "month_taken": 8,
+        "caption": "Mature Yew tree — dense, dark evergreen canopy"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Taxus_baccata_bark_Siemianowice.jpg",
+        "credit": "Adrian Tync / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Bark",
+        "month_taken": 9,
+        "caption": "Yew bark — reddish-brown, flaking in thin scales"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fruit_of_the_yew_-_geograph.org.uk_-_1036026.jpg",
+        "credit": "Jonathan Billinger / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Berries (arils)",
+        "month_taken": 10,
+        "caption": "Yew arils — the only non-toxic part of the tree, but the seed inside is highly poisonous"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
+  },
+  {
+    "id": "maiden-pink",
+    "common_names": [
+      "Maiden Pink"
+    ],
+    "latin_name": "Dianthus deltoides",
+    "type": "wildflower",
+    "native_status": "native",
+    "confidence_to_id": "moderate",
+    "confidence_note": "A low, mat-forming plant with narrow grey-green leaves and small, bright pink, five-petalled flowers, each petal finely toothed at the tip with a paler, often white-speckled ring near the centre. Confined to short, dry, sparsely vegetated chalk turf, which helps confirm the identification.",
+    "months_visible": [
+      6,
+      7,
+      8
+    ],
+    "peak_months": [
+      7
+    ],
+    "weather_flag": false,
+    "weather_note": "",
+    "featured": false,
+    "locations": [
+      "old-down",
+      "south-uk"
+    ],
+    "habitat_tags": [
+      "chalk-grassland",
+      "short-turf",
+      "sunny-slopes",
+      "dry-grassland"
+    ],
+    "summary": "A dainty, low-growing chalk grassland wildflower with vivid pink, finely fringed petals and a pale central ring — a scarce and declining specialist of the very shortest, driest turf, and a beautiful summer sight on Old Down's chalk slopes.",
+    "full_description": "Maiden Pink (Dianthus deltoides) is a low, ground-hugging perennial wildflower of dry, short grassland, forming loose mats of narrow, grey-green, grass-like leaves close to the ground from which slender flowering stems rise to around 15–30cm. Each stem carries one or a few bright, vivid pink flowers, roughly 1.5–2cm across, with five petals that are finely toothed along the outer edge and often marked with a paler pink or white-speckled ring towards the centre of the flower — a distinctive feature that helps separate it from other pink-flowered plants at a glance. The petals have a slightly deltoid (triangular) shape, giving the plant its scientific species name.\n\nAs a true specialist of short, dry, nutrient-poor chalk and sandy grassland, Maiden Pink cannot compete with taller, more vigorous plants and needs open, sparsely vegetated turf — created by grazing animals, rabbits, or naturally thin, free-draining chalky soil — to survive and reproduce. This narrow habitat requirement, combined with the loss of traditionally managed chalk grassland across lowland Britain during the twentieth century, has made Maiden Pink a genuinely scarce and declining wildflower, now largely confined to the best remaining pockets of unimproved downland turf in southern and eastern England.\n\nAt Old Down, Maiden Pink grows in the shortest, most closely grazed and sun-baked patches of chalk grassland, often alongside other classic downland specialists such as Wild Thyme and Salad Burnet. Its bright pink flowers, low growth habit and preference for the barest, driest ground make it a lovely and genuinely meaningful find for children exploring the site's chalk slopes in July — a small plant that tells a big story about how rare and precious good-quality chalk grassland has become.",
+    "danger_level": "none",
+    "danger_note": "",
+    "danger_type": "",
+    "native_info": "Native to England, mainly in the south and east, strongly restricted to short, dry, unimproved chalk and sandy grassland. Nationally scarce and declining due to loss of traditionally grazed downland.",
+    "wildlife_value": "Flowers provide nectar for bees, hoverflies and day-flying moths and butterflies able to reach the narrow floral tube. Its presence is a strong indicator of high-quality, species-rich, short chalk grassland turf.",
+    "pollinators_supported": [
+      "honey-bee",
+      "small-heath"
+    ],
+    "food_source_for": [],
+    "depends_on": [],
+    "invasive_impact": "",
+    "removal_advice": "",
+    "colour_flower": [
+      "pink",
+      "white"
+    ],
+    "colour_leaf": [
+      "green",
+      "grey"
+    ],
+    "colour_berry_fruit": [],
+    "colour_bark_stem": [],
+    "colour_body": [],
+    "life_stages": [
+      {
+        "stage_name": "Basal leaf rosette",
+        "months_typical": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "Low mats of narrow, grey-green, grass-like leaves persist close to the ground for much of the year, becoming most conspicuous once flowering stems die back after summer.",
+        "photos": []
+      },
+      {
+        "stage_name": "Flower",
+        "months_typical": [
+          6,
+          7,
+          8
+        ],
+        "description": "Slender stems bear one or a few bright pink, finely toothed flowers around 1.5–2cm across, each with a paler, often white-flecked ring near the centre. Flowers June to August, peaking in July on the shortest, sunniest chalk turf.",
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dianthus_deltoides_146121930.jpg",
+            "credit": "Michel Langeveld / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Flower",
+            "month_taken": 7,
+            "caption": "Maiden Pink — bright pink, five-petalled flower with a pale central ring"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dianthus_deltoides_RF.jpg",
+            "credit": "Robert Flogaus-Faust / Wikimedia Commons",
+            "licence": "CC BY 4.0",
+            "life_stage": "Plant in flower",
+            "month_taken": 7,
+            "caption": "Maiden Pink growing low in short, dry chalk grassland turf"
+          }
+        ]
+      }
+    ],
+    "similar_species": [
+      {
+        "species_slug": "red-campion",
+        "similarity_note": "Another common pink-flowered wildflower, though of very different habitat",
+        "key_difference": "Red Campion is a taller, softer-leaved plant of hedgerows and woodland edge with rounder, unfringed petals split into two lobes, quite unlike Maiden Pink's low, mat-forming habit and finely toothed petals restricted to short, dry chalk turf.",
+        "time_of_year_note": "Red Campion flowers March–October; Maiden Pink flowers June–August",
+        "danger_level": "none"
+      },
+      {
+        "species_slug": "deptford-pink",
+        "similarity_note": "A closely related, even scarcer pink-flowered relative",
+        "key_difference": "Deptford Pink has flowers in tighter clusters with narrower, less toothed petals and hairier stems and leaves; it is nationally rarer still than Maiden Pink and not currently recorded at Old Down.",
+        "time_of_year_note": "Both flower in high summer",
+        "danger_level": "none"
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dianthus_deltoides_146121930.jpg",
+        "credit": "Michel Langeveld / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Flower",
+        "month_taken": 7,
+        "caption": "Maiden Pink — bright pink, five-petalled flower with a pale central ring"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dianthus_deltoides_RF.jpg",
+        "credit": "Robert Flogaus-Faust / Wikimedia Commons",
+        "licence": "CC BY 4.0",
+        "life_stage": "Plant in flower",
+        "month_taken": 7,
+        "caption": "Maiden Pink growing low in short, dry chalk grassland turf"
+      }
+    ],
+    "verified": true,
+    "date_added": "2026-07-15"
   }
 ]
