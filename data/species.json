@@ -17631,7 +17631,24 @@
           8
         ],
         "description": "2–5 broods a year are common. Chicks fledge after about 15 days and are fed almost entirely on insects. Juveniles look like washed-out females and beg noisily from parents in family parties well after fledging.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/A_fledgling_house_sparrow_-_geograph.org.uk_-_4009225.jpg",
+            "credit": "Walter Baxter / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Chick and juvenile",
+            "month_taken": 6,
+            "caption": "A fledgling House Sparrow, recently out of the nest"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Juvenile_House_Sparrows_enjoying_the_sunshine_-_geograph.org.uk_-_1012907.jpg",
+            "credit": "Mick Lobb / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Chick and juvenile",
+            "month_taken": 7,
+            "caption": "Juvenile House Sparrows, still with the duller plumage and gape marks of young birds"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -17666,6 +17683,22 @@
         "life_stage": "Adult female",
         "month_taken": 5,
         "caption": "House Sparrow female — plain sandy-brown, pale stripe behind the eye"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/A_fledgling_house_sparrow_-_geograph.org.uk_-_4009225.jpg",
+        "credit": "Walter Baxter / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Chick and juvenile",
+        "month_taken": 6,
+        "caption": "A fledgling House Sparrow, recently out of the nest"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Juvenile_House_Sparrows_enjoying_the_sunshine_-_geograph.org.uk_-_1012907.jpg",
+        "credit": "Mick Lobb / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Chick and juvenile",
+        "month_taken": 7,
+        "caption": "Juvenile House Sparrows, still with the duller plumage and gape marks of young birds"
       }
     ],
     "verified": true,
@@ -17806,7 +17839,16 @@
           8
         ],
         "description": "2 broods typical, nest is a flimsy twig-and-moss platform hidden deep in a hedge or conifer. Juveniles resemble the female but lack the black cap until their first autumn moult.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Juvenile_Bullfinch_%289388894427%29.jpg",
+            "credit": "Andy Morffew / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Chick and juvenile",
+            "month_taken": 6,
+            "caption": "Juvenile Bullfinch, lacking the adult's black cap and grey back"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -17841,6 +17883,14 @@
         "life_stage": "Pair",
         "month_taken": 2,
         "caption": "Bullfinch pair — pink-breasted male below, buff-brown female above"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Juvenile_Bullfinch_%289388894427%29.jpg",
+        "credit": "Andy Morffew / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Chick and juvenile",
+        "month_taken": 6,
+        "caption": "Juvenile Bullfinch, lacking the adult's black cap and grey back"
       }
     ],
     "verified": true,
@@ -17971,7 +18021,16 @@
           7
         ],
         "description": "Nests in tree holes, building cavities and nest boxes. Juveniles are drab grey-brown all over with a pale throat and dark bill — easily mistaken for a different species until they moult into blotchy immature plumage in late summer.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Juvenile_starling_%28Sturnus_vulgaris%29%2C_Prudhoe%2C_Northumberland_%289486342357%29.jpg",
+            "credit": "Orangeaurochs / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Chick and juvenile",
+            "month_taken": 6,
+            "caption": "Juvenile Starling, uniform grey-brown before moulting into adult plumage"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -17999,6 +18058,14 @@
         "life_stage": "Adult (summer)",
         "month_taken": 5,
         "caption": "Adult Starling in summer plumage — glossy black with green-purple iridescence"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Juvenile_starling_%28Sturnus_vulgaris%29%2C_Prudhoe%2C_Northumberland_%289486342357%29.jpg",
+        "credit": "Orangeaurochs / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Chick and juvenile",
+        "month_taken": 6,
+        "caption": "Juvenile Starling, uniform grey-brown before moulting into adult plumage"
       }
     ],
     "verified": true,
@@ -18127,7 +18194,24 @@
           12
         ],
         "description": "Duller, greyer-brown than the male with less extensive yellow, and some streaking on the back. Juveniles are streakier still. The stout pale bill remains a good identification feature at any age.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Greenfinch_-_Chloris_chloris_-_Female.jpg",
+            "credit": "Caroline Legg / Wikimedia Commons",
+            "licence": "CC BY 4.0",
+            "life_stage": "Adult female and juvenile",
+            "month_taken": 5,
+            "caption": "Adult female Greenfinch, duller and more streaked than the male"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Greenfinch_-_Carduelis_chloris_-_%28Juvenile%29_%2853095813820%29.jpg",
+            "credit": "Caroline Legg / Wikimedia Commons",
+            "licence": "CC BY 2.0",
+            "life_stage": "Adult female and juvenile",
+            "month_taken": 7,
+            "caption": "Juvenile Greenfinch, streaked brown plumage before its first moult"
+          }
+        ]
       }
     ],
     "similar_species": [
@@ -18162,6 +18246,22 @@
         "life_stage": "Adult male",
         "month_taken": 5,
         "caption": "Greenfinch male showing the stout, pale, seed-cracking bill"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Greenfinch_-_Chloris_chloris_-_Female.jpg",
+        "credit": "Caroline Legg / Wikimedia Commons",
+        "licence": "CC BY 4.0",
+        "life_stage": "Adult female and juvenile",
+        "month_taken": 5,
+        "caption": "Adult female Greenfinch, duller and more streaked than the male"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Greenfinch_-_Carduelis_chloris_-_%28Juvenile%29_%2853095813820%29.jpg",
+        "credit": "Caroline Legg / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult female and juvenile",
+        "month_taken": 7,
+        "caption": "Juvenile Greenfinch, streaked brown plumage before its first moult"
       }
     ],
     "verified": true,
@@ -18497,7 +18597,16 @@
           4
         ],
         "description": "Green, well camouflaged among fine grass, feeding on fescues and meadow-grasses. Overwinters as a partly grown caterpillar, resuming feeding and growth in spring.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coenonympha_pamphilus_%28larva%29_-_Small_heath_%28caterpillar%29_-_%D0%A1%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%28%D0%B3%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D0%B0%29_%2841164742041%29.jpg",
+            "credit": "Ilia Ustyantsev / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Caterpillar",
+            "month_taken": 8,
+            "caption": "Small Heath caterpillar, green and well camouflaged on fine grasses"
+          }
+        ]
       },
       {
         "stage_name": "Adult",
@@ -18554,6 +18663,14 @@
         "life_stage": "Adult",
         "month_taken": 7,
         "caption": "Small Heath resting low in short grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coenonympha_pamphilus_%28larva%29_-_Small_heath_%28caterpillar%29_-_%D0%A1%D0%B5%D0%BD%D0%BD%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%28%D0%B3%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D0%B0%29_%2841164742041%29.jpg",
+        "credit": "Ilia Ustyantsev / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Caterpillar",
+        "month_taken": 8,
+        "caption": "Small Heath caterpillar, green and well camouflaged on fine grasses"
       }
     ],
     "verified": true,
@@ -18756,7 +18873,16 @@
           9
         ],
         "description": "Laid singly on or near Horseshoe Vetch leaves. Overwinters as an egg, unusual among the British blues, hatching the following spring.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Polyommatus_coridon_egg.jpg",
+            "credit": "Gilles San Martin / Wikimedia Commons",
+            "licence": "CC BY-SA 2.0",
+            "life_stage": "Egg",
+            "month_taken": 8,
+            "caption": "Chalkhill Blue egg on a Fescue grass leaf, laid near its horseshoe vetch foodplant"
+          }
+        ]
       },
       {
         "stage_name": "Caterpillar",
@@ -18828,6 +18954,14 @@
         "life_stage": "Mating pair",
         "month_taken": 8,
         "caption": "Chalkhill Blue pair mating — pale blue male, brown female"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Polyommatus_coridon_egg.jpg",
+        "credit": "Gilles San Martin / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Egg",
+        "month_taken": 8,
+        "caption": "Chalkhill Blue egg on a Fescue grass leaf, laid near its horseshoe vetch foodplant"
       }
     ],
     "verified": true,
@@ -18899,7 +19033,16 @@
           7
         ],
         "description": "Yellow eggs are laid in batches of 30–60 on the underside of ragwort leaves, hatching within 1–2 weeks.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jacobsvlinder-eitjes-hk.jpg",
+            "credit": "Beecool / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Egg",
+            "month_taken": 7,
+            "caption": "Cinnabar Moth eggs laid in a batch on ragwort"
+          }
+        ]
       },
       {
         "stage_name": "Caterpillar",
@@ -18949,20 +19092,20 @@
         "description": "Glossy black wings with red streaks and a red hindwing; flies confidently by day as well as at dusk. Unmistakable among British moths.",
         "photos": [
           {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tyria_jacobaeae_qtl1.jpg",
-            "credit": "Quartl / Wikimedia Commons",
-            "licence": "CC BY-SA 3.0",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cinnabar_moth_%28Tyria_jacobaeae%29.jpg",
+            "credit": "Wikimedia Commons contributor",
+            "licence": "CC BY-SA 4.0",
             "life_stage": "Adult",
             "month_taken": 6,
-            "caption": "Cinnabar Moth — glossy black wings with red streaks and hindwing patch"
+            "caption": "Adult Cinnabar Moth with wings spread, showing the glossy black forewings with red streaks and red spots"
           },
           {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tyria_jacobaeae_on_ragwort.jpg",
-            "credit": "Mikfoz / Wikimedia Commons",
-            "licence": "CC BY-SA 3.0",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cinnabar_Moth._%28Tyria_jacobaeae%29_-_Flickr_-_gailhampshire.jpg",
+            "credit": "gailhampshire / Wikimedia Commons",
+            "licence": "CC BY 2.0",
             "life_stage": "Adult",
             "month_taken": 6,
-            "caption": "Cinnabar Moth resting on ragwort, its caterpillar's foodplant"
+            "caption": "Adult Cinnabar Moth at rest among grass, wings folded showing the red leading-edge streak"
           }
         ]
       }
@@ -18978,22 +19121,6 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tyria_jacobaeae_qtl1.jpg",
-        "credit": "Quartl / Wikimedia Commons",
-        "licence": "CC BY-SA 3.0",
-        "life_stage": "Adult",
-        "month_taken": 6,
-        "caption": "Cinnabar Moth — glossy black wings with red streaks and hindwing patch"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tyria_jacobaeae_on_ragwort.jpg",
-        "credit": "Mikfoz / Wikimedia Commons",
-        "licence": "CC BY-SA 3.0",
-        "life_stage": "Adult",
-        "month_taken": 6,
-        "caption": "Cinnabar Moth resting on ragwort, its caterpillar's foodplant"
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Caterpillar_of_the_Cinnabar_moth_%28Tyria_jacobaeae%29_-_geograph.org.uk_-_913180.jpg",
         "credit": "David Hawgood / Wikimedia Commons",
         "licence": "CC BY-SA 2.0",
@@ -19008,6 +19135,30 @@
         "life_stage": "Caterpillar",
         "month_taken": 7,
         "caption": "Cinnabar caterpillars often strip a ragwort plant almost bare in a group"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jacobsvlinder-eitjes-hk.jpg",
+        "credit": "Beecool / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Egg",
+        "month_taken": 7,
+        "caption": "Cinnabar Moth eggs laid in a batch on ragwort"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cinnabar_moth_%28Tyria_jacobaeae%29.jpg",
+        "credit": "Wikimedia Commons contributor",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Adult Cinnabar Moth with wings spread, showing the glossy black forewings with red streaks and red spots"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cinnabar_Moth._%28Tyria_jacobaeae%29_-_Flickr_-_gailhampshire.jpg",
+        "credit": "gailhampshire / Wikimedia Commons",
+        "licence": "CC BY 2.0",
+        "life_stage": "Adult",
+        "month_taken": 6,
+        "caption": "Adult Cinnabar Moth at rest among grass, wings folded showing the red leading-edge streak"
       }
     ],
     "verified": true,
@@ -19847,7 +19998,16 @@
           6
         ],
         "description": "Spiderlings hatch from an egg sac in spring and grow through several moults over the summer, building progressively larger sheet-and-funnel webs as they mature.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Agelena_labyrinthica_juvenile_Zabrze-Biskupice.jpg",
+            "credit": "Adrian Tync / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Juvenile",
+            "month_taken": 6,
+            "caption": "Juvenile Labyrinth Spider on its low sheet web"
+          }
+        ]
       },
       {
         "stage_name": "Adult",
@@ -19904,6 +20064,14 @@
         "life_stage": "Web",
         "month_taken": 8,
         "caption": "A dew-covered Labyrinth Spider sheet-and-funnel web in grassland"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Agelena_labyrinthica_juvenile_Zabrze-Biskupice.jpg",
+        "credit": "Adrian Tync / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Juvenile",
+        "month_taken": 6,
+        "caption": "Juvenile Labyrinth Spider on its low sheet web"
       }
     ],
     "verified": true,
@@ -20001,7 +20169,16 @@
           8
         ],
         "description": "Just before hatching, the female spins an elaborate silk tent around the attached egg sac. Spiderlings hatch and remain inside this 'nursery web' for their first few days, guarded closely by the female, before dispersing to hunt independently.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Listpinnennest.jpg",
+            "credit": "Tobias Mercer / Wikimedia Commons",
+            "licence": "CC BY 2.5",
+            "life_stage": "Spiderlings in nursery tent",
+            "month_taken": 7,
+            "caption": "The silk nursery tent spun to protect the spiderlings after hatching, guarded by the female"
+          }
+        ]
       },
       {
         "stage_name": "Adult",
@@ -20058,6 +20235,14 @@
         "life_stage": "Female carrying egg sac",
         "month_taken": 6,
         "caption": "Close view of a female carrying her silk-wrapped egg sac beneath her body"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Listpinnennest.jpg",
+        "credit": "Tobias Mercer / Wikimedia Commons",
+        "licence": "CC BY 2.5",
+        "life_stage": "Spiderlings in nursery tent",
+        "month_taken": 7,
+        "caption": "The silk nursery tent spun to protect the spiderlings after hatching, guarded by the female"
       }
     ],
     "verified": true,
@@ -20141,7 +20326,16 @@
           3
         ],
         "description": "Small, rounded, pale yellow pollen cones form in leaf axils on male trees in late winter, releasing clouds of fine yellow pollen carried on the wind to female trees.",
-        "photos": []
+        "photos": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Taxus_baccata_MHNT_flowers_male.jpg",
+            "credit": "Archaeodontosaurus / Wikimedia Commons",
+            "licence": "CC BY-SA 4.0",
+            "life_stage": "Pollen cones (male trees)",
+            "month_taken": 3,
+            "caption": "Male Yew flowers releasing yellow pollen in early spring"
+          }
+        ]
       },
       {
         "stage_name": "Berries / arils (female trees)",
@@ -20232,6 +20426,14 @@
         "life_stage": "Berries (arils)",
         "month_taken": 10,
         "caption": "Yew arils — the only non-toxic part of the tree, but the seed inside is highly poisonous"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Taxus_baccata_MHNT_flowers_male.jpg",
+        "credit": "Archaeodontosaurus / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
+        "life_stage": "Pollen cones (male trees)",
+        "month_taken": 3,
+        "caption": "Male Yew flowers releasing yellow pollen in early spring"
       }
     ],
     "verified": true,
