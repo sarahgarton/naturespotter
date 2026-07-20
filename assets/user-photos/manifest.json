@@ -1,0 +1,566 @@
+{
+  "adonis-blue": {
+    "species": "Adonis Blue",
+    "photos": [
+      {
+        "src": "Adonis Blue (2)...jpg",
+        "dest": "adonis-blue-1.jpg",
+        "year": 2020,
+        "month": 8
+      },
+      {
+        "src": "Adonis Blue (2).jpg",
+        "dest": "adonis-blue-2.jpg",
+        "year": 2021,
+        "month": 8
+      },
+      {
+        "src": "Adonis Blue (4).jpg",
+        "dest": "adonis-blue-3.jpg",
+        "year": 2016,
+        "month": 8
+      }
+    ]
+  },
+  "barn-owl": {
+    "species": "Barn Owl",
+    "photos": [
+      {
+        "src": "Barn Owl 2.jpg",
+        "dest": "barn-owl-1.jpg",
+        "year": 2013,
+        "month": 3
+      },
+      {
+        "src": "Barn Owl Old Down.jpg",
+        "dest": "barn-owl-2.jpg",
+        "year": 2019,
+        "month": 5
+      },
+      {
+        "src": "Barn Owl.jpg",
+        "dest": "barn-owl-3.jpg",
+        "year": 2016,
+        "month": 4
+      }
+    ]
+  },
+  "brambling": {
+    "species": "Brambling",
+    "photos": [
+      {
+        "src": "Brambling (2).jpg",
+        "dest": "brambling-1.jpg",
+        "year": 2026,
+        "month": 3
+      },
+      {
+        "src": "Brambling.jpg",
+        "dest": "brambling-2.jpg",
+        "year": 2022,
+        "month": 1
+      }
+    ]
+  },
+  "brown-argus": {
+    "species": "Brown Argus",
+    "photos": [
+      {
+        "src": "Brown Argus (5)_NEW.jpg",
+        "dest": "brown-argus-1.jpg",
+        "year": 2015,
+        "month": 7
+      }
+    ]
+  },
+  "buff-ermine": {
+    "species": "Buff Ermine",
+    "photos": [
+      {
+        "src": "Buff Ermine.jpg",
+        "dest": "buff-ermine-1.jpg",
+        "year": 2021,
+        "month": 6
+      }
+    ]
+  },
+  "common-carder-bee": {
+    "species": "Common Carder Bee",
+    "photos": [
+      {
+        "src": "Common Carder Bee (4).jpg",
+        "dest": "common-carder-bee-1.jpg",
+        "year": 2021,
+        "month": 9
+      },
+      {
+        "src": "Common Carder Bee.jpg",
+        "dest": "common-carder-bee-2.jpg",
+        "year": 2021,
+        "month": 9
+      }
+    ]
+  },
+  "common-froghopper": {
+    "species": "Common Froghopper",
+    "photos": [
+      {
+        "src": "Common Froghopper.webp",
+        "dest": "common-froghopper-1.webp",
+        "year": null,
+        "month": 7
+      }
+    ]
+  },
+  "common-green-grasshopper": {
+    "species": "Common Green Grasshopper",
+    "photos": [
+      {
+        "src": "Common Green Grasshopper (3).jpg",
+        "dest": "common-green-grasshopper-1.jpg",
+        "year": 2015,
+        "month": 8
+      }
+    ]
+  },
+  "cuckoo": {
+    "species": "Cuckoo",
+    "photos": [
+      {
+        "src": "Cuckoo (3).jpg",
+        "dest": "cuckoo-1.jpg",
+        "year": 2021,
+        "month": 4
+      },
+      {
+        "src": "Cuckoo (4).jpg",
+        "dest": "cuckoo-2.jpg",
+        "year": 2021,
+        "month": 4
+      },
+      {
+        "src": "Cuckoo (6).jpg",
+        "dest": "cuckoo-3.jpg",
+        "year": 2021,
+        "month": 4
+      }
+    ]
+  },
+  "dark-green-fritillary": {
+    "species": "Dark Green Fritillary",
+    "photos": [
+      {
+        "src": "Dark Green Fritillary (5),..jpg",
+        "dest": "dark-green-fritillary-1.jpg",
+        "year": 2021,
+        "month": 6
+      },
+      {
+        "src": "Dark Green Fritillary (8.,.).jpg",
+        "dest": "dark-green-fritillary-2.jpg",
+        "year": 2021,
+        "month": 6
+      },
+      {
+        "src": "Dark Green Fritillary.jpg",
+        "dest": "dark-green-fritillary-3.jpg",
+        "year": 2016,
+        "month": 7
+      }
+    ]
+  },
+  "feathered-gothic": {
+    "species": "Feathered Gothic",
+    "photos": [
+      {
+        "src": "Feathered Gothic.jpg",
+        "dest": "feathered-gothic-1.jpg",
+        "year": 2018,
+        "month": 9
+      }
+    ]
+  },
+  "fieldfare": {
+    "species": "Fieldfare",
+    "photos": [
+      {
+        "src": "Fieldfare (7).jpg",
+        "dest": "fieldfare-1.jpg",
+        "year": 2015,
+        "month": 11
+      },
+      {
+        "src": "Fieldfare.jpg",
+        "dest": "fieldfare-2.jpg",
+        "year": 2022,
+        "month": 2
+      },
+      {
+        "src": "Fieldfare_NEW (2)_NEW.jpg",
+        "dest": "fieldfare-3.jpg",
+        "year": 2017,
+        "month": 1
+      }
+    ]
+  },
+  "gatekeeper": {
+    "species": "Gatekeeper",
+    "photos": [
+      {
+        "src": "Gatekeeper (2).,_NEW.jpg",
+        "dest": "gatekeeper-1.jpg",
+        "year": 2020,
+        "month": 7
+      },
+      {
+        "src": "Gatekeeper (7).jpg",
+        "dest": "gatekeeper-2.jpg",
+        "year": 2017,
+        "month": 7
+      }
+    ]
+  },
+  "green-veined-white": {
+    "species": "Green-veined White",
+    "photos": [
+      {
+        "src": "Green Veined White (12).jpg",
+        "dest": "green-veined-white-1.jpg",
+        "year": 2017,
+        "month": 8
+      },
+      {
+        "src": "Green Veined White (7).jpg",
+        "dest": "green-veined-white-2.jpg",
+        "year": 2017,
+        "month": 6
+      }
+    ]
+  },
+  "harlequin-ladybird": {
+    "species": "Harlequin Ladybird",
+    "photos": [
+      {
+        "src": "Harlequin Ladybird.jpg",
+        "dest": "harlequin-ladybird-1.jpg",
+        "year": 2015,
+        "month": 8
+      }
+    ]
+  },
+  "house-martin": {
+    "species": "House Martin",
+    "photos": [
+      {
+        "src": "House Martin (2).jpg",
+        "dest": "house-martin-1.jpg",
+        "year": 2016,
+        "month": 7
+      },
+      {
+        "src": "House Martin (4).jpg",
+        "dest": "house-martin-2.jpg",
+        "year": null,
+        "month": 6
+      },
+      {
+        "src": "House Martin in flight.jpg",
+        "dest": "house-martin-3.jpg",
+        "year": 2016,
+        "month": 4
+      }
+    ]
+  },
+  "large-white": {
+    "species": "Large White",
+    "photos": [
+      {
+        "src": "Large White..,.jpg",
+        "dest": "large-white-1.jpg",
+        "year": 2021,
+        "month": 7
+      }
+    ]
+  },
+  "mistle-thrush": {
+    "species": "Mistle Thrush",
+    "photos": [
+      {
+        "src": "Mistle Thrush (10).jpg",
+        "dest": "mistle-thrush-1.jpg",
+        "year": 2019,
+        "month": 1
+      },
+      {
+        "src": "Mistle Thrush..._NEW (2).jpg",
+        "dest": "mistle-thrush-2.jpg",
+        "year": 2020,
+        "month": 2
+      }
+    ]
+  },
+  "mottled-rustic": {
+    "species": "Mottled Rustic",
+    "photos": [
+      {
+        "src": "Mottled Rustic_NEW.jpg",
+        "dest": "mottled-rustic-1.jpg",
+        "year": 2017,
+        "month": 6
+      }
+    ]
+  },
+  "painted-lady": {
+    "species": "Painted Lady",
+    "photos": [
+      {
+        "src": "Painted Lady.,.jpg",
+        "dest": "painted-lady-1.jpg",
+        "year": 2019,
+        "month": 6
+      }
+    ]
+  },
+  "purple-hairstreak": {
+    "species": "Purple Hairstreak",
+    "photos": [
+      {
+        "src": "Purple Hairstreak.jpg",
+        "dest": "purple-hairstreak-1.jpg",
+        "year": 2020,
+        "month": 7
+      },
+      {
+        "src": "Purple Hairstreak_NEW.jpg",
+        "dest": "purple-hairstreak-2.jpg",
+        "year": 2020,
+        "month": 6
+      }
+    ]
+  },
+  "red-soldier-beetle": {
+    "species": "Red Soldier Beetle",
+    "photos": [
+      {
+        "src": "Red Soldier Beetle (2).jpg",
+        "dest": "red-soldier-beetle-1.jpg",
+        "year": 2015,
+        "month": 7
+      },
+      {
+        "src": "Red Soldier Beetle.jpg",
+        "dest": "red-soldier-beetle-2.jpg",
+        "year": 2016,
+        "month": 6
+      }
+    ]
+  },
+  "red-tailed-bumblebee": {
+    "species": "Red-tailed Bumblebee",
+    "photos": [
+      {
+        "src": "Red- Tailed Bumble Bee.jpg",
+        "dest": "red-tailed-bumblebee-1.jpg",
+        "year": 2015,
+        "month": 6
+      }
+    ]
+  },
+  "ringlet": {
+    "species": "Ringlet",
+    "photos": [
+      {
+        "src": "Ringlet (9)_NEW.jpg",
+        "dest": "ringlet-1.jpg",
+        "year": 2016,
+        "month": 6
+      },
+      {
+        "src": "Ringlet..,,.jpg",
+        "dest": "ringlet-2.jpg",
+        "year": 2020,
+        "month": 6
+      }
+    ]
+  },
+  "roesel-s-bush-cricket": {
+    "species": "Roesel's Bush-cricket",
+    "photos": [
+      {
+        "src": "Roesels Bush Cricket.jpg",
+        "dest": "roesel-s-bush-cricket-1.jpg",
+        "year": 2025,
+        "month": 8
+      },
+      {
+        "src": "Roesels Bush-Cricket.jpg",
+        "dest": "roesel-s-bush-cricket-2.jpg",
+        "year": 2016,
+        "month": 6
+      }
+    ]
+  },
+  "siskin": {
+    "species": "Siskin",
+    "photos": [
+      {
+        "src": "Siskin (4).jpg",
+        "dest": "siskin-1.jpg",
+        "year": 2019,
+        "month": 1
+      },
+      {
+        "src": "Siskin 3.jpg",
+        "dest": "siskin-2.jpg",
+        "year": 2017,
+        "month": 3
+      }
+    ]
+  },
+  "small-copper": {
+    "species": "Small Copper",
+    "photos": [
+      {
+        "src": "Small Copper (7).jpg",
+        "dest": "small-copper-1.jpg",
+        "year": 2017,
+        "month": 9
+      },
+      {
+        "src": "Small Copper.jpg",
+        "dest": "small-copper-2.jpg",
+        "year": 2017,
+        "month": 4
+      },
+      {
+        "src": "Small Copper_NEW.jpg",
+        "dest": "small-copper-3.jpg",
+        "year": 2023,
+        "month": 9
+      }
+    ]
+  },
+  "small-skipper": {
+    "species": "Small Skipper",
+    "photos": [
+      {
+        "src": "Small Skipper (2)_NEW.jpg",
+        "dest": "small-skipper-1.jpg",
+        "year": 2021,
+        "month": 6
+      },
+      {
+        "src": "Small Skipper..;;.jpg",
+        "dest": "small-skipper-2.jpg",
+        "year": 2021,
+        "month": 6
+      }
+    ]
+  },
+  "small-white": {
+    "species": "Small White",
+    "photos": [
+      {
+        "src": "Small White  ...jpg",
+        "dest": "small-white-1.jpg",
+        "year": 2020,
+        "month": 6
+      }
+    ]
+  },
+  "spotted-flycatcher": {
+    "species": "Spotted Flycatcher",
+    "photos": [
+      {
+        "src": "Spotted Flycatcher (5).jpg",
+        "dest": "spotted-flycatcher-1.jpg",
+        "year": 2015,
+        "month": 7
+      },
+      {
+        "src": "Spottred Flycatcher.jpg",
+        "dest": "spotted-flycatcher-2.jpg",
+        "year": 2017,
+        "month": 7
+      }
+    ]
+  },
+  "summer-chafer": {
+    "species": "Summer Chafer",
+    "photos": [
+      {
+        "src": "Summer Chafer .. (2).jpg",
+        "dest": "summer-chafer-1.jpg",
+        "year": 2020,
+        "month": 7
+      },
+      {
+        "src": "Summer Chafer.jpg",
+        "dest": "summer-chafer-2.jpg",
+        "year": 2022,
+        "month": 6
+      }
+    ]
+  },
+  "tapered-drone-fly": {
+    "species": "Tapered Drone Fly",
+    "photos": [
+      {
+        "src": "Tapered Drone Fly.jpg",
+        "dest": "tapered-drone-fly-1.jpg",
+        "year": 2017,
+        "month": 8
+      }
+    ]
+  },
+  "thick-kneed-flower-beetle": {
+    "species": "Thick-kneed Flower Beetle",
+    "photos": [
+      {
+        "src": "Thick Kneed Flower Beetle_NEW.jpg",
+        "dest": "thick-kneed-flower-beetle-1.jpg",
+        "year": 2016,
+        "month": 6
+      }
+    ]
+  },
+  "white-tailed-bumblebee": {
+    "species": "White-tailed Bumblebee",
+    "photos": [
+      {
+        "src": "White -Tailed Bumble Bee.jpg",
+        "dest": "white-tailed-bumblebee-1.jpg",
+        "year": 2016,
+        "month": 8
+      }
+    ]
+  },
+  "white-admiral": {
+    "species": "White Admiral",
+    "photos": [
+      {
+        "src": "White Admiral (4).jpg",
+        "dest": "white-admiral-1.jpg",
+        "year": 2020,
+        "month": 6
+      },
+      {
+        "src": "White Admiral.jpg",
+        "dest": "white-admiral-2.jpg",
+        "year": 2021,
+        "month": 7
+      }
+    ]
+  },
+  "white-ermine": {
+    "species": "White Ermine",
+    "photos": [
+      {
+        "src": "White Ermine,.jpg",
+        "dest": "white-ermine-1.jpg",
+        "year": 2017,
+        "month": 5
+      }
+    ]
+  }
+}

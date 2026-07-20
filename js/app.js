@@ -612,6 +612,10 @@
     showScreen('detail');
   }
 
+  function formatCredit(p) {
+    return [p.credit, p.licence].filter(Boolean).join(' · ');
+  }
+
   function renderDetail(s) {
     const container = document.getElementById('detail-content');
     if (!container) return;
@@ -683,11 +687,11 @@
 
     // Photos gallery
     const galleryHtml = (s.photos || []).map(p => `
-      <div class="gallery-item" data-src="${p.url}" data-caption="${p.caption || ''}" data-credit="${p.credit || ''} · ${p.licence || ''}">
+      <div class="gallery-item" data-src="${p.url}" data-caption="${p.caption || ''}" data-credit="${formatCredit(p)}">
         <img src="${p.url}" alt="${p.caption || s.common_names[0]}" loading="lazy" onerror="this.parentNode.style.display='none'">
         <div class="gallery-attribution">
           <span class="attr-caption">${p.caption || ''}</span>
-          <span class="attr-credit">${p.credit || ''} · ${p.licence || ''}</span>
+          <span class="attr-credit">${formatCredit(p)}</span>
         </div>
       </div>
     `).join('');
@@ -700,10 +704,10 @@
     const stagesPanelsHtml = (s.life_stages || []).map((ls, i) => {
       const stagePhotosHtml = ls.photos && ls.photos.length > 0
         ? ls.photos.map(p => `
-          <div class="stage-photo-item" data-src="${p.url}" data-caption="${p.caption||''}" data-credit="${p.credit||''} · ${p.licence||''}">
+          <div class="stage-photo-item" data-src="${p.url}" data-caption="${p.caption||''}" data-credit="${formatCredit(p)}">
             <img src="${p.url}" alt="${p.caption||ls.stage_name}" loading="lazy" onerror="this.style.display='none'">
             <div class="photo-overlay">
-              <span class="photo-credit">${p.credit||''} · ${p.licence||''}</span>
+              <span class="photo-credit">${formatCredit(p)}</span>
             </div>
           </div>
         `).join('')
@@ -725,7 +729,7 @@
     const heroImgHtml = heroPhoto
       ? `<img src="${heroPhoto.url}" alt="${s.common_names[0]}" onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex'">
          <div class="detail-hero-placeholder" style="display:none">${heroPlaceholder}</div>
-         <div class="hero-attribution">${heroPhoto.credit || ''} · ${heroPhoto.licence || ''}</div>`
+         <div class="hero-attribution">${formatCredit(heroPhoto)}</div>`
       : `<div class="detail-hero-placeholder">${heroPlaceholder}</div>`;
 
     container.innerHTML = `
