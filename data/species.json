@@ -6422,18 +6422,6 @@
             "life_stage": "Adult",
             "month_taken": 5,
             "caption": "Holly Blue at Old Down with wings open — the broad dark wing borders mark this out as a female"
-          },
-          {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
-            "caption": "Holly Blue male, upperwing",
-            "credit": "Wikimedia Commons",
-            "licence": "CC BY-SA"
-          },
-          {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Holly_Blue_Butterfly_%28Celastrina_argiolus%29_underside.jpg",
-            "caption": "Holly Blue underside showing silver-blue with black dots",
-            "credit": "Wikimedia Commons",
-            "licence": "CC BY-SA"
           }
         ]
       }
@@ -6464,12 +6452,6 @@
         "life_stage": "Adult",
         "month_taken": 5,
         "caption": "Holly Blue at Old Down with wings open — the broad dark wing borders mark this out as a female"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
-        "caption": "Holly Blue male",
-        "credit": "Wikimedia Commons",
-        "licence": "CC BY-SA"
       }
     ],
     "verified": true,
@@ -10599,10 +10581,12 @@
             "licence": "CC BY-SA"
           },
           {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sanguisorba_minor%2C_Botanischen_Garten_zu_Berli.jpg",
-            "caption": "Salad Burnet flowers — top half red female flowers, lower half yellow-green male",
-            "credit": "Wikimedia Commons",
-            "licence": "CC BY-SA"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sanguisorba_minor_%28female_flowers%29.jpg",
+            "credit": "Hans Hillewaert / Wikimedia Commons",
+            "licence": "CC BY-SA 3.0",
+            "life_stage": "Flowering",
+            "month_taken": 6,
+            "caption": "Salad Burnet flowers — top half red female flowers, lower half yellow-green male"
           }
         ]
       }
@@ -10616,10 +10600,12 @@
         "licence": "CC BY-SA"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sanguisorba_minor%2C_Botanischen_Garten_zu_Berli.jpg",
-        "caption": "Salad Burnet flowers",
-        "credit": "Wikimedia Commons",
-        "licence": "CC BY-SA"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sanguisorba_minor_%28female_flowers%29.jpg",
+        "credit": "Hans Hillewaert / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Flowering",
+        "month_taken": 6,
+        "caption": "Salad Burnet flowers"
       }
     ],
     "verified": true,
@@ -13605,9 +13591,9 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bellis_perennis_sl1.jpg/3840px-Bellis_perennis_sl1.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bellis_perennis_sl1.jpg",
+        "credit": "Stefan.lefnaer / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
         "life_stage": "Flower",
         "month_taken": 4,
         "caption": "Common Daisy — white petals and yellow disc florets"
@@ -13854,9 +13840,9 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Prunella_vulgaris_-_harilik_k%C3%A4bihein.jpg/3840px-Prunella_vulgaris_-_harilik_k%C3%A4bihein.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Prunella_vulgaris_-_harilik_k%C3%A4bihein.jpg",
+        "credit": "Ivar Leidus / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
         "life_stage": "Flower",
         "month_taken": 7,
         "caption": "Self-heal — dense violet-purple flower spike"
@@ -14025,12 +14011,28 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Senecio_jacobaea_2006.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
-        "life_stage": "Flower",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jacobaea_vulgaris-3235.jpg",
+        "credit": "Julie Anne Workman / Wikimedia Commons",
+        "licence": "CC BY-SA 3.0",
+        "life_stage": "Flowering",
         "month_taken": 7,
-        "caption": "Common Ragwort in full flower"
+        "caption": "Common Ragwort — dense flat-topped cluster of yellow daisy-like flowers above ragged, deeply cut leaves"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Senecio_jacobaea_-_geograph.org.uk_-_6542697.jpg",
+        "credit": "Bob Harvey / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Flowering",
+        "month_taken": 7,
+        "caption": "The whole plant in rough grassland — tall, branching and stiffly upright, which is how you usually meet it"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Common_Ragwort_%28Senecio_jacobaea%29.jpg",
+        "credit": "AnemoneProjectors / Wikimedia Commons",
+        "licence": "CC BY-SA 2.0",
+        "life_stage": "Flowering",
+        "month_taken": 8,
+        "caption": "A single flower head close up — usually about 13 yellow rays around an orange centre"
       }
     ],
     "verified": true,
@@ -15108,9 +15110,9 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg/3840px-Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg",
+        "credit": "Stu's Images / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
         "life_stage": "Fruiting Body",
         "month_taken": 11,
         "caption": "Jelly Ear on Elder — rubbery, ear-shaped brown fruiting body"
@@ -15417,9 +15419,9 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Geastrum_triplex_-_Bola_Creek.jpg/3840px-Geastrum_triplex_-_Bola_Creek.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Geastrum_triplex_-_Bola_Creek.jpg",
+        "credit": "JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
         "life_stage": "Fruiting Body",
         "month_taken": 10,
         "caption": "Collared Earthstar — spore sac on splayed star of rays"
@@ -15594,9 +15596,9 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eurasian_wren_Franconville_02.jpg/3840px-Eurasian_wren_Franconville_02.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Eurasian_wren_Franconville_02.jpg",
+        "credit": "Alexis Lours / Wikimedia Commons",
+        "licence": "CC BY 4.0",
         "life_stage": "Adult",
         "month_taken": 4,
         "caption": "Wren — tiny, round and reddish-brown with cocked tail"
@@ -15685,9 +15687,9 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/3840px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg",
+        "credit": "Frank Vassen from Brussels, Belgium / Wikimedia Commons",
+        "licence": "CC BY 2.0",
         "life_stage": "Adult",
         "month_taken": 4,
         "caption": "Great Tit — black head, white cheeks and yellow breast with bold stripe"
@@ -16119,9 +16121,9 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carrion_crow_2022_04_05_05_02.jpg/3840px-Carrion_crow_2022_04_05_05_02.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Carrion_crow_2022_04_05_05_02.jpg",
+        "credit": "Alexis Lours / Wikimedia Commons",
+        "licence": "CC BY 4.0",
         "life_stage": "Adult",
         "month_taken": 4,
         "caption": "Carrion Crow — all black with heavy bill"
@@ -16202,9 +16204,9 @@
     "similar_species": [],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eurasian_magpie_%2810860%29.jpg/3840px-Eurasian_magpie_%2810860%29.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eurasian_magpie_%2810860%29.jpg",
+        "credit": "Rhododendrites / Wikimedia Commons",
+        "licence": "CC BY-SA 4.0",
         "life_stage": "Adult",
         "month_taken": 4,
         "caption": "Magpie — bold black and white with iridescent green tail"
