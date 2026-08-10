@@ -822,6 +822,14 @@
         "description": "Clusters of 2–7 pea-like flowers appear from June through August. Each flower is yellow, often tipped or streaked with orange-red, held on a thin stem above the leaves. Look carefully at open flower buds — Small Blue butterflies lay their tiny eggs directly on the flower buds. The eggs are minute white spheres, visible with good eyes or a hand lens.",
         "photos": [
           {
+            "url": "assets/user-photos/birds-foot-trefoil-1.jpg",
+            "credit": "David Levy",
+            "licence": "",
+            "life_stage": "Flowering",
+            "month_taken": 5,
+            "caption": "Bird's-foot Trefoil flower head at Old Down — the yellow pea flowers with fine red veining that give it the name 'eggs and bacon'"
+          },
+          {
             "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lotus_corniculatus_kz01.jpg",
             "credit": "Wikimedia Commons",
             "licence": "CC-BY-SA",
@@ -859,6 +867,14 @@
       }
     ],
     "photos": [
+      {
+        "url": "assets/user-photos/birds-foot-trefoil-1.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Flowering",
+        "month_taken": 5,
+        "caption": "Bird's-foot Trefoil flower head at Old Down — the yellow pea flowers with fine red veining that give it the name 'eggs and bacon'"
+      },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lotus_corniculatus_kz01.jpg",
         "credit": "Wikimedia Commons",
@@ -2308,7 +2324,7 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": false,
+    "featured": true,
     "locations": [
       "old-down",
       "south-uk"
@@ -2621,7 +2637,6 @@
     "weather_flag": false,
     "weather_note": "",
     "locations": [
-      "old-down",
       "sholing-valley",
       "south-uk"
     ],
@@ -6393,6 +6408,22 @@
         "description": "Spring adults (April–June) are brighter sky-blue with narrow dark borders, especially the males. Summer adults (July–September) have wider dark borders, particularly the females. Both generations have the distinctive pale silver-blue underside with small black dots. Watch for them flying high around holly and ivy bushes, often basking briefly on sunny leaves.",
         "photos": [
           {
+            "url": "assets/user-photos/holly-blue-1.jpg",
+            "credit": "David Levy",
+            "licence": "",
+            "life_stage": "Adult",
+            "month_taken": 4,
+            "caption": "Holly Blue at Old Down, underside — silvery pale blue with small black dots and no orange spots, nectaring on Blackthorn blossom"
+          },
+          {
+            "url": "assets/user-photos/holly-blue-2.jpg",
+            "credit": "David Levy",
+            "licence": "",
+            "life_stage": "Adult",
+            "month_taken": 5,
+            "caption": "Holly Blue at Old Down with wings open — the broad dark wing borders mark this out as a female"
+          },
+          {
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
             "caption": "Holly Blue male, upperwing",
             "credit": "Wikimedia Commons",
@@ -6418,6 +6449,22 @@
       }
     ],
     "photos": [
+      {
+        "url": "assets/user-photos/holly-blue-1.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Adult",
+        "month_taken": 4,
+        "caption": "Holly Blue at Old Down, underside — silvery pale blue with small black dots and no orange spots, nectaring on Blackthorn blossom"
+      },
+      {
+        "url": "assets/user-photos/holly-blue-2.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Adult",
+        "month_taken": 5,
+        "caption": "Holly Blue at Old Down with wings open — the broad dark wing borders mark this out as a female"
+      },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Celastrina_argiolus_male_top_Holt_Country_Park.jpg",
         "caption": "Holly Blue male",
@@ -7459,6 +7506,22 @@
         "description": "After breeding, families join together in roving flocks of 8–20 birds. Listen for the constant high, thin 'zee-zee-zee' contact calls — then watch the hedgerow carefully for the tiny pink-and-white shapes bouncing along the outer twigs.",
         "photos": [
           {
+            "url": "assets/user-photos/long-tailed-tit-1.jpg",
+            "credit": "David Levy",
+            "licence": "",
+            "life_stage": "Adult",
+            "month_taken": 10,
+            "caption": "Long-tailed Tit at Old Down — a tiny pink, black and white bird whose tail is longer than its body"
+          },
+          {
+            "url": "assets/user-photos/long-tailed-tit-2.jpg",
+            "credit": "David Levy",
+            "licence": "",
+            "life_stage": "Adult",
+            "month_taken": 12,
+            "caption": "Long-tailed Tit at Old Down in midwinter, when flocks roam the hedgerows calling constantly to each other"
+          },
+          {
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Long_Tailed_Tit_%28Aegithalos_caudatus%29_-_geograph.org.uk_-_657237.jpg",
             "caption": "Long-tailed Tit — the tail is longer than the body",
             "credit": "Wikimedia Commons",
@@ -7475,6 +7538,22 @@
     ],
     "similar_species": [],
     "photos": [
+      {
+        "url": "assets/user-photos/long-tailed-tit-1.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Adult",
+        "month_taken": 10,
+        "caption": "Long-tailed Tit at Old Down — a tiny pink, black and white bird whose tail is longer than its body"
+      },
+      {
+        "url": "assets/user-photos/long-tailed-tit-2.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Adult",
+        "month_taken": 12,
+        "caption": "Long-tailed Tit at Old Down in midwinter, when flocks roam the hedgerows calling constantly to each other"
+      },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Long_Tailed_Tit_%28Aegithalos_caudatus%29_-_geograph.org.uk_-_657237.jpg",
         "caption": "Long-tailed Tit",
@@ -16648,12 +16727,13 @@
     ],
     "photos": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg",
-        "credit": "Wikimedia Commons",
-        "licence": "CC-BY-SA",
-        "life_stage": "Adult Male",
-        "month_taken": 5,
-        "caption": "Sparrowhawk male — blue-grey back and orange-barred breast"
+        "url": "assets/user-photos/sparrowhawk-1.jpg",
+        "credit": "David Levy",
+        "licence": "",
+        "life_stage": "Adult Female",
+        "month_taken": 11,
+        "caption": "Sparrowhawk at Old Down — a female on a plucked kill, showing the barred underparts, long yellow legs and fierce yellow eye",
+        "focal": "45% 10%"
       }
     ],
     "verified": true,
@@ -17021,7 +17101,6 @@
     "weather_flag": true,
     "weather_note": "Only active in warm, sunny weather. Cool, cloudy days reduce sightings significantly.",
     "locations": [
-      "old-down",
       "sholing-valley",
       "south-uk"
     ],
@@ -18833,9 +18912,8 @@
     ],
     "weather_flag": true,
     "weather_note": "Flies only in warm, sunny weather; large numbers can be on the wing together on a hot August afternoon but almost none visible on a dull day.",
-    "featured": true,
+    "featured": false,
     "locations": [
-      "old-down",
       "south-uk"
     ],
     "habitat_tags": [
@@ -18843,8 +18921,8 @@
       "short-turf",
       "sunny-slopes"
     ],
-    "summary": "A chalk grassland specialist and the palest blue butterfly in Britain — males are a distinctive silvery powder-blue, quite different from the richer blue of other species. A perfect, iconic sighting for Old Down's chalk downland.",
-    "full_description": "The Chalkhill Blue (Lysandra coridon) is one of the most characteristic and beautiful butterflies of southern English chalk grassland, and its pale, almost silvery powder-blue male upperside is unlike any other blue butterfly found in Britain — distinctly paler than the richer blue of the Common Blue or Adonis Blue. Females are chocolate-brown with a neat row of orange spots along the edge of each wing, similar in general pattern to other female blues, so habitat and the colour of accompanying males are the best clues to identification. Both sexes have a chequered black-and-white fringe to the wings.\n\nChalkhill Blue caterpillars feed exclusively on Horseshoe Vetch, a low-growing yellow-flowered plant restricted almost entirely to chalk and limestone grassland, which is why the butterfly itself is such a strong indicator of good, unimproved downland. Like several other blue butterflies, the caterpillars have a mutualistic relationship with ants: they produce a sugary secretion from a special gland that ants collect as food, and in return the ants guard the caterpillars from predators and parasites, sometimes even carrying them into their nest overnight for protection.\n\nAt Old Down, Chalkhill Blues are one of the signature species of high summer on the chalk grassland, appearing in good numbers on warm days in August where Horseshoe Vetch grows in short, sheep- or rabbit-grazed turf on the sunniest slopes. Watching a group of pale powder-blue males gathered at a damp patch of ground (a behaviour called 'mud-puddling', where they take up salts and minerals) is one of the most memorable sights the site's chalk grassland has to offer, and a strong sign that the grassland here is being managed well.",
+    "summary": "A chalk grassland specialist and the palest blue butterfly in Britain — males are a distinctive silvery powder-blue, quite different from the richer blue of other species.",
+    "full_description": "The Chalkhill Blue (Lysandra coridon) is one of the most characteristic and beautiful butterflies of southern English chalk grassland, and its pale, almost silvery powder-blue male upperside is unlike any other blue butterfly found in Britain — distinctly paler than the richer blue of the Common Blue or Adonis Blue. Females are chocolate-brown with a neat row of orange spots along the edge of each wing, similar in general pattern to other female blues, so habitat and the colour of accompanying males are the best clues to identification. Both sexes have a chequered black-and-white fringe to the wings.\n\nChalkhill Blue caterpillars feed exclusively on Horseshoe Vetch, a low-growing yellow-flowered plant restricted almost entirely to chalk and limestone grassland, which is why the butterfly itself is such a strong indicator of good, unimproved downland. Like several other blue butterflies, the caterpillars have a mutualistic relationship with ants: they produce a sugary secretion from a special gland that ants collect as food, and in return the ants guard the caterpillars from predators and parasites, sometimes even carrying them into their nest overnight for protection.",
     "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
@@ -20280,9 +20358,8 @@
     ],
     "weather_flag": false,
     "weather_note": "",
-    "featured": true,
+    "featured": false,
     "locations": [
-      "old-down",
       "south-uk"
     ],
     "habitat_tags": [
@@ -20292,7 +20369,7 @@
       "hedgerow"
     ],
     "summary": "A dense, dark evergreen conifer, deeply linked to churchyards and ancient sites, and famous for both its extraordinary longevity and its serious toxicity — one of very few British trees where almost every part is genuinely dangerous if eaten.",
-    "full_description": "Yew (Taxus baccata) is a slow-growing, long-lived evergreen conifer with a dense, dark green canopy that stays clothed in foliage all year round, casting deep, heavy shade beneath it where little else can grow. The needles are short, flat, and dark glossy green above with a paler underside, arranged in two neat rows along the twig, quite different from the rounder, prickly needles of pine or spruce. The bark is thin, reddish-brown to purplish, and flakes away in small, papery scales, often revealing patches of paler wood beneath — mature trees can develop wonderfully gnarled, fluted, and hollow trunks over time.\n\nYew is exceptionally long-lived; some ancient churchyard yews in Britain are estimated to be well over a thousand years old, and a handful may even predate the churches built beside them, suggesting the tree itself was already considered a sacred or significant site in pre-Christian times. Yews are usually either male or female (dioecious): male trees produce small clusters of yellow pollen cones in late winter and early spring, while female trees, if pollinated, produce distinctive fleshy, bright-red, cup-shaped structures called arils in autumn, each containing a single hard, dark seed. Confusingly, the soft red aril flesh is the one part of the whole tree that is not poisonous and is eaten safely by birds such as thrushes, which help disperse the seeds — but the hard seed inside the aril is highly toxic, along with the needles, bark, and wood of the entire tree, all of which contain dangerous taxine alkaloids that can affect the heart if eaten in any quantity. For this reason, Yew is one of the very few British native trees that genuinely needs a clear, calm safety conversation with children: admire it, but never chew, suck, or eat any part of it, including the tempting-looking red berries — always spit out and discard the hard seed even if the surrounding red flesh has been tasted.\n\nAt Old Down, ancient and more recently planted Yew trees form a distinctive, dark, evergreen presence within the woodland and along boundary hedgerows, historically linked to the wider chalk downland landscape's association with old churchyards, boundary markers and ancient trackways across southern England. Its dense evergreen cover provides valuable year-round shelter and nesting sites for birds even in the depths of winter when deciduous trees stand bare.",
+    "full_description": "Yew (Taxus baccata) is a slow-growing, long-lived evergreen conifer with a dense, dark green canopy that stays clothed in foliage all year round, casting deep, heavy shade beneath it where little else can grow. The needles are short, flat, and dark glossy green above with a paler underside, arranged in two neat rows along the twig, quite different from the rounder, prickly needles of pine or spruce. The bark is thin, reddish-brown to purplish, and flakes away in small, papery scales, often revealing patches of paler wood beneath — mature trees can develop wonderfully gnarled, fluted, and hollow trunks over time.\n\nYew is exceptionally long-lived; some ancient churchyard yews in Britain are estimated to be well over a thousand years old, and a handful may even predate the churches built beside them, suggesting the tree itself was already considered a sacred or significant site in pre-Christian times. Yews are usually either male or female (dioecious): male trees produce small clusters of yellow pollen cones in late winter and early spring, while female trees, if pollinated, produce distinctive fleshy, bright-red, cup-shaped structures called arils in autumn, each containing a single hard, dark seed. Confusingly, the soft red aril flesh is the one part of the whole tree that is not poisonous and is eaten safely by birds such as thrushes, which help disperse the seeds — but the hard seed inside the aril is highly toxic, along with the needles, bark, and wood of the entire tree, all of which contain dangerous taxine alkaloids that can affect the heart if eaten in any quantity. For this reason, Yew is one of the very few British native trees that genuinely needs a clear, calm safety conversation with children: admire it, but never chew, suck, or eat any part of it, including the tempting-looking red berries — always spit out and discard the hard seed even if the surrounding red flesh has been tasted.",
     "danger_level": "toxic",
     "danger_note": "Highly toxic. The needles, bark, wood and especially the hard seed inside each red berry contain taxine alkaloids that can be dangerous to the heart if eaten, even in fairly small amounts — this is one of the most poisonous common trees in Britain and has caused serious poisoning in both people and livestock. The soft red berry flesh (aril) itself is not toxic and is safely eaten by birds, but the seed inside definitely is: teach children to look but never taste any part of this tree, and to spit out the hard central seed immediately if red flesh is ever put in the mouth. Seek urgent medical help if any part of the plant, especially a seed, is swallowed.",
     "danger_type": "toxic-if-eaten",
@@ -23158,16 +23235,16 @@
     ],
     "weather_flag": true,
     "weather_note": "A sun-loving species that only flies well in warm, sunny conditions, basking with wings open on bare chalk or short turf to warm up.",
-    "featured": true,
+    "featured": false,
     "locations": [
-      "old-down"
+      "south-uk"
     ],
     "habitat_tags": [
       "chalk-grassland",
       "sunny-slopes"
     ],
     "summary": "A chalk grassland specialist and one of Britain's most dazzling butterflies — males are an intense electric blue unmatched by any other British species. Restricted to short, sunny turf where its foodplant, horseshoe vetch, grows.",
-    "full_description": "The Adonis Blue (Polyommatus bellargus) is widely considered the most beautiful of Britain's blue butterflies, the male's upper wings an intense, almost luminous sky-blue quite unlike the more violet-blue of the Common Blue or the softer blue of the Chalkhill Blue. Fine black veins cross the wing tips, and a distinctive black-and-white chequered fringe runs around the wing edge — a feature shared with the Chalkhill Blue but absent in the Common Blue. Females are chocolate-brown above with a row of orange crescents along the outer wing margin, much less conspicuous than the males and easily overlooked or mistaken for other brown-and-orange blues.\n\nThis is a true chalk grassland specialist, tied closely to horseshoe vetch, the sole foodplant of its caterpillars, which grows only on short, well-grazed, sun-warmed turf on chalk and limestone. Because both the vetch and the butterfly need this very specific short-sward habitat, Adonis Blue populations are highly localised and were badly hit by the decline of traditional grazing in the twentieth century, though targeted conservation grazing has allowed some colonies to recover. Unusually among British blues, it is double-brooded, with a first generation flying in May–June and a second, often more numerous, brood in August–September.\n\nAt Old Down, Adonis Blue is one of the chalk grassland's star species, flying low over the shortest, warmest turf where horseshoe vetch grows — look for the male's startling blue flash as it basks with wings open on bare ground or short grass on sunny days in late spring and again in late summer.",
+    "full_description": "The Adonis Blue (Polyommatus bellargus) is widely considered the most beautiful of Britain's blue butterflies, the male's upper wings an intense, almost luminous sky-blue quite unlike the more violet-blue of the Common Blue or the softer blue of the Chalkhill Blue. Fine black veins cross the wing tips, and a distinctive black-and-white chequered fringe runs around the wing edge — a feature shared with the Chalkhill Blue but absent in the Common Blue. Females are chocolate-brown above with a row of orange crescents along the outer wing margin, much less conspicuous than the males and easily overlooked or mistaken for other brown-and-orange blues.\n\nThis is a true chalk grassland specialist, tied closely to horseshoe vetch, the sole foodplant of its caterpillars, which grows only on short, well-grazed, sun-warmed turf on chalk and limestone. Because both the vetch and the butterfly need this very specific short-sward habitat, Adonis Blue populations are highly localised and were badly hit by the decline of traditional grazing in the twentieth century, though targeted conservation grazing has allowed some colonies to recover. Unusually among British blues, it is double-brooded, with a first generation flying in May–June and a second, often more numerous, brood in August–September.",
     "danger_level": "none",
     "danger_note": "",
     "danger_type": "",
@@ -23225,7 +23302,7 @@
             "licence": "",
             "life_stage": "Adult",
             "month_taken": 8,
-            "caption": "Adonis Blue, one of Old Down's chalk grassland specialities"
+            "caption": "Adonis Blue on chalk grassland"
           }
         ]
       }
@@ -23269,7 +23346,7 @@
         "licence": "",
         "life_stage": "Adult",
         "month_taken": 8,
-        "caption": "Adonis Blue, one of Old Down's chalk grassland specialities"
+        "caption": "Adonis Blue on chalk grassland"
       }
     ],
     "verified": true,

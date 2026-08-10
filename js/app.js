@@ -516,7 +516,7 @@
     card.innerHTML = `
       <div class="card-img-wrap">
         ${primaryPhoto
-          ? `<img src="${primaryPhoto.url}" alt="${s.common_names[0]}" loading="lazy" onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex'">`
+          ? `<img src="${primaryPhoto.url}" alt="${s.common_names[0]}" loading="lazy"${focalStyle(primaryPhoto)} onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex'">`
           : ``
         }
         <div class="card-img-placeholder" style="${primaryPhoto ? 'display:none' : ''}">${placeholder}</div>
@@ -616,6 +616,19 @@
     return [p.credit, p.licence].filter(Boolean).join(' · ');
   }
 
+  // Card thumbnails and detail heroes crop photos to a fixed shape with
+  // object-fit: cover, which centres the crop and can cut the head off a
+  // subject sitting high or off to one side of the frame. An optional
+  // "focal" value on a photo (any CSS object-position, e.g. "35% 20%")
+  // says which part of the photo to keep.
+  function focalStyle(p) {
+    return p && p.focal ? ` style="object-position:${p.focal}"` : '';
+  }
+
+  function slugify(name) {
+    return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+
   function renderDetail(s) {
     const container = document.getElementById('detail-content');
     if (!container) return;
@@ -666,19 +679,33 @@
 
     // Similar species
     const similarHtml = (s.similar_species || []).map(sim => {
-      const exists = allSpecies.find(sp => sp.id === sim.species_slug);
+      // A few entries were written with {name, how_to_tell_apart} instead of
+      // {species_slug, similarity_note, key_difference} — normalise both here
+      // so a single odd entry can't blank out the whole detail page.
+      const slug = sim.species_slug || slugify(sim.name || '');
+      const note = sim.similarity_note || sim.how_to_tell_apart || '';
+      const diff = sim.key_difference || '';
+      // allSpecies holds every entry in the data file, including ones not
+      // recorded at this site. Only link to a species this guide actually
+      // covers — otherwise show it as a look-alike that isn't in the guide.
+      const cfgLoc = (window.LOCATION_CONFIG || {}).showLocationFilter === false
+        ? (window.LOCATION_CONFIG || {}).defaultLocationFilter
+        : null;
+      const match = allSpecies.find(sp => sp.id === slug);
+      const exists = match && (!cfgLoc || (match.locations || []).includes(cfgLoc))
+        ? match : null;
       if (exists) {
         return `<div class="similar-card" role="button" tabindex="0" data-species="${exists.id}">
           <div class="similar-name">${exists.common_names[0]}</div>
           <div class="similar-latin">${exists.latin_name}</div>
-          <div class="similar-note">${sim.similarity_note}</div>
-          <div class="similar-diff"><strong>Key difference:</strong> ${sim.key_difference}</div>
+          <div class="similar-note">${note}</div>
+          ${diff ? `<div class="similar-diff"><strong>Key difference:</strong> ${diff}</div>` : ''}
         </div>`;
       } else {
         return `<div class="similar-card missing">
-          <div class="similar-name">${sim.species_slug.replace(/-/g, ' ')}</div>
-          <div class="similar-note">${sim.similarity_note}</div>
-          <div class="similar-diff"><strong>Key difference:</strong> ${sim.key_difference}</div>
+          <div class="similar-name">${sim.name || (match ? match.common_names[0] : slug.replace(/-/g, ' '))}</div>
+          <div class="similar-note">${note}</div>
+          ${diff ? `<div class="similar-diff"><strong>Key difference:</strong> ${diff}</div>` : ''}
           ${sim.danger_level === 'dangerous' ? `<div class="similar-diff" style="margin-top:6px;background:#f5dddd;color:#8b2020">⚠ Dangerous species</div>` : ''}
           <div class="not-in-guide">Not yet in this guide</div>
         </div>`;
@@ -727,7 +754,7 @@
     const heroPhoto = s.photos && s.photos[0];
     const heroPlaceholder = SPECIES_PLACEHOLDERS[s.type] || SPECIES_PLACEHOLDERS.default;
     const heroImgHtml = heroPhoto
-      ? `<img src="${heroPhoto.url}" alt="${s.common_names[0]}" onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex'">
+      ? `<img src="${heroPhoto.url}" alt="${s.common_names[0]}"${focalStyle(heroPhoto)} onerror="this.onerror=null;this.style.display='none';this.nextElementSibling.style.display='flex'">
          <div class="detail-hero-placeholder" style="display:none">${heroPlaceholder}</div>
          <div class="hero-attribution">${formatCredit(heroPhoto)}</div>`
       : `<div class="detail-hero-placeholder">${heroPlaceholder}</div>`;
