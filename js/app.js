@@ -10,6 +10,17 @@
   let filteredSpecies = [];
   let previousScreen = 'browse';
 
+  // Record a Sighting — in-memory state for the photo(s) currently attached
+  // to the form. Photos are downscaled and EXIF-checked as soon as they are
+  // added (see Part 2), never on send, so the send button stays a plain
+  // synchronous click handler (needed for navigator.share() on iOS).
+  let sightingPhotos = [];       // [{id, file, thumbDataUrl, name, make, model, taken, gps, verdict, reason}]
+  let sightingCreditEdited = false;
+  const SIGHTING_PERM_IDS = ['sg-perm-club', 'sg-perm-public', 'sg-perm-irecord'];
+  let sightingLocation = null;   // {lat, lon, accuracy} once geolocation or a photo supplies it
+  let guideBasenames = new Set(); // lowercased final path segment of every photo already in the guide
+  const SIGHTING_MAX_PHOTOS = 4;
+
   const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   const MONTH_FULL = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 
@@ -169,6 +180,7 @@
       console.error('Failed to load species data:', e);
       allSpecies = [];
     }
+    guideBasenames = buildGuideBasenames();
 
     // Disclaimer
     setupDisclaimer();
@@ -181,6 +193,7 @@
     }
 
     setupSubmitForm();
+    setupSighting();
     setupAdmin();
     setupLightbox();
     setupLocations();
@@ -853,6 +866,15 @@
       };
     }
 
+    // "I saw this" button in detail header — opens the sighting flow prefilled
+    const detailSightingBtn = document.getElementById('btn-detail-sighting');
+    if (detailSightingBtn) {
+      detailSightingBtn.onclick = () => {
+        previousScreen = 'detail-' + s.id;
+        openSighting(`${s.common_names[0]} (${s.latin_name})`);
+      };
+    }
+
     // Suggest link at bottom
     const suggestLink = container.querySelector('#detail-suggest-link');
     if (suggestLink) {
@@ -994,8 +1016,10 @@
     if (footerBrowse) footerBrowse.addEventListener('click', e => { e.preventDefault(); showScreen('browse'); });
     const footerSafety = document.getElementById('footer-safety');
     if (footerSafety) footerSafety.addEventListener('click', e => { e.preventDefault(); showScreen('disclaimer'); });
+    // "Submit a sighting" has always been mislabelled — it opens the sighting
+    // flow now, not the guide-correction form (#screen-submit is unaffected).
     const footerSubmit = document.getElementById('footer-submit');
-    if (footerSubmit) footerSubmit.addEventListener('click', e => { e.preventDefault(); previousScreen = 'browse'; showScreen('submit'); });
+    if (footerSubmit) footerSubmit.addEventListener('click', e => { e.preventDefault(); previousScreen = 'browse'; openSighting(); });
     const footerDisclaimer = document.getElementById('footer-disclaimer-link');
     if (footerDisclaimer) footerDisclaimer.addEventListener('click', e => { e.preventDefault(); showScreen('disclaimer'); });
   }
@@ -1098,6 +1122,834 @@
   }
 
   /* ============================================================
+     RECORD A SIGHTING
+  ============================================================ */
+
+  /* ---------- date/time helpers shared across the sighting flow ---------- */
+  function pad2(n) { return String(n).padStart(2, '0'); }
+  function isoDateOf(d) { return `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`; }
+  function isoTimeOf(d) { return `${pad2(d.getHours())}:${pad2(d.getMinutes())}`; }
+  function todaySightingISO() { return isoDateOf(new Date()); }
+
+  // "YYYY-MM-DD" + "HH:MM" -> "dd/mm/yyyy HH:MM" for the shared text block / UK display
+  function formatUKDateTime(dateStr, timeStr) {
+    if (!dateStr) return '';
+    const [y, m, d] = dateStr.split('-');
+    return `${d}/${m}/${y}${timeStr ? ' ' + timeStr : ''}`;
+  }
+  function formatDdMmYyyy(dateStr) {
+    if (!dateStr) return '';
+    const [y, m, d] = dateStr.split('-');
+    return `${d}/${m}/${y}`;
+  }
+  // A Date parsed from EXIF, formatted the same way as the record's own date/time.
+  function formatExifDateTime(d) {
+    if (!d) return '';
+    return `${pad2(d.getDate())}/${pad2(d.getMonth() + 1)}/${d.getFullYear()} ${pad2(d.getHours())}:${pad2(d.getMinutes())}`;
+  }
+
+  function escapeHtml(str) {
+    return String(str == null ? '' : str)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  /* ---------- guide basename set (photo provenance check) ---------- */
+  // A Set of every photo filename already used in the guide, lowercased and
+  // URL-decoded, so an attached photo can be checked against it in O(1).
+  // Covers both a species' top-level photos and every life_stages[].photos.
+  function buildGuideBasenames() {
+    const set = new Set();
+    const add = p => {
+      if (!p || !p.url) return;
+      try {
+        const decoded = decodeURIComponent(p.url);
+        const base = decoded.split('/').pop().toLowerCase();
+        if (base) set.add(base);
+      } catch (e) { /* malformed URL — nothing to add */ }
+    };
+    allSpecies.forEach(s => {
+      (s.photos || []).forEach(add);
+      (s.life_stages || []).forEach(ls => (ls.photos || []).forEach(add));
+    });
+    return set;
+  }
+
+  /* ---------- EXIF reader (hand-written, no library — must work offline) ---------- */
+  // Reads only the first 256KB of the file (EXIF always lives at the front of
+  // a JPEG) and walks the marker structure by hand. Any malformed or missing
+  // EXIF must never stop someone filing a record, so this always resolves —
+  // it never rejects — and returns all-nulls on any parsing trouble.
+  async function readExif(file) {
+    const allNull = { make: null, model: null, software: null, dateTimeOriginal: null, gps: null };
+    try {
+      const buf = await file.slice(0, 262144).arrayBuffer();
+      const view = new DataView(buf);
+      if (view.byteLength < 4 || view.getUint16(0, false) !== 0xFFD8) return allNull;
+
+      // Walk JPEG markers looking for the APP1 segment that starts "Exif\0\0".
+      let offset = 2;
+      let tiffStart = null;
+      while (offset < view.byteLength - 1) {
+        if (view.getUint8(offset) !== 0xFF) break;
+        const marker = view.getUint8(offset + 1);
+        if (marker === 0xDA) break; // start of scan — image data follows, EXIF is always before this
+        if (offset + 4 > view.byteLength) break;
+        const length = view.getUint16(offset + 2, false);
+        if (marker === 0xE1) {
+          const p = offset + 4;
+          if (p + 6 <= view.byteLength) {
+            let sig = '';
+            for (let i = 0; i < 6; i++) sig += String.fromCharCode(view.getUint8(p + i));
+            if (sig === 'Exif\u0000\u0000') { tiffStart = p + 6; break; }
+          }
+        }
+        offset += 2 + length;
+      }
+      if (tiffStart === null || tiffStart + 8 > view.byteLength) return allNull;
+
+      const bom = view.getUint16(tiffStart, false);
+      let little;
+      if (bom === 0x4949) little = true;
+      else if (bom === 0x4D4D) little = false;
+      else return allNull;
+
+      const typeSize = t => (t === 2 ? 1 : t === 3 ? 2 : t === 4 ? 4 : t === 5 ? 8 : 4);
+
+      function readIFD(ifdOffset) {
+        const entries = {};
+        const count = view.getUint16(tiffStart + ifdOffset, little);
+        for (let i = 0; i < count; i++) {
+          const eo = tiffStart + ifdOffset + 2 + i * 12;
+          if (eo + 12 > view.byteLength) continue;
+          entries[view.getUint16(eo, little)] = {
+            type: view.getUint16(eo + 2, little),
+            count: view.getUint32(eo + 4, little),
+            entryOffset: eo
+          };
+        }
+        return entries;
+      }
+
+      function readValue(entry) {
+        const { type, count, entryOffset } = entry;
+        const size = typeSize(type) * count;
+        const valueOffset = size > 4
+          ? tiffStart + view.getUint32(entryOffset + 8, little)
+          : entryOffset + 8;
+
+        if (type === 2) { // ASCII, NUL-terminated — exclude the terminator
+          let str = '';
+          for (let i = 0; i < count - 1; i++) str += String.fromCharCode(view.getUint8(valueOffset + i));
+          return str;
+        }
+        if (type === 3) { // SHORT
+          if (count === 1) return view.getUint16(valueOffset, little);
+          const arr = [];
+          for (let i = 0; i < count; i++) arr.push(view.getUint16(valueOffset + i * 2, little));
+          return arr;
+        }
+        if (type === 4) { // LONG
+          if (count === 1) return view.getUint32(valueOffset, little);
+          const arr = [];
+          for (let i = 0; i < count; i++) arr.push(view.getUint32(valueOffset + i * 4, little));
+          return arr;
+        }
+        if (type === 5) { // RATIONAL — numerator, denominator (two LONGs) per component
+          const arr = [];
+          for (let i = 0; i < count; i++) {
+            const num = view.getUint32(valueOffset + i * 8, little);
+            const den = view.getUint32(valueOffset + i * 8 + 4, little);
+            arr.push(den === 0 ? 0 : num / den);
+          }
+          return count === 1 ? arr[0] : arr;
+        }
+        return null;
+      }
+
+      const cleanAscii = s => (s || '').replace(/[\u0000 ]+$/, '').trim();
+
+      const ifd0Offset = view.getUint32(tiffStart + 4, little);
+      const ifd0 = readIFD(ifd0Offset);
+
+      const result = { make: null, model: null, software: null, dateTimeOriginal: null, gps: null };
+      if (ifd0[0x010F]) result.make = cleanAscii(readValue(ifd0[0x010F])) || null;
+      if (ifd0[0x0110]) result.model = cleanAscii(readValue(ifd0[0x0110])) || null;
+      if (ifd0[0x0131]) result.software = cleanAscii(readValue(ifd0[0x0131])) || null;
+
+      if (ifd0[0x8769]) {
+        const exifIfd = readIFD(readValue(ifd0[0x8769]));
+        if (exifIfd[0x9003]) {
+          // "YYYY:MM:DD HH:MM:SS" — colons in the date part mean this can't go
+          // straight into `new Date()`, so parse the fields out by hand.
+          const raw = readValue(exifIfd[0x9003]);
+          const m = /^(\d{4}):(\d{2}):(\d{2}) (\d{2}):(\d{2}):(\d{2})/.exec(raw || '');
+          if (m) {
+            result.dateTimeOriginal = new Date(
+              parseInt(m[1], 10), parseInt(m[2], 10) - 1, parseInt(m[3], 10),
+              parseInt(m[4], 10), parseInt(m[5], 10), parseInt(m[6], 10)
+            );
+          }
+        }
+      }
+
+      if (ifd0[0x8825]) {
+        const gpsIfd = readIFD(readValue(ifd0[0x8825]));
+        if (gpsIfd[0x0001] && gpsIfd[0x0002] && gpsIfd[0x0003] && gpsIfd[0x0004]) {
+          const latRef = cleanAscii(readValue(gpsIfd[0x0001]));
+          const latVals = readValue(gpsIfd[0x0002]);
+          const lonRef = cleanAscii(readValue(gpsIfd[0x0003]));
+          const lonVals = readValue(gpsIfd[0x0004]);
+          if (Array.isArray(latVals) && latVals.length === 3 && Array.isArray(lonVals) && lonVals.length === 3) {
+            let lat = latVals[0] + latVals[1] / 60 + latVals[2] / 3600;
+            let lon = lonVals[0] + lonVals[1] / 60 + lonVals[2] / 3600;
+            if (/S/i.test(latRef)) lat = -lat;
+            if (/W/i.test(lonRef)) lon = -lon;
+            result.gps = { lat, lon };
+          }
+        }
+      }
+
+      return result;
+    } catch (e) {
+      // Any malformed or truncated EXIF must never stop someone filing a record.
+      return allNull;
+    }
+  }
+
+  /* ---------- verdict: is this plausibly the recorder's own photo? ---------- */
+  function classifySightingPhoto(file, exif) {
+    const nameLower = file.name.toLowerCase();
+    const guideMessage = "That's a photo from the guide. We need one you took yourself.";
+
+    if (guideBasenames.has(nameLower)) {
+      return { verdict: 'blocked', reason: guideMessage };
+    }
+    // Guide-generated filenames look like "species-id-N.jpg" — catches a guide
+    // photo that's been renamed/re-saved but still carries the original stem.
+    if (/^[a-z0-9-]+-\d+\.(jpe?g|png|webp)$/.test(nameLower)) {
+      const stem = nameLower.replace(/-\d+\.(jpe?g|png|webp)$/, '');
+      if (allSpecies.some(s => s.id === stem)) {
+        return { verdict: 'blocked', reason: guideMessage };
+      }
+    }
+    if (!exif.make && !exif.model && !exif.dateTimeOriginal) {
+      return {
+        verdict: 'blocked',
+        reason: "This doesn't look like a photo from a camera — screenshots and images saved from the web have their camera details removed. Please use a photo you took."
+      };
+    }
+    if (!exif.dateTimeOriginal) {
+      return { verdict: 'warn', reason: 'No date stored in this photo — worth double-checking it’s the right one.' };
+    }
+    const sgDateVal = document.getElementById('sg-date').value;
+    if (sgDateVal) {
+      const formDate = new Date(sgDateVal + 'T00:00:00');
+      const diffDays = Math.abs(exif.dateTimeOriginal - formDate) / 86400000;
+      if (diffDays > 7) {
+        return {
+          verdict: 'warn',
+          reason: `This photo was taken on ${formatExifDateTime(exif.dateTimeOriginal)}, but the sighting is dated ${formatDdMmYyyy(sgDateVal)}. Is that right?`
+        };
+      }
+    }
+    return { verdict: 'ok', reason: null };
+  }
+
+  /* ---------- downscale + thumbnail (done at add-time, not on send) ---------- */
+  function downscaleSightingPhoto(file, speciesSlug, index, dateStr) {
+    return new Promise((resolve, reject) => {
+      const url = URL.createObjectURL(file);
+      const img = new Image();
+      img.onload = () => {
+        URL.revokeObjectURL(url);
+        try {
+          const MAX_EDGE = 1600;
+          let w = img.naturalWidth, h = img.naturalHeight;
+          if (w >= h && w > MAX_EDGE) { h = Math.round(h * MAX_EDGE / w); w = MAX_EDGE; }
+          else if (h > w && h > MAX_EDGE) { w = Math.round(w * MAX_EDGE / h); h = MAX_EDGE; }
+
+          const canvas = document.createElement('canvas');
+          canvas.width = w; canvas.height = h;
+          canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+
+          canvas.toBlob(blob => {
+            if (!blob) { reject(new Error('toBlob failed')); return; }
+            const filename = `${speciesSlug}-${dateStr}-${index}.jpg`;
+            const outFile = new File([blob], filename, { type: 'image/jpeg' });
+
+            const THUMB_MAX = 320;
+            let tw = w, th = h;
+            if (tw >= th) { th = Math.round(th * THUMB_MAX / tw); tw = THUMB_MAX; }
+            else { tw = Math.round(tw * THUMB_MAX / th); th = THUMB_MAX; }
+            const tcanvas = document.createElement('canvas');
+            tcanvas.width = tw; tcanvas.height = th;
+            tcanvas.getContext('2d').drawImage(canvas, 0, 0, tw, th);
+            const thumbDataUrl = tcanvas.toDataURL('image/jpeg', 0.7);
+
+            resolve({ file: outFile, thumbDataUrl });
+          }, 'image/jpeg', 0.85);
+        } catch (e) { reject(e); }
+      };
+      img.onerror = () => { URL.revokeObjectURL(url); reject(new Error('image load failed')); };
+      img.src = url;
+    });
+  }
+
+  /* ---------- form setup ---------- */
+  function buildSightingSpeciesDatalist() {
+    const datalist = document.getElementById('sg-species-list');
+    if (!datalist) return;
+    const cfg = window.LOCATION_CONFIG || {};
+    const filterLoc = cfg.defaultLocationFilter;
+    datalist.innerHTML = '';
+    allSpecies
+      .filter(s => !filterLoc || (s.locations || []).includes(filterLoc))
+      .forEach(s => {
+        const opt = document.createElement('option');
+        opt.value = `${s.common_names[0]} (${s.latin_name})`;
+        datalist.appendChild(opt);
+      });
+  }
+
+  function setupSighting() {
+    buildSightingSpeciesDatalist();
+
+    document.getElementById('btn-back-sighting').addEventListener('click', handleBackFromSighting);
+    document.getElementById('btn-back-after-sighting').addEventListener('click', handleBackFromSighting);
+
+    ['sg-species', 'sg-date', 'sg-recorder'].forEach(id => {
+      const el = document.getElementById(id);
+      el.addEventListener('input', updateSightingSendGate);
+      el.addEventListener('change', updateSightingSendGate);
+    });
+    // A photo's "use this date" offer only makes sense while sg-date is still
+    // at its default — re-render the photo list whenever the date changes.
+    document.getElementById('sg-date').addEventListener('change', renderSightingPhotos);
+
+    document.getElementById('sg-recorder').addEventListener('input', e => {
+      localStorage.setItem('ns_recorder_name', e.target.value);
+      if (!sightingCreditEdited) document.getElementById('sg-credit').value = e.target.value;
+    });
+    document.getElementById('sg-email').addEventListener('input', e => localStorage.setItem('ns_recorder_email', e.target.value));
+
+    document.getElementById('sg-locate').addEventListener('click', handleSightingLocate);
+
+    document.getElementById('sg-take').addEventListener('click', () => document.getElementById('sg-file-camera').click());
+    document.getElementById('sg-choose').addEventListener('click', () => document.getElementById('sg-file-library').click());
+    document.getElementById('sg-file-camera').addEventListener('change', e => handleSightingFilesSelected(e.target));
+    document.getElementById('sg-file-library').addEventListener('change', e => handleSightingFilesSelected(e.target));
+
+    const ownCb = document.getElementById('sg-own');
+    ownCb.addEventListener('click', toggleSightingOwn);
+    ownCb.addEventListener('keydown', e => {
+      if ((e.key === ' ' || e.key === 'Enter') && ownCb.getAttribute('aria-disabled') !== 'true') {
+        e.preventDefault();
+        toggleSightingOwn();
+      }
+    });
+
+    // Photo-use permissions. These are optional and deliberately do NOT gate
+    // the send button — a record with no permission granted is still welcome.
+    SIGHTING_PERM_IDS.forEach(id => {
+      const cb = document.getElementById(id);
+      cb.addEventListener('click', () => toggleSightingPerm(id));
+      cb.addEventListener('keydown', e => {
+        if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); toggleSightingPerm(id); }
+      });
+    });
+
+    // The credit field shadows the recorder's name until they edit it
+    // themselves — after that it is theirs and we stop overwriting it.
+    document.getElementById('sg-credit').addEventListener('input', () => { sightingCreditEdited = true; });
+
+    document.getElementById('sg-send').addEventListener('click', handleSendSighting);
+  }
+
+  function openSighting(prefillSpecies) {
+    resetSightingForm(prefillSpecies);
+    showScreen('sighting');
+  }
+
+  function resetSightingForm(prefillSpecies) {
+    sightingPhotos = [];
+    sightingLocation = null;
+
+    document.getElementById('sg-species').value = prefillSpecies || '';
+    document.getElementById('sg-certainty').value = 'Likely';
+    document.getElementById('sg-count').value = '';
+    document.getElementById('sg-date').value = todaySightingISO();
+    document.getElementById('sg-time').value = isoTimeOf(new Date());
+
+    const cfg = window.LOCATION_CONFIG || {};
+    const siteMap = { 'old-down': 'Old Down', 'sholing-valley': 'Sholing Valley' };
+    document.getElementById('sg-site').value = siteMap[cfg.defaultLocationFilter] || 'Old Down';
+    document.getElementById('sg-place').value = '';
+
+    const status = document.getElementById('sg-location-status');
+    status.textContent = '';
+    status.className = 'field-hint';
+
+    document.getElementById('sg-notes').value = '';
+    document.getElementById('sg-recorder').value = localStorage.getItem('ns_recorder_name') || '';
+    document.getElementById('sg-email').value = localStorage.getItem('ns_recorder_email') || '';
+
+    const ownCb = document.getElementById('sg-own');
+    ownCb.classList.remove('checked');
+    ownCb.setAttribute('aria-checked', 'false');
+
+    // Photo-use permissions start fresh every time: the two that give the club
+    // rights over someone's photo are opt-in, so they must never carry over
+    // from a previous record. Only the iRecord one starts ticked.
+    setSightingPerm('sg-perm-club', false);
+    setSightingPerm('sg-perm-public', false);
+    setSightingPerm('sg-perm-irecord', true);
+    sightingCreditEdited = false;
+    document.getElementById('sg-credit').value = document.getElementById('sg-recorder').value;
+
+    hideSightingBlockedNote();
+    renderSightingPhotos();
+    updateSightingOwnState();
+    updateSightingPermState();
+    updateSightingSendGate();
+
+    document.getElementById('sighting-form').classList.remove('hidden');
+    document.getElementById('sighting-thankyou').classList.add('hidden');
+  }
+
+  function handleBackFromSighting() {
+    document.getElementById('sighting-form').classList.remove('hidden');
+    document.getElementById('sighting-thankyou').classList.add('hidden');
+    if (previousScreen.startsWith('detail-')) {
+      const id = previousScreen.replace('detail-', '');
+      openDetail(id);
+    } else {
+      showScreen('browse');
+    }
+  }
+
+  /* ---------- geolocation (never blocks the form) ---------- */
+  function handleSightingLocate() {
+    const status = document.getElementById('sg-location-status');
+    if (!navigator.geolocation) {
+      status.textContent = "Couldn't get a location — you can still describe the spot below";
+      status.className = 'field-hint sg-location-error';
+      return;
+    }
+    status.textContent = 'Finding your location…';
+    status.className = 'field-hint sg-location-loading';
+    navigator.geolocation.getCurrentPosition(
+      pos => {
+        sightingLocation = { lat: pos.coords.latitude, lon: pos.coords.longitude, accuracy: pos.coords.accuracy };
+        status.textContent = `${sightingLocation.lat.toFixed(5)}, ${sightingLocation.lon.toFixed(5)} · accurate to ~${Math.round(sightingLocation.accuracy)} m`;
+        status.className = 'field-hint sg-location-ok';
+        renderSightingPhotos(); // a photo's "use this location" offer only applies while none is set
+      },
+      () => {
+        status.textContent = "Couldn't get a location — you can still describe the spot below";
+        status.className = 'field-hint sg-location-error';
+      },
+      { enableHighAccuracy: true, timeout: 15000 }
+    );
+  }
+
+  /* ---------- photo add/remove ---------- */
+  function showSightingBlockedNote(msg) {
+    const el = document.getElementById('sg-blocked-note');
+    el.textContent = msg;
+    el.classList.remove('hidden');
+  }
+  function hideSightingBlockedNote() {
+    document.getElementById('sg-blocked-note').classList.add('hidden');
+  }
+
+  async function handleSightingFilesSelected(inputEl) {
+    const files = Array.from(inputEl.files || []);
+    inputEl.value = ''; // allow re-selecting the same file later
+    for (const file of files) {
+      if (sightingPhotos.length >= SIGHTING_MAX_PHOTOS) {
+        alert('You can add up to 4 photos.');
+        break;
+      }
+      await addSightingPhoto(file);
+    }
+  }
+
+  async function addSightingPhoto(file) {
+    const exif = await readExif(file);
+    const verdict = classifySightingPhoto(file, exif);
+
+    if (verdict.verdict === 'blocked') {
+      showSightingBlockedNote(verdict.reason);
+      return;
+    }
+    hideSightingBlockedNote();
+
+    const speciesRaw = document.getElementById('sg-species').value.trim();
+    const speciesSlug = speciesRaw ? slugify(speciesRaw.replace(/\s*\([^)]*\)\s*$/, '')) : 'sighting';
+    const dateVal = document.getElementById('sg-date').value || todaySightingISO();
+    const dateStamp = dateVal.replace(/-/g, '');
+    const index = sightingPhotos.length + 1;
+
+    let downscaled;
+    try {
+      downscaled = await downscaleSightingPhoto(file, speciesSlug, index, dateStamp);
+    } catch (e) {
+      // Downscaling must never block a submission — fall back to the original file.
+      downscaled = { file, thumbDataUrl: null };
+    }
+
+    sightingPhotos.push({
+      id: 'p' + Date.now() + Math.random().toString(36).slice(2, 7),
+      file: downscaled.file,
+      thumbDataUrl: downscaled.thumbDataUrl,
+      name: file.name,
+      make: exif.make,
+      model: exif.model,
+      taken: exif.dateTimeOriginal,
+      gps: exif.gps,
+      verdict: verdict.verdict,
+      reason: verdict.reason
+    });
+
+    renderSightingPhotos();
+    updateSightingSendGate();
+  }
+
+  function removeSightingPhoto(id) {
+    sightingPhotos = sightingPhotos.filter(p => p.id !== id);
+    renderSightingPhotos();
+    updateSightingSendGate();
+  }
+
+  function useSightingPhotoLocation(p) {
+    if (!p.gps) return;
+    sightingLocation = { lat: p.gps.lat, lon: p.gps.lon, accuracy: null };
+    const status = document.getElementById('sg-location-status');
+    status.textContent = `${p.gps.lat.toFixed(5)}, ${p.gps.lon.toFixed(5)} · from photo`;
+    status.className = 'field-hint sg-location-ok';
+    renderSightingPhotos();
+  }
+
+  function useSightingPhotoDateTime(p) {
+    if (!p.taken) return;
+    document.getElementById('sg-date').value = isoDateOf(p.taken);
+    document.getElementById('sg-time').value = isoTimeOf(p.taken);
+    renderSightingPhotos();
+    updateSightingSendGate();
+  }
+
+  /* ---------- render: photo list + the count-based prompt panel (2c/2d) ---------- */
+  function renderSightingPhotos() {
+    const thumbs = document.getElementById('sg-thumbs');
+    thumbs.innerHTML = '';
+
+    sightingPhotos.forEach(p => {
+      const item = document.createElement('div');
+      item.className = 'sg-photo-item';
+
+      const img = document.createElement('img');
+      img.src = p.thumbDataUrl || '';
+      img.alt = p.name;
+      item.appendChild(img);
+
+      const note = document.createElement('div');
+      if (p.verdict === 'ok') {
+        note.className = 'sg-note sg-note-ok';
+        const dateStr = p.taken ? formatExifDateTime(p.taken) : '';
+        const okText = document.createElement('span');
+        okText.textContent = `Looks like your own photo — ${[p.make, p.model].filter(Boolean).join(' ')}${dateStr ? ', ' + dateStr : ''}`;
+        note.appendChild(okText);
+
+        const fills = document.createElement('div');
+        fills.className = 'sg-note-fills';
+        if (p.gps && !sightingLocation) {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'sg-note-fill-btn';
+          btn.textContent = "Use this photo's location";
+          btn.addEventListener('click', () => useSightingPhotoLocation(p));
+          fills.appendChild(btn);
+        }
+        if (p.taken && document.getElementById('sg-date').value === todaySightingISO()) {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'sg-note-fill-btn';
+          btn.textContent = "Use this photo's date and time";
+          btn.addEventListener('click', () => useSightingPhotoDateTime(p));
+          fills.appendChild(btn);
+        }
+        if (fills.children.length) note.appendChild(fills);
+      } else {
+        note.className = 'sg-note sg-note-warn';
+        const warnText = document.createElement('span');
+        warnText.textContent = p.reason;
+        note.appendChild(warnText);
+      }
+
+      const removeBtn = document.createElement('button');
+      removeBtn.type = 'button';
+      removeBtn.className = 'sg-note-link';
+      removeBtn.textContent = 'Remove';
+      removeBtn.addEventListener('click', () => removeSightingPhoto(p.id));
+      note.appendChild(removeBtn);
+
+      item.appendChild(note);
+      thumbs.appendChild(item);
+    });
+
+    renderSightingPhotoCountPanel();
+  }
+
+  function renderSightingPhotoCountPanel() {
+    const panel = document.getElementById('sg-photo-panel');
+    panel.innerHTML = '';
+    const n = sightingPhotos.length;
+    const box = document.createElement('div');
+
+    if (n === 0) {
+      box.className = 'sg-prompt-panel sg-prompt-amber';
+      const span = document.createElement('span');
+      span.textContent = 'No photo yet. A photo is what lets someone else confirm the record — please take one if you possibly can.';
+      box.appendChild(span);
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'btn-primary sg-photo-btn';
+      btn.textContent = '📷 Take a photo';
+      btn.addEventListener('click', () => document.getElementById('sg-file-camera').click());
+      box.appendChild(btn);
+    } else if (n === 1) {
+      box.className = 'sg-prompt-panel sg-prompt-amber';
+      const span = document.createElement('span');
+      span.textContent = 'One photo is good. Two or three from different angles — the top, the underside, the whole plant — make a record far easier to confirm.';
+      box.appendChild(span);
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'sg-note-fill-btn';
+      btn.textContent = 'Add another';
+      btn.addEventListener('click', () => document.getElementById('sg-file-camera').click());
+      box.appendChild(btn);
+    } else {
+      box.className = 'sg-prompt-panel sg-prompt-good';
+      const span = document.createElement('span');
+      span.textContent = "That's a good set.";
+      box.appendChild(span);
+    }
+    panel.appendChild(box);
+    updateSightingOwnState();
+    updateSightingPermState();
+  }
+
+  /* ---------- declaration checkbox + submit gating ---------- */
+  function updateSightingOwnState() {
+    const cb = document.getElementById('sg-own');
+    const hint = document.getElementById('sg-own-hint');
+    const hasPhotos = sightingPhotos.length > 0;
+    if (hasPhotos) {
+      cb.setAttribute('aria-disabled', 'false');
+      cb.setAttribute('tabindex', '0');
+      hint.classList.add('hidden');
+    } else {
+      cb.setAttribute('aria-disabled', 'true');
+      cb.setAttribute('tabindex', '-1');
+      hint.classList.remove('hidden');
+      // Deliberately leave .checked alone here. If the recorder ticked the
+      // declaration and then removed their only photo, the box just locks
+      // (can't be re-toggled) — it's the send button's own no-photo confirm()
+      // that catches a photo-less send, not a silent reset of this tick.
+    }
+    updateSightingSendGate();
+  }
+
+  function toggleSightingOwn() {
+    const cb = document.getElementById('sg-own');
+    if (cb.getAttribute('aria-disabled') === 'true') return;
+    const checked = cb.classList.toggle('checked');
+    cb.setAttribute('aria-checked', String(checked));
+    updateSightingSendGate();
+  }
+
+  /* ---------- photo-use permissions ---------- */
+  function setSightingPerm(id, on) {
+    const cb = document.getElementById(id);
+    cb.classList.toggle('checked', !!on);
+    cb.setAttribute('aria-checked', String(!!on));
+  }
+
+  function getSightingPerm(id) {
+    return document.getElementById(id).classList.contains('checked');
+  }
+
+  function toggleSightingPerm(id) {
+    const cb = document.getElementById(id);
+    if (cb.getAttribute('aria-disabled') === 'true') return;
+    setSightingPerm(id, !cb.classList.contains('checked'));
+  }
+
+  // The two photo permissions mean nothing without a photo, so they lock (and
+  // clear) when there are none. The iRecord one stays live either way — a
+  // record is worth sending on with or without a picture.
+  function updateSightingPermState() {
+    const hasPhotos = sightingPhotos.length > 0;
+    ['sg-perm-club', 'sg-perm-public'].forEach(id => {
+      const cb = document.getElementById(id);
+      cb.setAttribute('aria-disabled', String(!hasPhotos));
+      cb.setAttribute('tabindex', hasPhotos ? '0' : '-1');
+      cb.classList.toggle('is-disabled', !hasPhotos);
+      if (!hasPhotos) setSightingPerm(id, false);
+    });
+    const credit = document.getElementById('sg-credit');
+    credit.disabled = !hasPhotos;
+    document.getElementById('sg-perm-nophotos').classList.toggle('hidden', hasPhotos);
+  }
+
+  function updateSightingSendGate() {
+    const species = document.getElementById('sg-species').value.trim();
+    const date = document.getElementById('sg-date').value;
+    const recorder = document.getElementById('sg-recorder').value.trim();
+    // The declaration is only required when there are photos to declare. A
+    // record with no photo — a Skylark heard singing, a fox at dusk — is still
+    // worth having, and the send handler's own confirm() covers that case.
+    const declared = document.getElementById('sg-own').classList.contains('checked');
+    const photosDeclared = sightingPhotos.length === 0 || declared;
+    document.getElementById('sg-send').disabled = !(species && date && recorder && photosDeclared);
+  }
+
+  /* ---------- record shape, storage, text block (Part 3a/3b) ---------- */
+  function getSightings() {
+    try { return JSON.parse(localStorage.getItem('ns_sightings') || '[]'); } catch { return []; }
+  }
+  function saveSightings(arr) { localStorage.setItem('ns_sightings', JSON.stringify(arr)); }
+
+  function buildSightingRecordText(record) {
+    const label = (l, v) => `${l.padEnd(12)}${v}`;
+    const lines = [];
+    const cfg = window.LOCATION_CONFIG || {};
+    lines.push('Nature sighting — ' + (cfg.shortName || 'Old Down'));
+    lines.push('');
+    lines.push(label('Species:', record.species));
+    lines.push(label('Certainty:', record.certainty));
+    if (record.count) lines.push(label('Count:', record.count));
+    lines.push(label('Date:', formatUKDateTime(record.date, record.time)));
+    lines.push(label('Location:', `${record.site}${record.place ? ' — ' + record.place : ''}`));
+    if (record.lat != null) {
+      lines.push(label('Grid ref:', `${record.lat.toFixed(5)}, ${record.lon.toFixed(5)}${record.accuracy ? ` (±${Math.round(record.accuracy)} m)` : ''}`));
+    }
+    lines.push(label('Recorder:', record.recorder));
+    if (record.email) lines.push(label('Email:', record.email));
+    if (record.notes) {
+      lines.push('');
+      lines.push('Notes:');
+      lines.push(record.notes);
+    }
+    lines.push('');
+    lines.push(label('Photos:', `${record.photo_count} attached`));
+
+    // Written into the email itself so the club has the recorder's permission
+    // on record in its own inbox, not only in this device's localStorage.
+    const hasPhotos = record.photo_count > 0;
+    const yn = v => (v ? 'Yes' : 'No');
+    const photoPerm = v => (hasPhotos ? yn(v) : 'n/a — no photos sent');
+    // Wider column than the labels above — these run to ~44 characters.
+    const permLine = (l, v) => '  ' + l.padEnd(46) + v;
+    lines.push('');
+    lines.push('Photo permissions:');
+    lines.push(permLine('Club use (newsletter, talks, guide, grants):', photoPerm(record.perm_club)));
+    lines.push(permLine('Public use (website, social media, print):', photoPerm(record.perm_public)));
+    lines.push(permLine('Credit as:', hasPhotos ? (record.credit_as || 'Anonymous') : 'n/a — no photos sent'));
+    lines.push(permLine('Send record to iRecord:', yn(record.perm_irecord)));
+
+    lines.push('');
+    lines.push('Sent from the Old Down Nature Spotter guide.');
+    return lines.join('\n');
+  }
+
+  function showAttachReminder() {
+    alert('Your email app is open — please attach your photos before sending');
+  }
+
+  function showSightingThankYou(photoCount) {
+    document.getElementById('sighting-form').classList.add('hidden');
+    const text = document.getElementById('sighting-thankyou-text');
+    text.textContent = photoCount > 0
+      ? `Thanks — your sighting has been recorded, with ${photoCount} photo${photoCount === 1 ? '' : 's'}.`
+      : 'Thanks — your sighting has been recorded.';
+    document.getElementById('sighting-thankyou').classList.remove('hidden');
+    renderSightingsAdmin();
+  }
+
+  /* ---------- send (Part 3c) ---------- */
+  // Deliberately NOT an async function, and nothing before navigator.share()
+  // does any awaiting: on iOS, an await ahead of share() breaks the user-
+  // gesture context and the share sheet silently fails. All EXIF reading and
+  // downscaling already happened back when each photo was added.
+  function handleSendSighting() {
+    const species = document.getElementById('sg-species').value.trim();
+    const certainty = document.getElementById('sg-certainty').value;
+    const count = document.getElementById('sg-count').value.trim();
+    const date = document.getElementById('sg-date').value;
+    const time = document.getElementById('sg-time').value;
+    const site = document.getElementById('sg-site').value;
+    const place = document.getElementById('sg-place').value.trim();
+    const notes = document.getElementById('sg-notes').value.trim();
+    const recorder = document.getElementById('sg-recorder').value.trim();
+    const email = document.getElementById('sg-email').value.trim();
+
+    const files = sightingPhotos.map(p => p.file);
+
+    if (files.length === 0) {
+      const proceed = confirm('Send without a photo? Records with a photo are far more likely to be accepted.');
+      if (!proceed) return;
+    }
+
+    localStorage.setItem('ns_recorder_name', recorder);
+    if (email) localStorage.setItem('ns_recorder_email', email);
+
+    const record = {
+      id: 'sig-' + Date.now(),
+      species, certainty, count,
+      date, time,
+      site, place,
+      lat: sightingLocation ? sightingLocation.lat : null,
+      lon: sightingLocation ? sightingLocation.lon : null,
+      accuracy: sightingLocation ? sightingLocation.accuracy : null,
+      notes, recorder, email,
+      perm_club: getSightingPerm('sg-perm-club'),
+      perm_public: getSightingPerm('sg-perm-public'),
+      perm_irecord: getSightingPerm('sg-perm-irecord'),
+      credit_as: document.getElementById('sg-credit').value.trim(),
+      photo_count: files.length,
+      thumbnails: sightingPhotos.map(p => p.thumbDataUrl).filter(Boolean),
+      photo_meta: sightingPhotos.map(p => ({
+        name: p.file.name, make: p.make, model: p.model,
+        taken: p.taken ? p.taken.toISOString() : null, verdict: p.verdict
+      })),
+      created: new Date().toISOString(),
+      sent_irecord: false
+    };
+
+    // Save before sharing — a cancelled share must still leave the record in the admin panel.
+    const all = getSightings();
+    all.push(record);
+    saveSightings(all);
+
+    const recordText = buildSightingRecordText(record);
+    const cfg = window.LOCATION_CONFIG || {};
+    const to = cfg.sightingEmail || cfg.contactEmail || '';
+    const subject = 'Nature sighting — ' + species;
+
+    if (files.length && navigator.canShare && navigator.canShare({ files })) {
+      navigator.share({ title: subject, text: recordText, files }).catch(() => { /* user cancelled — fine, already saved */ });
+    } else {
+      window.location.href = 'mailto:' + to
+        + '?subject=' + encodeURIComponent(subject)
+        + '&body=' + encodeURIComponent(recordText);
+      if (files.length) showAttachReminder();
+    }
+
+    showSightingThankYou(files.length);
+  }
+
+  /* ============================================================
      ADMIN PANEL
   ============================================================ */
   function setupAdmin() {
@@ -1116,6 +1968,13 @@
       });
     });
 
+    const csvBtn = document.getElementById('btn-sightings-csv');
+    if (csvBtn) csvBtn.addEventListener('click', downloadSightingsCsv);
+    const clearBtn = document.getElementById('btn-sightings-clear');
+    if (clearBtn) clearBtn.addEventListener('click', () => {
+      if (confirm('Remove all sightings marked as sent to iRecord?')) clearSentSightings();
+    });
+
     renderAdmin();
   }
 
@@ -1130,6 +1989,7 @@
     renderSubmissions('pending-list', pending, true);
     renderSubmissions('reviewed-list', reviewed, false);
     renderSpottedAdmin();
+    renderSightingsAdmin();
   }
 
   function renderSubmissions(containerId, subs, showActions) {
@@ -1287,6 +2147,150 @@ Respond with the complete JSON object only, starting with { and ending with }`;
       `;
       container.appendChild(row);
     });
+  }
+
+  /* ============================================================
+     ADMIN: SIGHTINGS TAB (Part 3d) + iRecord CSV export (Part 3e)
+  ============================================================ */
+  function renderSightingsAdmin() {
+    const list = document.getElementById('sightings-list');
+    const countEl = document.getElementById('sightings-count');
+    const sightings = getSightings();
+    if (countEl) countEl.textContent = sightings.length;
+    if (!list) return;
+
+    updateIrecordExportState(sightings);
+
+    if (sightings.length === 0) {
+      list.innerHTML = '<p class="admin-empty">No sightings recorded yet.</p>';
+      return;
+    }
+
+    list.innerHTML = '';
+    sightings.slice().reverse().forEach(sig => {
+      const card = document.createElement('div');
+      card.className = 'sighting-card';
+      const thumbsHtml = (sig.thumbnails || []).map(src => `<img src="${src}" alt="">`).join('');
+      const gridRef = sig.lat != null
+        ? `${sig.lat.toFixed(5)}, ${sig.lon.toFixed(5)}${sig.accuracy ? ` (±${Math.round(sig.accuracy)}m)` : ''}`
+        : '';
+
+      card.innerHTML = `
+        <div class="sighting-card-header">
+          <div>
+            <div class="sighting-species">${escapeHtml(sig.species)}</div>
+            <div class="sighting-meta">${escapeHtml(sig.certainty)}${sig.count ? ' · ' + escapeHtml(sig.count) : ''} · ${formatUKDateTime(sig.date, sig.time)}</div>
+          </div>
+          <span class="sub-date">${sig.created ? sig.created.split('T')[0] : ''}</span>
+        </div>
+        ${thumbsHtml ? `<div class="sighting-card-thumbs">${thumbsHtml}</div>` : ''}
+        <div class="sighting-meta">
+          &#128205; ${escapeHtml(sig.site)}${sig.place ? ' — ' + escapeHtml(sig.place) : ''}${gridRef ? ' · ' + gridRef : ''}<br>
+          Recorder: ${escapeHtml(sig.recorder)}${sig.email ? ' · ' + escapeHtml(sig.email) : ''}
+        </div>
+        ${sig.notes ? `<div class="sighting-notes">${escapeHtml(sig.notes)}</div>` : ''}
+        <div class="sighting-perms">
+          ${permBadge('Club use', sig.perm_club, sig.photo_count)}
+          ${permBadge('Public use', sig.perm_public, sig.photo_count)}
+          ${permBadge('iRecord', sig.perm_irecord, 1)}
+          ${sig.photo_count ? `<span class="perm-credit">Credit: ${escapeHtml(sig.credit_as || 'Anonymous')}</span>` : ''}
+        </div>
+        <label class="sighting-sent-toggle">
+          <input type="checkbox" class="sighting-sent-cb" ${sig.sent_irecord ? 'checked' : ''}>
+          <span>Mark as sent to iRecord</span>
+        </label>
+      `;
+      card.querySelector('.sighting-sent-cb').addEventListener('change', e => toggleSightingSent(sig.id, e.target.checked));
+      list.appendChild(card);
+    });
+  }
+
+  function updateIrecordExportState(sightings) {
+    const btn = document.getElementById('btn-sightings-csv');
+    const note = document.getElementById('sightings-held-back');
+    if (!btn || !note) return;
+    const eligible = sightings.filter(s => s.perm_irecord !== false).length;
+    const held = sightings.length - eligible;
+    btn.disabled = eligible === 0;
+    if (held > 0) {
+      note.textContent = `${held} record${held === 1 ? '' : 's'} held back (no iRecord permission)`;
+      note.classList.remove('hidden');
+    } else {
+      note.classList.add('hidden');
+    }
+  }
+
+  // Granted permissions read green, withheld ones muted grey, so a glance down
+  // the list shows what the club may actually do with each photo.
+  function permBadge(label, granted, photoCount) {
+    if (!photoCount) return `<span class="perm-badge perm-badge-na">${label} n/a</span>`;
+    return granted
+      ? `<span class="perm-badge perm-badge-yes">${label} &#10003;</span>`
+      : `<span class="perm-badge perm-badge-no">${label} &#10007;</span>`;
+  }
+
+  function toggleSightingSent(id, sent) {
+    const all = getSightings();
+    const rec = all.find(s => s.id === id);
+    if (rec) rec.sent_irecord = sent;
+    saveSightings(all);
+  }
+
+  function clearSentSightings() {
+    saveSightings(getSightings().filter(s => !s.sent_irecord));
+    renderSightingsAdmin();
+  }
+
+  // "Common Blue Butterfly (Polyommatus icarus)" -> "Common Blue Butterfly"
+  // iRecord matches the common name alone against the UK Species Inventory.
+  function stripLatinSuffix(name) {
+    return (name || '').replace(/\s*\([^)]*\)\s*$/, '').trim();
+  }
+
+  function csvField(value) {
+    const str = value == null ? '' : String(value);
+    if (/[",\n]/.test(str)) return '"' + str.replace(/"/g, '""') + '"';
+    return str;
+  }
+
+  // Records whose recorder did not agree to iRecord are never exported. This is
+  // the only gate on that — so it lives here, not in the calling code.
+  function irecordEligible() {
+    return getSightings().filter(s => s.perm_irecord !== false);
+  }
+
+  function buildIrecordCsv() {
+    const headers = ['Species name', 'Date', 'Spatial reference', 'Spatial reference system', 'Location name', 'Recorder name', 'Certainty', 'Quantity', 'Occurrence comment', 'Sample comment'];
+    const rows = [headers];
+    irecordEligible().forEach(sig => {
+      const hasGps = sig.lat != null && sig.lon != null;
+      rows.push([
+        stripLatinSuffix(sig.species),
+        formatDdMmYyyy(sig.date),
+        hasGps ? `${sig.lat.toFixed(5)}, ${sig.lon.toFixed(5)}` : '',
+        hasGps ? '4326' : '',
+        `${sig.site}${sig.place ? ' — ' + sig.place : ''}`,
+        sig.recorder,
+        sig.certainty,
+        sig.count || '',
+        sig.notes || '',
+        `Recorded via the Old Down Nature Spotter. ${sig.photo_count || 0} photo(s) sent by email.`
+      ]);
+    });
+    // UTF-8 BOM so Excel opens accented characters correctly.
+    return '﻿' + rows.map(r => r.map(csvField).join(',')).join('\r\n');
+  }
+
+  function downloadSightingsCsv() {
+    const blob = new Blob([buildIrecordCsv()], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `old-down-sightings-${todaySightingISO()}.csv`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
   }
 
   /* ============================================================

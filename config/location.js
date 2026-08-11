@@ -15,6 +15,7 @@ window.LOCATION_CONFIG = {
   logo: "assets/logo-old-down.png",
   footerText: "Old Down Nature Spotter · Made for the Old Down Home Ed Nature Club",
   contactEmail: "old.down.wildlife@gmail.com",
+  sightingEmail: "old.down.wildlife@gmail.com",
   metaTitle: "Old Down Nature Spotter",
   metaDescription: "Identify wildlife at Old Down chalk grassland and woodland park, Basingstoke",
   adminPassword: "olddown",

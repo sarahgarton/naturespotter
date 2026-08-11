@@ -1158,7 +1158,12 @@ button { cursor: pointer; font-family: var(--font-body); }
   gap: 0;
   border-bottom: 2px solid var(--border);
   margin-bottom: 24px;
+  /* Four tabs (Pending/Reviewed/Spotted/Sightings) no longer fit in one row
+     on a narrow phone — scroll sideways rather than clipping the last tab. */
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
+.admin-tab { flex-shrink: 0; }
 .admin-tab {
   background: none;
   border: none;
@@ -1637,4 +1642,227 @@ button { cursor: pointer; font-family: var(--font-body); }
 @media (max-width: 768px) {
   .footer-inner { padding: 24px 20px 20px; gap: 10px; }
   .footer-links { gap: 6px 16px; }
+}
+
+/* ============================================================
+   SCREEN: RECORD A SIGHTING
+   ============================================================ */
+#screen-sighting { background: var(--chalk); }
+
+/* Detail header bar now holds two action buttons (sighting + suggest) —
+   wrap on narrow phones rather than squeezing them off-screen. */
+.detail-header-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.sg-heading {
+  font-family: var(--font-heading);
+  font-size: 15px;
+  color: var(--moss);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 6px;
+  margin: 8px 0 -6px;
+}
+.field-form > .sg-heading:first-child { margin-top: 0; }
+
+.btn-secondary {
+  display: inline-block;
+  background: var(--mist);
+  color: var(--moss);
+  border: 1.5px solid var(--fern);
+  border-radius: var(--radius);
+  padding: 11px 20px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  text-decoration: none;
+}
+.btn-secondary:hover:not(:disabled) { background: var(--chalk); }
+.btn-secondary:disabled { opacity: 0.45; cursor: not-allowed; }
+
+.sg-photo-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.sg-photo-btn { min-height: 44px; }
+
+.sg-thumbs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Each accepted photo: thumbnail + its verdict note side by side */
+.sg-photo-item {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.sg-photo-item img {
+  width: 64px;
+  height: 64px;
+  min-width: 64px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--border);
+  background: var(--mist);
+}
+
+/* Photo verdict notes — blocked/warn/ok share a shape, differ by colour */
+.sg-note {
+  flex: 1;
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  font-size: 13px;
+  line-height: 1.55;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.sg-note-blocked { background: #f5dddd; color: var(--danger); border: 1px solid #e3baba; }
+.sg-note-warn { background: #fbf1de; color: var(--bark); border: 1px solid var(--amber); }
+.sg-note-ok { background: #e3efe0; color: var(--moss); border: 1px solid var(--fern); }
+.sg-note-link {
+  align-self: flex-start;
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  text-decoration: underline;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.sg-note-fills { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 2px; }
+.sg-note-fill-btn {
+  background: white;
+  border: 1.5px solid var(--fern);
+  color: var(--moss);
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.sg-note-fill-btn:hover { background: var(--mist); }
+
+.sg-photo-panel { display: flex; flex-direction: column; gap: 10px; }
+.sg-prompt-panel {
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  font-size: 13px;
+  line-height: 1.55;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.sg-prompt-amber { background: #fbf1de; color: var(--bark); border: 1px solid var(--amber); }
+.sg-prompt-good { background: #e3efe0; color: var(--moss); border: 1px solid var(--fern); }
+
+.sg-declaration { gap: 4px; }
+.sg-own-checkbox[aria-disabled="true"] { opacity: 0.4; cursor: not-allowed; }
+.sg-declaration .checkbox-label { font-size: 14px; }
+
+.sg-location-loading { color: var(--text-light); font-style: italic; }
+.sg-location-error { color: var(--danger); }
+.sg-location-ok { color: var(--moss); }
+
+/* ============================================================
+   ADMIN: SIGHTINGS TAB
+   ============================================================ */
+.sightings-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.sighting-card {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sighting-card-thumbs { display: flex; gap: 8px; flex-wrap: wrap; }
+.sighting-card-thumbs img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+}
+.sighting-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+.sighting-species { font-weight: 700; font-size: 16px; color: var(--moss); }
+.sighting-meta { font-size: 13px; color: var(--text-light); line-height: 1.6; }
+.sighting-notes { font-size: 13px; color: var(--text-dark); line-height: 1.6; font-style: italic; }
+.sighting-sent-toggle { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+
+@media (max-width: 480px) {
+  .sg-photo-buttons { flex-direction: column; }
+  .sg-photo-buttons .sg-photo-btn { width: 100%; }
+}
+
+/* ---------- Sighting: photo-use permissions ---------- */
+.sg-perm-intro { margin: -4px 0 14px; }
+
+.sg-perms { display: flex; flex-direction: column; gap: 14px; }
+
+.sg-perm-row { align-items: flex-start; gap: 10px; }
+.sg-perm-row .custom-checkbox { flex: 0 0 auto; margin-top: 2px; }
+
+.sg-perm-hint { display: block; margin: 3px 0 0; }
+
+.custom-checkbox.is-disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  background: var(--mist);
+}
+.custom-checkbox.is-disabled:hover { border-color: var(--border); background: var(--mist); }
+
+.sg-perm-nophotos { margin: 2px 0 0; font-style: italic; }
+
+.sg-perm-note {
+  margin: 4px 0 22px;
+  padding: 10px 12px;
+  background: var(--mist);
+  border-radius: var(--radius-sm);
+  line-height: 1.5;
+}
+
+/* ---------- Admin: permission badges ---------- */
+.sighting-perms {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 10px 0 4px;
+}
+
+.perm-badge {
+  display: inline-block;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+.perm-badge-yes { background: #e3efe0; color: var(--moss); border: 1px solid var(--fern); }
+.perm-badge-no  { background: var(--chalk); color: var(--text-light); border: 1px solid var(--border); }
+.perm-badge-na  { background: var(--chalk); color: var(--text-light); border: 1px dashed var(--border); }
+
+.perm-credit { font-size: 0.78rem; color: var(--text-light); font-style: italic; }
+
+.sightings-held-back {
+  flex-basis: 100%;
+  margin: 6px 0 0;
+  color: var(--bark);
 }

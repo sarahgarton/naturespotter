@@ -228,7 +228,10 @@
   <div id="screen-detail" class="screen hidden">
     <div class="detail-header-bar">
       <button class="btn-back" id="btn-back">&#8592; Back</button>
-      <button class="btn-icon detail-submit-btn" id="btn-detail-submit">+ Suggest Addition</button>
+      <div class="detail-header-actions">
+        <button class="btn-icon detail-submit-btn" id="btn-detail-sighting">&#128065; I saw this</button>
+        <button class="btn-icon detail-submit-btn" id="btn-detail-submit">+ Suggest Addition</button>
+      </div>
     </div>
     <div class="detail-content" id="detail-content">
       <!-- Populated by JS -->
@@ -312,6 +315,156 @@
   </div>
 
   <!-- ============================================================
+       SCREEN: RECORD A SIGHTING
+  ============================================================ -->
+  <div id="screen-sighting" class="screen hidden">
+    <div class="form-header-bar">
+      <button class="btn-back" id="btn-back-sighting">&#8592; Back</button>
+      <h2>Record a Sighting</h2>
+    </div>
+    <div class="form-content">
+      <p class="form-intro">Tell us what you saw, where and when. A photo you took yourself makes the record far more useful — the club can pass good records on to iRecord.</p>
+
+      <form id="sighting-form" class="field-form" novalidate>
+
+        <h3 class="sg-heading">What did you see?</h3>
+        <div class="field-group">
+          <label class="field-label" for="sg-species">Species <span class="required">*</span></label>
+          <input type="text" id="sg-species" class="field-input" list="sg-species-list" placeholder="Common name (Latin name)" autocomplete="off" required>
+          <datalist id="sg-species-list"></datalist>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-certainty">Certainty</label>
+          <select id="sg-certainty" class="field-input">
+            <option value="Certain">Certain</option>
+            <option value="Likely" selected>Likely</option>
+            <option value="Uncertain">Uncertain</option>
+          </select>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-count">How many?</label>
+          <input type="text" id="sg-count" class="field-input" placeholder="e.g. 1, 3, about 20">
+        </div>
+
+        <h3 class="sg-heading">When?</h3>
+        <div class="field-group">
+          <label class="field-label" for="sg-date">Date <span class="required">*</span></label>
+          <input type="date" id="sg-date" class="field-input" required>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-time">Time</label>
+          <input type="time" id="sg-time" class="field-input">
+        </div>
+
+        <h3 class="sg-heading">Where?</h3>
+        <div class="field-group">
+          <button type="button" class="btn-ghost" id="sg-locate">&#128205; Use my location</button>
+          <p class="field-hint" id="sg-location-status"></p>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-site">Site</label>
+          <select id="sg-site" class="field-input">
+            <option value="Old Down">Old Down</option>
+            <option value="Sholing Valley">Sholing Valley</option>
+            <option value="Somewhere else">Somewhere else</option>
+          </select>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-place">Where exactly?</label>
+          <input type="text" id="sg-place" class="field-input" placeholder="e.g. the top of the chalk slope, by the bench">
+        </div>
+
+        <h3 class="sg-heading">Photos</h3>
+        <div class="sg-photo-buttons">
+          <button type="button" class="btn-primary sg-photo-btn" id="sg-take">&#128247; Take a photo</button>
+          <button type="button" class="btn-secondary sg-photo-btn" id="sg-choose">Choose an existing photo</button>
+          <input type="file" id="sg-file-camera" accept="image/*" capture="environment" hidden>
+          <input type="file" id="sg-file-library" accept="image/*" multiple hidden>
+        </div>
+        <div class="sg-note sg-note-blocked hidden" id="sg-blocked-note"></div>
+        <div class="sg-thumbs" id="sg-thumbs"></div>
+        <div class="sg-photo-panel" id="sg-photo-panel"></div>
+
+        <div class="field-group sg-declaration">
+          <label class="checkbox-label">
+            <span class="custom-checkbox sg-own-checkbox" id="sg-own" role="checkbox" aria-checked="false" aria-disabled="true" tabindex="-1"></span>
+            <span><strong>I took these photos myself.</strong></span>
+          </label>
+          <p class="field-hint" id="sg-own-hint">Add a photo to enable this.</p>
+        </div>
+
+        <h3 class="sg-heading">Can we use your photos?</h3>
+        <p class="field-hint sg-perm-intro">Your record and photos come to the Old Down Wildlife Group. Ticking these is entirely optional &mdash; your record is just as welcome either way.</p>
+
+        <div class="field-group sg-perms">
+          <label class="checkbox-label sg-perm-row">
+            <span class="custom-checkbox" id="sg-perm-club" role="checkbox" aria-checked="false" tabindex="0"></span>
+            <span>
+              Old Down can use my photos in its own work
+              <span class="field-hint sg-perm-hint">Newsletters, talks, this species guide, record-keeping, and funding or grant applications.</span>
+            </span>
+          </label>
+
+          <label class="checkbox-label sg-perm-row">
+            <span class="custom-checkbox" id="sg-perm-public" role="checkbox" aria-checked="false" tabindex="0"></span>
+            <span>
+              Old Down can publish my photos publicly
+              <span class="field-hint sg-perm-hint">Website, social media and printed leaflets.</span>
+            </span>
+          </label>
+
+          <label class="checkbox-label sg-perm-row">
+            <span class="custom-checkbox checked" id="sg-perm-irecord" role="checkbox" aria-checked="true" tabindex="0"></span>
+            <span>
+              This record can be sent to iRecord
+              <span class="field-hint sg-perm-hint">iRecord is the national wildlife database. Records there are publicly visible and help conservation. Your photos are not sent to iRecord &mdash; only the sighting details.</span>
+            </span>
+          </label>
+
+          <p class="field-hint sg-perm-nophotos hidden" id="sg-perm-nophotos">No photos to give permission for.</p>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sg-credit">How should we credit you?</label>
+          <input type="text" id="sg-credit" class="field-input">
+          <p class="field-hint">Leave blank if you&rsquo;d rather not be named.</p>
+        </div>
+
+        <p class="field-hint sg-perm-note">Please don&rsquo;t send photos with recognisable people in them unless everyone in the picture is happy for you to. You can change your mind about any of this at any time &mdash; just email us.</p>
+
+        <h3 class="sg-heading">Anything else?</h3>
+        <div class="field-group">
+          <label class="field-label" for="sg-notes">Notes</label>
+          <textarea id="sg-notes" class="field-textarea" rows="4" placeholder="Anything else worth recording — behaviour, habitat, weather…"></textarea>
+        </div>
+
+        <h3 class="sg-heading">Who are you?</h3>
+        <div class="field-group">
+          <label class="field-label" for="sg-recorder">Your name <span class="required">*</span></label>
+          <input type="text" id="sg-recorder" class="field-input" required>
+        </div>
+        <div class="field-group">
+          <label class="field-label" for="sg-email">Your email</label>
+          <input type="email" id="sg-email" class="field-input" placeholder="optional — in case we have a question">
+        </div>
+
+        <div class="field-actions">
+          <button type="button" class="btn-primary" id="sg-send" disabled>Send this sighting</button>
+        </div>
+      </form>
+
+      <div id="sighting-thankyou" class="thankyou hidden">
+        <div class="thankyou-inner">
+          <div class="thankyou-icon">&#10003;</div>
+          <h3>Thank you</h3>
+          <p id="sighting-thankyou-text">Your sighting has been recorded.</p>
+          <button class="btn-primary" id="btn-back-after-sighting">Back to the guide</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
        SCREEN: ADMIN PANEL
   ============================================================ -->
   <div id="screen-admin" class="screen hidden">
@@ -324,6 +477,7 @@
         <button class="admin-tab active" data-tab="pending">Pending <span id="pending-count" class="tab-badge">0</span></button>
         <button class="admin-tab" data-tab="reviewed">Reviewed <span id="reviewed-count" class="tab-badge">0</span></button>
         <button class="admin-tab" data-tab="spotted">Spotted</button>
+        <button class="admin-tab" data-tab="sightings">Sightings <span id="sightings-count" class="tab-badge">0</span></button>
       </div>
 
       <div id="tab-pending" class="admin-tab-content active">
@@ -341,6 +495,17 @@
       <div id="tab-spotted" class="admin-tab-content hidden">
         <h3>Spotted counts (this device)</h3>
         <div id="spotted-list" class="spotted-list"></div>
+      </div>
+
+      <div id="tab-sightings" class="admin-tab-content hidden">
+        <div class="sightings-toolbar">
+          <button class="btn-primary" id="btn-sightings-csv">&#11015; Download for iRecord (CSV)</button>
+          <button class="btn-ghost" id="btn-sightings-clear">Clear sent records</button>
+          <p class="field-hint sightings-held-back hidden" id="sightings-held-back"></p>
+        </div>
+        <div id="sightings-list" class="admin-submissions">
+          <p class="admin-empty">No sightings recorded yet.</p>
+        </div>
       </div>
     </div>
   </div>
