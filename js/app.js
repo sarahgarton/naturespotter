@@ -155,6 +155,16 @@
     const locIntro = document.getElementById('locations-intro-text');
     if (locIntro && cfg.locationsIntroText) locIntro.textContent = cfg.locationsIntroText;
 
+    // Photo-use permissions. Someone giving permission needs to know who they
+    // are giving it to, so the group is named rather than left as "us".
+    const permIntro = document.getElementById('sg-perm-intro');
+    if (permIntro && cfg.orgName) {
+      permIntro.textContent = `Your record and photos come to ${cfg.orgName}. Ticking these is entirely optional — your record is just as welcome either way.`;
+    }
+    if (cfg.shortName) {
+      document.querySelectorAll('.sg-perm-org').forEach(el => { el.textContent = cfg.shortName; });
+    }
+
     // Footer
     const footerText = document.getElementById('footer-text');
     if (footerText && cfg.footerText) footerText.textContent = cfg.footerText;
@@ -1890,7 +1900,7 @@
     lines.push(permLine('Send record to iRecord:', yn(record.perm_irecord)));
 
     lines.push('');
-    lines.push('Sent from the Old Down Nature Spotter guide.');
+    lines.push(`Sent from the ${cfg.name || 'Nature Spotter'} guide.`);
     return lines.join('\n');
   }
 
@@ -2291,6 +2301,7 @@ Respond with the complete JSON object only, starting with { and ending with }`;
   }
 
   function buildIrecordCsv() {
+    const cfg = window.LOCATION_CONFIG || {};
     const headers = ['Species name', 'Date', 'Spatial reference', 'Spatial reference system', 'Location name', 'Recorder name', 'Certainty', 'Quantity', 'Occurrence comment', 'Sample comment'];
     const rows = [headers];
     irecordEligible().forEach(sig => {
@@ -2305,7 +2316,7 @@ Respond with the complete JSON object only, starting with { and ending with }`;
         sig.certainty,
         sig.count || '',
         sig.notes || '',
-        `Recorded via the Old Down Nature Spotter. ${sig.photo_count || 0} photo(s) sent by email.`
+        `Recorded via the ${cfg.name || 'Nature Spotter'}. ${sig.photo_count || 0} photo(s) sent by email.`
       ]);
     });
     // UTF-8 BOM so Excel opens accented characters correctly.
@@ -2317,7 +2328,7 @@ Respond with the complete JSON object only, starting with { and ending with }`;
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `old-down-sightings-${todaySightingISO()}.csv`;
+    a.download = `${(window.LOCATION_CONFIG || {}).id || 'nature'}-sightings-${todaySightingISO()}.csv`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);

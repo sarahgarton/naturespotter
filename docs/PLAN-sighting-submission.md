@@ -381,12 +381,15 @@ Report what you verified and anything you could not.
 
 # STATUS
 
-Parts 1–3 above are **built, verified and committed** (`f9a01db`). Everything below
-is **outstanding** — it was specified after the first build and not yet implemented.
+**All four parts are built and verified.** Parts 1–3 and the Part 4 code landed together
+in `f9a01db`; this STATUS section was written at the same time and wrongly described
+Part 4 as outstanding. Part 4 was re-verified against its acceptance criteria on
+12 Aug 2026 and the club/guide names were made config-driven so the same code serves
+both sites (see *Multi-site* below).
 
 ---
 
-# Part 4 — Photo use permissions (NOT YET BUILT)
+# Part 4 — Photo use permissions
 
 The email must ask permission for the photos to be used by Old Down and iRecord, both
 internally and externally (website, social media, grant applications).
@@ -463,4 +466,27 @@ every record is held back, disable the button rather than downloading an empty f
 5. A record with `perm_irecord` false is excluded from the CSV and counted in the note;
    all-excluded disables the button.
 6. `node --check js/app.js` passes; no console errors; Parts 1–3 still work.
+
+---
+
+# Multi-site
+
+The sighting flow ships on both the `old-down` and `sholing-valley` branches from the
+same `index.html` / `js/app.js` / `styles.css`. Everything site-specific comes from
+`LOCATION_CONFIG`, so the two branches must not diverge in the code:
+
+| Config key | Used for |
+|---|---|
+| `sightingEmail` | the `mailto:` recipient (falls back to `contactEmail`) |
+| `orgName` | *"Your record and photos come to **{orgName}**."* — the full phrase including any article, e.g. `"the Old Down Wildlife Group"` |
+| `shortName` | the two permission labels — *"**Old Down** can use my photos…"* |
+| `name` | *"Sent from the **{name}** guide."* and the CSV *Sample comment* |
+| `id` | the CSV filename, `{id}-sightings-YYYY-MM-DD.csv` |
+
+`.sg-perm-org` spans in `index.html` hold the `shortName` text; `applyConfig()` fills
+them and `#sg-perm-intro`. The static markup keeps the Old Down wording as its default,
+so a config missing these keys still reads sensibly.
+
+**When changing the sighting flow, make the change once and cherry-pick it to the other
+branch** — do not hand-edit the second branch, or the sites will drift.
 
