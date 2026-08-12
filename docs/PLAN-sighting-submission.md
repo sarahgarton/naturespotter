@@ -376,3 +376,91 @@ serve that, and re-copy after each edit.
 12. Browse, detail, filters, spotted-toggle and the existing suggestion form all still work.
 
 Report what you verified and anything you could not.
+
+---
+
+# STATUS
+
+Parts 1–3 above are **built, verified and committed** (`f9a01db`). Everything below
+is **outstanding** — it was specified after the first build and not yet implemented.
+
+---
+
+# Part 4 — Photo use permissions (NOT YET BUILT)
+
+The email must ask permission for the photos to be used by Old Down and iRecord, both
+internally and externally (website, social media, grant applications).
+
+New section in `#screen-sighting`, between **Photos** and **Anything else?**, headed
+**Can we use your photos?**
+
+Intro, in the muted `.field-hint` style:
+
+> Your record and photos come to the Old Down Wildlife Group. Ticking these is entirely
+> optional — your record is just as welcome either way.
+
+Three checkboxes, in order:
+
+| id | default | label | hint |
+|---|---|---|---|
+| `sg-perm-club` | unticked | Old Down can use my photos in its own work | Newsletters, talks, this species guide, record-keeping, and funding or grant applications. |
+| `sg-perm-public` | unticked | Old Down can publish my photos publicly | Website, social media and printed leaflets. |
+| `sg-perm-irecord` | **ticked** | This record can be sent to iRecord | iRecord is the national wildlife database. Records there are publicly visible and help conservation. Your photos are not sent to iRecord — only the sighting details. |
+
+Then a text input `sg-credit`:
+- Label: *How should we credit you?*
+- Prefilled from `sg-recorder` and kept in sync with it **until the user edits
+  `sg-credit` directly** — after that, stop overwriting it.
+- Hint: *Leave blank if you'd rather not be named.*
+
+Then a closing note in the same muted style:
+
+> Please don't send photos with recognisable people in them unless everyone in the
+> picture is happy for you to. You can change your mind about any of this at any time —
+> just email us.
+
+Rules:
+- Boxes 1 and 2 are genuinely optional and **must not gate the send button**.
+- `sg-own` ("I took these photos myself") is unchanged — a separate thing, still gating.
+- With **0 photos**: disable boxes 1 and 2 and the credit field, with a muted
+  *"No photos to give permission for."* Box 3 stays live — a record can go to iRecord
+  without a photo.
+
+### Knock-on changes
+
+**a) Record shape** gains `perm_club`, `perm_public`, `perm_irecord` (booleans) and
+`credit_as` (string).
+
+**b) Email/share text block** gains a section after Notes, so the permission is in
+writing in the club's inbox:
+
+```
+Photo permissions:
+  Club use (newsletter, talks, guide, grants):  Yes
+  Public use (website, social media, print):    No
+  Credit as:                                    Jane Smith
+  Send record to iRecord:                       Yes
+```
+
+With 0 photos the first three lines read `n/a — no photos sent`. With an empty
+`sg-credit`, *Credit as* reads `Anonymous`.
+
+**c) Admin sightings card** shows the permissions as small badges — granted in the
+`--fern`/`--mist` green style, withheld in muted grey. Include the credit name.
+
+**d) iRecord CSV must skip any record where `perm_irecord` is false.** Show the held-back
+count next to the download button — *"2 records held back (no iRecord permission)"*. If
+every record is held back, disable the button rather than downloading an empty file.
+
+### Acceptance criteria for Part 4
+
+1. The three boxes render with the right defaults, and 1 and 2 plus the credit field
+   disable at 0 photos and enable at 1+.
+2. The credit field tracks the name field, then stops once edited directly.
+3. The permission block appears in the mailto body with correct Yes/No values, and reads
+   `n/a — no photos sent` when there are none.
+4. An empty credit field renders as `Anonymous`.
+5. A record with `perm_irecord` false is excluded from the CSV and counted in the note;
+   all-excluded disables the button.
+6. `node --check js/app.js` passes; no console errors; Parts 1–3 still work.
+
