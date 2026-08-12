@@ -14,6 +14,7 @@ window.LOCATION_CONFIG = {
   showLocationFilter: false,
   logo: "assets/logo-old-down.png",
   footerText: "Old Down Nature Spotter · Made for the Old Down Home Ed Nature Club",
+  orgName: "the Old Down Wildlife Group",
   contactEmail: "old.down.wildlife@gmail.com",
   sightingEmail: "old.down.wildlife@gmail.com",
   metaTitle: "Old Down Nature Spotter",

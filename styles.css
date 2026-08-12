@@ -1829,6 +1829,14 @@ button { cursor: pointer; font-family: var(--font-body); }
 }
 .custom-checkbox.is-disabled:hover { border-color: var(--border); background: var(--mist); }
 
+/* A disabled credit field must look disabled — otherwise it reads as an
+   ordinary box that silently swallows what you type. */
+.field-input:disabled {
+  opacity: 0.45;
+  background: var(--mist);
+  cursor: not-allowed;
+}
+
 .sg-perm-nophotos { margin: 2px 0 0; font-style: italic; }
 
 .sg-perm-note {
