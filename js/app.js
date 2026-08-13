@@ -172,6 +172,13 @@
     if (footerContact && cfg.contactEmail) {
       footerContact.innerHTML = `<a href="mailto:${cfg.contactEmail}">${cfg.contactEmail}</a>`;
     }
+
+    // The About page's contact line is static Old Down markup; each site needs
+    // its own address there, not the one the guide happened to be built for.
+    const aboutContact = document.getElementById('about-contact');
+    if (aboutContact && cfg.contactEmail) {
+      aboutContact.innerHTML = `Email: <a href="mailto:${cfg.contactEmail}" class="about-email">${cfg.contactEmail}</a>`;
+    }
   }
 
   /* ============================================================
