@@ -10,7 +10,7 @@ window.LOCATION_CONFIG = {
   adminPassword: "sholingvalley",
   footerText: "Sholing Valley Nature Spotter · Miller's Pond & the Shoreburs Greenway, Southampton",
   orgName: "Sholing Valleys Study Centre",
-  contactEmail: "",
+  contactEmail: "sholingvalleyslnr@gmail.com",
   sightingEmail: "sholingvalleyslnr@gmail.com",
   metaTitle: "Sholing Valley Nature Spotter",
   metaDescription: "Identify wildlife at Miller's Pond and the Shoreburs Greenway, Sholing, Southampton — pond, wetland, meadow, scrub, acid grassland and woodland-edge habitats.",
